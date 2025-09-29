@@ -1,0 +1,106 @@
+# Clube da Esquina (1972)
+= Milton Nascimento & Lô Borges
+
+<img src="assets/covers/clube_da_esquina.jpg" width="400" height="400" alt="Clube da Esquina album cover, depicting two young boys sitting by the road" />
+= As iconic a cover art as they come
+
+Context and whatnot will go here.
+
+|These info boxes will contain information that is crucial to understanding the song, like cultural differences or something.|
+
+*These will be some assorted translation notes and whining about translation being hard...*
+
+.title = Tudo Que Você Podia Ser
+.en_title = Everything That You Could Ever Be
+.artist = Lô Borges, performed by Milton Nascimento
+
+[00:11] Through sun and rain, you dreamed                                                           // Com sol e chuva, você sonhava
+[00:21] That it would get better later                                                              // Que ia ser melhor depois
+[00:24] You wanted to be the great hero of the roads                                                // Você queria ser o grande herói das estradas
+[00:26] Everything that you wanted to be                                                            // Tudo que você queria ser
+[pause]
+[00:40] I know a secret: you're afraid                                                              // Sei um segredo: você tem medo
+[00:50] Now you wish you could go back                                                              // Só pensa agora em voltar
+[00:53] You don't speak of the boot and ring of {A leading figure in the Mexican Revolution=Zapata} // Não fala mais da bota e do anel de Zapata
+[00:56] Everything that you should be—without fear                                                  // Tudo que você devia ser—sem medo
+[pause]
+[01:14] You don't remember me anymore                                                               // Não se lembra mais de mim
+[01:16] You didn't want me speaking of everything                                                   // Você não quis deixar que eu falasse de tudo
+[01:19] Everything that you could ever be—on the road                                               // Tudo que você podia ser—na estrada
+[pause]
+[01:37] Ah! Sun and rain on your road                                                               // Ah! Sol e chuva na sua estrada
+[01:46] But it doesn't matter, there's no problem                                                   // Mas não importa, não faz mal
+[01:49] You still think and it's better than nothing                                                // Você ainda pensa e é melhor do que nada
+[01:52] Everything that you're able to be—or nothing                                                // Tudo que você consegue ser—ou nada
+[pause]
+[02:09] It doesn't matter, there's no problem                                                       // Mas não importa, não faz mal
+[02:11] You still think and it's better than nothing                                                // Você ainda pensa e é melhor do que nada
+[02:14] Everything that you're able to be—or nothing                                                // Tudo que você consegue ser—ou nada
+
+.title = Cais
+.en_title = Pier
+.artist = Milton Nascimento
+
+[00:01] To those that want let themselves go        // Para quem quer se soltar
+[00:03] I invent the pier                           // Invento o cais
+[00:09] I invent more than what loneliness gives me // Invento mais que a solidão me dá
+[00:17] I invent a shining new moon                 // Invento lua nova a clarear
+[00:24] I invent love                               // Invento o amor
+[00:27] And I know the pain of throwing myself      // E sei a dor de me lançar
+[pause]
+[00:39] I wanted to be happy                        // Eu queria ser feliz
+[00:45] I invent the sea                            // Invento o mar
+[00:48] I invent in me the dreamer                  // Invento em mim o sonhador
+[pause]
+[00:56] To those that want to follow me             // Para quem quer me seguir
+[01:07] I want more                                 // Eu quero mais
+[01:11] I have the path to what I've always wanted  // Tenho o caminho do que sempre quis
+[01:17] And a boat ready to set sail                // E um saveiro pronto pra partir
+[01:25] I invent the pier                           // Invento o cais
+[01:29] And know the time to throw myself           // E sei a vez de me lançar
+
+.title = O Trem Azul
+.en_title = The Blue Train
+.artist = Lô Borges
+
+[00:30] Things that we forget to say                       // Coisas que a gente se esquece de dizer
+[00:38] Phrases that the wind sometimes comes to remind me // Frases que o vento vem as vezes me lembrar
+[00:46] Things that went a long time unsaid                // Coisas que ficaram muito tempo por dizer
+[00:53] Tirelessly they fly in the song of the wind        // Na canção do vento não se cansam de voar
+[pause]
+[01:06] You catch the blue train, the sun on your head     // Você pega o trem azul, o sol na cabeça
+[01:14] The sun catches the blue train, you on its head    // Você pega o trem azul, o sol na cabeça
+[01:21] The sun on your head                               // O sol na cabeça
+[pause]
+[01:33] Things that we forget to say                       // Coisas que a gente se esquece de dizer
+[01:39] Phrases that the wind sometimes comes to remind me // Frases que o vento vem as vezes me lembrar
+[01:47] Things that went a long time unsaid                // Coisas que ficaram muito tempo por dizer
+[01:54] Tirelessly they fly in the song of the wind        // Na canção do vento não se cansam de voar
+[pause]
+[02:08] You catch the blue train, the sun on your head     // Você pega o trem azul, o sol na cabeça
+[02:15] The sun catches the blue train, you on its head    // Você pega o trem azul, o sol na cabeça
+[02:22] The sun on your head                               // O sol na cabeça
+[instrumental]
+[03:04] You catch the blue train, the sun on your head     // Você pega o trem azul, o sol na cabeça
+[03:11] The sun catches the blue train, you on its head    // Você pega o trem azul, o sol na cabeça
+[03:19] The sun on your head                               // O sol na cabeça
+[pause]
+[03:30] You catch the blue train, the sun on your head     // Você pega o trem azul, o sol na cabeça
+[03:37] The sun catches the blue train, you on its head    // Você pega o trem azul, o sol na cabeça
+[03:45] The sun on your head                               // O sol na cabeça
+
+.title = Saídas e Bandeiras nº 1
+.en_title = Exits and Flags nº 1
+.artist = Milton Nascimento
+
+*I had a tough time translating this, since it's some pretty abstract poetry. I hope it's still understandable.*
+
+[00:04] What would you say of this thing your feet can no longer reach? // O que vocês diriam dessa coisa que não dá mais pé?
+[00:09] What would you do to get out of this tide?                      // O que vocês fariam pra sair dessa maré?
+[00:12] What was a dream now turns into dirt                            // O que era sonho vira terra
+[00:17] Who will be the first to answer me?                             // Quem vai ser o primeiro a me responder?
+[pause]
+[00:23] Leave this city, have life where it is                          // Sair dessa cidade, ter a vida onde ela é
+[00:26] Climb new mountains, search for diamonds                        // Subir novas montanhas, diamantes procurar
+[00:30] At the end of the road and of the dust                          // No fim da estrada e da poeira
+[00:34] The river with its fruit will feed me                           // Um rio com seus frutos me alimentar

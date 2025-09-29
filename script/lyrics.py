@@ -1,0 +1,198 @@
+#!/usr/bin/python
+# lyrics
+# Transforms an input lyrics file into HTML
+#
+# Lyrics file format:
+# [MM:SS timestamp] contents of the lyrics {noteworthy explanation=noteworthy text} contents of the lyrics
+
+from argparse import ArgumentParser
+from pathlib import Path
+
+import re
+
+HEADER_LINE_REGEX: re.Pattern = re.compile(r"^(#+)(.*)$")
+SUB_LINE_REGEX: re.Pattern = re.compile(r"^=(.*)$")
+INFO_LINE_REGEX: re.Pattern = re.compile(r"^\|(.*)\|$")
+NOTE_LINE_REGEX: re.Pattern = re.compile(r"^\*(.*)\*$")
+META_LINE_REGEX: re.Pattern = re.compile(r"^\.(.*)=(.*)$")
+LYRIC_LINE_REGEX: re.Pattern = re.compile(r"^\[(\d\d:\d\d)\](.*)//(.*)$")
+
+
+def parse_header_line(line: re.Match) -> str:
+    size: str = line.group(1).strip()
+    header: str = line.group(2).strip()
+
+    tag: str = f"h{len(size)}"
+    return f"<{tag}>{header}</{tag}>"
+
+
+def parse_sub_line(line: re.Match) -> str:
+    subtitle: str = line.group(1).strip()
+    return f'<p class="subtitle"><i>{subtitle}</i></p>'
+
+
+def parse_info_line(line: re.Match) -> str:
+    info: str = line.group(1).strip()
+    return f"""\
+  <div class="info-box">
+    <p class="info">{info}</p>
+  </div>
+"""
+
+
+def parse_note_line(line: re.Match) -> str:
+    note: str = line.group(1).strip()
+    return f'<p class="note"><i>T/L Note: {note}</i></p>'
+
+
+def parse_meta_line(line: re.Match) -> str:
+    key, value = line.group(1).strip(), line.group(2).strip()
+    match key:
+        case "title":
+            return f'  <div class="meta">\n    <h2 class="meta-title">{value}</h2>\n'
+        case "en_title":
+            return f'    <p class="meta-en-title">({value})</p>\n'
+        case "artist":
+            return f'    <p class="meta-artist">{value}</p>\n  </div>\n'
+        case "info":
+            return f"""\
+  <div class="meta-info-box">
+    <p class="meta-info">{value}</p>
+  </div>
+"""
+
+    return f"parse error: {value}"
+
+
+def parse_lyric_line(line: re.Match) -> str:
+    timestamp: str = line.group(1)
+    lyric: str = line.group(2).strip()
+    og: str = line.group(3)
+
+    output: str = f"""\
+  <div class="lyric-box">
+    <div class="lyric">
+      <p class="lyric-time"><i>{timestamp}</i></p>
+      <p class="lyric-text">"""
+
+    inside_abbr: bool = False
+    for c in lyric:
+        if c == "{":
+            inside_abbr = True
+            output += '<abbr class="lyric-note" title="'
+        elif inside_abbr and c == "=":
+            output += '">'
+        elif inside_abbr and c == "}":
+            inside_abbr = False
+            output += "</abbr>"
+        else:
+            output += c
+
+    output += f"""</p>
+    </div>
+    <p class="lyric-og">{og}</p>
+  </div>
+"""
+
+    return output
+
+
+def parse_line(line: str) -> str:
+    # Break in the lyrics?
+    if line == "[pause]":
+        return "  <br />\n"
+
+    if line == "[instrumental]":
+        return """\
+  <br />
+  <div class="lyric-box">
+    <p class="lyric-og">(instrumental)</p>
+    <p class="lyric-faded">(instrumental)</p>
+  </div>
+  <br />
+"""
+
+    # HTML tag?
+    if line[0] == "<":
+        return line
+
+    # Header line? (# HEADER)
+    if header_line := HEADER_LINE_REGEX.search(line):
+        return parse_header_line(header_line)
+
+    # Subtitle line? (= SUBTITLE)
+    if sub_line := SUB_LINE_REGEX.search(line):
+        return parse_sub_line(sub_line)
+
+    # Info line? (|INFO|)
+    if info_line := INFO_LINE_REGEX.search(line):
+        return parse_info_line(info_line)
+
+    # Note line? (*NOTE*)
+    if note_line := NOTE_LINE_REGEX.search(line):
+        return parse_note_line(note_line)
+
+    # Meta line? (.KEY = VALUE)
+    if meta_line := META_LINE_REGEX.search(line):
+        return parse_meta_line(meta_line)
+
+    # Lyrics line? ([MM:SS] LYRIC)
+    if lyric_line := LYRIC_LINE_REGEX.search(line):
+        return parse_lyric_line(lyric_line)
+
+    # Default to a generic paragraph
+    return f'<p class="paragraph">{line}</p>'
+
+
+def generate_lyrics(filename: str, infile) -> None:
+    lyrics_in: Path = Path(filename)
+    lyrics_out: Path = lyrics_in.with_suffix(".html")
+    lyrics_out = lyrics_out.relative_to("lyrics/")
+
+    with open(lyrics_out, "w") as f:
+        f.write("""\
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Clube da Esquina</title>
+    <link href="css/style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <script src="js/script.js" defer></script>
+    <button id="theme-button">Dark</button>
+    <div id="wrapper">
+      <main id="main">
+""")
+        raw_mode: bool = False
+        for line in infile:
+            line = line.strip()
+            if not line:
+                continue
+
+            if line == "===":
+                raw_mode = not raw_mode
+            elif raw_mode:
+                f.write(line + "\n")
+            else:
+                result = parse_line(line)
+                f.write(result)
+
+        f.write("      </main>\n")
+        f.write("    </div>\n")
+        f.write("  </body>\n")
+        f.write("</html>")
+
+
+def main() -> None:
+    parser = ArgumentParser()
+    parser.add_argument("lyrics")
+
+    args = parser.parse_args()
+    with open(args.lyrics) as f:
+        generate_lyrics(args.lyrics, f)
+
+
+if __name__ == "__main__":
+    main()
