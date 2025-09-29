@@ -12,7 +12,7 @@ Context and whatnot will go here.
 
 .title = Tudo Que Você Podia Ser
 .en_title = Everything That You Could Ever Be
-.artist = Lô Borges, performed by Milton Nascimento
+.artist = Milton Nascimento & Lô Borges
 
 [00:11] Through sun and rain, you dreamed                                                           // Com sol e chuva, você sonhava
 [00:21] That it would get better later                                                              // Que ia ser melhor depois
@@ -91,16 +91,100 @@ Context and whatnot will go here.
 
 .title = Saídas e Bandeiras nº 1
 .en_title = Exits and Flags nº 1
-.artist = Milton Nascimento
+.artist = Milton Nascimento & Lô Borges
 
 *I had a tough time translating this, since it's some pretty abstract poetry. I hope it's still understandable.*
 
 [00:04] What would you say of this thing your feet can no longer reach? // O que vocês diriam dessa coisa que não dá mais pé?
-[00:09] What would you do to get out of this tide?                      // O que vocês fariam pra sair dessa maré?
-[00:12] What was a dream now turns into dirt                            // O que era sonho vira terra
+[00:09] What would you do to escape the tide?                           // O que vocês fariam pra sair dessa maré?
+[00:12] What was a dream now turns to dirt                              // O que era sonho vira terra
 [00:17] Who will be the first to answer me?                             // Quem vai ser o primeiro a me responder?
 [pause]
 [00:23] Leave this city, have life where it is                          // Sair dessa cidade, ter a vida onde ela é
 [00:26] Climb new mountains, search for diamonds                        // Subir novas montanhas, diamantes procurar
 [00:30] At the end of the road and of the dust                          // No fim da estrada e da poeira
 [00:34] The river with its fruit will feed me                           // Um rio com seus frutos me alimentar
+
+.title = Nuvem Cigana
+.en_title = Gypsy Cloud
+.artist = Milton Nascimento & Lô Borges
+
+*The more appropriate term is, of course, "Romani" or "Romani people." This is not the term used in the original song title, however, and I felt it would be disingenuous to translate it the other way.*
+
+[00:16] If you want, I'll dance with you                          // Se você quiser, eu danço com você
+[00:21] On the dust of the road                                   // No pó da estrada
+[00:24] Powder, dust, wind                                        // Pó, poeira, ventania
+[00:28] If you put your foot on the road                          // Se você soltar o pé na estrada
+[00:34] Powder, dust                                              // Pó, poeira
+[00:36] Whatever you dance, I'll dance with you                   // Eu danço com você o que você dançar
+[pause]
+[00:48] If you let the sun shine on your green hair               // Se você deixar o sol bater nos seus cabelos verdes
+[00:56] Sun, {Might also just be "serene," as in "serene sun." "Sereno" is a common way to refer to dew, however, So I went with that=dew}, gold and silver // Sol, sereno, ouro e prata
+[01:01] Come out and follow me                                    // Sai e vem comigo
+[01:04] Sun, seed, {Actually "madrugada;" the period between midnight and sunrise=midnight} // Sol, semente, madrugada
+[01:08] I live in any part of your heart                          // Eu vivo em qualquer parte do seu coração
+[pause]
+[01:21] If you let your heart beat without fear                   // Se você deixar o coração bater sem medo
+[01:29] If you let your heart beat without fear                   // Se você deixar o coração bater sem medo
+[01:36] If you let your heart beat without fear                   // Se você deixar o coração bater sem medo
+[pause]
+[01:45] If you want, I'll dance with you                          // Se você quiser, eu danço com você
+[01:51] My name is cloud                                          // Meu nome é nuvem
+[01:54] Powder, dust, movement                                    // Pó, poeira, movimento
+[01:57] My name is cloud                                          // O meu nome é nuvem
+[02:01] wind, windflower                                          // Ventania, flor de vento
+[02:04] Whatever you dance, I'll dance with you                   // Eu danço com você o que você dançar
+[pause]
+[02:17] If you let your heart beat without fear                   // Se você deixar o coração bater sem medo
+[02:25] If you let your heart beat without fear                   // Se você deixar o coração bater sem medo
+[02:33] If you let your heart beat without fear...                // Se você deixar o coração bater sem medo...
+
+.title = Cravo e Canela
+.en_title = Clove and Cinnamon
+.artist = Milton Nascimento & Lô Borges
+
+"Gabriela Cravo e Canela" (Gabriela Clove and Cinnamon) is a famous novel by Brazilian writer Jorge Amado. This song makes reference to the themes and imagery of the novel, as well as Jorge Amado's body of work in general and the culture of his home state of Bahia. You don't need to read the book to understand the song (though I still recommend it; it's a good novel!)
+
+*The note on the previous song still applies.*
+
+[00:31] Hey, {May refer to a brunette, a black-skinned woman, or both. Also a term of endearment=morena}, who seasoned it? // Ê, morena, quem temperou?
+[00:33] Gypsy, who seasoned it?        // Cigana, quem temperou?
+[00:35] The smell of clove             // O cheiro do cravo
+[00:37] Gypsy, who seasoned it?        // Cigana, quem temperou?
+[00:39] Morena, who seasoned it?       // Morena, quem temperou?
+[00:40] The color of cinnamon          // A cor de canela
+[pause]
+[00:43] The dark moon                  // A lua morena
+[00:44] The dance of the wind          // A dança do vento
+[00:45] The belly of the night         // O ventre da noite
+[00:46] The morning sun                // O sol da manhã
+[pause]
+[00:50] The gypsy rain                 // A chuva cigana
+[00:51] The dance of the rivers        // A dança dos rios
+[00:52] The {Byproduct of chocolate production. Jorge Amado has a whole novel set in a cocoa farm where he references it. Makes for a somewhat healthy sweetener!=cocoa honey} // O mel do cacau
+[00:53] The morning sun                // O sol da manhã
+[pause]
+[00:56] Hey, morena, who seasoned it?  // Ê, morena, quem temperou?
+[00:57] Gypsy, who seasoned it?        // Cigana, quem temperou?
+[00:58] The smell of clove             // O cheiro do cravo
+[01:01] Gypsy, who seasoned it?        // Cigana, quem temperou?
+[01:03] Morena, who seasoned it?       // Morena, quem temperou?
+[01:04] The color of cinnamon          // A cor de canela
+[pause]
+[01:26] The dark moon                  // A lua morena
+[01:27] The dance of the wind          // A dança do vento
+[01:28] The belly of the night         // O ventre da noite
+[01:29] The morning sun                // O sol da manhã
+[pause]
+[01:32] The gypsy rain                 // A chuva cigana
+[01:33] The dance of the rivers        // A dança dos rios
+[01:34] The cocoa honey                // O mel do cacau
+[01:35] The morning sun                // O sol da manhã
+[pause]
+[01:37] Hey, morena, who seasoned it?  // Ê, morena, quem temperou?
+[01:39] Gypsy, who seasoned it?        // Cigana, quem temperou?
+[01:41] The smell of clove             // O cheiro do cravo
+[01:44] Gypsy, who seasoned it?        // Cigana, quem temperou?
+[01:45] Morena, who seasoned it?       // Morena, quem temperou?
+[01:47] The color of cinnamon          // A cor de canela
+[repeat]

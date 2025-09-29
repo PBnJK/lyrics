@@ -18,21 +18,27 @@ META_LINE_REGEX: re.Pattern = re.compile(r"^\.(.*)=(.*)$")
 LYRIC_LINE_REGEX: re.Pattern = re.compile(r"^\[(\d\d:\d\d)\](.*)//(.*)$")
 
 
+def make_html_safe(line: str) -> str:
+    line = line.replace('"', "&quot;")
+    line = line.replace("'", "&#x27;")
+    return line
+
+
 def parse_header_line(line: re.Match) -> str:
     size: str = line.group(1).strip()
-    header: str = line.group(2).strip()
+    header: str = make_html_safe(line.group(2).strip())
 
     tag: str = f"h{len(size)}"
     return f"<{tag}>{header}</{tag}>"
 
 
 def parse_sub_line(line: re.Match) -> str:
-    subtitle: str = line.group(1).strip()
+    subtitle: str = make_html_safe(line.group(1).strip())
     return f'<p class="subtitle"><i>{subtitle}</i></p>'
 
 
 def parse_info_line(line: re.Match) -> str:
-    info: str = line.group(1).strip()
+    info: str = make_html_safe(line.group(1).strip())
     return f"""\
   <div class="info-box">
     <p class="info">{info}</p>
@@ -41,12 +47,13 @@ def parse_info_line(line: re.Match) -> str:
 
 
 def parse_note_line(line: re.Match) -> str:
-    note: str = line.group(1).strip()
+    note: str = make_html_safe(line.group(1).strip())
     return f'<p class="note"><i>T/L Note: {note}</i></p>'
 
 
 def parse_meta_line(line: re.Match) -> str:
-    key, value = line.group(1).strip(), line.group(2).strip()
+    key: str = line.group(1).strip()
+    value: str = make_html_safe(line.group(2).strip())
     match key:
         case "title":
             return f'  <div class="meta">\n    <h2 class="meta-title">{value}</h2>\n'
@@ -66,8 +73,8 @@ def parse_meta_line(line: re.Match) -> str:
 
 def parse_lyric_line(line: re.Match) -> str:
     timestamp: str = line.group(1)
-    lyric: str = line.group(2).strip()
-    og: str = line.group(3)
+    lyric: str = make_html_safe(line.group(2).strip())
+    og: str = make_html_safe(line.group(3))
 
     output: str = f"""\
   <div class="lyric-box">
@@ -110,6 +117,15 @@ def parse_line(line: str) -> str:
     <p class="lyric-faded">(instrumental)</p>
   </div>
   <br />
+"""
+    if line == "[repeat]":
+        return """\
+  <br />
+  <div class="lyric-box">
+    <p class="lyric-og">(repeats until end)</p>
+    <p class="lyric-faded">(repete até o final)</p>
+  </div>
+  <br /
 """
 
     # HTML tag?
