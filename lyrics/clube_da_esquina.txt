@@ -6,7 +6,7 @@
 
 Context and whatnot will go here.
 
-|These info boxes will contain information that is crucial to understanding the song, like cultural differences or something.|
+|These info boxes will contain information that I deem crucial to understanding the song, like cultural differences or something.|
 
 *These will be some assorted translation notes and whining about translation being hard...*
 
@@ -132,7 +132,7 @@ Context and whatnot will go here.
 [01:51] My name is cloud                                          // Meu nome é nuvem
 [01:54] Powder, dust, movement                                    // Pó, poeira, movimento
 [01:57] My name is cloud                                          // O meu nome é nuvem
-[02:01] wind, windflower                                          // Ventania, flor de vento
+[02:01] Wind, windflower                                          // Ventania, flor de vento
 [02:04] Whatever you dance, I'll dance with you                   // Eu danço com você o que você dançar
 [pause]
 [02:17] If you let your heart beat without fear                   // Se você deixar o coração bater sem medo
@@ -188,3 +188,438 @@ Context and whatnot will go here.
 [01:45] Morena, who seasoned it?       // Morena, quem temperou?
 [01:47] The color of cinnamon          // A cor de canela
 [repeat]
+
+.title = Dos Cruces
+.en_title = Two Crosses
+.artist = Carmelo Larrea
+
+*This is a cover of a bolero composed by Carmelo Larrea, and as such is sung in Spanish rather than Portuguese. Although both languages are somewhat similar, they're not similar enough for me to feel confident doing a full translation. As such, this is mostly based on some other translations I have found around the internet, which I've linked to at the bottom of the page.*
+
+[00:01] Sevilla had to be                // Sevilla tuvo que ser
+[00:11] With its little silver moon      // Con su lunita plateada
+[00:21] Witness to our love              // Testigo de nuestro amor
+[00:28] Under the silent night           // Bajo la noche callada
+[pause]
+[00:38] And you and I loved each other   // Y nos quisimos tú y yo
+[00:47] A love without sin               // Con un amor sin pecado
+[00:57] But destiny has wanted us        //  Pero el destino ha querido
+[01:03] To live apart                    // Que vivamos separados
+[pause]
+[01:15] Two crosses are nailed           // Están clavadas dos cruces
+[01:22] On the hill of oblivion          // En el monte del olvido
+[01:30] For two loves that have died     // Por dos amores que han muerto
+[01:38] Without understanding each other // Sin haberse comprendido
+[pause]
+[01:46] Two crosses are nailed           // Están clavadas dos cruces
+[01:55] On the hill of oblivion          // En el monte del olvido
+[02:02] For two loves that have died     // Por dos amores que han muerto
+[02:10] Mine and yours                   // Que son el tuyo y el mío
+[pause]
+[02:31] Oh, Santa Cruz neighbourhood     // Oh, barrio de Santa Cruz
+[02:39] Oh, Doña Elvira square           // Oh, puerto de Doña Elvira
+[02:46] I remember them again            // Os vuelvo yo a recordar
+[02:55] And it seems unreal to me        // Y me parece mentira
+[pause]
+[03:02] All that has passed              // Ya todo aquello pasó
+[03:11] All that has been forgotten      // Todo quedó en el olvido
+[03:19] Our promises of love             // Nuestras promesas de amores
+[03:24] Have vanished in the air         // En el aire se han perdido
+[pause]
+[03:35] Two crosses are nailed           // Están clavadas dos cruces
+[03:42] On the hill of oblivion          // En el monte del olvido
+[03:47] For two loves that have died     // Por dos amores que han muerto
+[03:53] Without understanding each other // Sin haberse comprendido
+[pause]
+[03:59] Two crosses are nailed           // Están clavadas dos cruces
+[04:07] On the hill of oblivion          // En el monte del olvido
+[04:11] For two loves that have died     // Por dos amores que han muerto
+[04:17] Mine and yours                   // Que son el tuyo y el mío
+[instrumental]
+
+.title = Um Girassol da Cor de Seu Cabelo
+.en_title = A Sunflower the Color of Your Hair
+.artist = Lô Borges
+
+[00:14] Solar wind and starfish                              // Vento solar e estrelas do mar
+[00:20] The Earth blue as the color of your dress            // A terra azul da cor do seu vestido
+[00:27] Solar wind and starfish                              // Vento solar e estrelas do mar
+[00:33] You still want to live with me                       // Você ainda quer morar comigo
+[pause]
+[00:41] And if I sing, don't cry                             // Se eu cantar, não chore não
+[00:45] It's just poetry                                     // É só poesia
+[00:48] I just need to have you                              // Eu só preciso ter você
+[00:52] For one more day                                     // Por mais um dia
+[00:55] I still like to dance                                // Ainda gosto de dançar
+[00:59] Good morning                                         // Bom dia
+[01:00] How are you?                                         // Como vai você?
+[pause]
+[01:08] Sun, sunflower, green, solar wind                    // Sol, girassol, verde, vento solar
+[01:12] You still want to live with me                       // Você ainda quer morar comigo
+[01:21] Solar wind and starfish                              // Vento solar e estrelas do mar
+[01:27] A sunflower the color of your hair                   // Um girassol da cor do seu cabelo
+[pause]
+[01:35] And if I die, don't cry                              // E seu morrer, não chore não
+[01:39] It's just the moon                                   // É só a lua
+[01:42] It's you dress the color of a naked wonder           // É seu vestido cor de maravilha nua
+[01:48] I still live on this same street                     // Ainda moro nesta mesma rua
+[01:54] How are you?                                         // Como vai você?
+[01:58] Are you coming?                                      // Você vem?
+[02:01] Or is it too late?                                   // Ou será que é tarde demais?
+[instrumental]
+[03:06] Does my thought have the color of your dress        // O meu pensamento tem a cor de seu vestido
+[03:12] Or a sunflower the color of your hair?              // Ou um girassol que tem a cor de seu cabelo?
+[03:18] Does my thought have the color of your dress        // O meu pensamento tem a cor de seu vestido
+[03:25] Or a sunflower the color of your hair?              // Ou um girassol que tem a cor de seu cabelo?
+[repeat]
+
+.title = San Vicente
+.en_title = San Vicente (Saint Vincent)
+.artist =  Fernando Brant, Milton Nascimento & Lô Borges
+
+São Vicente was the first village founded in Brazil in 1532. The first election on the whole American continent was run there, to elect the members of its Câmara (the councilmen, essentially,) thus being considered the "berth of America democracy."
+In stark contrast, its port also received one of the greatest influxes of slaves via the Transatlantic Slave Trade.
+
+[00:01] American heart                      // Coração americano
+[00:05] I woke up from a strange dream      // Acordei de um sonho estranho
+[00:11] A taste of glass and cut            // Um gosto de vidro e corte
+[00:15] A chocolate flavour                 // Um sabor de chocolate
+[00:20] On the body and on the city         // No corpo e na cidade
+[00:24] A flavour of life and death         // Um sabor de vida e morte
+[00:30] American heart                      // Coração americano
+[00:34] A flavour of glass and cut          // Um sabor de vidro e corte
+[pause]
+[00:49] The wait on a great queue           // A espera na fila imensa
+[00:53] And the black body forgot           // E o corpo negro se esqueceu
+[00:58] It was in San Vicente               // Estava em San Vicente
+[01:02] The city and its lights             // A cidade e suas luzes
+[01:08] It was in San Vicente               // Estava em San Vicente
+[01:12] The women and the men               // As mulheres e os homens
+[01:18] American heart                      // Coração americano
+[01:22] A flavour of glass and cut          // Um sabor de vidro e corte
+[pause]
+[01:37] The hours could not be counted      // As horas não se contavam
+[01:41] And what was black turned to night  // E o que era negro anoiteceu
+[01:47] While waiting                       // Enquanto se esperava
+[01:51] I was in San Vicente                // Eu estava em San Vicente
+[01:56] While it happened                   // Enquanto acontecia
+[02:00] I was in San Vicente                // Eu estava em San Vicente
+[02:06] American heart                      // Coração americano
+[02:10] A flavour of glass and cut          // Um sabor de vidro e corte
+
+.title = Estrelas
+.en_title = Stars
+.artist = Lô Borges
+
+A short interlude. I recommend running this one straight into the next song.
+
+[00:00] Dust on the night            // Poeira na noite
+[00:05] The celebration of night     // A festa da noite
+[00:09] Warrior, death star          // Guerreira, estrela da morte
+[00:16] Black party, love            // Festa negra, amor
+[00:20] But it's late                // Mas é tarde
+
+.title = Clube da Esquina nº 2
+.en_title = Corner Club nº 2
+.artist = Milton Nascimento & Lô Borges
+
+[instrumental]
+
+.title = Paisagem da Janela
+.en_title = Window Landscape
+.artist = Lô Borges
+
+[00:18] From the side window of the bedroom       // Da janela lateral do quarto de dormir
+[00:26] I see a church, a sign of glory           // Vejo uma igreja, um sinal de glória
+[00:31] I see a white wall and a bird in flight   // Vejo um muro branco e um vôo pássaro
+[00:36] I see a fence, an old sign                // Vejo uma grade, um velho sinal
+[pause]
+[00:42] Natural messenger of natural things       // Mensageiro natural de coisas naturais
+[00:51] When I spoke of these morbid colors       // Quando eu falava dessas cores mórbidas
+[00:55] When I spoke of these sordid men          // Quando eu falava desses homens sórdidos
+[01:00] When I spoke of this storm                // Quando eu falava desse temporal
+[01:05] You didn't want to hear                   // Você não escutou
+[pause]
+[01:08] You don't want to believe                 // Você não quer acreditar
+[01:14] But that's only natural                   // Mas isso é tão normal
+[01:17] You don't want to believe                 // Você não quer acreditar
+[01:23] And I was just an                         // E eu apenas era
+[pause]
+[01:25] Outcast knight, washed in a stream        // Cavaleiro marginal, lavado em ribeirão
+[01:34] Black knight that lived through mysteries // Cavaleiro negro que viveu mistérios
+[01:38] Knight and lord of the house and trees    // Cavaleiro e senhor de casa e árvores
+[01:43] With no need for rest or Sunday school    // Sem querer descanso nem dominical
+[pause]
+[01:50] Outcast knight, washed in a stream        // Cavaleiro marginal, banhado em ribeirão
+[01:59] I saw the towers and cemeteries           // Conheci as torres e os cemitérios
+[02:03] I met the men and their funerals          // Conheci os homens e os seus velórios
+[02:08] When I looked through the side window     // Quando olhava da janela lateral
+[02:13] Of the bedroom                            // Do quarto de dormir
+[pause]
+[02:16] You don't want to believe                 // Você não quer acreditar
+[02:22] But that's only natural                   // Mas isso tão normal
+[02:25] You don't want to believe                 // Você não quer acreditar
+[02:31] But that's only natural                   // Mas isso tão normal
+[02:33] An outcast knight, washed in a stream     // Um cavaleiro marginal, banhado em ribeirão
+[02:42] You don't want to believe                 // Você não quer acreditar
+
+.title = Me Deixa em Paz
+.en_title = Leave Me Alone
+.artist = Ayrton Amorim & Monsueto, performed by Milton Nascimento and featuring Alaíde Costa
+
+[00:17] If you didn't want me            // Se você não me queria
+[00:24] Then you shouldn't look for me   // Não devia me procurar
+[00:32] You shouldn't delude me          // Não devia me iludir
+[00:39] Or let me fall in love           // Nem deixar eu me apaixonar
+[pause]
+[00:48] If you didn't want me            // Se você não me queria
+[00:54] Then you shouldn't look for me   // Não devia me procurar
+[01:02] You shouldn't delude me          // Não devia me iludir
+[01:09] Or let me fall in love           // Nem deixar eu me apaixonar
+[pause]
+[01:18] Avoiding this pain is impossible // Evitar a dor é impossível
+[01:32] Avoiding this love, much more so // Evitar esse amor é muito mais
+[01:47] You ruined my life               // Você arruinou a minha vida
+[01:54] Leave me alone                   // Me deixa em paz
+[pause]
+[01:58] If you didn't want me            // Se você não me queria
+[02:02] Then you shouldn't look for me   // Não devia me procurar
+[02:10] You shouldn't delude me          // Não devia me iludir
+[02:18] Or let me fall in love           // Nem deixar eu me apaixonar
+[02:25] You shouldn't delude me          // Não devia me iludir
+[02:33] Or let me fall in love           // Nem deixar eu me apaixonar
+
+.title = Os Povos
+.en_title = The People
+.artist = Milton Nascimento
+
+[00:08] At the edge of the world                               // Na beira do mundo
+[00:13] Iron gate, dead village, a crowd                       // Portão de ferro, aldeia morta, multidão
+[00:27] My people, my people                                   // Meu povo, meu povo
+[00:32] Didn't want to know of new things ever again           // Não quis saber do que é novo, nunca mais
+[pause]
+[00:43] Eh! My city                                            // Ê! minha cidade
+[00:48] Dead village, gold ring, my love                       // Aldeia morta, anel de ouro, meu amor
+[01:00] At the edge of life                                    // Na beira da vida
+[01:05] We meet again, alone                                   // A gente torna a se encontrar só
+[pause]
+[01:16] Bright house                                           // Casa iluminada
+[01:20] Iron gate, padlock, heart                              // Portão de ferro, cadeado, coração
+[01:33] And I, {As in, he has reconquered himself=reconquered} // E eu reconquistado
+[01:37] Go on strolling, strolling and dying                   // Vou passeando, passeando e morrer
+[pause]
+[01:49] Close to your eyes                                     // Perto de seus olhos
+[01:53] Gold ring, birthday, my love                           // Anel de ouro, aniversário, meu amor
+[02:04] In my city                                             // Em minha cidade
+[02:08] We learn to live alone                                 // A gente aprende a viver só
+[pause]
+[02:20] Ah, a day, any warm day                                // Ah um dia, qualquer dia de calor
+[02:31] Is always another day to remember                      // É sempre mais um dia de lembrar
+[02:37] The chain of dreams that night snuffed out             // A cordilheira de sonhos que a noite apagou
+[pause]
+[02:48] Eh! My city                                            // Ê! minha cidade
+[02:52] Gold gate, dead village, solitude                      // Portão de ouro, aldeia morta, solidão
+[03:04] My people, my people                                   // Meu povo, meu povo
+[03:09] Dead village, padlock, heart                           // Aldeia morta, cadeado, coração
+[pause]
+[03:19] And I, reconquered                                     // E eu reconquistado
+[03:23] Go on walking, walking and dying                       // Vou caminhando, caminhando e morrer
+[03:34] In your arms                                           // Dentro de seus braços
+[03:38] We learn to die alone                                  // A gente aprende a morrer só
+[pause]
+[03:49] My people, my people                                   // Meu povo, meu povo
+[03:54] Around the city, living alone                          // Pela cidade a viver só
+
+.title = Saídas e Bandeiras nº 2
+.en_title = Exits and Flags nº 2
+.artist = Milton Nascimento
+
+[00:05] What would you say of this thing your feet can no longer reach?     // O que vocês diriam dessa coisa que não dá mais pé?
+[00:10] What would you do to escape the tide?                               // O que vocês fariam pra sair dessa maré?
+[00:13] What was stone turns into body                                      // O que era pedra vira corpo
+[00:17] Who will be the second to answer me?                                // Quem vai ser o segundo a me responder?
+[pause]
+[00:20] Walk down avenues, fight against what your feet can no longer reach // Andar por avenidas enfrentando o que não dá mais pé
+[00:27] Gather all my strength to win against the tide                      //  Juntar todas as forças pra vencer essa maré
+[00:30] What was stone turns into man                                       // O que era pedra vira homem
+[00:33] A man is more solid than the tide                                   // E o homem é mais sólido que a maré
+
+.title = Um Gosto de Sol
+.en_title = A Taste of the Sun
+.artist = Milton Nascimento
+
+[00:01] Someone that I saw in passing        // Alguém que vi de passagem
+[00:07] In a foreign city                    // Numa cidade estrangeira
+[00:18] Reminded me of the dreams that I had // Lembrou os sonhos que eu tinha
+[00:26] And forgot on the table              // E esqueci sobre a mesa
+[00:32] Like a pear forgets                  // Como uma pera se esquece
+[00:40] Sleeping in a fruit basket           // Dormindo numa fruteira
+[pause]
+[00:49] Like the river sleeps                // Como adormece o rio
+[00:56] Dreaming about the pear's flesh      // Sonhando na carne da pera
+[01:02] In the shade, the sun forgets        // O sol na sombra se esquece
+[01:12] Sleeping on a chair                  // Dormindo numa cadeira
+[pause]
+[01:20] Someone smiled in passing            // Algum sorriu de passagem
+[01:31] In a foreign city                    // Numa cidade estrangeira
+[01:39] Reminded me of the laughter I had    // Lembrou o riso que eu tinha
+[01:47] And forgot between my teeth          // E esqueci entre os dentes
+[01:55] Like a pear forgets                  // Como uma pera se esquece
+[02:02] Dreaming in a fruit basket           // Sonhando numa fruteira
+
+.title = Pelo Amor De Deus
+.en_title = For the Love of God
+.artist = Milton Nascimento & Lô Borges
+
+[00:01] Photos of an old party                           // Fotos de uma velha festa
+[00:04] Bones so ancient, facts so outdated              // Ossos tão antigos, fatos tão passados
+[00:09] And amid the photos, a gnawing rat               // No meio das fotos vai roendo um rato
+[00:18] Run, a rat, catch it! For the love of God!       // Corre um rato, pega, pelo amor de Deus
+[pause]
+[00:23] Yesterday I read in an almanac                   // Ontem li num almanaque
+[00:28] Of the adventures of pastors and lambs           // Aventuras de pastores e cordeiros
+[00:31] As I finished, I voice from the street           // Quando eu terminava, uma voz de rua
+[00:38] Said true things, for the love of God!           // Disse coisas certas, pelo amor de Deus
+[instrumental]
+[01:09] Refusing dessert                                 // Recusando a sobremesa
+[01:13] A gold plate and a glass of wine                 // Um prato de ouro e um copo de vinho
+[01:18] Like old Chaplin, I throw it on your face        // Como o velho Chaplin eu jogo na cara
+[01:22] So many poor things, for the love of God!        // Tantas coisas pobres, pelo amor de Deus
+[01:31] For the love of God!                             // Pelo amor de Deus
+[01:32] For the love of God!                             // Pelo amor de Deus
+[pause]
+[01:36] Bordering a window                               // Beira-mar de uma janela
+[01:40] {As in a camera pan=Panning} a nude partner      // Panoramizando nua companheira
+[01:45] Body to body, skin to skin                       // Corpo contra corpo, pele contra pele
+[01:51] And your body is beautiful, for the love of God! // E seu corpo é belo, pelo amor de Deus
+
+.title = Lilia
+.en_title = Lilia
+.artist = Milton Nascimento
+
+Lilia is Milton Nascimento's adoptive mother. This song is an ode of sorts to her, but is an instrumental, since, in his own words,
+
+[instrumental]
+
+.title = Trem de Doido
+.en_title = Crazy Train
+.artist = Lô Borges
+
+*No relation. Perhaps a better translation is "Crazy People Train"*
+
+|The title of this song refers to the train that used to ferry people to the Barbacena Colonial Hospital, a psychiatric institution that became infamous due to its inhuman treatment of its patients. This incident is referred to by many as the "Brazilian Holocaust," due to the obvious parallels with the trains, but also for the fact that many of the "patients" of the hospital did not suffer from any mental disorders, but were instead simply alcoholics, beggars, unwanted children, political enemies, homosexuals, etc. It was thankfully shut down in the 80s and now functions as a museum.|
+
+[00:20] Blue night, stone and ground                   // Noite azul, pedra e chão
+[00:24] Friends in a hotel                             // Amigos num hotel
+[00:26] Far beyond the sky                             // Muito além do céu
+[pause]
+[00:28] Nothing to fear, nothing to conquer            // Nada a temer, nada a conquistar
+[00:33] After this train starts going, going           // Depois que esse trem começa andar, andar
+[00:37] Leaving behind                                 // Deixando pelo chão
+[00:39] The dead rats on the square                    // Os ratos mortos na praça
+[00:46] On the market                                  // Do mercado
+[pause]
+[00:53] I want to be where they are                    // Quero estar onde estão
+[00:57] The dreams of this hotel                       // Os sonhos desse hotel
+[01:00] Far beyond the sky                             // Muito além do céu
+[pause]
+[01:02] Nothing to fear, nothing to arrange            // Nada a temer, nada a combinar
+[01:07] When it's time to find my place on the train   // Na hora de achar meu lugar no trem
+[01:11] And to not be afraid                           // E não sentir pavor
+[01:13] Of the rats loose on the square                // Dos ratos soltos na praça
+[01:19] My house                                       // Minha casa
+[pause]
+[01:28] You don't need to go too far beyond this road  // Não precisa ir muito além dessa estrada
+[01:40] The rats don't know how to die on the sidewalk // Os ratos não sabem morrer na calçada
+[pause]
+[01:47] It's time for you to find the train            // É hora de você achar o trem
+[01:51] And to not be afraid                           // E não sentir pavor
+[01:53] Of the rats loose at home                      // Dos ratos soltos na casa
+[02:00] Your home                                      // Sua casa
+[pause]
+
+.title = Nada Será Como Antes
+.en_title = Nothing Will Be as It Was
+.artist = Milton Nascimento & Lô Borges
+
+[00:03] I've already got my feet on the road                   // Eu já estou com o pé na estrada
+[00:06] Any of these days we'll be seeing each other           // Qualquer dia a gente se vê
+[00:10] I know nothing will be as it was, tomorrow             // Sei que nada será como antes, amanhã
+[pause]
+[00:18] What news do they give of my friends?                  // Que notícias me dão dos amigos?
+[00:21] What news do they give me of you?                      // Que notícias me dão de você?
+[00:25] Turmoil in my heart                                    // Alvoroço em meu coração
+[00:29] Tomorrow or the day after that                         // Amanhã ou depois de amanhã
+[00:32] Resisting on the mouth of the night a taste of the sun // Resistindo na boca da noite um gosto de sol
+[pause]
+[00:41] On any old Sunday, any time                            // Num domingo qualquer, qualquer hora
+[00:44] Wind blowing in any direction                          // Ventania em qualquer direção
+[00:48] I know nothing will be as it was, tomorrow             // Sei que nada será como antes, amanhã
+[pause]
+[00:55] What news do they give of my friends?                  // Que notícias me dão dos amigos?
+[00:59] What news do they give me of you?                      // Que notícias me dão de você?
+[01:03] I know nothing will be as it is                        // Sei que nada será como está
+[01:06] Tomorrow or the day after that                         // Amanhã ou depois de amanhã
+[01:10] Resisting on the mouth of the night a taste of the sun // Resistindo na boca da noite um gosto de sol
+[instrumental]
+[02:08] On any old Sunday, any time                            // Num domingo qualquer, qualquer hora
+[02:10] Wind blowing in any direction                          // Ventania em qualquer direção
+[02:15] I know nothing will be as it was, tomorrow             // Sei que nada será como antes, amanhã
+[pause]
+[02:23] What news do they give of my friends?                  // Que notícias me dão dos amigos?
+[02:26] What news do they give me of you?                      // Que notícias me dão de você?
+[02:30] I know nothing will be as it is                        // Sei que nada será como está
+[02:34] Tomorrow or the day after that                         // Amanhã ou depois de amanhã
+[02:37] Resisting on the mouth of the night a taste of the sun // Resistindo na boca da noite um gosto de sol
+
+.title = Ao Que Vai Nascer
+.en_title = To the One That Will Be Born
+.artist = Milton Nascimento
+
+*Same as the Exits and Flags, this is very abstract. This is my best effort.*
+
+[00:02] Memories of so much waiting                               // Memória de tanta espera
+[00:07] Your body, growing, jumps off the ground                  // Teu corpo crescendo, salta do chão
+[00:17] And I can already see my body lowering                    // E eu já vejo meu corpo descer
+[pause]
+[00:21] One day I'll meet you in the middle                       // Um dia te encontro no meio
+[00:26] Of the living room or of the street                       // Da sala ou da rua
+[00:29] I don't know what I'll tell you                           // Não sei o que vou contar
+[pause]
+[00:35] Answers will come with time                               // Respostas virão do tempo
+[00:43] A bright and serene face tells me                         // Um rosto claro e sereno me diz
+[00:53] And I walk with stones in my hand                         // E eu caminho com pedras na mão
+[pause]
+[00:58] On the fringe of the days, I forget what's old            // Na franja dos dias esqueço o que é velho
+[01:04] And what's limp, and it's like meeting you                // O que é manco, e é como te encontrar
+[01:10] I run to meet with you                                    // Corro a te encontrar
+[pause]
+[01:18] A mirror hurt my eye, and on the edge of the evening      // Um espelho feria meu olho e na beira da tarde
+[01:27] A lady sees me                                            // Uma moça me vê
+[01:29] She wanted to tell me of a land with beaches on the north // Queria falar de uma terra com praias no norte
+[01:36] And wines on the south                                    // E vinhos no sul
+[pause]
+[01:39] The beach was dirty, and the wine, red                    // A praia era suja e o vinho vermelho
+[01:44] Red, dried out                                            // Vermelho, secou
+[01:46] The party is over, I put away my voice and my guitar      // Acabou a festa, guardo a voz e o violão
+[01:51] Or I go out                                               // Ou saio por aí
+[01:57] Scraping colors for mold to appear                        // Raspando as cores que o mofo aparecer
+[pause]
+[02:03] My body answers for me                                    // Responde por mim o corpo
+[02:17] With wrinkles that pain one day pointed out               // De rugas que um dia a dor indicou
+[02:24] And I walk with stones in my hand                         // E eu caminho com pedras na mão
+[pause]
+[02:27] On the fringe of the days, I forget what's old            // Na franja dos dias esqueço o que é velho
+[02:35] And what's limp, and it's like meeting you                // O que é manco, e é como te encontrar
+[02:44] I run to meet with you                                    // Corro a te encontrar
+[02:55] I run to meet with you                                    // Corro a te encontrar
+[03:00] I run to meet with you                                    // Corro a te encontrar
+[03:07] I run to meet with you...                                 // Corro a te encontrar...
+
+---
+
+# Sources
+
+<ul>
+  <li>Song credits sourced from <a href="https://www.discogs.com/release/2422289-Milton-Nascimento-L%C3%B4-Borges-Clube-Da-Esquina">Discogs</a></li>
+  <li>Dos Cruces translation based on the work by <a href="https://www.lyricslayers.com/el-consorcio/1558603/english.html">LyricsLayers</a></li>
+</ul>

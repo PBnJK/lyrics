@@ -1,0 +1,55 @@
+#title {
+  margin-bottom: 32px;
+}
+
+#search {
+  width: 100%;
+  box-sizing: border-box;
+
+  height: 32px;
+
+  color: var(--text-primary);
+  background-color: var(--bg-secondary);
+
+  border: 0;
+  border-radius: 16px;
+
+  padding: 0 16px;
+  margin-bottom: 32px;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.clickable:hover td {
+  background-color: var(--bg-highlight);
+}
+
+table {
+  width: 100%;
+
+  border-collapse: collapse;
+  border: 1px solid var(--text-secondary);
+}
+
+thead {
+  background-color: var(--bg-secondary);
+}
+
+th,
+td {
+  text-overflow: ellipsis;
+
+  padding: 8px 12px;
+}
+
+#th-album,
+#th-artist,
+#th-genre {
+  width: 30%;
+}
+
+.td-year {
+  text-align: center;
+}

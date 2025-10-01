@@ -48,11 +48,18 @@ themeButton.addEventListener("click", () => {
   if (curTheme === "dark") {
     setCurrentTheme(LIGHT_THEME_TABLE);
     themeButton.innerText = "Light";
+    sessionStorage.setItem("theme", "light");
   } else {
     setCurrentTheme(DARK_THEME_TABLE);
     themeButton.innerText = "Dark";
+    sessionStorage.setItem("theme", "dark");
   }
 });
 
-setCurrentTheme(DARK_THEME_TABLE);
-themeButton.innerText = "Dark";
+if (sessionStorage.getItem("theme") === "dark") {
+  setCurrentTheme(DARK_THEME_TABLE);
+  themeButton.innerText = "Dark";
+} else {
+  setCurrentTheme(LIGHT_THEME_TABLE);
+  themeButton.innerText = "Light";
+}

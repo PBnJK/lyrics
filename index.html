@@ -3,12 +3,45 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title></title>
+    <title>Lyrics Translation</title>
+
+    <link href="css/index.css" rel="stylesheet" />
     <link href="css/style.css" rel="stylesheet" />
   </head>
+  <body>
+    <script id="db" type="application/json">
+      {
+        "clube_da_esquina": {
+          "album": "Clube da Esquina",
+          "artist": ["Milton Nascimento", "Lô Borges"],
+          "genre": ["MPB"],
+          "year": 1972
+        }
+      }
+    </script>
+    <script src="js/index.js" defer></script>
+    <script src="js/script.js" defer></script>
 
-  <script src="https://www.youtube.com/player_api"></script>
-  <script src="js/script.js"></script>
+    <button id="theme-button">Dark</button>
 
-  <body></body>
+    <div id="wrapper">
+      <main id="main">
+        <h1 id="title">
+          A Website With Lyrics That Are Translated from Portuguese
+        </h1>
+        <input type="text" id="search" name="search" placeholder="Search..." />
+        <table id="table">
+          <thead>
+            <tr>
+              <th id="th-album" scope="col">Album</th>
+              <th id="th-artist" scope="col">Artist(s)</th>
+              <th id="th-genre" scope="col">Genre(s)</th>
+              <th id="th-year" scope="col">Year</th>
+            </tr>
+          </thead>
+          <tbody id="tbody"></tbody>
+        </table>
+      </main>
+    </div>
+  </body>
 </html>

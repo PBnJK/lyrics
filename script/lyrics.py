@@ -56,7 +56,11 @@ def parse_meta_line(line: re.Match) -> str:
     value: str = make_html_safe(line.group(2).strip())
     match key:
         case "title":
-            return f'  <div class="meta">\n    <h2 class="meta-title">{value}</h2>\n'
+            return f"""\
+  <hr />
+  <div class="meta">
+    <h2 class="meta-title">{value}</h2>
+"""
         case "en_title":
             return f'    <p class="meta-en-title">({value})</p>\n'
         case "artist":
@@ -105,19 +109,19 @@ def parse_lyric_line(line: re.Match) -> str:
 
 
 def parse_line(line: str) -> str:
+    # Line break?
+    if line == "---":
+        return "  <hr />\n"
+
     # Break in the lyrics?
     if line == "[pause]":
         return "  <br />\n"
 
+    # Instrumental?
     if line == "[instrumental]":
-        return """\
-  <br />
-  <div class="lyric-box">
-    <p class="lyric-og">(instrumental)</p>
-    <p class="lyric-faded">(instrumental)</p>
-  </div>
-  <br />
-"""
+        return '<p class="instrumental">(instrumental)</p>'
+
+    # Previous section repeats?
     if line == "[repeat]":
         return """\
   <br />
@@ -125,7 +129,7 @@ def parse_line(line: str) -> str:
     <p class="lyric-og">(repeats until end)</p>
     <p class="lyric-faded">(repete até o final)</p>
   </div>
-  <br /
+  <br />
 """
 
     # HTML tag?
@@ -160,9 +164,8 @@ def parse_line(line: str) -> str:
     return f'<p class="paragraph">{line}</p>'
 
 
-def generate_lyrics(filename: str, infile) -> None:
-    lyrics_in: Path = Path(filename)
-    lyrics_out: Path = lyrics_in.with_suffix(".html")
+def generate_lyrics(filename: Path, infile) -> None:
+    lyrics_out: Path = filename.with_suffix(".html")
     lyrics_out = lyrics_out.relative_to("lyrics/")
 
     with open(lyrics_out, "w") as f:
@@ -202,12 +205,10 @@ def generate_lyrics(filename: str, infile) -> None:
 
 
 def main() -> None:
-    parser = ArgumentParser()
-    parser.add_argument("lyrics")
-
-    args = parser.parse_args()
-    with open(args.lyrics) as f:
-        generate_lyrics(args.lyrics, f)
+    lyrics_folder: Path = Path("lyrics")
+    for file in lyrics_folder.glob("*.txt"):
+        with open(file) as f:
+            generate_lyrics(file, f)
 
 
 if __name__ == "__main__":

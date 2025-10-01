@@ -20,6 +20,11 @@ p {
   color: var(--text-primary);
 }
 
+hr {
+  border-color: var(--text-disabled);
+  margin: 32px 0;
+}
+
 #wrapper {
   display: flex;
   justify-content: center;
@@ -81,6 +86,8 @@ main {
   border: 2px solid var(--info-border);
 
   padding: 0 8px;
+
+  margin-bottom: 16px;
 }
 
 .info {
@@ -141,4 +148,12 @@ main {
 .lyric-note {
   cursor: pointer;
   background-color: var(--bg-secondary);
+}
+
+.instrumental {
+  color: var(--text-secondary);
+  width: 100%;
+  text-align: center;
+
+  margin: 8px 0;
 }
