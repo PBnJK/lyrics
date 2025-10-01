@@ -276,8 +276,9 @@ Context and whatnot will go here.
 .en_title = San Vicente (Saint Vincent)
 .artist =  Fernando Brant, Milton Nascimento & Lô Borges
 
-São Vicente was the first village founded in Brazil in 1532. The first election on the whole American continent was run there, to elect the members of its Câmara (the councilmen, essentially,) thus being considered the "berth of America democracy."
-In stark contrast, its port also received one of the greatest influxes of slaves via the Transatlantic Slave Trade.
+São Vicente was the first village founded in Brazil in 1532. The first election on the whole American continent was run there, to elect the members of its Câmara (the councilmen, essentially,) thus being considered the "berth of American democracy."
+
+Its port also received one of the greatest influxes of slaves via the Transatlantic Slave Trade.
 
 [00:01] American heart                      // Coração americano
 [00:05] I woke up from a strange dream      // Acordei de um sonho estranho
@@ -364,7 +365,7 @@ A short interlude. I recommend running this one straight into the next song.
 
 .title = Me Deixa em Paz
 .en_title = Leave Me Alone
-.artist = Ayrton Amorim & Monsueto, performed by Milton Nascimento and featuring Alaíde Costa
+.artist = Ayrton Amorim & Monsueto, featuring Alaíde Costa
 
 [00:17] If you didn't want me            // Se você não me queria
 [00:24] Then you shouldn't look for me   // Não devia me procurar
@@ -438,7 +439,7 @@ A short interlude. I recommend running this one straight into the next song.
 [00:13] What was stone turns into body                                      // O que era pedra vira corpo
 [00:17] Who will be the second to answer me?                                // Quem vai ser o segundo a me responder?
 [pause]
-[00:20] Walk down avenues, fight against what your feet can no longer reach // Andar por avenidas enfrentando o que não dá mais pé
+[00:20] Walk down avenues fighting what my feet can no longer reach         // Andar por avenidas enfrentando o que não dá mais pé
 [00:27] Gather all my strength to win against the tide                      //  Juntar todas as forças pra vencer essa maré
 [00:30] What was stone turns into man                                       // O que era pedra vira homem
 [00:33] A man is more solid than the tide                                   // E o homem é mais sólido que a maré

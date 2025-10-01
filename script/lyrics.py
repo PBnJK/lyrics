@@ -5,7 +5,6 @@
 # Lyrics file format:
 # [MM:SS timestamp] contents of the lyrics {noteworthy explanation=noteworthy text} contents of the lyrics
 
-from argparse import ArgumentParser
 from pathlib import Path
 
 import re
