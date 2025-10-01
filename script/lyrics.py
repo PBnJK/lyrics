@@ -81,9 +81,8 @@ def parse_lyric_line(line: re.Match) -> str:
 
     output: str = f"""\
   <div class="lyric-box">
-    <div class="lyric">
-      <p class="lyric-time"><i>{timestamp}</i></p>
-      <p class="lyric-text">"""
+    <p class="lyric-time"><i>{timestamp}</i></p>
+    <p class="lyric-text">"""
 
     inside_abbr: bool = False
     for c in lyric:
@@ -99,7 +98,6 @@ def parse_lyric_line(line: re.Match) -> str:
             output += c
 
     output += f"""</p>
-    </div>
     <p class="lyric-og">{og}</p>
   </div>
 """
@@ -125,8 +123,8 @@ def parse_line(line: str) -> str:
         return """\
   <br />
   <div class="lyric-box">
-    <p class="lyric-og">(repeats until end)</p>
-    <p class="lyric-faded">(repete até o final)</p>
+    <p class="lyric-text lyric-command-left">(repeats until end)</p>
+    <p class="lyric-og lyric-command-right">(repete até o final)</p>
   </div>
   <br />
 """

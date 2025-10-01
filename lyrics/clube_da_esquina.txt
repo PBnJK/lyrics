@@ -41,7 +41,7 @@ Context and whatnot will go here.
 .en_title = Pier
 .artist = Milton Nascimento
 
-[00:01] To those that want let themselves go        // Para quem quer se soltar
+[00:01] To those that want to let go                // Para quem quer se soltar
 [00:03] I invent the pier                           // Invento o cais
 [00:09] I invent more than what loneliness gives me // Invento mais que a solidão me dá
 [00:17] I invent a shining new moon                 // Invento lua nova a clarear
@@ -69,7 +69,7 @@ Context and whatnot will go here.
 [00:53] Tirelessly they fly in the song of the wind        // Na canção do vento não se cansam de voar
 [pause]
 [01:06] You catch the blue train, the sun on your head     // Você pega o trem azul, o sol na cabeça
-[01:14] The sun catches the blue train, you on its head    // Você pega o trem azul, o sol na cabeça
+[01:14] The sun catches the blue train, you on its head    // O sol pega o trem azul, você na cabeça
 [01:21] The sun on your head                               // O sol na cabeça
 [pause]
 [01:33] Things that we forget to say                       // Coisas que a gente se esquece de dizer
@@ -78,22 +78,22 @@ Context and whatnot will go here.
 [01:54] Tirelessly they fly in the song of the wind        // Na canção do vento não se cansam de voar
 [pause]
 [02:08] You catch the blue train, the sun on your head     // Você pega o trem azul, o sol na cabeça
-[02:15] The sun catches the blue train, you on its head    // Você pega o trem azul, o sol na cabeça
+[02:15] The sun catches the blue train, you on its head    // O sol pega o trem azul, você na cabeça
 [02:22] The sun on your head                               // O sol na cabeça
 [instrumental]
 [03:04] You catch the blue train, the sun on your head     // Você pega o trem azul, o sol na cabeça
-[03:11] The sun catches the blue train, you on its head    // Você pega o trem azul, o sol na cabeça
+[03:11] The sun catches the blue train, you on its head    // O sol pega o trem azul, você na cabeça
 [03:19] The sun on your head                               // O sol na cabeça
 [pause]
 [03:30] You catch the blue train, the sun on your head     // Você pega o trem azul, o sol na cabeça
-[03:37] The sun catches the blue train, you on its head    // Você pega o trem azul, o sol na cabeça
+[03:37] The sun catches the blue train, you on its head    // O sol pega o trem azul, você na cabeça
 [03:45] The sun on your head                               // O sol na cabeça
 
 .title = Saídas e Bandeiras nº 1
 .en_title = Exits and Flags nº 1
 .artist = Milton Nascimento & Lô Borges
 
-*I had a tough time translating this, since it's some pretty abstract poetry. I hope it's still understandable.*
+*Some pretty abstract poetry. I hope it's still understandable.*
 
 [00:04] What would you say of this thing your feet can no longer reach? // O que vocês diriam dessa coisa que não dá mais pé?
 [00:09] What would you do to escape the tide?                           // O que vocês fariam pra sair dessa maré?
@@ -108,8 +108,6 @@ Context and whatnot will go here.
 .title = Nuvem Cigana
 .en_title = Gypsy Cloud
 .artist = Milton Nascimento & Lô Borges
-
-*The more appropriate term is, of course, "Romani" or "Romani people." This is not the term used in the original song title, however, and I felt it would be disingenuous to translate it the other way.*
 
 [00:16] If you want, I'll dance with you                          // Se você quiser, eu danço com você
 [00:21] On the dust of the road                                   // No pó da estrada
@@ -145,8 +143,6 @@ Context and whatnot will go here.
 
 "Gabriela Cravo e Canela" (Gabriela Clove and Cinnamon) is a famous novel by Brazilian writer Jorge Amado. This song makes reference to the themes and imagery of the novel, as well as Jorge Amado's body of work in general and the culture of his home state of Bahia. You don't need to read the book to understand the song (though I still recommend it; it's a good novel!)
 
-*The note on the previous song still applies.*
-
 [00:31] Hey, {May refer to a brunette, a black-skinned woman, or both. Also a term of endearment=morena}, who seasoned it? // Ê, morena, quem temperou?
 [00:33] Gypsy, who seasoned it?        // Cigana, quem temperou?
 [00:35] The smell of clove             // O cheiro do cravo
@@ -154,7 +150,7 @@ Context and whatnot will go here.
 [00:39] Morena, who seasoned it?       // Morena, quem temperou?
 [00:40] The color of cinnamon          // A cor de canela
 [pause]
-[00:43] The dark moon                  // A lua morena
+[00:43] The morena moon                // A lua morena
 [00:44] The dance of the wind          // A dança do vento
 [00:45] The belly of the night         // O ventre da noite
 [00:46] The morning sun                // O sol da manhã
@@ -171,7 +167,7 @@ Context and whatnot will go here.
 [01:03] Morena, who seasoned it?       // Morena, quem temperou?
 [01:04] The color of cinnamon          // A cor de canela
 [pause]
-[01:26] The dark moon                  // A lua morena
+[01:26] The morena moon                // A lua morena
 [01:27] The dance of the wind          // A dança do vento
 [01:28] The belly of the night         // O ventre da noite
 [01:29] The morning sun                // O sol da manhã
@@ -193,7 +189,7 @@ Context and whatnot will go here.
 .en_title = Two Crosses
 .artist = Carmelo Larrea
 
-*This is a cover of a bolero composed by Carmelo Larrea, and as such is sung in Spanish rather than Portuguese. Although both languages are somewhat similar, they're not similar enough for me to feel confident doing a full translation. As such, this is mostly based on some other translations I have found around the internet, which I've linked to at the bottom of the page.*
+*This is a cover of a bolero composed by Carmelo Larrea, and so is sung in Spanish rather than Portuguese. Although both languages are somewhat similar, they're not similar enough for me to feel confident doing a full translation. As such, this is mostly based on some other translations I have found around the internet, which I've linked to at the bottom of the page.*
 
 [00:01] Sevilla had to be                // Sevilla tuvo que ser
 [00:11] With its little silver moon      // Con su lunita plateada
@@ -234,7 +230,6 @@ Context and whatnot will go here.
 [04:07] On the hill of oblivion          // En el monte del olvido
 [04:11] For two loves that have died     // Por dos amores que han muerto
 [04:17] Mine and yours                   // Que son el tuyo y el mío
-[instrumental]
 
 .title = Um Girassol da Cor de Seu Cabelo
 .en_title = A Sunflower the Color of Your Hair
@@ -273,10 +268,9 @@ Context and whatnot will go here.
 [repeat]
 
 .title = San Vicente
-.en_title = San Vicente (Saint Vincent)
-.artist =  Fernando Brant, Milton Nascimento & Lô Borges
+.artist = Fernando Brant, Milton Nascimento & Lô Borges
 
-São Vicente was the first village founded in Brazil in 1532. The first election on the whole American continent was run there, to elect the members of its Câmara (the councilmen, essentially,) thus being considered the "berth of American democracy."
+São Vicente was the first village founded in Brazil, and also where the first election on the entire American continent was run. For this reason, it is considered by some the "berth of American democracy."
 
 Its port also received one of the greatest influxes of slaves via the Transatlantic Slave Trade.
 
@@ -348,7 +342,7 @@ A short interlude. I recommend running this one straight into the next song.
 [01:25] Outcast knight, washed in a stream        // Cavaleiro marginal, lavado em ribeirão
 [01:34] Black knight that lived through mysteries // Cavaleiro negro que viveu mistérios
 [01:38] Knight and lord of the house and trees    // Cavaleiro e senhor de casa e árvores
-[01:43] With no need for rest or Sunday school    // Sem querer descanso nem dominical
+[01:43] Not wanting any rest or Sunday school     // Sem querer descanso nem dominical
 [pause]
 [01:50] Outcast knight, washed in a stream        // Cavaleiro marginal, banhado em ribeirão
 [01:59] I saw the towers and cemeteries           // Conheci as torres e os cemitérios
@@ -477,7 +471,7 @@ A short interlude. I recommend running this one straight into the next song.
 [00:18] Run, a rat, catch it! For the love of God!       // Corre um rato, pega, pelo amor de Deus
 [pause]
 [00:23] Yesterday I read in an almanac                   // Ontem li num almanaque
-[00:28] Of the adventures of pastors and lambs           // Aventuras de pastores e cordeiros
+[00:28] The adventures of pastors and lambs              // Aventuras de pastores e cordeiros
 [00:31] As I finished, I voice from the street           // Quando eu terminava, uma voz de rua
 [00:38] Said true things, for the love of God!           // Disse coisas certas, pelo amor de Deus
 [instrumental]
@@ -497,7 +491,7 @@ A short interlude. I recommend running this one straight into the next song.
 .en_title = Lilia
 .artist = Milton Nascimento
 
-Lilia is Milton Nascimento's adoptive mother. This song is an ode of sorts to her, but is an instrumental, since, in his own words,
+Lilia is Milton Nascimento's adoptive mother.
 
 [instrumental]
 
@@ -527,7 +521,7 @@ Lilia is Milton Nascimento's adoptive mother. This song is an ode of sorts to he
 [01:07] When it's time to find my place on the train   // Na hora de achar meu lugar no trem
 [01:11] And to not be afraid                           // E não sentir pavor
 [01:13] Of the rats loose on the square                // Dos ratos soltos na praça
-[01:19] My house                                       // Minha casa
+[01:19] My home                                        // Minha casa
 [pause]
 [01:28] You don't need to go too far beyond this road  // Não precisa ir muito além dessa estrada
 [01:40] The rats don't know how to die on the sidewalk // Os ratos não sabem morrer na calçada
@@ -536,6 +530,24 @@ Lilia is Milton Nascimento's adoptive mother. This song is an ode of sorts to he
 [01:51] And to not be afraid                           // E não sentir pavor
 [01:53] Of the rats loose at home                      // Dos ratos soltos na casa
 [02:00] Your home                                      // Sua casa
+[pause]
+[02:53] I want to be where they are                    // Quero estar onde estão
+[02:57] The dreams of this hotel                       // Os sonhos desse hotel
+[02:00] Far beyond the sky                             // Muito além do céu
+[pause]
+[02:07] Nothing to fear, nothing to arrange            // Nada a temer, nada a combinar
+[02:15] When it's time to find my place on the train   // Na hora de achar meu lugar no trem
+[02:21] And to not be afraid                           // E não sentir pavor
+[02:27] Of the rats loose at home                      // Dos ratos soltos na casa
+[02:35] My home                                        // Minha casa
+[pause]
+[02:42] You don't need to go too far beyond this road  // Não precisa ir muito além dessa estrada
+[02:50] The rats don't know how to die on the sidewalk // Os ratos não sabem morrer na calçada
+[pause]
+[03:01] Ah, it's time for you to find the train        // Ah, É hora de você achar o trem
+[03:06] And to not be afraid                           // E não sentir pavor
+[03:08] Of the rats loose at home                      // Dos ratos soltos na casa
+[03:16] Your home                                      // Sua casa
 [pause]
 
 .title = Nada Será Como Antes

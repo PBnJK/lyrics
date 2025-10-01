@@ -69,6 +69,9 @@ main {
 
   margin-top: 32px;
   margin-bottom: 16px;
+
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .meta-title {
@@ -104,9 +107,9 @@ main {
 }
 
 .lyric-box {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 1fr 8fr 8fr;
+  grid-gap: 12px;
 }
 
 .lyric-box:hover {
@@ -118,26 +121,57 @@ main {
   color: var(--text-primary);
 }
 
-.lyric {
-  display: flex;
-  flex-direction: row;
-  gap: 16px;
-}
-
 .lyric-time {
   color: var(--text-disabled);
+
   margin: 0;
+  grid-column: 1;
 }
 
 .lyric-text {
   margin: 0;
+  grid-column: 2;
 }
 
 .lyric-og {
   color: var(--text-secondary);
-  text-align: justify;
+  text-align: right;
   text-align-last: right;
+
   margin: 0;
+  grid-column: 3;
+}
+
+.lyric-command-left {
+  color: var(--text-secondary);
+}
+
+.lyric-command-right {
+  color: var(--text-disabled);
+}
+
+@media screen and (width < 600px) {
+  .lyric-box {
+    display: grid;
+    grid-template-columns: 10% 90%;
+    grid-gap: 0 12px;
+  }
+
+  .lyric-time {
+    grid-row: 1 / 3;
+  }
+
+  .lyric {
+    grid-row: 1;
+  }
+
+  .lyric-og {
+    text-align: left;
+    text-align-last: left;
+
+    grid-row: 2;
+    grid-column: 2;
+  }
 }
 
 .lyric-faded {
@@ -156,4 +190,32 @@ main {
   text-align: center;
 
   margin: 8px 0;
+}
+
+/* https://stackoverflow.com/a/69353021 */
+@media (hover: none) {
+  abbr[title] {
+    position: relative;
+    text-decoration: underline dotted;
+  }
+
+  abbr[title]:hover::after,
+  abbr[title]:focus::after {
+    content: attr(title);
+
+    /* position tooltip like the native one */
+    position: absolute;
+    left: 0;
+    bottom: -30px;
+    width: auto;
+    white-space: nowrap;
+
+    /* style tooltip */
+    background-color: #1e1e1e;
+    color: #fff;
+    border-radius: 3px;
+    box-shadow: 1px 1px 5px 0 rgba(0, 0, 0, 0.4);
+    font-size: 14px;
+    padding: 3px 5px;
+  }
 }
