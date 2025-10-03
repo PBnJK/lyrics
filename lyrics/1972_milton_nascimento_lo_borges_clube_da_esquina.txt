@@ -1,7 +1,12 @@
+.album_name = Clube da Esquina
+.album_artist = Milton Nascimento, Lô Borges
+.album_genre = MPB
+.album_year = 1972
+
 # Clube da Esquina (1972)
 = Milton Nascimento & Lô Borges
 
-<img src="assets/covers/clube_da_esquina.jpg" width="400" height="400" alt="Clube da Esquina album cover, depicting two young boys sitting by the road" />
+<img src="assets/covers/clube_da_esquina.jpg" width="400" alt="Clube da Esquina album cover, depicting two young boys sitting by the road" />
 = As iconic a cover art as they come
 
 Context and whatnot will go here.
@@ -13,6 +18,7 @@ Context and whatnot will go here.
 .title = Tudo Que Você Podia Ser
 .en_title = Everything That You Could Ever Be
 .artist = Milton Nascimento & Lô Borges
+.end
 
 [00:11] Through sun and rain, you dreamed                                                           // Com sol e chuva, você sonhava
 [00:21] That it would get better later                                                              // Que ia ser melhor depois
@@ -40,6 +46,7 @@ Context and whatnot will go here.
 .title = Cais
 .en_title = Pier
 .artist = Milton Nascimento
+.end
 
 [00:01] To those that want to let go                // Para quem quer se soltar
 [00:03] I invent the pier                           // Invento o cais
@@ -62,6 +69,7 @@ Context and whatnot will go here.
 .title = O Trem Azul
 .en_title = The Blue Train
 .artist = Lô Borges
+.end
 
 [00:30] Things that we forget to say                       // Coisas que a gente se esquece de dizer
 [00:38] Phrases that the wind sometimes comes to remind me // Frases que o vento vem as vezes me lembrar
@@ -92,6 +100,7 @@ Context and whatnot will go here.
 .title = Saídas e Bandeiras nº 1
 .en_title = Exits and Flags nº 1
 .artist = Milton Nascimento & Lô Borges
+.end
 
 *Some pretty abstract poetry. I hope it's still understandable.*
 
@@ -108,6 +117,7 @@ Context and whatnot will go here.
 .title = Nuvem Cigana
 .en_title = Gypsy Cloud
 .artist = Milton Nascimento & Lô Borges
+.end
 
 [00:16] If you want, I'll dance with you                          // Se você quiser, eu danço com você
 [00:21] On the dust of the road                                   // No pó da estrada
@@ -140,6 +150,7 @@ Context and whatnot will go here.
 .title = Cravo e Canela
 .en_title = Clove and Cinnamon
 .artist = Milton Nascimento & Lô Borges
+.end
 
 "Gabriela Cravo e Canela" (Gabriela Clove and Cinnamon) is a famous novel by Brazilian writer Jorge Amado. This song makes reference to the themes and imagery of the novel, as well as Jorge Amado's body of work in general and the culture of his home state of Bahia. You don't need to read the book to understand the song (though I still recommend it; it's a good novel!)
 
@@ -188,6 +199,7 @@ Context and whatnot will go here.
 .title = Dos Cruces
 .en_title = Two Crosses
 .artist = Carmelo Larrea
+.end
 
 *This is a cover of a bolero composed by Carmelo Larrea, and so is sung in Spanish rather than Portuguese. Although both languages are somewhat similar, they're not similar enough for me to feel confident doing a full translation. As such, this is mostly based on some other translations I have found around the internet, which I've linked to at the bottom of the page.*
 
@@ -234,6 +246,7 @@ Context and whatnot will go here.
 .title = Um Girassol da Cor de Seu Cabelo
 .en_title = A Sunflower the Color of Your Hair
 .artist = Lô Borges
+.end
 
 [00:14] Solar wind and starfish                              // Vento solar e estrelas do mar
 [00:20] The Earth blue as the color of your dress            // A terra azul da cor do seu vestido
@@ -269,6 +282,7 @@ Context and whatnot will go here.
 
 .title = San Vicente
 .artist = Fernando Brant, Milton Nascimento & Lô Borges
+.end
 
 São Vicente was the first village founded in Brazil, and also where the first election on the entire American continent was run. For this reason, it is considered by some the "berth of American democracy."
 
@@ -304,6 +318,7 @@ Its port also received one of the greatest influxes of slaves via the Transatlan
 .title = Estrelas
 .en_title = Stars
 .artist = Lô Borges
+.end
 
 A short interlude. I recommend running this one straight into the next song.
 
@@ -316,12 +331,14 @@ A short interlude. I recommend running this one straight into the next song.
 .title = Clube da Esquina nº 2
 .en_title = Corner Club nº 2
 .artist = Milton Nascimento & Lô Borges
+.end
 
 [instrumental]
 
 .title = Paisagem da Janela
 .en_title = Window Landscape
 .artist = Lô Borges
+.end
 
 [00:18] From the side window of the bedroom       // Da janela lateral do quarto de dormir
 [00:26] I see a church, a sign of glory           // Vejo uma igreja, um sinal de glória
@@ -360,6 +377,7 @@ A short interlude. I recommend running this one straight into the next song.
 .title = Me Deixa em Paz
 .en_title = Leave Me Alone
 .artist = Ayrton Amorim & Monsueto, featuring Alaíde Costa
+.end
 
 [00:17] If you didn't want me            // Se você não me queria
 [00:24] Then you shouldn't look for me   // Não devia me procurar
@@ -386,6 +404,7 @@ A short interlude. I recommend running this one straight into the next song.
 .title = Os Povos
 .en_title = The People
 .artist = Milton Nascimento
+.end
 
 [00:08] At the edge of the world                               // Na beira do mundo
 [00:13] Iron gate, dead village, a crowd                       // Portão de ferro, aldeia morta, multidão
@@ -427,6 +446,7 @@ A short interlude. I recommend running this one straight into the next song.
 .title = Saídas e Bandeiras nº 2
 .en_title = Exits and Flags nº 2
 .artist = Milton Nascimento
+.end
 
 [00:05] What would you say of this thing your feet can no longer reach?     // O que vocês diriam dessa coisa que não dá mais pé?
 [00:10] What would you do to escape the tide?                               // O que vocês fariam pra sair dessa maré?
@@ -441,6 +461,7 @@ A short interlude. I recommend running this one straight into the next song.
 .title = Um Gosto de Sol
 .en_title = A Taste of the Sun
 .artist = Milton Nascimento
+.end
 
 [00:01] Someone that I saw in passing        // Alguém que vi de passagem
 [00:07] In a foreign city                    // Numa cidade estrangeira
@@ -464,6 +485,7 @@ A short interlude. I recommend running this one straight into the next song.
 .title = Pelo Amor De Deus
 .en_title = For the Love of God
 .artist = Milton Nascimento & Lô Borges
+.end
 
 [00:01] Photos of an old party                           // Fotos de uma velha festa
 [00:04] Bones so ancient, facts so outdated              // Ossos tão antigos, fatos tão passados
@@ -490,6 +512,7 @@ A short interlude. I recommend running this one straight into the next song.
 .title = Lilia
 .en_title = Lilia
 .artist = Milton Nascimento
+.end
 
 Lilia is Milton Nascimento's adoptive mother.
 
@@ -498,6 +521,7 @@ Lilia is Milton Nascimento's adoptive mother.
 .title = Trem de Doido
 .en_title = Crazy Train
 .artist = Lô Borges
+.end
 
 *No relation. Perhaps a better translation is "Crazy People Train"*
 
@@ -553,6 +577,7 @@ Lilia is Milton Nascimento's adoptive mother.
 .title = Nada Será Como Antes
 .en_title = Nothing Will Be as It Was
 .artist = Milton Nascimento & Lô Borges
+.end
 
 [00:03] I've already got my feet on the road                   // Eu já estou com o pé na estrada
 [00:06] Any of these days we'll be seeing each other           // Qualquer dia a gente se vê
@@ -587,6 +612,7 @@ Lilia is Milton Nascimento's adoptive mother.
 .title = Ao Que Vai Nascer
 .en_title = To the One That Will Be Born
 .artist = Milton Nascimento
+.end
 
 *Same as the Exits and Flags, this is very abstract. This is my best effort.*
 

@@ -1,0 +1,236 @@
+.album_name = Revolução
+.album_artist = Natalie Cressman, Ian Faquini
+.album_genre = Folk, Jazz, MPB, Baião
+.album_year = 2025
+
+# Revolução (2025)
+= Natalie Cressman & Ian Faquini
+
+<img src="assets/covers/2025_natalie_cressman_ian_faquini_revolucao.jpg" width="400" alt="Revolução album cover, depicting a tree in a field" />
+
+Context
+
+.title = Cem Mil Réis
+.en_title = One Hundred Thousand Réis
+.artist = Noel Rosa
+.end
+
+[00:18] You asked for one hundred thousand réis                                                                // Você me pediu cem mil réis,
+[00:21] To buy a {A type of dress=soirée}                                                                      // Pra comprar um soirée
+[00:23] And a drum                                                                                             // E um tamborim,
+[00:27] {A kind of light, transparent cloth=Organdy} has been going for cheap lately                           // O organdi anda barato pra cachorro,
+[00:31] And a {The previous line uses the idiom "cheap as a dog," setting up this cat line=cat} up on the hill // E um gato lá no morro,
+[00:33] Doesn't cost that much at all                                                                          // Não é tão caro assim.
+[!repeat once//repetir uma vez]
+[pause]
+[00:52] It doesn't cost a thing                                                                                // Não custa nada
+[00:54] To comply with formalities                                                                             // Preencher formalidade
+[00:57] A drum for the {Samba percussion group=batucada}                                                       // Tamborim pra batucada
+[00:59] Soirée for society                                                                                     // Soirée pra sociedade
+[pause]
+[01:02] I'm very reasonable                                                                                    // Sou bem sensato
+[01:04] I've answered your requests                                                                            // Seu pedido atendi
+[01:06] I already have the cat skin                                                                            // Já tenho a pele do gato,
+[01:08] We just need a meter of Organdy                                                                        // Falta o metro de organdi.
+[pause]
+[01:13] You asked for one hundred thousand réis                                                                // Você me pediu cem mil réis,
+[01:15] To buy a soirée                                                                                        // Pra comprar um soirée
+[01:17] And a drum                                                                                             // E um tamborim,
+[01:20] Organdy has been going for cheap lately                                                                // O organdi anda barato pra cachorro,
+[01:24] And a cat up on the hill                                                                               // E um gato lá no morro,
+[01:26] Doesn't cost that much at all                                                                          // Não é tão caro assim.
+[pause]
+[01:28] I know that you                                                                                        // Eu sei que você
+[01:30] Can make a drum in a day                                                                               // Num dia faz um tamborim
+[01:32] But no one makes a soirée                                                                              // Mas ninguém faz um soirée
+[01:34] Out of half-a-meter of satin                                                                           // Com meio metro de cetim
+[pause]
+[01:37] In a soirée                                                                                            // De soirée
+[01:38] You'll stand out at a dance                                                                            // Você num baile se destaca,
+[01:41] But I don't want you anymore                                                                           // Mas não quero mais você,
+[01:42] Because I don't know how to wear a suit                                                                // Porque não sei vestir casaca.
+[01:44] You (you...)                                                                                           // Você (você...)
+[instrumental]
+[02:36] I know that you                                                                                        // Eu sei que você
+[02:37] Can make a drum in a day                                                                               // Num dia faz um tamborim
+[02:40] But no one makes a soirée                                                                              // Mas ninguém faz um soirée
+[02:41] Out of half-a-meter of satin                                                                           // Com meio metro de cetim
+[pause]
+[02:45] In a soirée                                                                                            // De soirée
+[02:46] You'll stand out at a dance                                                                            // Você num baile se destaca,
+[02:48] But I don't want you anymore                                                                           // Mas não quero mais você,
+[02:50] Because I don't know how to wear a suit                                                                // Porque não sei vestir casaca.
+[02:52] You (you...)                                                                                           // Você (você...)
+[pause]
+[02:54] You asked for one hundred thousand réis                                                                // Você me pediu cem mil réis,
+[02:56] To buy a soirée                                                                                        // Pra comprar um soirée
+[02:58] And a drum                                                                                             // E um tamborim,
+[03:02] Organdy has been going for cheap lately                                                                // O organdi anda barato pra cachorro,
+[03:06] And a cat up on the hill                                                                               // E um gato lá no morro,
+[03:08] Doesn't cost that much at all                                                                          // Não é tão caro assim.
+
+.title = Contradança
+.en_title = Contradance
+.end
+
+|TODO: MAKE IT MAKE SENSE|
+
+[00:07] It's a game of {Children's game where children make a circle and sing songs=ciranda} // É brincadeira de ciranda
+[00:09] That never stops charming us                                                         // Que não para de encantar
+[00:11] Spinning in the air                                                                  // Girar no ar
+[pause]
+[00:14] Carries the song of the cicada                                                       // Carrega o canto da cigarra
+[00:16] In a maddening love                                                                  // Num amor de aluar
+[00:18] If there's moonlight                                                                 // Se há luar
+[pause]
+[00:20] And makes a sound that now I have to tell you                                        // E faz um som que agora eu tenho que contar
+[00:23] That the lady shall want                                                             // Que a moça há de querer
+[00:25] That the night shall deliver                                                         // Que a noite há de entregar
+[pause]
+[00:27] The contradance in the star that is you                                              // A contradança na estrela que é você
+[00:29] Your crucial points                                                                  // Seus pontos cruciais
+[00:31] Planets and whatnot                                                                  // Planetas e que tais
+[pause]
+[00:33] And the night goes and comes the light                                               // E vai o breu e vem a luz
+[00:35] In a sneaky given minute                                                             // Dado minuto sorrateiro
+[00:38] Only a prelude                                                                       // Prelúdio só
+[pause]
+[00:40] When it broke the meridian                                                           // Quando rompeu meridiano
+[00:42] The median movement                                                                  // O movimento mediano
+[00:44] Shines the sun                                                                       // Refulge o sol
+[pause]
+[00:47] Dancers know that those that take you out to dance                                   // Sabe quem dança que quem tira pra dançar
+[00:49] Orbit with you                                                                       // Orbita com você
+[00:51] And turn into your place                                                             // E vira o seu lugar
+[pause]
+[00:53] That all life has its time to come                                                   // Que toda vida tem seu tempo de chegar
+[00:56] That is born and that will die                                                       // Que nasce e vai morrer
+[00:57] In the cardinal directions                                                           // Nos pontos cardeais
+[pause]
+[00:59] To turn to morning, to turn to evening                                               // Amanhecer, entardecer,
+[01:01] To turn to night, to live                                                            // Anoitecer, viver
+[01:06] To turn to morning, to turn to evening                                               // Amanhecer, entardecer,
+[01:08] To turn to night, to live                                                            // Anoitecer, viver
+[pause]
+[01:12] Swift {Ritual in some afro-brazilian religions=gira}                                 // Gira ligeira
+[01:14] Gira of hope                                                                         // Gira de esperança
+[01:15] Passing gira                                                                         // Gira passageira
+[01:17] Gira for the dance                                                                   // Gira pela dança
+[01:19] In which the universe is your host without a dance partner                           // Que o universo é seu anfitrião sem par
+[pause]
+[01:25] Swift gira                                                                           // Gira ligeira
+[01:27] Gira of hope                                                                         // Gira de esperança
+[01:28] Passing gira                                                                         // Gira passageira
+[01:30] Gira for the dance                                                                   // Gira pela dança
+[01:32] In which the universe is your host without a dance partner                           // Que o universo é seu anfitrião sem par
+[instrumental]
+[02:31] To turn to morning, to turn to evening                                               // Amanhecer, entardecer,
+[02:33] To turn to night, to live                                                            // Anoitecer, viver
+[02:37] To turn to morning, to turn to evening                                               // Amanhecer, entardecer,
+[02:39] To turn to night, to live                                                            // Anoitecer, viver
+[pause]
+[02:44] Swift gira                                                                           // Gira ligeira
+[02:46] Gira of hope                                                                         // Gira de esperança
+[02:47] Passing gira                                                                         // Gira passageira
+[02:49] Gira for the dance                                                                   // Gira pela dança
+[02:51] In which the universe is your host without a dance partner                           // Que o universo é seu anfitrião sem par
+[pause]
+[02:58] Swift gira                                                                           // Gira ligeira
+[02:59] Gira of hope                                                                         // Gira de esperança
+[03:00] Passing gira                                                                         // Gira passageira
+[03:02] Gira for the dance                                                                   // Gira pela dança
+[03:04] In which the universe is your host without a dance partner                           // Que o universo é seu anfitrião sem par
+[pause]
+[03:11] It's a game of ciranda                                                               // É brincadeira de ciranda
+[03:12] That never stops charming us                                                         // Que não para de encantar
+[03:15] Spinning in the air...                                                               // Girar no ar...
+[repeat]
+
+.title = Tenho Sede
+.en_title = I'm Thirsty
+.artist = Anastácia & Dominguinhos
+.end
+
+[00:13] Bring me a cup of water        // Traga-me um copo d'água
+[00:16] I'm thirsty                    // Tenho sede
+[00:19] And this thirst                // E essa sede
+[00:21] May kill me                    // Pode me matar
+[pause]
+[00:30] My throat                      // Minha garganta
+[00:32] Asks for a little bit of water // Pede um pouco d'água
+[00:36] And my eyes                    // E os meus olhos
+[00:38] Ask for your gaze              // Pedem seu olhar
+[pause]
+[00:48] Plants ask for rain            // A planta pede chuva
+[00:52] When they want to bloom        // Quando quer brotar
+[01:00] The sky soon grows dark        // O céu logo escurece
+[01:04] When it's time for rain        // Quando vai chover
+[pause]
+[01:12] My heart                       // Meu coração
+[01:14] Asks only for your love        // Só pede o seu amor
+[01:18] If you don't give it to me     // Se não me deres
+[01:21] I might even die               // Posso até morrer
+[instrumental]
+[!whole thing repeats//música inteira repete]
+
+.title = Capenga Mas Não Cai
+.en_title = Limps But Doesn't Fall
+.end
+
+*This song uses a lot of uncommon and/or outdated regionalisms, which I couldn't quite get across on the translation.*
+
+[00:00] I'm limping but don't fall out of stubbornness                                          // Tô capengando mas não caio de pirraça
+[00:02] I'm limping but don't fall out of love                                                  // Tô capengando mas não caio por amor
+[00:04] Shaky like a calf on the {Indigenous group of Brazil=botocuda} canoe                    // Bambo que nem garrote no bote da botocuda
+[00:07] In need of money                                                                        // Precisando de dinheiro
+[00:09] Like a peddler I keep on fighting even still                                            // Bufarinheiro eu tô na luta mesmo assim
+[00:11] I keep on working for my share just to end up in a coffin                               // Vou cavucando meu quinhão pra terminar no gurufim
+[pause]
+[00:14] I'm limping but don't fall out of stubbornness                                          // Tô capengando mas não caio de pirraça
+[00:16] I'm limping but don't fall out of love                                                  // Tô capengando mas não caio por amor
+[00:18] Crooked like a {Dracaena fragans=pau d'água} resting on the {Ceiba glaziovii=barriguda} // Torto que nem pau d'água escorado na barriguda
+[00:20] {Reference to a fable, see bottom of page [1]=Leading the chicken coop}                 // Comandando o galinheiro
+[00:22] Sugarcane farmer, pother, cherub                                                        // Canavieiro, maconheiro, querubim
+[00:24] I'm not cattle but I'm full of this plate of grass                                      // Eu não sou gado mas tô cheio desse prato de capim
+[pause]
+[00:27] If I take a step, I take it back right after                                            // Se dou um passo desfaço logo em seguida
+[00:29] The beat of life has tripped me up, ô ioiô                                              // Da minha vida o compasso me tropeçou, ô ioiô
+[00:33] Dancing my way down the river                                                           // Tanga balanga na charanga pelo rio
+[00:35] Like a gypsy I want to go without the need for arriving                                 // Como um cigano eu quero ir sem compromisso de chegar
+[pause]
+[00:37] I'm limping, stable like a nail in sand                                                 // Tô capengando, firme igual prego na areia
+[00:39] Only the blood in my veins still tries to find its way around                           // É só o sangue pela veia que inda teima em navegar
+[00:43] {He's just saying things now=Renga pendenga minha quenga}, my Brazil                    // Renga pendenga my quenga, meu Brasil
+[00:44] Like a gypsy I want to go against the spell that got me                                 // Como um cigano eu quero ir contra o feitiço que pegou
+[pause]
+[00:47] I'm limping, ugly like a thin dog                                                       // Tô capengando, feio igual cachorro magro
+[00:48] But I can only get my revenge for this last year                                        // Mas me vingo desse estrago só no ano que passou
+[00:52] I'll go, I won't, I'll go, I won't                                                      // Eu vou, não vou, eu vou, não vou
+[pause]
+[!whole thing repeats//música inteira repete]
+
+.title = De Mão Cheia
+.en_title = Hands Full
+.end
+
+[instrumental]
+
+.title = Dizia Maria
+.en_title = Said Maria
+.end
+
+[00:00] 
+
+.title = Blues for James
+.end
+
+[instrumental]
+
+---
+
+# [1] The Rooster and the Eagle
+Two roosters were fighting for the right of leading the chicken coop in a farm. Finally, one of the rooster emerged victorious.
+The defeated rooster retreated to a more peaceful corner of the farm.
+The winner jumped up to the top of a wall and flapped its wings and sung with pride.
+An eagle that passed by saw its celebration and, with a precise dive, snatched the rooster away with its claws
+The defeated rooster then left his corner and, from then on, reigned over the chicken coop

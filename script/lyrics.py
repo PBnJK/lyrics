@@ -15,6 +15,7 @@ INFO_LINE_REGEX: re.Pattern = re.compile(r"^\|(.*)\|$")
 NOTE_LINE_REGEX: re.Pattern = re.compile(r"^\*(.*)\*$")
 META_LINE_REGEX: re.Pattern = re.compile(r"^\.(.*)=(.*)$")
 LYRIC_LINE_REGEX: re.Pattern = re.compile(r"^\[(\d\d:\d\d)\](.*)//(.*)$")
+REM_LINE_REGEX: re.Pattern = re.compile(r"^\[!(.*)//(.*)\]")
 
 
 def make_html_safe(line: str) -> str:
@@ -50,7 +51,7 @@ def parse_note_line(line: re.Match) -> str:
     return f'<p class="note"><i>T/L Note: {note}</i></p>'
 
 
-def parse_meta_line(line: re.Match) -> str:
+def parse_meta_line(line: re.Match, out: dict) -> str:
     key: str = line.group(1).strip()
     value: str = make_html_safe(line.group(2).strip())
     match key:
@@ -63,7 +64,19 @@ def parse_meta_line(line: re.Match) -> str:
         case "en_title":
             return f'    <p class="meta-en-title">({value})</p>\n'
         case "artist":
-            return f'    <p class="meta-artist">{value}</p>\n  </div>\n'
+            return f'    <p class="meta-artist">{value}</p>\n'
+        case "album_name":
+            out["album"] = value
+            return ""
+        case "album_artist":
+            out["artist"] = [artist.strip() for artist in value.split(",")]
+            return ""
+        case "album_genre":
+            out["genre"] = [genre.strip() for genre in value.split(",")]
+            return ""
+        case "album_year":
+            out["year"] = value
+            return ""
         case "info":
             return f"""\
   <div class="meta-info-box">
@@ -105,10 +118,26 @@ def parse_lyric_line(line: re.Match) -> str:
     return output
 
 
-def parse_line(line: str) -> str:
+def parse_rem_line(line: re.Match) -> str:
+    en_reminder: str = make_html_safe(line.group(1).strip())
+    pt_reminder: str = make_html_safe(line.group(2).strip())
+
+    return f"""\
+  <div class="lyric-box">
+    <p class="lyric-text lyric-command-left">({en_reminder})</p>
+    <p class="lyric-og lyric-command-right">({pt_reminder})</p>
+  </div>
+"""
+
+
+def parse_line(line: str, out: dict) -> str:
     # Line break?
     if line == "---":
         return "  <hr />\n"
+
+    # Meta box closer?:
+    if line == ".end":
+        return "  </div>\n"
 
     # Break in the lyrics?
     if line == "[pause]":
@@ -151,19 +180,25 @@ def parse_line(line: str) -> str:
 
     # Meta line? (.KEY = VALUE)
     if meta_line := META_LINE_REGEX.search(line):
-        return parse_meta_line(meta_line)
+        return parse_meta_line(meta_line, out)
 
     # Lyrics line? ([MM:SS] LYRIC)
     if lyric_line := LYRIC_LINE_REGEX.search(line):
         return parse_lyric_line(lyric_line)
 
+    # Reminder line? ([!ENGLISH REMINDER // PORTUGUESE REMINDER])
+    if reminder_line := REM_LINE_REGEX.search(line):
+        return parse_rem_line(reminder_line)
+
     # Default to a generic paragraph
     return f'<p class="paragraph">{line}</p>'
 
 
-def generate_lyrics(filename: Path, infile) -> None:
+def generate_lyrics(filename: Path, infile) -> dict:
     lyrics_out: Path = filename.with_suffix(".html")
     lyrics_out = lyrics_out.relative_to("lyrics/")
+
+    out: dict = {}
 
     with open(lyrics_out, "w") as f:
         f.write("""\
@@ -172,7 +207,7 @@ def generate_lyrics(filename: Path, infile) -> None:
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Clube da Esquina</title>
+    <title>Lyrics</title>
     <link href="css/style.css" rel="stylesheet" />
   </head>
   <body>
@@ -192,7 +227,7 @@ def generate_lyrics(filename: Path, infile) -> None:
             elif raw_mode:
                 f.write(line + "\n")
             else:
-                result = parse_line(line)
+                result = parse_line(line, out)
                 f.write(result)
 
         f.write("      </main>\n")
@@ -200,12 +235,33 @@ def generate_lyrics(filename: Path, infile) -> None:
         f.write("  </body>\n")
         f.write("</html>")
 
+    return out
+
 
 def main() -> None:
     lyrics_folder: Path = Path("lyrics")
-    for file in lyrics_folder.glob("*.txt"):
-        with open(file) as f:
-            generate_lyrics(file, f)
+
+    with open("js/db.js", "w") as db:
+        db.write("const db = {\n")
+        for file in lyrics_folder.glob("*.txt"):
+            name: str = file.with_suffix("").name
+            db.write(f'\t"{name}": {{\n')
+
+            with open(file) as f:
+                out = generate_lyrics(file, f)
+
+            album_name: str = out["album"]
+            album_artist: str = ", ".join(f'"{artist}"' for artist in out["artist"])
+            album_genre: str = ", ".join(f'"{genre}"' for genre in out["genre"])
+            album_year: str = out["year"]
+
+            db.write(f'\t\t"album": "{album_name}",\n')
+            db.write(f'\t\t"artist": [{album_artist}],\n')
+            db.write(f'\t\t"genre": [{album_genre}],\n')
+            db.write(f'\t\t"year": "{album_year}",\n')
+            db.write("\t},\n")
+
+        db.write("\n}\n")
 
 
 if __name__ == "__main__":

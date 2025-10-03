@@ -1,5 +1,3 @@
-const db = JSON.parse(document.getElementById("db").textContent);
-
 const checkAlbumMatches = (album, term) => {
   if (term === "") {
     return true;
