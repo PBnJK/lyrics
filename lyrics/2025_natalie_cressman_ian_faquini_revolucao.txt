@@ -15,8 +15,8 @@ Context
 .artist = Noel Rosa
 .end
 
-[00:18] You asked for one hundred thousand réis                                                                // Você me pediu cem mil réis,
-[00:21] To buy a {A type of dress=soirée}                                                                      // Pra comprar um soirée
+[00:18] You asked for one hundred thousand {The Brazilian currency in Noel Rosa's time=réis}                   // Você me pediu cem mil réis,
+[00:21] To buy a {A type of fancy dress for fancy parties=soirée}                                              // Pra comprar um soirée
 [00:23] And a drum                                                                                             // E um tamborim,
 [00:27] {A kind of light, transparent cloth=Organdy} has been going for cheap lately                           // O organdi anda barato pra cachorro,
 [00:31] And a {The previous line uses the idiom "cheap as a dog," setting up this cat line=cat} up on the hill // E um gato lá no morro,
@@ -43,7 +43,7 @@ Context
 [01:28] I know that you                                                                                        // Eu sei que você
 [01:30] Can make a drum in a day                                                                               // Num dia faz um tamborim
 [01:32] But no one makes a soirée                                                                              // Mas ninguém faz um soirée
-[01:34] Out of half-a-meter of satin                                                                           // Com meio metro de cetim
+[01:34] Out of half a meter of satin                                                                           // Com meio metro de cetim
 [pause]
 [01:37] In a soirée                                                                                            // De soirée
 [01:38] You'll stand out at a dance                                                                            // Você num baile se destaca,
@@ -54,7 +54,7 @@ Context
 [02:36] I know that you                                                                                        // Eu sei que você
 [02:37] Can make a drum in a day                                                                               // Num dia faz um tamborim
 [02:40] But no one makes a soirée                                                                              // Mas ninguém faz um soirée
-[02:41] Out of half-a-meter of satin                                                                           // Com meio metro de cetim
+[02:41] Out of half a meter of satin                                                                           // Com meio metro de cetim
 [pause]
 [02:45] In a soirée                                                                                            // De soirée
 [02:46] You'll stand out at a dance                                                                            // Você num baile se destaca,
@@ -73,8 +73,6 @@ Context
 .en_title = Contradance
 .end
 
-|TODO: MAKE IT MAKE SENSE|
-
 [00:07] It's a game of {Children's game where children make a circle and sing songs=ciranda} // É brincadeira de ciranda
 [00:09] That never stops charming us                                                         // Que não para de encantar
 [00:11] Spinning in the air                                                                  // Girar no ar
@@ -91,7 +89,7 @@ Context
 [00:29] Your crucial points                                                                  // Seus pontos cruciais
 [00:31] Planets and whatnot                                                                  // Planetas e que tais
 [pause]
-[00:33] And the night goes and comes the light                                               // E vai o breu e vem a luz
+[00:33] And darkness goes and comes the light                                                // E vai o breu e vem a luz
 [00:35] In a sneaky given minute                                                             // Dado minuto sorrateiro
 [00:38] Only a prelude                                                                       // Prelúdio só
 [pause]
@@ -112,7 +110,7 @@ Context
 [01:06] To turn to morning, to turn to evening                                               // Amanhecer, entardecer,
 [01:08] To turn to night, to live                                                            // Anoitecer, viver
 [pause]
-[01:12] Swift {Ritual in some afro-brazilian religions=gira}                                 // Gira ligeira
+[01:12] Swift {Ritual in some Afro-Brazilian religions=gira}                                 // Gira ligeira
 [01:14] Gira of hope                                                                         // Gira de esperança
 [01:15] Passing gira                                                                         // Gira passageira
 [01:17] Gira for the dance                                                                   // Gira pela dança
@@ -190,7 +188,7 @@ Context
 [00:16] I'm limping but don't fall out of love                                                  // Tô capengando mas não caio por amor
 [00:18] Crooked like a {Dracaena fragans=pau d'água} resting on the {Ceiba glaziovii=barriguda} // Torto que nem pau d'água escorado na barriguda
 [00:20] {Reference to a fable, see bottom of page [1]=Leading the chicken coop}                 // Comandando o galinheiro
-[00:22] Sugarcane farmer, pother, cherub                                                        // Canavieiro, maconheiro, querubim
+[00:22] Sugarcane farmer, pothead, cherub                                                       // Canavieiro, maconheiro, querubim
 [00:24] I'm not cattle but I'm full of this plate of grass                                      // Eu não sou gado mas tô cheio desse prato de capim
 [pause]
 [00:27] If I take a step, I take it back right after                                            // Se dou um passo desfaço logo em seguida
@@ -200,7 +198,7 @@ Context
 [pause]
 [00:37] I'm limping, stable like a nail in sand                                                 // Tô capengando, firme igual prego na areia
 [00:39] Only the blood in my veins still tries to find its way around                           // É só o sangue pela veia que inda teima em navegar
-[00:43] {He's just saying things now=Renga pendenga minha quenga}, my Brazil                    // Renga pendenga my quenga, meu Brasil
+[00:43] {He's just saying things that sound fun now (unless "a row of disagreements, my prostitute" means something to you.)=Renga pendenga minha quenga}, my Brazil // Renga pendenga minha quenga, meu Brasil
 [00:44] Like a gypsy I want to go against the spell that got me                                 // Como um cigano eu quero ir contra o feitiço que pegou
 [pause]
 [00:47] I'm limping, ugly like a thin dog                                                       // Tô capengando, feio igual cachorro magro
@@ -219,18 +217,203 @@ Context
 .en_title = Said Maria
 .end
 
-[00:00] 
+|TODO: timing|
+
+[00:00] Wasn't it Maria that always said                                                   // Não era Maria quem sempre dizia
+[00:00] That day came from the palm of a hand?                                             // Que o dia surgia da palma da mão?
+[00:00] From the color of the tanager                                                      // Da cor da Saíra
+[00:00] From the stones on the ground                                                      // Da pedra do chão
+[00:00] {Spirit in the Yoruba religion that manifests in silver=From the silver of Yemọja} // Da prata de Iemanjá
+[pause]
+[00:00] Or was it Maria saying that no                                                     // Ou era Maria dizendo que não
+[00:00] No pain without medicine                                                           // Nem dor sem remédio
+[00:00] No evil without forgiveness                                                        // Nem mal sem perdão
+[00:00] No moon without verse in the skies of Bahia                                        // Nem Lua sem verso no céu da Bahia
+[00:00] Mirror of the water                                                                // Espelho das águas
+[pause]
+[00:00] A guiding star                                                                     // Uma estrela-guia
+[00:00] I could swear there was one in the darkness of night                               // Jurava que havia de noite no breu
+[00:00] Holding a vigil so that the Holy Mary                                              // Fazendo vigília que a Ave Maria
+[00:00] Could fly over my dreams                                                           // Avoasse sobre os sonhos meus
+[pause]
+[00:00] She would come, I knew                                                             // Viria, sabia
+[00:00] Take the agony in the beauty of this moment                                        // Levar a agonia na beleza dessa hora
+[00:00] Where poetry would open {Might be "her" chest, or some other pronoun. It's only implied in the original=its} chest // Em que a poesia seu peito abriria
+[00:00] On the ocean waves                                                                 // Nas ondas do mar
+[pause]
+[00:00] She would come, I knew                                                             // Viria, sabia
+[00:00] Take the agony in the beauty of this moment                                        // Levar a agonia na beleza dessa hora
+[00:00] Where poetry would open its chest                                                  // Em que a poesia seu peito abriria
+[00:00] On the ocean waves                                                                 // Nas ondas do mar
+[00:00] So its poet could rest                                                             // Pro seu poeta descansar
 
 .title = Blues for James
+.en_title = Blues pro James
 .end
 
 [instrumental]
 
+.title = Moda de Viola
+.en_title = Moda de Viola
+.end
+
+A "Moda de Viola" is a traditional Brazilian style of music, sung by two people with 10-string guitar ("Viola Caipira") accompaniment.
+
+|TODO: timing|
+
+[00:00] My swallow, my seagull                 // Minha andorinha, minha gaviota
+[00:00] My love, don't cry                     // Meu amor não chora
+[00:00] Soon I'm coming back                   // Que já já eu vou voltar
+[!twice//duas vezes]
+[pause]
+[00:00] I was a pioneer                        // Fui o pioneiro
+[00:00] A master without school                // Mestre sem escola
+[00:00] In being a violeiro                    // A ser violeiro
+[00:00] The first one with a bag               // O primeiro de sacola
+[pause]
+[00:00] To put on the saddle                   // De montar arreio
+[00:00] To spur the horse                      // De cravar espora
+[00:00] On around the world                    // Mundo volta e meia
+[00:00] Longing in my head                     // E a saudade na cachola
+[pause]
+[00:00] My swallow, my seagull                 // Minha andorinha, minha gaviota
+[00:00] My love, don't cry                     // Meu amor não chora
+[00:00] Soon I'm coming back                   // Que já já eu vou voltar
+[!twice//duas vezes]
+[pause]
+[00:00] Fast and low                           // Rápido rasteiro
+[00:00] Life that takes a while                // Vida que demora
+[00:00] I'm a messenger                        // Sou um mensageiro
+[00:00] An Angolan clerk                       // Um caixeiro de Angola
+[pause]
+[00:00] If I rhyme quick                       // Se eu rimar ligeiro
+[00:00] A thin thread of rope                  // Fiapo de corda
+[00:00] Daggers rain                           // Chove canivete
+[00:00] And snakes unfurl                      // E a serpente desenrola
+[pause]
+[00:00] But I went to step down on your gaze   // Mas fui apear no seu olhar
+[00:00] On this blue that could calm the seas  // Nesse azul de enternecer o mar
+[00:00] Seven stars lit up, sunflowers spun    // Sete estrelas acenderam, girassol girou
+[00:00] Look who came back                     // Olha quem voltou
+[pause]
+[00:00] My swallow, my seagull                 // Minha andorinha, minha gaviota
+[00:00] My love, don't cry                     // Meu amor não chora
+[00:00] Soon I'm coming back                   // Que já já eu vou voltar
+[!twice//duas vezes]
+[pause]
+[00:00] But I went to step down on your gaze   // Mas fui apear no seu olhar
+[00:00] On this blue that could calm the seas  // Nesse azul de enternecer o mar
+[00:00] Seven stars lit up, sunflowers spun    // Sete estrelas acenderam, girassol girou
+[00:00] Look who came back                     // Olha quem voltou
+[pause]
+[00:00] My swallow, my seagull                 // Minha andorinha, minha gaviota
+[00:00] My love, don't cry                     // Meu amor não chora
+[00:00] Soon I'm coming back                   // Que já já eu vou voltar
+[!twice//duas vezes]
+
+.title = Natty's Waltz
+.en_title = Valsa da Natty
+.end
+
+[instrumental]
+
+.title = Revolução
+.en_title = Revolution
+.end
+
+|TODO: timing|
+
+[00:00] Dreamed of the breeze                     // Sonhava a viração
+[00:00] Turned into a sailor                      // Virava marinheiro
+[00:00] Of the soft tide                          // Da maré macia
+[00:00] The wind as his helmsman                  // Vento timoneiro
+[00:00] Invented dunes with his body aflame       // Inventava dunas com o corpo em brasa
+[pause]
+[00:00] The sun was uncovered                     // Desencobria o sol
+[00:00] A washerwoman appeared                    // Surgia lavadeira
+[00:00] Of metal, basin                           // Do metal, bacia
+[00:00] Gold in the sieve                         // Ouro na peneira
+[00:00] A crystal in the eyes of our lady         // Um cristal nos olhos de Nossa Senhora
+[pause]
+[00:00] And fought to be                          // E se danava a ser
+[00:00] Even if he died, he wouldn't die          // Podia até morrer, que não morria
+[00:00] If a single grain was moved               // Se se movia um grão
+[00:00] Revolution smiled at him                  // Era a revolução que lhe sorria
+[pause]
+[00:00] Every now and again then                  // De vez em quando então
+[00:00] It rained in the badlands because it felt // Chovia no sertão porque sentia
+[00:00] That poetry was the flour                 // Que a poesia era a farinha
+[00:00] The bread, word and prayer                // O pão, palavra e oração
+
+.title = Vigil
+.en_title = Vigília
+.end
+
+|TODO: timing|
+
+[00:00] Não falamos o seu nome                                    // We don’t speak its name
+[00:00] Mas reprimido na minha mente ainda ecoa                   // But shuttered in my mind it echoes all the same
+[00:00] Tropeço calada, mas acho que devia saber                  // I stumble silent, still I think that you should know
+[00:00] O quanto importa você ainda estar aqui, respirando        // Just what it means that you’re still here, breathing
+[pause]
+[00:00] De certos modos é igual                                   // Some ways it’s the same
+[00:00] Palavras fluindo como o doce mel no nosso joguinho        // Words flowing honey sweet inside our little game
+[00:00] De fininho e se escondendo do mundo em que você se foi    // Tip-toed and hiding from a world where you are gone
+[00:00] Com sorrisos reforçados persistimos                       // With armored smiles we carry on
+[pause]
+[00:00] Mas não pode esconder de mim os ossos quando abraçamos    // But you can’t hide from me the bones when we embrace
+[00:00] E estes revelam as mudanças a acontecer                   // And they betray the changes taking place
+[00:00] Sua órbita se alarga agora, o poço de notícias seca       // Your orbit widens now, the well of news runs dry
+[00:00] Eu me preparo pra dizer adeus                             // I brace myself to say goodbye
+[pause]
+[00:00] Enquanto é enterrado                                      // As you’re laid to rest
+[00:00] Um milhão de notas pra você dançam, cativas, no meu peito // A million notes to you flit captive in my chest
+[00:00] Sou deixada só com elas, incerta ao que fazer             // I’m left alone with them, unsure of what to do
+[00:00] Nem mesmo certa se elas vão chegar à ti                   // Not even sure if they can ever reach you
+[pause]
+[00:00] Agora um ano se passou                                    // Now a year’s gone by
+[00:00] Não tenho as palavras perfeitas mas vou tentar            // I don’t quite have the words perfected but I’ll try
+[00:00] Minha voz ainda engasga quando tento lhe homenagear       // My voice still catches when I try to eulogize
+[00:00] É como tentar medir os céus                               // It feels like measuring the skies
+[pause]
+[00:00] E o tempo é uma tempestade de areia a me despedaçar       // And time’s a blizzard of sand tearing me apart
+[00:00] Tenta me cegar, meu coração penetrar                      // It tries to blind, to penetrate my heart
+[00:00] Essa vigília é infindável, mas vou tentar argumentar      // This vigil’s endless, but I’ll try to make my case
+[00:00] Enquanto ainda consigo imaginar seu rosto                 // While I can still picture your face
+
+.title = Rio-Mar
+.en_title = River-Sea
+.end
+
+[00:00] TODO // Remando as mágoas no igarapé, canoa vai
+[00:00] TODO // Desfaz as névoas com a sua fé beijando os rios
+[00:00] TODO // Foi Aatu, oração do pajé, que me benzeu
+[00:00] TODO // Nas mirações de tupis e barés, o mar sou eu
+[00:00] TODO // Ouve o passado das margens daqui do Nhamundá
+[00:00] TODO // Nasceu do pranto da deusa Iaci o teu mistério
+[00:00] TODO // Corre do ventre a seiva de uma flor que já não há
+[00:00] TODO // Surge da aldeia um canto de amor pra nos salvar
+[00:00] TODO // Xcunderê, xcunderê, xcunderêiê
+[00:00] TODO // xcunderê, xcunderê, xcundereiê
+[00:00] TODO // Te esquecer na beira do segredos quando a noite desperta
+[00:00] TODO // Te esconder no fundo do meu peito com essa chuva que aperta
+[00:00] TODO // Belas cunhãs com muiraquitãs a procurar
+[00:00] TODO // Versos que brotam pelas manhãs dessa morena
+[00:00] TODO // É tão bonito esse medo em você de se entregar
+[00:00] TODO // Mas não há nada pra gente temer, nem pra esperar
+[00:00] TODO // Xcunderê, xcunderê, xcunderêiê
+[00:00] TODO // xcunderê, xcunderê, xcundereiê
+[00:00] TODO // Te esquecer na beira do segredos quando a noite desperta
+[00:00] TODO // Te esconder no fundo do meu peito com essa chuva que aperta
+[00:00] TODO // Amanheceu, e seu olhar
+[00:00] TODO // Me derramou no rio-mar
+[00:00] TODO // Amanheceu, e seu olhar
+[00:00] TODO // Me derramou no rio-mar
+
 ---
 
 # [1] The Rooster and the Eagle
-Two roosters were fighting for the right of leading the chicken coop in a farm. Finally, one of the rooster emerged victorious.
-The defeated rooster retreated to a more peaceful corner of the farm.
-The winner jumped up to the top of a wall and flapped its wings and sung with pride.
-An eagle that passed by saw its celebration and, with a precise dive, snatched the rooster away with its claws
-The defeated rooster then left his corner and, from then on, reigned over the chicken coop
+Two roosters were fighting for the right of leading the chicken coop in a farm. Finally, one of the roosters emerged victorious.
+The defeated rooster retreated to a more peaceful corner of the farm. The winner jumped up to the top of a wall and, flapping its wings, sung with pride.
+An eagle that was flying by saw the celebration and, with a sharp dive, snatched the rooster away in its claws.
+The defeated rooster then left his corner and, from then on, reigned over the chicken coop uncontested.
