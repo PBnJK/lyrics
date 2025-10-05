@@ -11,5 +11,11 @@ const db = {
 		"genre": ["MPB"],
 		"year": "1972",
 	},
+	"1974_jorge_ben_jor_a_tabua_de_esmeralda": {
+		"album": "A Tábua de Esmeralda",
+		"artist": ["Jorge Ben Jor"],
+		"genre": ["MPB", "Samba"],
+		"year": "1974",
+	},
 
 }

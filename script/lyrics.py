@@ -70,9 +70,11 @@ def parse_meta_line(line: re.Match, out: dict) -> str:
             return ""
         case "album_artist":
             out["artist"] = [artist.strip() for artist in value.split(",")]
+            out["artist_list"] = ", ".join(f"{artist}" for artist in out["artist"])
             return ""
         case "album_genre":
             out["genre"] = [genre.strip() for genre in value.split(",")]
+            out["genre_list"] = ", ".join(f"{genre}" for genre in out["genre"])
             return ""
         case "album_year":
             out["year"] = value
@@ -201,21 +203,24 @@ def generate_lyrics(filename: Path, infile) -> dict:
     out: dict = {}
 
     with open(lyrics_out, "w") as f:
-        f.write("""\
+        output: str = """\
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Lyrics</title>
+    <title>{album} - {artist} lyrics</title>
     <link href="css/style.css" rel="stylesheet" />
   </head>
   <body>
     <script src="js/script.js" defer></script>
-    <button id="theme-button">Dark</button>
+    <header>
+        <a class="button" id="back-button" href=".">To index</a>
+        <button class="button" id="theme-button">Dark</button>
+    </header>
     <div id="wrapper">
       <main id="main">
-""")
+"""
         raw_mode: bool = False
         for line in infile:
             line = line.strip()
@@ -225,11 +230,13 @@ def generate_lyrics(filename: Path, infile) -> dict:
             if line == "===":
                 raw_mode = not raw_mode
             elif raw_mode:
-                f.write(line + "\n")
+                output += line + "\n"
             else:
-                result = parse_line(line, out)
-                f.write(result)
+                output += parse_line(line, out)
 
+        output = output.format(album=out["album"], artist=out["artist_list"])
+
+        f.write(output)
         f.write("      </main>\n")
         f.write("    </div>\n")
         f.write("  </body>\n")
