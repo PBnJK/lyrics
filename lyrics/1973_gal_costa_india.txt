@@ -6,7 +6,7 @@
 # Índia (1973)
 = Gal Costa
 
-<img src="https://m.media-amazon.com/images/I/71mE9ZKaFaL.jpg" width="400" alt="Gal Costa album cover, depicting Gal Costa semi-nude with indigenous vests" />
+[?img=<img src="https://m.media-amazon.com/images/I/71mE9ZKaFaL.jpg" width="400" alt="Gal Costa album cover, depicting Gal Costa semi-nude with indigenous vests" />]
 = This cover art got the album censored at the time
 
 |Thank you to syvyly for the context and for the notes on the songs!|
@@ -29,7 +29,7 @@ In spite of the dangerous political environment, Costa continued to court contro
 [00:56] Índia with the dark skin                                                       // Índia da pele morena
 [00:59] Your tiny mouth I wish to kiss                                                 // Tua boca pequena eu quero beijar
 [pause]
-[01:11] Índia, {Indigenous group of Brazil=tupi} blood, you have the smell of a flower // Índia, sangue tupi, tens o cheiro da flor
+[01:11] Índia, {Indigenous group of Brazil=tupi} blood, you have the scent of a flower // Índia, sangue tupi, tens o cheiro da flor
 [01:30] Come, I want to give you                                                       // Vem, que eu quero te dar
 [01:41] All of my great love                                                           // Todo o meu grande amor
 [pause]
@@ -51,7 +51,7 @@ In spite of the dangerous political environment, Costa continued to court contro
 [03:58] Índia with the dark skin                                                       // Índia da pele morena
 [04:01] Your tiny mouth I wish to kiss                                                 // Tua boca pequena eu quero beijar
 [pause]
-[04:12] Índia, tupi blood, you have the smell of a flower                              // Índia, sangue tupi, tens o cheiro da flor
+[04:12] Índia, tupi blood, you have the scent of a flower                              // Índia, sangue tupi, tens o cheiro da flor
 [04:31] Come, I want to give you                                                       // Vem, que quero te dar
 [04:40] All of my great love                                                           // Todo o meu grande amor
 [pause]

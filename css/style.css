@@ -39,6 +39,7 @@ hr {
 header {
   position: sticky;
   top: 0;
+  z-index: 1;
 
   display: flex;
   justify-content: space-around;
@@ -87,6 +88,34 @@ main {
   text-align: center;
 }
 
+.spoiler-img img {
+  vertical-align: bottom;
+  filter: blur(16px);
+  transition: 0.2s;
+
+  z-index: 0;
+}
+
+.spoiler-img img:hover {
+  cursor: pointer;
+  filter: none;
+  transition: 0.8s;
+}
+
+.spoiler-span {
+  background-color: var(--bg-secondary);
+  color: var(--bg-secondary);
+  transition: 0.2s;
+}
+
+.spoiler-span:hover {
+  cursor: pointer;
+
+  background-color: inherit;
+  color: inherit;
+  transition: 0.8s;
+}
+
 .meta {
   background-color: var(--bg-secondary);
 
@@ -123,9 +152,6 @@ main {
   padding: 0 8px;
 
   margin-bottom: 16px;
-}
-
-.info {
 }
 
 .note {

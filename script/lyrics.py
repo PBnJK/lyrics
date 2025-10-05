@@ -16,6 +16,7 @@ NOTE_LINE_REGEX: re.Pattern = re.compile(r"^\*(.*)\*$")
 META_LINE_REGEX: re.Pattern = re.compile(r"^\.(.*)=(.*)$")
 LYRIC_LINE_REGEX: re.Pattern = re.compile(r"^\[(\d\d:\d\d)\](.*)//(.*)$")
 REM_LINE_REGEX: re.Pattern = re.compile(r"^\[!(.*)//(.*)\]")
+SPOILER_LINE_REGEX: re.Pattern = re.compile(r"\[\?(.*?)=(.*)\]")
 
 
 def make_html_safe(line: str) -> str:
@@ -138,6 +139,19 @@ def parse_rem_line(line: re.Match) -> str:
 """
 
 
+def parse_spoiler_line(line: re.Match) -> str:
+    spoiler_type: str = line.group(1).strip()
+    spoiler: str = line.group(2).strip()
+
+    match spoiler_type:
+        case "img":
+            return f'<div class="spoiler-img">{spoiler}</div>'
+        case "span":
+            return f'<span class="spoiler-span">{spoiler}</span>'
+
+    return f'<p class="spoiler-span">{spoiler}</p>'
+
+
 def parse_line(line: str, out: dict) -> str:
     # Line break?
     if line == "---":
@@ -197,6 +211,18 @@ def parse_line(line: str, out: dict) -> str:
     # Reminder line? ([!ENGLISH REMINDER // PORTUGUESE REMINDER])
     if reminder_line := REM_LINE_REGEX.search(line):
         return parse_rem_line(reminder_line)
+
+    inline_pos: int = 0
+    inline_str: str = ""
+
+    # Spoiler line? ([?SPOILER TYPE=SPOILER])
+    for m in SPOILER_LINE_REGEX.finditer(line):
+        inline_str += line[inline_pos : m.start(0)]
+        inline_str += parse_spoiler_line(m)
+        inline_pos = m.end(0)
+
+    if inline_str:
+        return inline_str + line[inline_pos:]
 
     # Default to a generic paragraph
     return f'<p class="paragraph">{line}</p>'
