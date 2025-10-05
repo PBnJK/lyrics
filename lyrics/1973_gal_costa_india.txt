@@ -1,0 +1,430 @@
+.album_name = Índia
+.album_artist = Gal Costa
+.album_genre = MPB
+.album_year = 1973
+
+# Índia (1973)
+= Gal Costa
+
+<img src="https://m.media-amazon.com/images/I/71mE9ZKaFaL.jpg" width="400" alt="Gal Costa album cover, depicting Gal Costa semi-nude with indigenous vests" />
+= This cover art got the album censored at the time
+
+|Thank you to syvyly for the context and for the notes on the songs!|
+
+Costa was part of the Tropicalismo movement of the late 1960s, which embraced an anarchic, postmodern, global art-pop—merging rock, jazz, soul, funk, psychedelic and avant-garde music along with a variety of Brazilian styles. This made them enemies among both Brazil’s ruling dictatorship, which only wanted patriotic, happy fun-time tunes, and the student revolutionaries, who wanted to keep Brazilian music pure and untainted by Western imperialism.
+Costa’s longtime friends and collaborators, Gilberto Gil and Caetano Veloso, spent two years in arrest and then exile. When they returned, the trio came together again for the 1973 Índia stage show and album. Gil served as guitarist and musical director, while Veloso contributed as a songwriter.
+In spite of the dangerous political environment, Costa continued to court controversy. She was photographed locking lips with Veloso’s sister, fellow singer Maria Bethania—and chose songs that hinted at her bisexuality. The regime banned one song from the radio for being too subversive, and ordered the scandalous semi-nude album cover be hidden under an opaque wrapper for distribution.
+
+.title = Índia
+.en_title = Indigenous Woman
+.artist = Gal Costa
+.composer = José Asunción Flores, Manuel O. Guerrero, José Fortuna
+.arranger = Rogério Duprat
+.end
+
+[00:23] Índia, your hair on your low shoulders                                         // Índia, teus cabelos nos ombros caídos
+[00:31] Dark as the nights without moonlight                                           // Negros como as noites que não tem luar
+[00:40] Your rose lips, smiling for me                                                 // Teus lábios de rosa, para mim, sorrindo
+[00:49] And the sweet seductiveness of your gaze                                       // E a doce meiguice desse teu olhar
+[00:56] Índia with the dark skin                                                       // Índia da pele morena
+[00:59] Your tiny mouth I wish to kiss                                                 // Tua boca pequena eu quero beijar
+[pause]
+[01:11] Índia, {Indigenous group of Brazil=tupi} blood, you have the smell of a flower // Índia, sangue tupi, tens o cheiro da flor
+[01:30] Come, I want to give you                                                       // Vem, que eu quero te dar
+[01:41] All of my great love                                                           // Todo o meu grande amor
+[pause]
+[01:56] When I depart to far away from here                                            // Quando eu for embora para bem distante
+[02:04] And the time comes to say goodbye                                              // E chegar a hora de dizer-te adeus
+[02:12] Stay in my arms for a moment longer                                            // Fique nos meus braços só mais um instante
+[02:21] Let my lips lock with yours                                                    // Deixa os meus lábios se unirem aos teus
+[02:28] Índia, I'll carry with me a longing                                            // Índia, levarei saudade
+[02:31] Of the happiness that you gave me                                              // Da felicidade que você me deu
+[pause]
+[02:43] Índia, your image always goes with me                                          // Índia, tua imagem sempre comigo vai
+[03:03] Inside my heart                                                                // Dentro do meu coração
+[03:13] All of my Paraguay                                                             // Todo meu Paraguai
+[pause]
+[03:28] Índia, your hair on your low shoulders                                         // Índia, teus cabelos nos ombros caídos
+[03:35] Dark as the nights without moonlight                                           // Negros como as noites que não tem luar
+[03:43] Your rose lips, smiling for me                                                 // Teus lábios de rosa, para mim, sorrindo
+[03:51] And the sweet seductiveness of your gaze                                       // E a doce meiguice desse teu olhar
+[03:58] Índia with the dark skin                                                       // Índia da pele morena
+[04:01] Your tiny mouth I wish to kiss                                                 // Tua boca pequena eu quero beijar
+[pause]
+[04:12] Índia, tupi blood, you have the smell of a flower                              // Índia, sangue tupi, tens o cheiro da flor
+[04:31] Come, I want to give you                                                       // Vem, que quero te dar
+[04:40] All of my great love                                                           // Todo o meu grande amor
+[pause]
+[04:55] When I depart to far away from here                                            // Quando eu for embora para bem distante
+[05:02] And the time comes to say goodbye                                              // E chegar a hora de dizer-te adeus
+[05:10] Stay in my arms for a moment longer                                            //Fique nos meus braços só mais um instante
+[05:18] Let my lips lock with yours                                                    // Deixa os meus lábios se unirem aos teus
+[05:24] Índia, I'll carry with me a longing                                            // Índia, levarei saudade
+[05:27] Of the happiness that you gave me                                              // Da felicidade que você me deu
+[pause]
+[05:38] Índia, your image always goes with me                                          // Índia, tua imagem sempre comigo vai
+[05:57] Inside my heart                                                                // Dentro do meu coração
+[06:06] All of my Paraguay                                                             // Todo meu Paraguai
+[06:15] All of my Paraguay                                                             // Todo meu Paraguai
+[06:24] All of my Paraguay                                                             // Todo meu Paraguai
+[06:33] All of my Paraguay                                                             // Todo meu Paraguai
+
+.title = Milho Verde (Folclore Português)
+.en_title = Green Corn (Portuguese Folklore)
+.artist = Gal Costa
+.composer = José Afonso
+.arranger = Gilberto Gil
+.end
+
+[00:14] Green corn, green corn                 // Milho verde, milho verde
+[00:16] Ah, green corn, green corn             // Ah, milho verde, milho verde
+[00:19] Ah, green corn, corn cob               // Ah, milho verde, massaroca
+[pause]
+[00:29] Under the shadow of the green corn     // À sombra do milho verde
+[00:31] Ah, under the shadow of the green corn // Ah, à sombra do milho verde
+[00:34] Ah, I dated a young girl               // Ah, namorei uma cachopa
+[pause]
+[00:44] Green corn, green corn                 // Milho verde, milho verde
+[00:46] Ah, green corn, green corn             // Ah, milho verde, milho verde
+[00:49] Ah, tiny green corn                    // Ah, milho verde miudinho
+[pause]
+[00:57] Under the shadow of the green corn     // À sombra do milho verde
+[01:01] Ah, under the shadow of the green corn // Ah, à sombra do milho verde
+[01:04] Ah, I dated a young boy                // Ah, namorei um rapazinho
+[pause]
+[01:13] Green corn, green corn                 // Milho verde, milho verde
+[01:16] Ah, green corn, green corn             // Ah, milho verde, milho verde
+[01:19] Ah, green corn, wide leaf              // Ah, milho verde, folha larga
+[pause]
+[01:27] Under the shadow of the green corn     // À sombra do milho verde
+[01:30] Ah, under the shadow of the green corn // Ah, à sombra do milho verde
+[01:34] Ah, I dated a married woman            // Ah, namorei uma casada
+[pause]
+[01:43] Women that weed my corn                // Mondadeiras do meu milho
+[01:45] Ah, women that weed my corn            // Ah, mondadeiras do meu milho
+[01:48] Ah, weed my corn                       // Ah, mondai o meu milho
+[pause]
+[01:56] Don't look at the path                 // Não olha para o caminho
+[02:05] Ah, don't look at the path             // Ah, não olha para o caminho
+[02:08] Ah, for the snacks are coming soon     // Ah, que a merenda já lá vem
+[pause]
+[02:18] Green corn, green corn                 // Milho verde, milho verde
+[02:22] Green corn...                          // Milho verde...
+[pause]
+[02:27] Green corn, green corn                 // Milho verde, milho verde
+[02:33] Ah, green corn, green corn             // Ah, milho verde, milho verde
+[02:37] Ah, tiny green corn                    // Ah, milho verde miudinho
+
+.title = Presente Cotidiano
+.en_title = Everyday Life
+.artist = Gal Costa
+.composer = Luiz Melodia
+.arranger = Arthur Verocai
+.end
+
+[00:08] Everything's loose on the air platform           // Tá tudo solto na plataforma do ar
+[00:12] It's all there, It's all there                   // Tá tudo aí, tá tudo aí
+[00:17] Who wants to buy bananas?                        // Quem vai querer comprar banana?
+[00:22] Who wants to buy the mud?                        // Quem vai querer comprar a lama?
+[00:27] Who wants to buy the grass?                      // Quem vai querer comprar a grama?
+[pause]
+[00:32] Everything's loose everywhere                    // Tá tudo solto por aí
+[00:38] It's all like this, It's all like this           // Tá tudo assim, tá tudo assim
+[00:43] Those that want to die of love are mistaken      // Quem quer morrer de amor se engana
+[00:47] Moments are moments, drama                       // Momentos são momentos, drama
+[00:52] The body is natural to the bed                   // O corpo é natural da cama
+[00:57] I'll walk a little further behind the moon       // Vou caminhar um pouco mais atrás da lua
+[01:03] I'll walk a little further behind the street     // Vou caminhar um pouco mais atrás da rua
+[pause]
+[01:12] But everything flies around everywhere           // Mas tudo voa por aí
+[01:17] On the wing of the plane                         // Na asa do avião
+[01:19] On the beak of a bird from here                  // No bico de um pássaro daqui
+[01:25] But everything spins, woe is me                  // Mas tudo gira, ai de mim
+[01:29] The ball and the spinning top                    // A bola e o pião
+[01:31] Girl in my heart                                 // Menina em meu coração
+[pause]
+[01:38] Everything's loose on the fair, a noble place    // Tá tudo solto na feira, nobre lugar
+[01:42] It's so bad, It's so bad                         // Tá tão ruim, tá tão ruim
+[pause]
+[01:47] Who wants to buy bananas?                        // Quem vai querer comprar banana?
+[01:51] Who wants to buy bananas?                        // Quem vai querer comprar banana?
+[01:56] Who wants to buy bananas?                        // Quem vai querer comprar banana?
+[02:00] Who wants to buy?                                // Quem vai querer comprar?
+[02:05] Who wants to?                                    // Quem vai querer?
+[02:07] Who wants?                                       // Quem vai?
+[02:14] Who?                                             // Quem?
+[02:16] Who?                                             // Quem?
+[02:23] Who?                                             // Quem?
+[pause]
+[02:27] Who wants to buy bananas?                        // Quem vai querer comprar banana?
+[02:31] Who wants to buy bananas?                        // Quem vai querer comprar banana?
+[02:36] Who wants to buy bananas?                        // Quem vai querer comprar banana?
+[02:39] Who wants to buy?                                // Quem vai querer comprar?
+[02:46] Who wants to?                                    // Quem vai querer?
+[02:50] Who wants?                                       // Quem vai?
+[02:51] Who?                                             // Quem?
+
+.title = Volta
+.en_title = Come Back
+.artist = Gal Costa
+.composer = Lupicínio Rodrigues
+.end
+
+[00:03] How many night I haven't slept           // Quantas noites não durmo
+[00:07] Rolling on the bed                       // A rolar-me na cama
+[00:11] Feeling so many things                   // A sentir tantas coisas
+[00:14] That we can't explain when we're in love // Que a gente não pode explicar quando ama
+[pause]
+[00:21] The warmth of the sheets                 // O calor das cobertas
+[00:25] Doesn't warm me right                    // Não me aquece direito
+[00:30] There's nothing in the world             // Não há nada no mundo
+[00:32] That can remove this cold from my chest  // Que possa afastar esse frio do meu peito
+[pause]
+[00:41] Come back                                // Volta
+[00:44] Come live by my side once again          // Vem viver outra vez ao meu lado
+[00:48] I can't sleep without your arm           // Não consigo dormir sem teu braço
+[00:52] Because my body got used to it           // Pois meu corpo está acostumado
+[pause]
+[00:59] Come back                                // Volta
+[01:02] Come live by my side once again          // Vem viver outra vez ao meu lado
+[01:07] I can't sleep without your arm           // Não consigo dormir sem teu braço
+[01:11] Because my body got used to it           // Pois meu corpo está acostumado
+[pause]
+[01:17] How many night I haven't slept           // Quantas noites não durmo
+[01:22] Rolling on the bed                       // A rolar-me na cama
+[01:27] Feeling so many things                   // A sentir tantas coisas
+[01:30] That we can't explain when we're in love // Que a gente não pode explicar quando ama
+[pause]
+[01:37] The warmth of the sheets                 // O calor das cobertas
+[01:41] Doesn't warm me right                    // Não me aquece direito
+[01:46] There's nothing in the world             // Não há nada no mundo
+[01:49] That can remove this cold from my chest  // Que possa afastar esse frio do meu peito
+[pause]
+[01:57] Come back                                // Volta
+[01:59] Come live by my side once again          // Vem viver outra vez ao meu lado
+[02:04] I can't sleep without your arm           // Não consigo dormir sem teu braço
+[02:08] Because my body got used to it           // Pois meu corpo está acostumado
+[pause]
+[02:14] Come back                                // Volta
+[02:17] Come live by my side once again          // Vem viver outra vez ao meu lado
+[02:22] I can't sleep without your arm           // Não consigo dormir sem teu braço
+[02:26] Because my body got used to it           // Pois meu corpo está acostumado
+[pause]
+[02:32] Come back                                // Volta
+[02:35] Come live by my side once again          // Vem viver outra vez ao meu lado
+[02:39] I can't sleep without your arm           // Não consigo dormir sem teu braço
+[02:43] Because my body got used to it           // Pois meu corpo está acostumado
+[pause]
+[02:50] Come back                                // Volta
+[02:53] Come live by my side once again          // Vem viver outra vez ao meu lado
+[02:57] I can't sleep without your arm           // Não consigo dormir sem teu braço
+[03:02] Because my body got used to it           // Pois meu corpo está acostumado
+
+.title = Relance
+.en_title = Glimpse
+.artist = Gal Costa
+.composer = Caetano Veloso
+.arranger = Gilberto Gil
+.end
+
+Pay attention to the original lyrics on the right for this one, and you'll notice that there's a pattern to the way that they are constructed, in the manner of concrete poetry
+
+[00:26] Stop, notice                         // Pare, repare
+[00:35] Cite, recite                         // Cite, recite
+[00:45] Save, fix                            // Salve, ressalve
+[00:54] Return, revolt                       // Volte, revolte
+[01:03] Treat, picture                       // Trate, retrate
+[01:13] Watch, reveal                        // Vele, revele
+[01:22] Touch, retouch                       // Toque, retoque
+[01:32] Prove, fail                          // Prove, reprove
+[01:41] Clamor, complain                     // Clame, reclame
+[01:50] Deny, reject                         // Negue, renegue
+[01:59] Jump, highlight                      // Salte, ressalte
+[02:09] Hit, hit back                        // Bata, rebata
+[02:18] Wound, refer                         // Fira, refira
+[02:27] Break, {Like dancing=break it down}  // Quebre, requebre
+[02:37] Move, {Like dancing (again)=Move it} // Mexa, remexa
+[02:46] Draft, twerk                         // Bole, rebole
+[02:56] Return, revolve                      // Volva, revolva
+[03:05] Run, resort                          // Corra, recorra
+[03:14] Kill, finish                         // Mate, remate
+[pause]
+[03:24] Die, be reborn!                      // Morra, renasça!
+[03:31] Die, be reborn!                      // Morra, renasça!
+[03:38] Die, be reborn!                      // Morra, renasça!
+[03:45] Die, be reborn!                      // Morra, renasça!
+[03:52] Die, be reborn!                      // Morra, renasça!
+[03:59] Die, be reborn!                      // Morra, renasça!
+[04:06] Die, be reborn!                      // Morra, renasça!
+[04:13] Die, be reborn!                      // Morra, renasça!
+[04:20] Die, be reborn!                      // Morra, renasça!
+[04:27] Die, be reborn!                      // Morra, renasça!
+[04:34] Die, be reborn!                      // Morra, renasça!
+[04:40] Die, be reborn!                      // Morra, renasça!
+[04:48] Die, be reborn!                      // Morra, renasça!
+[04:55] Die, be reborn!                      // Morra, renasça!
+
+.title = Da Maior Importância
+.en_title = Of the Greatest Importance
+.artist = Gal Costa
+.composer = Caetano Veloso
+.arranger = Gilberto Gil
+.end
+
+[00:19] It was a small moment, a quirk of yours                                    // Foi um pequeno momento, um jeito
+[00:24] Something like that                                                        // Uma coisa assim
+[00:28] A movement and then you couldn't anymore                                   // Era um movimento que aí você não pode mais
+[00:35] Couldn't like me right                                                     // Gostar de mim direito
+[pause]
+[00:42] It would have been on the beach, fear                                      // Teria sido na praia, medo
+[00:47] It will be a mistake                                                       // Vai ser um erro
+[00:49] A word, the wrong word                                                     // Uma palavra, a palavra errada
+[pause]
+[00:56] Nothing, nothing                                                           // Nada, nada
+[01:01] Practically nothing, nothing                                               // Basta nada, nada
+[01:05] And I almost don't like it, I don't even like it now                       // E eu quase não gosto, já nem gosto
+[01:10] The way {The "you" is a woman=you} were suddenly looked at by us           // Do jeito que de repente você foi olhada por nós
+[pause]
+[01:23] {This line makes it clear that it's a man speaking=Because I'm shy and there was a thing} // Porque eu sou tímido e teve um negócio
+[01:28] Where you asked my sign                                                    // De você perguntar o meu signo
+[01:31] When there wasn't any sign at all                                          // Quando não havia, signo nenhum
+[01:40] Scorpio, Sagittarius, or whatever                                          // Escorpião, sagitário, não sei que lá
+[pause]
+[01:51] We just started talking about stupid things, idle chit-chat                // Ficou um papo de otário, um papo
+[01:56] It was going well                                                          // Ia sendo bom
+[02:00] It's so hard, so simple, hard, so easy                                     // É tão difícil, tão simples, difícil, tão fácil
+[02:05] All of a sudden being such a huge thing                                    // De repente ser uma coisa tão grande
+[pause]
+[02:13] Of the greatest importance                                                 // Da maior importância
+[02:18] There must be some kind of sex for you and me                              // Deve haver uma transa qualquer pra você e pra mim
+[02:26] Between us                                                                 // Entre nós
+[02:32] And you throwing it away and now go away, go                               // E você jogando fora e agora vá embora, vá
+[pause]
+[02:41] There must be some kind of way, some time                                  // Deve haver um jeito qualquer, uma hora
+[02:49] There's always a man for a woman                                           // Há sempre um homem, para uma mulher
+[02:59] There are ten women for each one                                           // Há dez mulheres para cada um
+[03:03] A woman is always a woman, so on, so forth                                 // Uma mulher é sempre uma mulher, etc. e tal
+[pause]
+[03:12] Just like how there exist flying saucers and the darkness of the future    // Assim como existe disco voador e o escuro do futuro
+[03:19] May exist in what depends                                                  // Pode haver no que está dependendo
+[03:25] Of a pure little moment of love                                            // De um pequeno momento puro de amor
+[pause]
+[03:34] But you weren't up for it, and now It's not me that's going to             // Mas você não teve pique, e agora não sou eu quem vai
+[03:43] Tell you to stay, you weren't up for it                                    // Lhe dizer que fique, você não teve pique
+[03:48] And now It's not me that's going to tell you to stay                       // E agora não sou eu quem vai lhe dizer que fique
+[03:56] But you weren't up for it, and now it's not me that's going to             // Mas você não teve pique e agora não sou eu quem vai
+[04:09] Tell you to stay, It's not me that's going to                              // Lhe dizer que fique, não sou eu quem vai
+[04:18] You weren't up for it                                                      // Você não teve pique
+[04:22] It's not me that's going to                                                // Não sou eu quem vai
+[04:26] Tell you to stay                                                           // Lhe dizer que fique
+[04:31] It's not me that's going to                                                // Não sou eu quem vai
+[04:35] It's not me that's going to tell you that you weren't up for it            // Não sou eu quem vai lhe dizer que você não teve pique
+[04:42] It's not me                                                                // Não sou eu
+[pause]
+[04:55] To stay                                                                    // Que fique
+[04:57] It's not me that's going to                                                // Não sou eu quem vai
+[05:01] But you weren't up for it                                                  // Mas você não teve pique
+[05:05] It's not me that's going to                                                // Não sou eu quem vai
+
+.title = Passarinho
+.en_title = Little Bird
+.artist = Gal Costa
+.composer = Tuzé de Abreu
+.arranger = Gilberto Gil
+.end
+
+[00:40] Sing like a bird             // Cantar como um passarinho
+[00:46] In the early morning         // De manhã cedinho
+[00:52] On a branch in the grove     // Lá na galha do arvoredo
+[00:58] By the river shore           // Na beira do rio
+[pause]
+[01:56] Flap your wings, little bird // Bate as asas, passarinho
+[02:00] Because I want to fly        // Que eu quero voar
+[02:06] Flap your wings, little bird // Bate as asas, passarinho
+[02:12] Because I want to fly        // Que eu quero voar
+[pause]
+[02:19] Take me to the girl's window // Me leva na janela da menina
+[02:25] Because I want to fly        // Que eu quero amar
+[02:31] Take me to her window        // Me leva na janela dela
+[02:37] Because I want to peek       // Que eu quero espiar
+[02:43] Take me to the girl's window // Me leva na janela da menina
+[02:49] Because I want to sing       // Que eu quero cantar
+[pause]
+[02:55] Sing like a bird             // Cantar como um passarinho
+[03:01] In the early morning         // De manhã cedinho
+[03:07] On a branch in the grove     // Lá na galha do arvoredo
+[03:13] By the river shore           // Na beira do rio
+[pause]
+[03:53] Sing like a bird             // Cantar como um passarinho
+[03:59] In the early morning         // De manhã cedinho
+[04:05] On a branch in the grove     // Lá na galha do arvoredo
+[04:10] By the river shore           // Na beira do rio
+[pause]
+[04:17] Sing like a bird             // Cantar como um passarinho
+[04:23] Like a bird                  // Como um passarinho
+[04:37] Sing like a bird             // Cantar como um passarinho
+[04:42] Like a bird                  // Como um passarinho
+[04:48] Like a bird                  // Como um passarinho
+
+.title = Pontos de Luz
+.en_title = Motes of Light
+.artist = Gal Costa
+.composer = Waly Salomão, Jards Macalé
+.arranger = Arthur Verocai
+.end
+
+[00:14] I feel content                 // Me sinto contente
+[00:17] I feel very content            // Me sinto muito contente
+[00:22] I feel completely content      // Me sinto completamente contente
+[00:24] I dare say: completely content // Ouso dizer: completamente contente
+[pause]
+[00:27] I'd even say                   // Me arrisco a falar
+[00:31] I feel happy                   // Me sinto feliz
+[00:35] I feel very happy              // Me sinto muito feliz
+[00:40] I feel completely happy        // Me sinto completamente feliz
+[00:42] I dare say: completely happy   // Ouso dizer: completamente feliz
+[pause]
+[00:58] I feel content                 // Me sinto contente
+[01:02] I feel very content            // Me sinto muito contente
+[01:06] I feel completely content      // Me sinto completamente contente
+[01:08] I dare say: completely content // Ouso dizer: completamente contente
+[pause]
+[01:12] I'd even say                   // Me arrisco a falar
+[01:16] I feel happy                   // Me sinto feliz
+[01:19] I feel very happy              // Me sinto muito feliz
+[01:24] I feel completely happy        // Me sinto completamente feliz
+[01:26] I dare say: completely happy   // Ouso dizer: completamente feliz
+[pause]
+[01:37] I feel happy                   // Me sinto feliz
+[01:46] I feel content                 // Me sinto contente
+[01:55] I feel happy                   // Me sinto feliz
+[02:05] I feel completely              // Me sinto completamente
+[pause]
+
+.title = Desafinado
+.en_title = Out of Tune
+.artist = Gal Costa
+.composer = Tom Jobim, Newton Mendonça
+.arranger = Gilberto Gil
+.end
+
+[00:13] If you say that I detune, love                                                   // Se você disser que eu desafino, amor
+[00:20] Know that this causes me immense pain                                            // Saiba que isso em mim provoca imensa dor
+[00:28] Only the privileged have ears like yours                                         // Só privilegiados tem ouvido igual ao seu
+[00:35] I have only what God gave me                                                     // Eu possuo apenas o que Deus me deu
+[pause]
+[00:43] If you insist in categorizing                                                    // Se você insiste em classificar
+[00:51] My behaviour as anti-musical                                                     // Meu comportamento de anti-musical
+[00:58] I, even if lying, must argue                                                     // Eu, mesmo mentindo, devo argumentar
+[01:06] That this is Bossa Nova, it's only natural                                       // Que isso é bossa nova, isso é muito natural
+[pause]
+[01:13] What you don't know, and never suspected                                         // O que você não sabe, nem sequer pressente
+[01:21] Is that the out of tune also have a heart                                        // É que os desafinados também tem um coração
+[01:28] I photographed you with my Rolleiflex                                            // Fotografei você na minha Rolleiflex
+[01:35] And your great ingratitude was {To "develop" a photo in Portuguese is to "reveal it." It's a pun=revealed} // Revelou-se a sua enorme ingratidão
+[pause]
+[01:43] The only person you can't say these things about is my live                      // Só não poderá falar assim do meu amor
+[01:51] He's the greatest you can find, alright?                                         // Ele é o maior que você pode encontrar, viu?
+[01:58] You, with your music, forgot the main thing                                      // Você, com a sua música, esqueceu do principal
+[02:05] That in the chest of the out of tune, the bottom of the chest, it beats silently // Que no peito dos desafinados, no fundo do peito, bate calado
+[02:13] That in the chest of the out of tune, a heart also beats                         // Que no peito dos desafinados também bate um coração

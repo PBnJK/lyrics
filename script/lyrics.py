@@ -65,6 +65,12 @@ def parse_meta_line(line: re.Match, out: dict) -> str:
             return f'    <p class="meta-en-title">({value})</p>\n'
         case "artist":
             return f'    <p class="meta-artist">{value}</p>\n'
+        case "arranger":
+            return f'    <p class="meta-small">Arr.: {value}</p>\n'
+        case "composer":
+            return f'    <p class="meta-small">Comp.: {value}</p>\n'
+        case "lyricist":
+            return f'    <p class="meta-small">Lyr.: {value}</p>\n'
         case "album_name":
             out["album"] = value
             return ""

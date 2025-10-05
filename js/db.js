@@ -5,6 +5,12 @@ const db = {
 		"genre": ["Folk", "Jazz", "MPB", "Baião"],
 		"year": "2025",
 	},
+	"1973_gal_costa_india": {
+		"album": "Índia",
+		"artist": ["Gal Costa"],
+		"genre": ["MPB"],
+		"year": "1973",
+	},
 	"1972_milton_nascimento_lo_borges_clube_da_esquina": {
 		"album": "Clube da Esquina",
 		"artist": ["Milton Nascimento", "Lô Borges"],
