@@ -24,6 +24,18 @@ p {
   color: var(--text-primary);
 }
 
+a:link {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: var(--text-link);
+}
+
+a:visited {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: var(--text-link-visited);
+}
+
 hr {
   border-color: var(--text-disabled);
   margin: 32px 0;
@@ -69,6 +81,12 @@ main {
   vertical-align: middle;
 
   border: 2px solid;
+}
+
+.button:link,
+.button:visited {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
 }
 
 .button:hover {

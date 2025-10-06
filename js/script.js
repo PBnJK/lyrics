@@ -4,6 +4,8 @@ const DARK_THEME_TABLE = {
   "--text-primary": "#bbbbbb",
   "--text-secondary": "#959595",
   "--text-disabled": "#555555",
+  "--text-link": "#808faf",
+  "--text-link-visited": "#404faf",
 
   "--bg-primary": "#181818",
   "--bg-secondary": "#343434",
@@ -17,6 +19,8 @@ const LIGHT_THEME_TABLE = {
   "--text-primary": "#444444",
   "--text-secondary": "#6a6a6a",
   "--text-disabled": "#aaaaaa",
+  "--text-link": "#404f8f",
+  "--text-link-visited": "#606f8f",
 
   "--bg-primary": "#e8e8e8",
   "--bg-secondary": "#cacaca",

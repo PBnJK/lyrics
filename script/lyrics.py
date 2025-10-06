@@ -27,19 +27,19 @@ def make_html_safe(line: str) -> str:
 
 def parse_header_line(line: re.Match) -> str:
     size: str = line.group(1).strip()
-    header: str = make_html_safe(line.group(2).strip())
+    header: str = line.group(2).strip()
 
     tag: str = f"h{len(size)}"
     return f"<{tag}>{header}</{tag}>"
 
 
 def parse_sub_line(line: re.Match) -> str:
-    subtitle: str = make_html_safe(line.group(1).strip())
+    subtitle: str = line.group(1).strip()
     return f'<p class="subtitle"><i>{subtitle}</i></p>'
 
 
 def parse_info_line(line: re.Match) -> str:
-    info: str = make_html_safe(line.group(1).strip())
+    info: str = line.group(1).strip()
     return f"""\
   <div class="info-box">
     <p class="info">{info}</p>
@@ -48,13 +48,13 @@ def parse_info_line(line: re.Match) -> str:
 
 
 def parse_note_line(line: re.Match) -> str:
-    note: str = make_html_safe(line.group(1).strip())
+    note: str = line.group(1).strip()
     return f'<p class="note"><i>T/L Note: {note}</i></p>'
 
 
 def parse_meta_line(line: re.Match, out: dict) -> str:
     key: str = line.group(1).strip()
-    value: str = make_html_safe(line.group(2).strip())
+    value: str = line.group(2).strip()
     match key:
         case "title":
             return f"""\
@@ -99,7 +99,7 @@ def parse_meta_line(line: re.Match, out: dict) -> str:
 def parse_lyric_line(line: re.Match) -> str:
     timestamp: str = line.group(1)
     lyric: str = make_html_safe(line.group(2).strip())
-    og: str = make_html_safe(line.group(3))
+    og: str = line.group(3)
 
     output: str = f"""\
   <div class="lyric-box">
@@ -128,8 +128,8 @@ def parse_lyric_line(line: re.Match) -> str:
 
 
 def parse_rem_line(line: re.Match) -> str:
-    en_reminder: str = make_html_safe(line.group(1).strip())
-    pt_reminder: str = make_html_safe(line.group(2).strip())
+    en_reminder: str = line.group(1).strip()
+    pt_reminder: str = line.group(2).strip()
 
     return f"""\
   <div class="lyric-box">
