@@ -13,6 +13,10 @@
 
 Costa was part of the Tropicalismo movement of the late 1960s, which embraced an anarchic, postmodern, global art-pop—merging rock, jazz, soul, funk, psychedelic and avant-garde music along with a variety of Brazilian styles. This made them enemies among both Brazil’s ruling dictatorship, which only wanted patriotic, happy fun-time tunes, and the student revolutionaries, who wanted to keep Brazilian music pure and untainted by Western imperialism.
 Costa’s longtime friends and collaborators, Gilberto Gil and Caetano Veloso, spent two years in arrest and then exile. When they returned, the trio came together again for the 1973 Índia stage show and album. Gil served as guitarist and musical director, while Veloso contributed as a songwriter.
+
+<img src="assets/band_members/gal_costa.jpg" width="600" alt="Gal Costa sitting down with" />
+= Gal Costa performing during the "Fa-Tal - Gal a Todo Vapor" show
+
 In spite of the dangerous political environment, Costa continued to court controversy. She was photographed locking lips with Veloso’s sister, fellow singer Maria Bethania—and chose songs that hinted at her bisexuality. The regime banned one song from the radio for being too subversive, and ordered the scandalous semi-nude album cover be hidden under an opaque wrapper for distribution.
 
 .title = Índia
@@ -21,6 +25,8 @@ In spite of the dangerous political environment, Costa continued to court contro
 .composer = José Asunción Flores, Manuel O. Guerrero, José Fortuna
 .arranger = Rogério Duprat
 .end
+
+Gal Costa never knew her father, but she had a recording of him singing this old sentimental song. It’s also the first of several tracks in which the bisexual Costa conspicuously does not change the gender of the (female) object of the song’s desire.
 
 [00:23] Índia, your hair on your low shoulders                                         // Índia, teus cabelos nos ombros caídos
 [00:31] Dark as the nights without moonlight                                           // Negros como as noites que não tem luar
@@ -76,6 +82,8 @@ In spite of the dangerous political environment, Costa continued to court contro
 .arranger = Gilberto Gil
 .end
 
+A Portuguese folk song insinuating all manner of illicit sexuality.
+
 [00:14] Green corn, green corn                 // Milho verde, milho verde
 [00:16] Ah, green corn, green corn             // Ah, milho verde, milho verde
 [00:19] Ah, green corn, corn cob               // Ah, milho verde, massaroca
@@ -121,6 +129,8 @@ In spite of the dangerous political environment, Costa continued to court contro
 .composer = Luiz Melodia
 .arranger = Arthur Verocai
 .end
+
+Banned from Brazilian radio for poking fun at the dictatorship’s economic boasts.
 
 [00:08] Everything's loose on the air platform           // Tá tudo solto na plataforma do ar
 [00:12] It's all there, It's all there                   // Tá tudo aí, tá tudo aí
@@ -227,7 +237,7 @@ In spite of the dangerous political environment, Costa continued to court contro
 .arranger = Gilberto Gil
 .end
 
-Pay attention to the original lyrics on the right for this one, and you'll notice that there's a pattern to the way that they are constructed, in the manner of concrete poetry
+Pay attention to the original lyrics on the right for this one, and you'll notice that there's a pattern to the way that they are constructed, in the manner of concrete poetry.
 
 [00:26] Stop, notice                         // Pare, repare
 [00:35] Cite, recite                         // Cite, recite
@@ -407,6 +417,8 @@ Pay attention to the original lyrics on the right for this one, and you'll notic
 .composer = Tom Jobim, Newton Mendonça
 .arranger = Gilberto Gil
 .end
+
+A bossa nova standard, kind of the theme song for the whole genre. But in this context, given Costa’s position as a musical, political, and sexual dissident, ending with this defiant declaration to be one of the “out of tune ones” takes on some added dimensions.
 
 [00:13] If you say that I detune, love                                                   // Se você disser que eu desafino, amor
 [00:20] Know that this causes me immense pain                                            // Saiba que isso em mim provoca imensa dor
