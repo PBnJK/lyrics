@@ -39,8 +39,10 @@ thead {
 
 th,
 td {
+  overflow: clip;
   text-overflow: ellipsis;
 
+  max-width: 250px;
   padding: 8px 12px;
 }
 

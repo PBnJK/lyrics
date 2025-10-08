@@ -23,6 +23,12 @@ const db = {
 		"genre": ["MPB"],
 		"year": "1972",
 	},
+	"1968_os_mutantes_os_mutantes": {
+		"album": "Os Mutantes",
+		"artist": ["Os Mutantes"],
+		"genre": ["Tropicália", "Psychedelic Rock", "Experimental Rock"],
+		"year": "1968",
+	},
 	"1974_jorge_ben_jor_a_tabua_de_esmeralda": {
 		"album": "A Tábua de Esmeralda",
 		"artist": ["Jorge Ben Jor"],

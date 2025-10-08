@@ -55,7 +55,7 @@ Context and whatnot will go here.
 [00:09] I invent more than what loneliness gives me // Invento mais que a solidão me dá
 [00:17] I invent a shining new moon                 // Invento lua nova a clarear
 [00:24] I invent love                               // Invento o amor
-[00:27] And I know the pain of throwing myself      // E sei a dor de me lançar
+[00:27] And I know the pain of throwing myself off  // E sei a dor de me lançar
 [pause]
 [00:39] I wanted to be happy                        // Eu queria ser feliz
 [00:45] I invent the sea                            // Invento o mar
@@ -66,7 +66,7 @@ Context and whatnot will go here.
 [01:11] I have the path to what I've always wanted  // Tenho o caminho do que sempre quis
 [01:17] And a boat ready to set sail                // E um saveiro pronto pra partir
 [01:25] I invent the pier                           // Invento o cais
-[01:29] And know the time to throw myself           // E sei a vez de me lançar
+[01:29] And know the time to throw myself off       // E sei a vez de me lançar
 
 .title = O Trem Azul
 .en_title = The Blue Train

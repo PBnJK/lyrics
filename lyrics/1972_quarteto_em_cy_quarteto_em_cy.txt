@@ -197,7 +197,7 @@
 [02:45] After, in a T, dark ivy              // Depois num T, treva daninha
 [pause]
 [02:56] Last wait                            // Última espera
-[03:01] Bum life                             // Vida vadia
+[03:01] Vagrant life                         // Vida vadia
 [03:06] Bloody tears                         // Choro sangrado
 [03:11] Caring for the world                 // Zelando o mundo
 
@@ -232,7 +232,7 @@
 [02:05] Don't go!                                               // Não se vá!
 [pause]
 [02:08] The one that spawned loneliness wasn't me               // Quem gerou a solidão não fui eu
-[02:14] Why would I {Might be "procreate" instead=create}?      // Por que é que eu vou criar?
+[02:14] Why would I raise it?                                   // Por que é que eu vou criar?
 [pause]
 [02:22] Another null port                                       // Outro porto nulo
 [02:33] Here we go, you and I                                   // Lá vamos eu e vocês
@@ -499,5 +499,4 @@ I'd just like to make it clear that, as a Christian, I'm the least qualified per
 [02:56] Ultimate wait                        // Última espera
 [03:01] Vagrant life                         // Vida vadia
 [03:06] Bloody tears                         // Choro sangrado
-[03:11] Zeal for the world                   // Zelando o mund
-
+[03:11] Zeal for the world                   // Zelando o mundo
