@@ -110,12 +110,12 @@ def parse_lyric_line(line: re.Match) -> str:
     for c in lyric:
         if c == "{":
             inside_abbr = True
-            output += '<abbr class="lyric-note" title="'
+            output += '<span class="abbr lyric-note" data-title="'
         elif inside_abbr and c == "=":
             output += '">'
         elif inside_abbr and c == "}":
             inside_abbr = False
-            output += "</abbr>"
+            output += "</span>"
         else:
             output += c
 

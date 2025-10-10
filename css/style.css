@@ -273,29 +273,29 @@ main {
 }
 
 /* https://stackoverflow.com/a/69353021 */
-@media (hover: none) {
-  abbr[title] {
-    position: relative;
-    text-decoration: underline dotted;
-  }
+.abbr[data-title] {
+  position: relative;
+  text-decoration: underline dotted;
+}
 
-  abbr[title]:hover::after,
-  abbr[title]:focus::after {
-    content: attr(title);
+.abbr[data-title]:hover::after,
+.abbr[data-title]:focus::after {
+  content: attr(data-title);
 
-    /* position tooltip like the native one */
-    position: absolute;
-    left: 0;
-    bottom: -30px;
-    width: auto;
-    white-space: nowrap;
+  position: absolute;
 
-    /* style tooltip */
-    background-color: #1e1e1e;
-    color: #fff;
-    border-radius: 3px;
-    box-shadow: 1px 1px 5px 0 rgba(0, 0, 0, 0.4);
-    font-size: 14px;
-    padding: 3px 5px;
-  }
+  left: 0;
+  bottom: -30px;
+  width: auto;
+  white-space: nowrap;
+
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+
+  border: 1px solid var(--bg-secondary);
+  border-radius: 4px;
+
+  box-shadow: 1px 1px 5px 0 rgba(0, 0, 0, 0.4);
+  font-size: 14px;
+  padding: 4px 8px;
 }

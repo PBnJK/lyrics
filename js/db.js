@@ -17,6 +17,12 @@ const db = {
 		"genre": ["MPB"],
 		"year": "1973",
 	},
+	"1972_gilberto_gil_expresso_2222": {
+		"album": "Expresso 2222",
+		"artist": ["Gilberto Gil"],
+		"genre": ["MPB", "Tropicália"],
+		"year": "1972",
+	},
 	"1972_milton_nascimento_lo_borges_clube_da_esquina": {
 		"album": "Clube da Esquina",
 		"artist": ["Milton Nascimento", "Lô Borges"],

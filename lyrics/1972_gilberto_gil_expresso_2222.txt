@@ -1,0 +1,238 @@
+.album_name = Expresso 2222
+.album_artist = Gilberto Gil
+.album_genre = MPB, Tropicália
+.album_year = 1972
+
+# Expresso 2222 (1972)
+= Gilberto Gil
+
+<img src="assets/covers/1972_gilberto_gil_expresso_2222.jpg" width="400" alt="Expresso 2222 cover art, depicting Gilberto Gil's baby son, Pedro Gil, wearing overalls." />
+= The cover depicts Pedro Gil, one of Gilberto Gil's children
+
+After being put under arrest for two months by the dictatorship, hopping between headquarters and jail cells, Gilberto Gil exiled himself to London in 1969 alongside fellow musician Caetano Veloso. The pair spent three years immersed in the bustling music scene of the metropolis, witnessing the rise of Reggae in the UK, watching Miles Davis performances, jamming with David Gilmour and being headliners in festivals featuring names such as The Doors, Joni Mitchell and Leonard Cohen.
+
+Eventually, the dust sufficiently settled, the dynamic duo returned to Brazil in 1972, and brought gifts: Caetano Veloso released the album "Transa," considered by many to be his <i>magnum opus.</i> Gilberto Gil released "Expresso 2222" (Express 2222.) The name, paying homage to the train Gilberto Gil rode on to leave his hometown, says it all: London was nice, but Gil missed Brazil, and he's going to use all of those new ideas he picked up while away to let you know.
+
+.title = Pipoca Moderna
+.en_title = Modern Popcorn
+.artist = Banda De Pífanos De Caruaru
+.composer = Sebastião C. Biano
+.end
+
+A Banda de Pífanos (Band of Fifes) welcomes us into the album with a style of tune traditional to Gil's home state.
+
+[instrumental]
+
+.title = Back in Bahia
+.en_title = Back in Bahia
+.artist = Gilberto Gil
+.composer = Gilberto Gil
+.end
+
+[00:19] Back in London, now and then I felt I was too far from here                        // Lá em Londres, vez em quando me sentia longe daqui
+[00:26] Now and then, when I felt too far, I realized I was                                // Vez em quando, quando me sentia longe, dava por mim
+[00:33] Pulling out my hairs, nervous, itching to play some {A pioneer of Rock as a genre in Brazil. Also responsible for popularizing the twist dance in the country=Celly Campello} so I wouldn't fall // Puxando o cabelo nervoso, querendo ouvir Celly Campello pra não cair
+[00:40] Into that ditch that I saw a buddy of mine                                         // Naquela fossa em que vi um camarada meu
+[00:44] From Portobello fall in                                                            // De Portobello cair
+[pause]
+[00:47] Acting all unreasonable because I                                                  // Naquela falta de juízo que eu não
+[00:51] Didn't have any reason to have fun                                                 // Tinha nem uma razão pra curtir
+[00:54] In that absence of heat, of color, of salt                                         // Naquela ausência de calor, de cor, de sal
+[00:58] Of sun, of a heart to feel                                                         // De sol, de coração pra sentir
+[01:01] So much longing preserved in an old silver chest inside me                         // Tanta saudade preservada num velho baú de prata dentro de mim
+[pause]
+[01:07] I say a silver chest because silver is like the light of the moon                  // Digo num baú de prata porque prata é a luz do luar
+[01:14] Moonlight that I missed so much, just as much as the sea                           // Do luar que tanta falta me fazia junto do mar
+[01:21] Sea of Bahia whose green now and then made me remember again                       // Mar da Bahia cujo verde vez em quando me fazia bem relembrar
+[01:28] So different from the just as beautiful green of the grassy fields of there        // Tão diferente do verde também tão lindo dos gramados campos de lá
+[pause]
+[01:35] Northern island where, I don't know if out of luck or as punishment, I ended up in // Ilha do Norte onde não sei se por sorte ou por castigo dei de parar
+[01:42] For some time that, after all, passed by quickly, as all things must pass          // Por algum tempo que afinal passou depressa como tudo tem de passar
+[01:49] Today I feel as if having gone was needed so I could come back                     // Hoje eu me sinto como se ter ido fosse necessário para voltar
+[01:56] So much livelier from a life lived longer, divided between here and there          // Tanto mais vivo de vida mais vivida, dividida pra lá e pra cá
+[instrumental]
+[02:45] Back in London, now and then I felt I was too far from here                        // Lá em Londres, vez em quando me sentia longe daqui
+[02:50] Now and then, when I felt too far, I realized I was                                // Vez em quando, quando me sentia longe, dava por mim
+[02:58] Pulling out my hairs, nervous, itching to play some so I wouldn't fall             // Puxando o cabelo nervoso, querendo ouvir Celly Campelo pra não cair
+[03:03] Into that ditch that I saw a buddy of mine                                         // Naquela fossa em que vi um camarada meu
+[03:08] From Portobello fall in                                                            // De Portobello cair
+[pause]
+[03:11] Acting all unreasonable because I                                                  // Naquela falta de juízo que eu não
+[03:14] Didn't have any reason to have fun                                                 // Tinha nem uma razão pra curtir
+[03:17] In that absence of heat, of color, of salt                                         // Naquela ausência de calor, de cor, de sal
+[03:21] Of sun, of a heart to feel                                                         // De sol, de coração pra sentir
+[03:24] So much longing preserved in an old silver chest inside me                         // Tanta saudade preservada no velho baú de prata dentro de mim
+[pause]
+[03:30] I say a silver chest because silver is like the light of the moon                  // Digo num baú de prata porque prata é a luz do luar
+[03:37] Moonlight that I missed so much, just as much as the sea                           // Do luar que tanta falta me fazia junto do mar
+[03:45] Sea of Bahia whose green now and then made me remember again                       // Mar da Bahia cujo verde vez em quando me fazia bem relembrar
+[03:51] So different from the just as beautiful green of the grassy fields of there        // Tão diferente do verde também tão lindo dos gramados campos de lá
+[pause]
+[03:57] Northern island where, I don't know if out of luck or as punishment, I ended up in // Ilha do Norte onde não sei se por sorte ou por castigo dei de parar
+[04:04] For some time that, after all, passed by quickly, as all things must pass          // Por algum tempo que afinal passou depressa como tudo tem de passar
+[04:11] Today I feel as if having gone was needed so I could come back                     // Hoje eu me sinto como se ter ido fosse necessário para voltar
+[04:18] So much livelier from a life lived longer, divided between here and there          // Tanto mais vivo de vida mais vivida, dividida pra lá e pra cá
+
+.title = O Canto da Ema
+.en_title = The Song of the Rhea
+.artist = Gilberto Gil
+.composer = Alventino Cavalcante, Ayres Viana, João Vale
+.end
+
+[00:17] The {Big ostrich-like creature=rhea} moaned on the {Tree common in the Brazilian northeast=Jurema} stump // A ema gemeu no tronco do Jurema
+[00:21] The rhea moaned on the Jurema stump                    // A ema gemeu no tronco do Jurema
+[pause]
+[00:25] It was a pretty sad sign, {May refer to a brunette, a black-skinned woman, or both. Also a term of endearment=morena} // Foi um sinal bem triste, morena
+[00:28] And it made me think                                   // Fiquei a imaginar
+[00:30] Is it our love, morena                                 // Será que é nosso amor, morena
+[00:32] That's going to end?                                   // Que vai se acabar?
+[pause]
+[00:34] You know well that when the rhea sings                 // Você bem sabe que a ema quando canta
+[00:36] It carries in its song a whole bunch of bad luck       // Traz no meio do seu canto um bocado de azar
+[00:38] I'm afraid, morena, I'm afraid                         // Eu tenho medo, morena, eu tenho medo
+[00:40] Because I think it's too early for this love to end    // Pois acho que é muito cedo pra esse amor se acabar
+[pause]
+[00:42] Come morena (come, come, come)                         // Vem morena (vem, vem, vem)
+[00:44] Kiss me (kiss me)                                      // Me beijar (me beijar)
+[00:47] Give me a kiss (give me a kiss)                        // Dá um beijo (dá um beijo)
+[00:49] For this fear (to go away)                             // Pra esse medo (se acabar)
+[pause]
+[00:50] Come morena (come, come, come)                         // Vem morena (vem, vem, vem)
+[00:53] Kiss me (kiss me)                                      // Me beijar (me beijar)
+[00:55] Give me a kiss (give me a kiss)                        // Dá um beijo (dá um beijo)
+[00:57] For this fear (to go away)                             // Pra esse medo (se acabar)
+[pause]
+[01:17] The rhea moaned on the Jurema stump                    // A ema gemeu no tronco do Jurema
+[01:21] The rhea moaned on the Jurema stump                    // A ema gemeu no tronco do Jurema
+[pause]
+[01:25] It was a pretty sad sign, morena                       // Foi um sinal bem triste, morena
+[01:28] And it made me think                                   // Fiquei a imaginar
+[01:30] Is it our love, morena                                 // Será que é nosso amor, morena
+[01:32] That's going to end?                                   // Que vai se acabar?
+[pause]
+[01:34] You know well that when the rhea sings                 // Você bem sabe que a ema quando canta
+[01:35] It carries in its song a whole bunch of bad luck       // Traz no meio do seu canto um bocado de azar
+[01:38] I'm afraid, morena, I'm afraid                         // Eu tenho medo, morena, eu tenho medo
+[01:40] Because I think it's too early for this love to end    // Pois acho que é muito cedo pra esse amor se acabar
+[pause]
+[01:42] Come morena (come, come, come)                         // Vem morena (vem, vem, vem)
+[01:44] Kiss me (kiss me)                                      // Me beijar (me beijar)
+[01:46] Give me a kiss (give me a kiss)                        // Dá um beijo (dá um beijo)
+[01:48] For this fear (to go away)                             // Pra esse medo (se acabar)
+[pause]
+[01:50] Come morena (come, come, come)                         // Vem morena (vem, vem, vem)
+[01:53] Kiss me (kiss me)                                      // Me beijar (me beijar)
+[01:55] Give me a kiss (give me a kiss)                        // Dá um beijo (dá um beijo)
+[01:57] For this fear (to go away)                             // Pra esse medo (se acabar)
+[instrumental]
+[03:34] {"Xaxado" is a style of popular dance=Xa-xa-xado} my dear // Xa-xa-xado meu bem
+[03:36] Xa-xa-xado my dear                                     // Xa-xa-xado meu bem
+[03:38] Xa-xa-xado my dear                                     // Xa-xa-xado meu bem
+[03:39] Xa-xa-xado my dear                                     // Xa-xa-xado meu bem
+[03:41] Xa-xa-xado my dear                                     // Xa-xa-xado meu bem
+[03:43] Xa-xa-xado my dear                                     // Xa-xa-xado meu bem
+[03:45] Xa-xa-xado my dear                                     // Xa-xa-xado meu bem
+[03:47] Xa-xa-xado my dear                                     // Xa-xa-xado meu bem
+[03:49] Xa-xa-xado my dear                                     // Xa-xa-xado meu bem
+[03:51] Xa-xa-xado my dear                                     // Xa-xa-xado meu bem
+[03:53] Xa-xa-xado my dear                                     // Xa-xa-xado meu bem
+[03:55] Xa-xa-xado my dear                                     // Xa-xa-xado meu bem
+[03:57] Xa-xa-xado my dear                                     // Xa-xa-xado meu bem
+[03:59] Xa-xa-xado my dear                                     // Xa-xa-xado meu bem
+[04:01] Xa-xa-xado my dear                                     // Xa-xa-xado meu bem
+[04:02] Xa-xa-xado my dear                                     // Xa-xa-xado meu bem
+[pause]
+[04:21] The rhea moaned on the Jurema stump                    // A ema gemeu no tronco do Jurema
+[04:24] The rhea moaned on the Jurema stump                    // A ema gemeu no tronco do Jurema
+[pause]
+[04:28] It was a pretty sad sign, morena                       // Foi um sinal bem triste, morena
+[04:31] And it made me think                                   // Fiquei a imaginar
+[04:33] Is it our love, morena                                 // Será que é nosso amor, morena
+[04:35] That's going to end?                                   // Que vai se acabar?
+[pause]
+[04:36] You know well that when the rhea sings                 // Você bem sabe que a ema quando canta
+[04:38] It carries in its song a whole bunch of bad luck       // Traz no meio do seu canto um bocado de azar
+[04:40] I'm afraid, morena, I'm afraid                         // Eu tenho medo, morena, eu tenho medo
+[04:42] Because I think it's too early for this love to end    // Pois acho que é muito cedo pra esse amor se acabar
+[pause]
+[04:44] Come morena (come, come, come)                         // Vem morena (vem, vem, vem)
+[04:46] Kiss me (kiss me)                                      // Me beijar (me beijar)
+[04:48] Give me a kiss (give me a kiss)                        // Dá um beijo (dá um beijo)
+[04:50] For this fear (to go away)                             // Pra esse medo (se acabar)
+[pause]
+[04:52] Come morena (come, come, come)                         // Vem morena (vem, vem, vem)
+[04:55] Kiss me (kiss me)                                      // Me beijar (me beijar)
+[04:57] Give me a kiss (give me a kiss)                        // Dá um beijo (dá um beijo)
+[04:59] For this fear (to go away)                             // Pra esse medo (se acabar)
+[pause]
+[05:18] The rhea moaned on the Jurema stump                    // A ema gemeu no tronco do Jurema
+[05:21] The rhea moaned on the Jurema stump                    // A ema gemeu no tronco do Jurema
+[pause]
+[05:26] It was a pretty sad sign, morena                       // Foi um sinal bem triste, morena
+[05:28] And it made me think                                   // Fiquei a imaginar
+[05:30] Is it our love, morena                                 // Será que é nosso amor, morena
+[05:32] That's going to end?                                   // Que vai se acabar?
+[pause]
+[05:34] You know well that when the rhea sings                 // Você bem sabe que a ema quando canta
+[05:35] It carries in its song a whole bunch of bad luck       // Traz no meio do seu canto um bocado de azar
+[05:38] I'm afraid, morena, I'm afraid                         // Eu tenho medo, morena, eu tenho medo
+[05:39] Because I think it's too early for this love to end    // Pois acho que é muito cedo pra esse amor se acabar
+[pause]
+[05:42] Come morena (come, come, come)                         // Vem morena (vem, vem, vem)
+[05:43] Kiss me (kiss me)                                      // Me beijar (me beijar)
+[05:46] Give me a kiss (give me a kiss)                        // Dá um beijo (dá um beijo)
+[05:48] For this fear (to go away)                             // Pra esse medo (se acabar)
+[pause]
+[05:50] Come morena (come, come, come)                         // Vem morena, vem, vem, vem
+[05:52] Kiss me (kiss me)                                      // Me beijar
+[05:54] Give me a kiss (give me a kiss)                        // Dá um beijo (dá um beijo)
+[05:56] For this fear (to go away)                             // Pra esse medo se acabar
+
+.title = Chiclete com Banana
+.en_title = Bubblegum with Bananas
+.artist = Gilberto Gil
+.composer = Almira Castilho, Gordurinha
+.end
+
+[00:00] TODO // TODO
+
+.title = Ele e Eu
+.en_title = Him and I
+.artist = Gilberto Gil
+.composer = Gilberto Gil
+.end
+
+[00:00] TODO // TODO
+
+.title = Sai do Sereno
+.en_title = Get Out of the Rain
+.artist = Gilberto Gil feat. Gal Costa
+.composer = Onildo Almeida
+.end
+
+[00:00] TODO // TODO
+
+.title = Expresso 2222
+.en_title = Express 2222
+.artist = Gilberto Gil
+.composer = Gilberto Gil
+.end
+
+[00:00] TODO // TODO
+
+.title = O Sonho Acabou
+.en_title = The Dream's Over
+.artist = Gilberto Gil
+.composer = Gilberto Gil
+.end
+
+[00:00] TODO // TODO
+
+.title = Oriente
+.en_title = Orient
+.artist = Gilberto Gil
+.composer = Gilberto Gil
+.end
+
+[00:00] TODO // TODO
+
