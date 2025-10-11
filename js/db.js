@@ -17,6 +17,12 @@ const db = {
 		"genre": ["MPB"],
 		"year": "1973",
 	},
+	"1998_tom_ze_com_defeito_de_fabricacao": {
+		"album": "Com Defeito de Fabricação",
+		"artist": ["Tom Zé"],
+		"genre": ["MPB"],
+		"year": "1998",
+	},
 	"1972_gilberto_gil_expresso_2222": {
 		"album": "Expresso 2222",
 		"artist": ["Gilberto Gil"],

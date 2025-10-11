@@ -1,0 +1,142 @@
+.album_name = Com Defeito de Fabricação
+.album_artist = Tom Zé
+.album_genre = MPB
+.album_year = 1998
+
+# Com Defeito de Fabricação (1998)
+= Tom Zé
+
+<img src="assets/covers/1998_tom_ze_com_defeito_de_fabricacao.jpg" width="400" alt="Com Defeito de Fabricação cover art, depicting a stylized watercolor Tom Zé" />
+
+Published under David Byrne's Luaka Bop label, "Com Defeito de Fabricação" (Fabrication Defect) is a concept album about third worlders, their transformation into androids via economical exploitation, and, more importantly, the "defects"—dancing, curiosity, politicizing—that make them more than mere machines of capital.
+
+.title = Gene
+.en_title = Gene
+.artist = Tom Zé
+.composer = Pedro Braz, Tom Zé
+.end
+
+[00:00] TODO // TODO
+
+.title = Curiosidade
+.en_title = Curiosity
+.artist = Tom Zé
+.composer = Gilberto Assis, Tom Zé
+.end
+
+[00:00] TODO // TODO
+
+.title = Politicar
+.en_title = To Politicize
+.artist = Tom Zé
+.composer = Tom Zé
+.end
+
+[00:00] TODO // TODO
+
+.title = Emerê
+.en_title = Emere
+.artist = Tom Zé
+.composer = Tom Zé, Zé Miguel Wisnik
+.end
+
+[00:00] TODO // TODO
+
+.title = O Olho do Lago
+.en_title = Eye of the Lake
+.artist = Tom Zé
+.composer = Cid Campos
+.end
+
+[00:00] TODO // TODO
+
+.title = Esteticar
+.en_title = To Aestheticize
+.artist = Tom Zé
+.composer = Carlos Renno, Tom Zé, Vicente Barreto
+.end
+
+[00:00] TODO // TODO
+
+.title = Dançar
+.en_title = To Dance
+.artist = Tom Zé
+.composer = Tom Zé
+.end
+
+[00:00] TODO // TODO
+
+.title = ONU, Arma Mortal
+.en_title = UN, Deadly Weapon
+.artist = Tom Zé
+.composer = Andre Abu Jamra, Tom Zé
+.end
+
+[00:00] TODO // TODO
+
+.title = Juventude Javali
+.en_title = Wild Boar Youth
+.artist = Tom Zé
+.composer = Tom Zé
+.end
+
+[00:00] TODO // TODO
+
+.title = Cedotardar
+.en_title = Earlylate
+.artist = Tom Zé
+.composer = Tom Zé
+.end
+
+[00:00] TODO // TODO
+
+.title = Tangolomango
+.en_title = Mess
+.artist = Tom Zé
+.composer = Tom Zé
+.end
+
+[00:00] TODO // TODO
+
+.title = Valsar
+.en_title = To Waltz
+.artist = Tom Zé
+.composer = Tom Zé
+.end
+
+[00:00] TODO // TODO
+
+.title = Burrice
+.en_title = Stupidity
+.artist = Tom Zé
+.composer = Tom Zé
+.end
+
+[00:00] TODO // TODO
+
+.title = Xiquexique
+.en_title = Xiquexique
+.artist = Tom Zé
+.composer = Tom Zé
+.end
+
+[02:40] I saw a blind man reading the strings of the guitar    // Eu vi o cego lendo a corda da viola
+[02:42] Two blind men in a duel in the badlands                // Cego com cego no duelo do sertão
+[02:44] I saw a blind man tying the snake up in a {A "tight knot" in Portuguese is also called a "blind knot"=tight knot} // Eu vi o cego dando nó cego na cobra
+[02:47] I saw a blind man stuck in the cage of vision          // Vi cego preso na gaiola da visão
+[02:49] Blackbird flying very far away                         // Pássaro preto voando pra muito longe
+[02:51] And the {The game of "Blind man's buff" (blindfolded tag) is called "Blind goat" in Brazil=blind goat} seeing the dark // E a cabra cega enxergando a escuridão
+[pause]
+[02:53] I saw the moon on the tail of the comet                // Eu vi a lua na cacunda do cometa
+[03:56] Saw the {Brazilian bass drum=zabumba} and the bagpipe {Not an actual verb in Portuguese either :-)=zabumbing} // Vi a zabumba e o fole a zabumbá
+[02:58] I saw the lightning that's there when the sky's alight // Eu vi o raio quando o céu todo corisca
+[03:00] And the triangle, swallowing, spark                    // E o triângulo engolindo faiscar
+[03:03] Saw the white galactic on the black galactic           // Vi a galáctea branca na galáctea preta
+[03:05] I saw day and night meet                               // Eu vi o dia e a noite se encontrá
+[pause]
+[03:07] I saw the father, I saw the mother, I saw the daughter // Eu vi o pai eu vi a mãe eu vi a filha
+[03:09] I saw the heifer that's the daughter of the heifer     // Vi a novilha que é filha da novilhá
+[03:12] I saw the replica of the replica of the bible          // Eu vi a réplica da réplica da bíblia
+[03:14] In the invention of a singer of science                // Na invenção dum cantador de cienç
+[03:16] I saw the Lamb of God in an empty egg                  // Vi o cordeiro de Deus num ovo vazio
+[03:18] I felt cold so I asked you to warm me up               // Fiquei com frio te pedi pra me esquentá
