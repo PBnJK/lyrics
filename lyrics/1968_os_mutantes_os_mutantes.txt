@@ -37,7 +37,7 @@ Os Mutantes are also notable for their innovation, at a time where the phonograp
 [01:06] But all the people in the dining room             // Mas as pessoas na sala de jantar
 [01:10] Are too busy living and dying                     // São ocupadas em nascer e morrer
 [pause]
-[01:21] I had them plant dream leaves in the solar garden // Mandei plantar folhas de sonho no jardim do solar
+[01:21] I had them plant dream leaves in the {Might refer to the "Solar da Fossa," an artist hangout spot=solar} garden // Mandei plantar folhas de sonho no jardim do solar
 [01:27] The leaves know how to search for the sun         // As folhas sabem procurar pelo Sol
 [01:31] And the roots to search, search                   // E as raízes procurar, procurar
 [01:35] But all the people in the dining room             // Mas as pessoas na sala de jantar
