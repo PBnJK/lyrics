@@ -9,12 +9,12 @@
 <img src="assets/covers/1968_os_mutantes_os_mutantes.jpg" width="400" alt="Os Mutantes cover art, depicting Arnaldo Baptista, Rita Lee, Sérgio Dias" />
 = Arnaldo Baptista, Rita Lee, and Sérgio Dias
 
-Os Mutantes (The Mutants) are (or were—see [1] footnote) a band started in 1966, during the height of the Tropicália movement, which sought to mix popular Brazilian musical tradition with more avant-garde, foreign styles. In this line, their 1968 self-titled debut album is a hodgepodge of influences, from The Beatles to Jimi Hendrix, Baião, African percussion, unconventional instrumentation and abstract lyricism.
+Os Mutantes (The Mutants) are (or were—see [1] footnote) a band started in 1966, during the height of the Tropicália movement, which sought to mix popular Brazilian musical tradition with more avant-garde, foreign styles. In this line, their 1968 self-titled debut album is a hodgepodge of influences, from The Beatles to Jimi Hendrix, Baião, and African percussion, all backed by a generous heap of unconventional instrumentation and abstract lyricism.
 
 <img src="assets/band_members/1969_os_mutantes.jpg" width="400" alt="Os Mutantes playing live, wearing frankly ridiculous clothes. Arnaldo Baptista plays the bass, wearing a suit dotted with shiny jewels, bow tie, top hat and canvas pants. Rita Lee holds cymbals and wears a long puff-sleeved wedding dress and tiara. Sérgio Dias plays his golden guitar and, appropriately, is dressed in some ridiculous shiny patterned coat, as well as a striped sweatband and zebra stripe pants." />
 = By some definition "stylish"
 
-Os Mutantes are also notable for their innovation, at a time where the phonographic industry in Brazil was far behind that of countries like the United States or Britain. Cláudio César Dias Baptista, the older brother of Sérgio Baptista, built himself the guitar and bass used in most Mutantes records, as well as effects pedals, amplifiers, etc.
+Os Mutantes are also notable for their innovation, at a time where the phonographic industry in Brazil was far behind that of countries like the United States or England. Cláudio César Dias Baptista, the older brother of Sérgio Baptista, built himself the guitar and bass used in most Mutantes records, as well as effects pedals, amplifiers, etc.
 
 .title = Panis et Circenses
 .en_title = Bread and Circuses, in Latin
@@ -247,37 +247,37 @@ Goodbye Maria Fulô—fulô being a corruption of "flor," meaning flower. Goodby
 .arranger = Rogério Duprat
 .end
 
-[00:05] Mr. F                                 // O Senhor F
-[00:08] Dreams of being                       // Vive a querer
-[00:11] Mr. X                                 // Ser Senhor X
-[00:14] But is afraid of never getting        // Mas tem medo de nunca voltar
-[00:17] To be Mr. F again                     // A ser o Senhor F outra vez
+[00:05] Mr. F                                         // O Senhor F
+[00:08] Dreams of being                               // Vive a querer
+[00:11] Mr. X                                         // Ser Senhor X
+[00:14] But is afraid of never getting                // Mas tem medo de nunca voltar
+[00:17] To be Mr. F again                             // A ser o Senhor F outra vez
 [pause]
-[00:21] Mr. X                                 // O Senhor X
-[00:25] Is the hero (X)                       // É o herói (X)
-[00:28] That on TV (X)                        // Que na TV (X)
-[00:31] Never loses their hat                 // Nunca perde o seu chapéu
-[00:34] And makes Mr. F dream                 // E faz o Senhor F sonhar
+[00:21] Mr. X                                         // O Senhor X
+[00:25] Is the hero (X)                               // É o herói (X)
+[00:28] That on TV (X)                                // Que na TV (X)
+[00:31] Never loses their hat                         // Nunca perde o seu chapéu
+[00:34] And makes Mr. F dream                         // E faz o Senhor F sonhar
 [pause]
-[00:38] Dream of having                       // Sonhar em ter
-[00:41] So the others can see                 // Pros outros ver
-[00:45] Blue eyes                             // Olhos azuis
-[00:48] A car just like Mr. X                 // Ter um carro igual ao de X
-[00:52] And winning over the boss' wife       // E conquistar a mulher do patrão
+[00:38] Dream of having                               // Sonhar em ter
+[00:41] So the others can see                         // Pros outros ver
+[00:45] Blue eyes                                     // Olhos azuis
+[00:48] A car just like Mr. X                         // Ter um carro igual ao de X
+[00:52] And winning over the boss' wife               // E conquistar a mulher do patrão
 [pause]
-[00:59] Kick your boss                        // Dê um chute no patrão
-[01:03] Kick your boss                        // Dê um chute no patrão
-[01:05] Kick your boss                        // Dê um chute no patrão
+[00:59] Give your boss a kick                         // Dê um chute no patrão
+[01:03] Give your boss a kick                         // Dê um chute no patrão
+[01:05] Give your boss a kick                         // Dê um chute no patrão
 [instrumental]
-[01:28] You also                              // Você também
-[01:31] Want to be somebody                   // Quer ser alguém
-[01:35] To abandon it all                     // Abandonar
-[01:38] But are afraid of forgetting          // Mas tem medo de esquecer
+[01:28] You also                                      // Você também
+[01:31] Want to be somebody                           // Quer ser alguém
+[01:35] To abandon it all                             // Abandonar
+[01:38] But are afraid of forgetting                  // Mas tem medo de esquecer
 [01:41] {From a Caetano Veloso song, which talks about a young man strolling through the streets of dictatorship-era Brazil=Your handkerchief and documents again} // O lenço e o documento outra vez
 [pause]
-[01:46] Kick your boss (Extra, extra, extra)  // Dê um chute no patrão (Extra, extra, extra)
-[01:49] Kick your boss (kick your boss)       // Dê um chute no patrão (Dê um chute no patrão)
-[01:53] Kick your boss                        // Dê um chute no patrão
+[01:46] Give your boss a kick (Extra, extra, extra)   // Dê um chute no patrão (Extra, extra, extra)
+[01:49] Give your boss a kick (Give your boss a kick) // Dê um chute no patrão (Dê um chute no patrão)
+[01:53] Give your boss a kick                         // Dê um chute no patrão
 
 .title = Bat Macumba
 .en_title = Bat Macumba
@@ -421,7 +421,7 @@ Now, "Bat Macumba," Macumba being a blanket term for the wide umbrella of Afro-B
 [00:28] There's always a time in time where the body of man rots                   // Há sempre um tempo no tempo em que o corpo do homem apodrece
 [00:32] And his tired, sorrowful soul sinks into the ground                        // E sua alma cansada, penada, se afunda no chão
 [pause]
-[00:35] And the wizard of luxury like a friar crying in a shelf sycophant of trash // E o bruxo do luxo baixado o capucho chorando num nicho capacho do lixo
+[00:35] {It's just some random stuff that rhyme, it doesn't make too much sense in Portuguese either=And the wizard of luxury like a friar crying in a shelf sycophant of trash} // E o bruxo do luxo baixado o capucho chorando num nicho capacho do lixo
 [00:40] Whims will not be coming back                                              // Caprichos não mais voltarão
 [pause]
 [00:42] There once was time where time stopped passing by                          // Já houve um tempo em que o tempo parou de passar
@@ -457,6 +457,6 @@ Now, "Bat Macumba," Macumba being a blanket term for the wide umbrella of Afro-B
 # Footnotes
 
 <ul>
-  <li>[1]: Nowadays, the group is a shell of its former self, with only Sérgio Dias left of the original formation—Though not even in a cool way like King Crimson; Rita Lee was kicked out of the band in 1972 and unfortunately passed away in 2023, while Arnaldo Baptista left in 1973 due to his rampant drug abuse.</li>
+  <li>[1]: Nowadays, the group is a shell of its former self, with only Sérgio Dias left of the original formation (though not even in a cool way like King Crimson.) Rita Lee was kicked out of the band in 1972 and unfortunately passed away in 2023, while Arnaldo Baptista left in 1973 due to his rampant drug abuse (he is doing much better now.)</li>
   <li>[2]: <a href="https://www.youtube.com/watch?v=nsOoltvk0sk">Le Premier Bonheur du Jour Translation by frenchrescue</a></li>
 </ul>
