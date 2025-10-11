@@ -330,7 +330,7 @@ Bonus fact: there's a cool guitar effect here, and the pedal responsible for it 
 .arranger = Rogério Duprat
 .end
 
-*This song is in french, which I do not speak. See footnote [1] for the source for this translation. Thank you to @frenchrescue on YouTube!*
+*This song is in french, which I do not speak. See footnote [2] for the source for this translation. Thank you to @frenchrescue on YouTube!*
 
 [00:18] The first happiness of the day        // Le premier bonheur du jour
 [00:23] It's a ribbon of sunshine             // C'est un ruban de soleil
