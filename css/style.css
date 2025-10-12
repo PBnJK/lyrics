@@ -273,21 +273,26 @@ main {
 }
 
 /* https://stackoverflow.com/a/69353021 */
-.abbr[data-title] {
+.abbr {
   position: relative;
   text-decoration: underline dotted;
 }
 
-.abbr[data-title]:hover::after,
-.abbr[data-title]:focus::after {
+.abbr[data-title]:hover::before {
   content: attr(data-title);
 
+  display: inline-block;
   position: absolute;
 
   left: 0;
-  bottom: -30px;
-  width: auto;
-  white-space: nowrap;
+  top: 24px;
+
+  text-align: center;
+  width: 340px;
+  max-width: 600px;
+
+  white-space: pre-line;
+  word-wrap: break-word;
 
   background-color: var(--bg-primary);
   color: var(--text-primary);
