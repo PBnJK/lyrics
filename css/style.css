@@ -278,18 +278,20 @@ main {
   text-decoration: underline dotted;
 }
 
-.abbr[data-title]:hover::before {
+.abbr[data-title]:hover::after,
+.abbr[data-title]:focus::after {
   content: attr(data-title);
 
   display: inline-block;
   position: absolute;
 
   left: 0;
-  top: 24px;
+  top: 26px;
 
   text-align: center;
   width: 340px;
   max-width: 600px;
+  z-index: 1;
 
   white-space: pre-line;
   word-wrap: break-word;

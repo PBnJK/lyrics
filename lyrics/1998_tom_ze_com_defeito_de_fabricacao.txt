@@ -8,31 +8,122 @@
 
 <img src="assets/covers/1998_tom_ze_com_defeito_de_fabricacao.jpg" width="400" alt="Com Defeito de Fabricação cover art, depicting a stylized watercolor Tom Zé" />
 
-Published under David Byrne's Luaka Bop label, "Com Defeito de Fabricação" (Fabrication Defect) is a concept album about third worlders, their transformation into androids via economical exploitation, and, more importantly, the "defects"—dancing, curiosity, politicizing—that make them more than mere machines of capital.
+Published under David Byrne's Luaka Bop label, "Com Defeito de Fabricação" (Fabrication Defect) is a concept album about third worlders, their transformation into "androids" via economical exploitation, and, more importantly, the "defects"—thinking, dancing, dreaming—that make them dangerous in the eyes of their first world overlords.
+
+On the back cover, Tom Zé wrote a small "essay" explaining the main compositional idea behind the record, which you may find transcribed at the bottom of this page.
 
 .title = Gene
 .en_title = Gene
 .artist = Tom Zé
 .composer = Pedro Braz, Tom Zé
+.arranger = Bryan Martin, Goran Petrovic
 .end
 
-[00:00] TODO // TODO
+*For this song, note that the word for "[he/she/it] lies" and "mind" are the same in Portuguese. Tom Zé <i>loves</i> writing lyrics that play with the Portuguese language, or that really only sound interesting rather than make any sense, which is seen throughout this entire album*
+
+[00:18] We lie as soon as in our genes       // A gente já mente no gene
+[00:20] The mind of our genes                // A mente do gene da gente
+[00:22] We lie as soon as in our genes       // A gente já mente no gene
+[00:25] The mind of our genes                // A mente do gene da gente
+[pause]
+[00:27] Do your prayers once a day           // Faça suas orações uma vez por dia
+[00:32] And after send your conscience       // Depois mande a consciência
+[00:33] Together with the sheets to the wash // Junto com os lêncois pra lavanderia
+[pause]
+[00:36] Do your prayers once a day           // Faça suas orações uma vez por dia
+[00:41] And after send your conscience       // Depois mande a consciência
+[00:42] Together with the sheets to the wash // Junto com os lêncois pra lavanderia
+[instrumental]
+[01:39] We lie as soon as in our genes       // A gente já mente no gene
+[01:42] The mind of our genes                // A mente do gene da gente
+[01:44] We lie as soon as in our genes       // A gente já mente no gene
+[01:46] The mind of our genes                // A mente do gene da gente
+[pause]
+[01:49] We lie as soon as in our genes       // A gente já mente no gene
+[01:50] The mind of our genes                // A mente do gene da gente
+[01:53] We lie as soon as in our genes       // A gente já mente no gene
+[01:55] The mind of our genes                // A mente do gene da gente
 
 .title = Curiosidade
 .en_title = Curiosity
 .artist = Tom Zé
 .composer = Gilberto Assis, Tom Zé
+.arranger = Bryan Martin, Goran Petrovic
 .end
 
-[00:00] TODO // TODO
+[00:15] Who's placing dynamite         // Quem é que tá botando dinamite
+[00:26] On the head of the century?    // Na cabeça do século?
+[00:30] Who's placing dynamite         // Quem é que tá botando tanto piolho
+[00:38] On the head of the century?    // Na cabeça do século?
+[pause]
+[00:46] Who's putting so many crickets // Quem é que tá botando tanto grilo
+[01:02] On the head of the century?    // Na cabeça do século?
+[01:03] Who finds a pillow             // Quem é que arranja um travesseiro
+[01:10] For the head                   // Pra cabeça
+[instrumental]
+[02:56] Who finds a pillow             // Quem é que arranja um travesseiro
+[02:04] For the head of the century?   // Pra cabeça do século?
+[instrumental]
+[03:12] For the head of the century?   // Pra cabeça do século?
 
 .title = Politicar
 .en_title = To Politicize
 .artist = Tom Zé
 .composer = Tom Zé
+.arranger = Bryan Martin, Goran Petrovic
 .end
 
-[00:00] TODO // TODO
+[00:26] {Actually "daughter," but it's meant to mimic the genre of curses that go "son of a..."=Son} of a practice // Filha da prática
+[00:27] Son of a tactic           // Filha da tática
+[00:28] Son of a machine          // Filha da máquina
+[pause]
+[00:31] This shameless {"Gruta" (cave) sounds like "p×ta" (wh×re)=cave} // Essa gruta sem vergonha
+[00:33] Of the entrails           // Na entranha
+[00:34] Is always accommodating   // Não estranha nada
+[pause]
+[00:38] Son of a practice         // Filha da prática
+[00:39] Son of a tactic           // Filha da tática
+[00:40] Son of a machine          // Filha da máquina
+[pause]
+[00:43] This shameless cave       // Essa gruta sem vergonha
+[00:44] Of the entrails           // Na entranha
+[00:45] Is always accommodating   // Não estranha nada
+[pause]
+[00:49] Shove your grandiosity    // Meta sua grandeza
+[00:51] up the corner bank        // No banco da esquina
+[00:54] Shove it up your verb     // Vá tomar no verbo
+[00:57] You son of a letter       // Seu filho da letra
+[pause]
+[00:59] Shove your usury          // Meta sua usura
+[01:02] Up the multinational      // Na multinacional
+[01:05] Shove it up your virgin   // Vá tomar na virgem
+[01:07] You son of a cross        // Seu filho da cruz
+[pause]
+[01:10] Shove your morals         // Meta sua moral
+[01:12] Rules and regulations     // Regras e regulamentos
+[01:15] Offices and neckties      // Escritórios e gravatas
+[01:18] Your solemn sessions      // Suas sessões solenes
+[pause]
+[01:21] Gather everything up      // Pegue, junte tudo
+[01:23] Spread vaseline           // Passe vaselina
+[01:26] Shove, push, cram it into // Enfie, soque, meta
+[01:29] Your gasoline tank        // No tanque de gasolina
+[instrumental]
+[01:56] Son of a practice         // Filha da prática
+[01:57] Son of a tactic           // Filha da tática
+[01:58] Son of a machine          // Filha da máquina
+[pause]
+[02:01] This shameless cave       // Essa gruta sem vergonha
+[02:03] Of the entrails           // Na entranha
+[02:04] Is always accommodating   // Não estranha nada
+[pause]
+[02:07] Son of a practice         // Filha da prática
+[02:08] Son of a tactic           // Filha da tática
+[02:09] Son of a machine          // Filha da máquina
+[pause]
+[02:12] This shameless cave       // Essa gruta sem vergonha
+[02:14] Of the entrails           // Na entranha
+[02:15] Is always accommodating   // Não estranha nada
 
 .title = Emerê
 .en_title = Emere
@@ -40,15 +131,38 @@ Published under David Byrne's Luaka Bop label, "Com Defeito de Fabricação" (Fa
 .composer = Tom Zé, Zé Miguel Wisnik
 .end
 
-[00:00] TODO // TODO
+*This regards African culture, so, relevant Wikipedia excerpt: "An emere, in traditional Yoruba culture, is a child who can travel between the spiritual and physical world at will."*
+
+[instrumental]
 
 .title = O Olho do Lago
 .en_title = Eye of the Lake
 .artist = Tom Zé
 .composer = Cid Campos
+.arranger = Bryan Martin, Gary Negbaur
 .end
 
-[00:00] TODO // TODO
+[00:25] In the lake of the eye  // No lago do olho
+[00:26] By its side on the ooze // De lado no lodo
+[00:28] An eye on the side      // De olho no lado
+[00:29] On the ooze of the lake // No lodo do lago
+[pause]
+[00:31] Tear sinks              // Lágrima afunda
+[00:33] Deep mud                // Profunda lama
+[pause]
+[00:50] In the lake of the eye  // No lago do olho
+[00:52] By its side on the ooze // De lado no lodo
+[00:53] An eye on the side      // De olho no lado
+[00:55] On the ooze of the lake // No lodo do lago
+[pause]
+[00:57] Tear sinks              // Lágrima afunda
+[00:58] Deep mud                // Profunda lama
+[pause]
+[01:27] Eye                     // Olho
+[01:29] Ooze                    // Lodo
+[01:31] Side                    // Lado
+[01:32] Lake                    // Lago
+[01:34] Mud                     // Lama
 
 .title = Esteticar
 .en_title = To Aestheticize
@@ -56,23 +170,126 @@ Published under David Byrne's Luaka Bop label, "Com Defeito de Fabricação" (Fa
 .composer = Carlos Renno, Tom Zé, Vicente Barreto
 .end
 
-[00:00] TODO // TODO
+[00:08] You think I'm a stupid {Person of mixed Brazilian and European ancestry=caboclo} fool // Pensa que eu sou um caboclo tolo boboca
+[00:11] Some sort of knuckleheaded tamarin // Um tipo de mico cabeça-oca
+[00:13] Rickety, a typical {Country bumpkin from a Brazilian book, often used as an insult or mean nickname=Jeca Tatu} // Raquítico, típico Jeca Tatu
+[pause]
+[00:17] A mere number zero, {A moderately involved pun. In Portuguese and Spanish, a somewhat common insult is to call someone a "zero to the left," or "leading zero" (that is to say, useless.) The lyrics go a bit further and change "zero" to "zé," meaning an ordinary or unintelligent person—so an useless old Joe=just another joe} // Um mero número zero, um zé à esquerda
+[00:19] Goof, pathetic, slow slug // Pateta, patético, lesma lerda
+[00:21] Automaton, goose, stupid, idiot // Autômato, pato, panaca, jacu
+[pause]
+[00:25] I think, I dismiss the {Also a way to call someone dumb=mule} {Literally "from your optics"=from your view} // Penso, dispenso a mula da sua ótica
+[00:29] Oh, go lick my intersemiotic translation              // Ora, vá me lamber tradução intersemiótica
+[pause]
+[00:33] Hold on there milord, 'cause the {Brazilian music style=baião} {Of mixed African and European descent=mulatto} // Se segura milord aí que o mulato baião
+[00:36] (Is {Perhaps "tuxedo" is more common in the United States="black tie"}-ing himself ) // (Tá se blacktaiando)
+[00:38] "Dinner jacket"-ing himself in the {See micro essay at the bottom of this page=arrastão aesthetic} // Smoka-se todo na estética do arrastão
+[pause]
+[00:42] Hold on there milord, 'cause the baião mulatto        // Se segura milord aí que o mulato baião
+[00:44] (Is "black tie"-ing himself)                          // (Tá se blacktaiando)
+[00:46] "Dinner jacket"-ing himself in the arrastão aesthetic // Smoka-se todo na estética do arrastão
+[pause]
+[00:50] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
+[00:52] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
+[00:54] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
+[00:56] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
+[00:57] Tic {Again: refer to the micro essay at the bottom of the page=aesthetic of plagiarism}-iê // Ca estética do plágio-iê
+[01:02] Help, {Ariano Suassuna, famous writer, wrote a lot about (and taught classes on) the field of aesthetics=Suassuna}! // Help, Suassuna!
+[pause]
+[01:06] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
+[01:08] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
+[01:10] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
+[01:12] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
+[01:14] Tic aesthetic of plagiarism-iê                        // Ca estética do plágio-iê
+[pause]
+[01:31] You think I'm an android, crazy {Term used to refer to the workers responsible for building the capital city of Brazil, Brasília, eventually turning into a popular demonym for its citizens. Has its origins in a term used by the slaves of yore to insult slavemasters, which eventually was turned around to be used on people of mixed African and Indigenous descent. It's a whole thing=candango} // Pensa que eu sou um andróide, candango doido
+[00:33] Some soft {Little puppets traditional to the Brazilian Northeast. The name is commonly thought to originate from the fusion of "mão" (hand) with "molenga" (soft,) thus the use of the word soft in this same line=mamulengo} mongoloid // Algum mamulengo molenga mongo
+[01:35] Mere {Person of mixed European and Indigenous descent=mameluco} with some bolts loose // Mero mameluco da cuca lelé
+[pause]
+[01:39] Rag of guts from the lanky tribe                      // Trapo de tripa da tribo dos pele e osso
+[01:41] Strand of meat, thick cloth                           // Fiapo de carne, farrapo grosso
+[01:44] From the troupe of the riffraff and scant rabble      // Da trupe da reles e rala ralé
+[pause]
+[01:47] I think, I dismiss the mule from your view            // Penso, dispenso a mula da sua ótica
+[01:51] Oh, go lick my intersemiotic translation              // Ora, vá me lamber tradução inter-semiótica
+[pause]
+[01:56] Hold on there milord, 'cause the baião mulatto        // Se segura milord aí que o mulato baião
+[01:58] (Is "black tie"-ing himself)                          // (Tá se blacktaiando)
+[02:00] "Dinner jacket"-ing himself in the arrastão aesthetic // Smoka-se todo na estética do arrastão
+[pause]
+[02:04] Hold on there milord, 'cause the baião mulatto        // Se segura milord aí que o mulato baião
+[02:06] (Is "black tie"-ing himself)                          // (Tá se blacktaiando)
+[02:08] "Dinner jacket"-ing himself in the arrastão aesthetic // Smoka-se todo na estética do arrastão
+[pause]
+[02:12] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
+[02:14] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
+[02:16] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
+[02:18] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
+[02:19] Tic aesthetic of plagiarism-iê                        // Ca estética do plágio-iê
+[02:27] Help, {José Ramos Tinhorão, music critic=Tinhorão}! // Help, Tinhorão!
+[pause]
+[02:29] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
+[02:31] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
+[02:33] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
+[02:35] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
+[02:36] Tic aesthetic of plagiarism-iê                        // Ca estética do plágio-iê
 
 .title = Dançar
-.en_title = To Dance
+.en_title = Dancing
 .artist = Tom Zé
 .composer = Tom Zé
 .end
 
-[00:00] TODO // TODO
+[00:19] Dancing                              // Dançar
+[pause]
+[00:29] Dancing writes                       // Dançar escreve
+[00:31] A soft stroke                        // Um traço leve
+[00:34] The word of God, the alphabet        // O verbo de Deus bê-á-bá
+[pause]
+[00:39] Taut skin                            // A pele tensa
+[00:41] Press paper                          // Papel-imprensa
+[00:44] The jaguar scroll                    // O pergaminho do jaguar
+[pause]
+[00:49] To step                              // Para pisar
+[00:51] Blows of air                         // Golpes de ar
+[00:54] Lines untangle                       // Desembaraçam-se linhas
+[pause]
+[00:59] Baste                                // Alinhavar
+[01:02] Passions and ouches                  // Paixões e ais
+[01:04] Diagonal agonies                     // Diagonais agonias
+[pause]
+[01:20] Oh girl that dances if               // Ô menina que dança se
+[01:22] (You are)                            // (Você for)
+[01:24] {Mix of: Pernambuco (state,) Catarina (municipality in the state of Ceará,) Amaralina (Beach in Salvador, capital of the state of Bahia,) and Natal (capital of the state of Rio Grande do Norte.) All of these are in the Brazilian northeast, so, essentially: "If you are [from the Northeast]"=PernambuCatarinAmaraliNatal} // PernambuCatarinAmaraliNatal
+[01:28] I'll go as well                      // Também vou
+[pause]
+[01:30] Oh girl that dances if               // Ô menina que dança se
+[01:33] (You are)                            // (Você for)
+[01:35] {I'm not sure he's saying anything here. That, or it's buried beneath so many regionalisms I can barely parse it. Forgive me!=Que'sse cané de ou certá namô}// Que'sse cané de ou certá namô
+[01:38] I'll go as well                      // Também vou
+[pause]
+[01:51] I'll walk with my feet               // Andar com meu pé eu vou
+[02:00] And my feet will get used to dancing // Que o pé se acostuma a dançar
 
 .title = ONU, Arma Mortal
 .en_title = UN, Deadly Weapon
 .artist = Tom Zé
-.composer = Andre Abu Jamra, Tom Zé
+.composer = Andre Abujamra, Tom Zé
 .end
 
-[00:00] TODO // TODO
+[00:19] The {Scraper percussion instrument=reco-reco} UN ONU // No reco-reco UN ONU
+[00:21] {No particular meaning=Teleco-teco} ONU UN           // Teleco-teco ONU UN
+[00:24] This {Brazilian music genre=pagode} UN ONU           // Nesse pagode UN ONU
+[00:27] That rock ONU UN                                     // Naquele rock ONU UN
+[pause]
+[00:30] The UN to maintain the peace                         // Uma ONU pra manter a paz
+[00:32] And that group there, what group?                    // E a turma lá, que turma?
+[00:49] Produce deadly weapons                               // Fabrica armas mortais
+[pause]
+[00:51] Rifle, machine gun, cruiser                          // Fuzil, metralhadora, cruzador
+[00:54] In the {Samba onomatopeia for drums, dance=esquindô esquindô dô} // No esquindô esquindô dô
+[00:57] Bazooka, bomb, ravaging tank                         // Bazuca, bomba, tanque arrasador
+[00:59] In the esquindô esquindô dô                          // No esquindô esquindô dô
 
 .title = Juventude Javali
 .en_title = Wild Boar Youth
@@ -80,23 +297,142 @@ Published under David Byrne's Luaka Bop label, "Com Defeito de Fabricação" (Fa
 .composer = Tom Zé
 .end
 
-[00:00] TODO // TODO
+[00:00] Wine of open legs                                // Vinho das pernas abertas
+[00:00] Wets the altar of offerings                      // Molha o altar das ofertas
+[00:00] Screams, sperm and handcuff                      // Gritos, esperma e algema
+[00:00] Fury of pure lavender                            // Fúria de pura alfazema
+[00:00] Of pure lavender                                 // De pura alfazema
+[pause]
+[00:00] Moon on the room in heat—oh                      // Lua no quarto do cio—oh
+[00:00] Timid fruit, nudity—shame                        // Tímida fruta, nudez—pudor
+[00:00] Sneakers and teats, liquor—color                 // Tênis e tetas, licor—cor
+[00:00] Fear, hard to get, desire—fright                 // Medo, cu doce, querer—pavor
+[pause]
+[00:00] In youth all come as wild boars                  // Se na juventude já vem tudo javali
+[00:00] The courage of this coitus is something I've already seen there // O afoito desse coito é coisa que já lá vi
+[00:00] Seen there, seen there                           // Lá vi, lá vi
+[pause]
+[00:00] Bacchus, hole, curve, grapes I've already picked // Baco, buraco, curva, uva que já colhi
+[00:00] Meta-mycosis itches, It's every man for himself  // Meta-micose coça, cada um cuide-se de si
+[00:00] For himself, for himself                         // De si, de si
 
 .title = Cedotardar
 .en_title = Earlylate
 .artist = Tom Zé
-.composer = Tom Zé
+.composer = Moacir Albuquerque, Tom Zé
 .end
 
-[00:00] TODO // TODO
+[00:00] I have so much fear in my chest            // Tenho no peito tanto medo
+[00:00] It's early                                 // É cedo
+[00:00] My youth burns                             // Minha mocidade arde
+[00:00] It's late                                  // É tarde
+[pause]
+[00:00] If you have common sense or good judgement // Se tens bom-senso ou juízo
+[00:00] I step                                     // Eu piso
+[00:00] If it's wisdom you prefer                  // Se a sensatez você prefere
+[00:00] It wounds me                               // Me fere
+[pause]
+[00:00] Come abate this insanity                   // Vem aplacar esta loucura
+[00:00] Or cure it                                 // Ou cura
+[00:00] Make this moment affectionate              // Faz deste momento terno
+[00:00] Eternal                                    // Eterno
+[pause]
+[00:00] When destiny is sad                        // Quando o destino for tristonho
+[00:00] A dream                                    // Um sonho
+[00:00] When luck is unemotional                   // Quando a sorte for madrasta
+[00:00] Keep it away                               // Afasta
+[pause]
+[00:00] No, that's not what I feel                 // Não, não é isto que eu sinto
+[00:00] I'm lying                                  // Eu minto
+[00:00] Spark this insanity                        // Acende essa loucura
+[00:00] Without cure                               // Sem cura
+[pause]
+[00:00] Rapture me with a gesture                  // Me arrebata com um gesto
+[00:00] As for the rest                            // Do resto
+[00:00] Don't speak of it, love, don't argue       // Não fale, amor, não argumente
+[00:00] You lie                                    // Mente
+[pause]
+[00:00] Be to my aching heart                      // Seja do peito que me dói
+[00:00] A hero                                     // Herói
+[00:00] If you deny me your gaze                   // Se o seu olhar você me nega
+[00:00] You blind me                               // Me cega
+[pause]
+[00:00] Let me act crazy                           // Deixa que eu aja como louco
+[00:00] It's too little                            // Que é pouco
+[00:00] In the most horrible of punishments        // No mais horroroso castigo
+[00:00] I follow you                               // Te sigo
 
 .title = Tangolomango
-.en_title = Mess
+.en_title = Tangolomango
 .artist = Tom Zé
-.composer = Tom Zé
+.composer = Adoniran Barbosa, Tom Zé
 .end
 
-[00:00] TODO // TODO
+*Tangolomango: a mess, a party, a dance, a way of life, a disease—all valid interpretations I've read about.*
+
+[00:08] The rich man arrives at the dance // Rico chega na dança
+[00:10] {More like "locking arms"—same meaning effectively=Holding hands} // De braço dado
+[00:12] The devil fills his stomach       // O diabo enche a pança
+[00:16] Holding hands                     // De braço dado
+[00:18] Envy and greed                    // O olho grande e a ganância
+[00:24] Holding hands                     // De braço dado
+[00:25] To the dollar, reverences         // Ao dólar reverências
+[00:26] All lifting their skirts          // Todo arriba-saiado
+[00:28] To the interests, curses          // Aos juros, esconjuros
+[00:28] All pants down                    // Todo calça-arriado
+[00:29] This is tangolomango              // Isso é o tangolomango
+[00:30] The rich man today, poor man      // O rico hoje, coitado
+[00:31] Is arrested, all surrounded       // É preso, todo cercado
+[00:33] Fenced in with bars               // Arrodeado de grades
+[00:35] Doorman, guard and alarm          // Porteiro, guarda e alarme
+[00:39] Find, Lord, a port                // Arranje, Senhor, um porto
+[00:41] TODO // Que ele não esteja acuado
+[00:42] TODO // Com um pouco de conforto
+[00:43] TODO // Pra ele estar sossegado
+[00:44] TODO // Mas a verbá, a verbé, a verbí
+[00:48] TODO // A verborrologia dessa politimerdia
+[00:49] TODO // É o tangolomango
+[00:51] TODO // E a cárdio-filosoporria
+[00:53] TODO // É o tangolomango
+[00:53] TODO // E é nesse tangolomango
+[00:59] TODO // Que me voy pa pueblo
+[01:01] TODO // É nesse tangolomango
+[01:04] TODO // Que me voy pa pueblo
+[01:06] TODO // É nesse tangolomango
+[01:09] TODO // Que me voy pa pue
+[01:12] TODO // Que me voy pa pue
+[01:14] TODO // Que me voy pa pue
+[01:16] TODO // Me voy, me voy, me voy, me voy
+[01:19] TODO // Rico chega na dança
+[01:20] TODO // De braço dado
+[01:23] TODO // O diabo enche a pança
+[01:24] TODO // De braço dado
+[01:24] TODO // O olho grande e a ganância
+[01:27] TODO // De braço dado
+[01:27] TODO // Ao dólar reverências
+[01:27] TODO // Todo arriba-saiado
+[01:32] TODO // Aos juros, esconjuros
+[01:34] TODO // Todo calça-arriado
+[01:39] TODO // Isso é o tangolomango
+[01:45] TODO // O rico hoje, coitado
+[01:45] TODO // É preso, todo cercado
+[01:48] TODO // Arrodeado de grades
+[01:49] TODO // Porteiro, guarda e alarme
+[01:50] TODO // Arranje, Senhor, um porto
+[01:52] TODO // Que ele não esteja acuado
+[01:53] TODO // Com um pouco de conforto
+[01:53] TODO // Pra ele estar sossegado
+[01:55] TODO // Mas a verbá, a verbé, a verbí
+[01:57] TODO // A verborrologia dessa politimerdia
+[01:57] TODO // É o tangolomango
+[pause]
+[02:02] TODO // E a cárdio-filosoporria
+[02:03] TODO // É o tangolomango
+[02:04] TODO // E é nesse tangolomango
+[02:10] TODO // Que me voy pa pueblo
+[02:12] TODO // É nesse tangolomango
+[02:15] TODO // Que me voy pa pueblo
+[02:17] TODO // É nesse tangolomango
 
 .title = Valsar
 .en_title = To Waltz
@@ -117,7 +453,7 @@ Published under David Byrne's Luaka Bop label, "Com Defeito de Fabricação" (Fa
 .title = Xiquexique
 .en_title = Xiquexique
 .artist = Tom Zé
-.composer = Tom Zé
+.composer = Miguel Wisnik, Tom Zé
 .end
 
 [02:40] I saw a blind man reading the strings of the guitar    // Eu vi o cego lendo a corda da viola
@@ -131,7 +467,7 @@ Published under David Byrne's Luaka Bop label, "Com Defeito de Fabricação" (Fa
 [03:56] Saw the {Brazilian bass drum=zabumba} and the bagpipe {Not an actual verb in Portuguese either :-)=zabumbing} // Vi a zabumba e o fole a zabumbá
 [02:58] I saw the lightning that's there when the sky's alight // Eu vi o raio quando o céu todo corisca
 [03:00] And the triangle, swallowing, spark                    // E o triângulo engolindo faiscar
-[03:03] Saw the white galactic on the black galactic           // Vi a galáctea branca na galáctea preta
+[03:03] Saw the white {Fusion of "galáxia" (galaxy) with "via láctea" (milky way)=galactiway on the black galactiway // Vi a galáctea branca na galáctea preta
 [03:05] I saw day and night meet                               // Eu vi o dia e a noite se encontrá
 [pause]
 [03:07] I saw the father, I saw the mother, I saw the daughter // Eu vi o pai eu vi a mãe eu vi a filha
@@ -140,3 +476,22 @@ Published under David Byrne's Luaka Bop label, "Com Defeito de Fabricação" (Fa
 [03:14] In a singer of science's invention                     // Na invenção dum cantador de ciença
 [03:16] I saw the Lamb of God in an empty egg                  // Vi o cordeiro de Deus num ovo vazio
 [03:18] I felt cold so I asked you to warm me up               // Fiquei com frio te pedi pra me esquentá
+
+---
+
+# Sources
+
+<ul>
+  <li>Song credits sourced from <a href="https://www.discogs.com/release/5837973-Tom-Z%C3%A9-Com-Defeito-De-Fabrica%C3%A7%C3%A3o-Fabrication-Defect">Discogs</a></li>
+</ul>
+
+---
+
+# Estethics of Plagiarism
+= Transcribed "as-is" from the liner notes, including translation note, except for added paragraph breaks and capitalization
+
+The esthetic of the Fabrication Defect will re-utilize the sonorous civilized trash (everyday symphony,) be they conventional or unconventional instruments (for example: toys, cars, whistles, saws, Hertz orchestra, street noises, etc.)—all of this put into a rhythmic or dance music format, with choruses, and within the parameters of popular music.
+It will recycle an alphabet of emotions contained in songs and musical symbols of the first world, that sealed each marked step of our affective and emotional life. They will be put to use in small "cells" of "plagiarized" material. This deliberate practice unleashes an esthetic of plagiarism, an esthetic of arrastão* that ambushes the universe of the well-known and traditional music.
+We are at the end, thus, of the composers' era, inaugurating the Plagi-Combinator Era.
+
+* Arrastão—a dragnet: technique used in urban robbery. A small group fan out and then run furiously through a crowd, taking people's money, jewelry, bags, sometimes even clothes. Translator's note: a type of "wilding" with a purpose, i.e. robbery.
