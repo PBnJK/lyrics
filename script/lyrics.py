@@ -30,12 +30,12 @@ def parse_header_line(line: re.Match) -> str:
     header: str = line.group(2).strip()
 
     tag: str = f"h{len(size)}"
-    return f"<{tag}>{header}</{tag}>"
+    return f"<{tag}>{header}</{tag}>\n"
 
 
 def parse_sub_line(line: re.Match) -> str:
     subtitle: str = line.group(1).strip()
-    return f'<p class="subtitle"><i>{subtitle}</i></p>'
+    return f'<p class="subtitle"><i>{subtitle}</i></p>\n'
 
 
 def parse_info_line(line: re.Match) -> str:
@@ -49,7 +49,7 @@ def parse_info_line(line: re.Match) -> str:
 
 def parse_note_line(line: re.Match) -> str:
     note: str = line.group(1).strip()
-    return f'<p class="note"><i>T/L Note: {note}</i></p>'
+    return f'<p class="note"><i>T/L Note: {note}</i></p>\n'
 
 
 def parse_meta_line(line: re.Match, out: dict) -> str:
@@ -167,7 +167,7 @@ def parse_line(line: str, out: dict) -> str:
 
     # Instrumental?
     if line == "[instrumental]":
-        return '<p class="instrumental">(instrumental)</p>'
+        return '<p class="instrumental">(instrumental)</p>\n'
 
     # Previous section repeats?
     if line == "[repeat]":

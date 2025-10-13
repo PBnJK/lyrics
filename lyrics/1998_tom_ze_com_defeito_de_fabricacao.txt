@@ -202,7 +202,7 @@ On the back cover, Tom Zé wrote a small "essay" explaining the main composition
 [01:12] Tic aesthe tic aesthu                                 // Ca esteti ca estetu
 [01:14] Tic aesthetic of plagiarism-iê                        // Ca estética do plágio-iê
 [pause]
-[01:31] You think I'm an android, crazy {Term used to refer to the workers responsible for building the capital city of Brazil, Brasília, eventually turning into a popular demonym for its citizens. Has its origins in a term used by the slaves of yore to insult slavemasters, which eventually was turned around to be used on people of mixed African and Indigenous descent. It's a whole thing=candango} // Pensa que eu sou um andróide, candango doido
+[01:31] You think I'm a mad android {Term used to refer to the workers responsible for building the capital city of Brazil, Brasília, eventually turning into a popular demonym for its citizens. Has its origins in a term used by the slaves of yore to insult slavemasters, which eventually was turned around to be used on people of mixed African and Indigenous descent. It's a whole thing=candango} // Pensa que eu sou um andróide, candango doido
 [00:33] Some soft {Little puppets traditional to the Brazilian Northeast. The name is commonly thought to originate from the fusion of "mão" (hand) with "molenga" (soft,) thus the use of the word soft in this same line=mamulengo} mongoloid // Algum mamulengo molenga mongo
 [01:35] Mere {Person of mixed European and Indigenous descent=mameluco} with some bolts loose // Mero mameluco da cuca lelé
 [pause]
@@ -323,44 +323,44 @@ On the back cover, Tom Zé wrote a small "essay" explaining the main composition
 .end
 
 [00:00] I have so much fear in my chest            // Tenho no peito tanto medo
-[00:00] It's early                                 // É cedo
-[00:00] My youth burns                             // Minha mocidade arde
-[00:00] It's late                                  // É tarde
+[00:03] It's early                                 // É cedo
+[00:05] My youth burns                             // Minha mocidade arde
+[00:07] It's late                                  // É tarde
 [pause]
-[00:00] If you have common sense or good judgement // Se tens bom-senso ou juízo
-[00:00] I step                                     // Eu piso
-[00:00] If it's wisdom you prefer                  // Se a sensatez você prefere
-[00:00] It wounds me                               // Me fere
+[00:09] If you have common sense or good judgement // Se tens bom-senso ou juízo
+[00:11] I step                                     // Eu piso
+[00:13] If it's wisdom you prefer                  // Se a sensatez você prefere
+[00:15] It wounds me                               // Me fere
 [pause]
-[00:00] Come abate this insanity                   // Vem aplacar esta loucura
-[00:00] Or cure it                                 // Ou cura
-[00:00] Make this moment affectionate              // Faz deste momento terno
-[00:00] Eternal                                    // Eterno
+[00:17] Come abate this insanity                   // Vem aplacar esta loucura
+[00:20] Or cure it                                 // Ou cura
+[00:21] Make this moment affectionate              // Faz deste momento terno
+[00:23] Eternal                                    // Eterno
 [pause]
-[00:00] When destiny is sad                        // Quando o destino for tristonho
-[00:00] A dream                                    // Um sonho
-[00:00] When luck is unemotional                   // Quando a sorte for madrasta
-[00:00] Keep it away                               // Afasta
+[00:25] When destiny is sad                        // Quando o destino for tristonho
+[00:27] A dream                                    // Um sonho
+[00:29] When luck is unemotional                   // Quando a sorte for madrasta
+[00:31] Keep it away                               // Afasta
 [pause]
-[00:00] No, that's not what I feel                 // Não, não é isto que eu sinto
-[00:00] I'm lying                                  // Eu minto
-[00:00] Spark this insanity                        // Acende essa loucura
-[00:00] Without cure                               // Sem cura
+[00:33] No, that's not what I feel                 // Não, não é isto que eu sinto
+[00:36] I'm lying                                  // Eu minto
+[00:38] Spark this insanity                        // Acende essa loucura
+[00:40] Without cure                               // Sem cura
 [pause]
-[00:00] Rapture me with a gesture                  // Me arrebata com um gesto
-[00:00] As for the rest                            // Do resto
-[00:00] Don't speak of it, love, don't argue       // Não fale, amor, não argumente
-[00:00] You lie                                    // Mente
+[00:42] Rapture me with a gesture                  // Me arrebata com um gesto
+[00:44] As for the rest                            // Do resto
+[00:46] Don't speak of it, love, don't argue       // Não fale, amor, não argumente
+[00:48] You lie                                    // Mente
 [pause]
-[00:00] Be to my aching heart                      // Seja do peito que me dói
-[00:00] A hero                                     // Herói
-[00:00] If you deny me your gaze                   // Se o seu olhar você me nega
-[00:00] You blind me                               // Me cega
+[00:50] Be to my aching heart                      // Seja do peito que me dói
+[00:52] A hero                                     // Herói
+[00:54] If you deny me your gaze                   // Se o seu olhar você me nega
+[00:56] You blind me                               // Me cega
 [pause]
-[00:00] Let me act crazy                           // Deixa que eu aja como louco
-[00:00] It's too little                            // Que é pouco
-[00:00] In the most horrible of punishments        // No mais horroroso castigo
-[00:00] I follow you                               // Te sigo
+[00:58] Let me act crazy                           // Deixa que eu aja como louco
+[01:01] It's too little                            // Que é pouco
+[01:03] In the most horrible of punishments        // No mais horroroso castigo
+[01:06] I follow you                               // Te sigo
 
 .title = Tangolomango
 .en_title = Tangolomango
@@ -370,77 +370,108 @@ On the back cover, Tom Zé wrote a small "essay" explaining the main composition
 
 *Tangolomango: a mess, a party, a dance, a way of life, a disease—all valid interpretations I've read about.*
 
-[00:08] The rich man arrives at the dance // Rico chega na dança
-[00:10] {More like "locking arms"—same meaning effectively=Holding hands} // De braço dado
-[00:12] The devil fills his stomach       // O diabo enche a pança
-[00:16] Holding hands                     // De braço dado
-[00:18] Envy and greed                    // O olho grande e a ganância
-[00:24] Holding hands                     // De braço dado
-[00:25] To the dollar, reverences         // Ao dólar reverências
-[00:26] All lifting their skirts          // Todo arriba-saiado
-[00:28] To the interests, curses          // Aos juros, esconjuros
-[00:28] All pants down                    // Todo calça-arriado
-[00:29] This is tangolomango              // Isso é o tangolomango
-[00:30] The rich man today, poor man      // O rico hoje, coitado
-[00:31] Is arrested, all surrounded       // É preso, todo cercado
-[00:33] Fenced in with bars               // Arrodeado de grades
-[00:35] Doorman, guard and alarm          // Porteiro, guarda e alarme
-[00:39] Find, Lord, a port                // Arranje, Senhor, um porto
-[00:41] TODO // Que ele não esteja acuado
-[00:42] TODO // Com um pouco de conforto
-[00:43] TODO // Pra ele estar sossegado
-[00:44] TODO // Mas a verbá, a verbé, a verbí
-[00:48] TODO // A verborrologia dessa politimerdia
-[00:49] TODO // É o tangolomango
-[00:51] TODO // E a cárdio-filosoporria
-[00:53] TODO // É o tangolomango
-[00:53] TODO // E é nesse tangolomango
-[00:59] TODO // Que me voy pa pueblo
-[01:01] TODO // É nesse tangolomango
-[01:04] TODO // Que me voy pa pueblo
-[01:06] TODO // É nesse tangolomango
-[01:09] TODO // Que me voy pa pue
-[01:12] TODO // Que me voy pa pue
-[01:14] TODO // Que me voy pa pue
-[01:16] TODO // Me voy, me voy, me voy, me voy
-[01:19] TODO // Rico chega na dança
-[01:20] TODO // De braço dado
-[01:23] TODO // O diabo enche a pança
-[01:24] TODO // De braço dado
-[01:24] TODO // O olho grande e a ganância
-[01:27] TODO // De braço dado
-[01:27] TODO // Ao dólar reverências
-[01:27] TODO // Todo arriba-saiado
-[01:32] TODO // Aos juros, esconjuros
-[01:34] TODO // Todo calça-arriado
-[01:39] TODO // Isso é o tangolomango
-[01:45] TODO // O rico hoje, coitado
-[01:45] TODO // É preso, todo cercado
-[01:48] TODO // Arrodeado de grades
-[01:49] TODO // Porteiro, guarda e alarme
-[01:50] TODO // Arranje, Senhor, um porto
-[01:52] TODO // Que ele não esteja acuado
-[01:53] TODO // Com um pouco de conforto
-[01:53] TODO // Pra ele estar sossegado
-[01:55] TODO // Mas a verbá, a verbé, a verbí
-[01:57] TODO // A verborrologia dessa politimerdia
-[01:57] TODO // É o tangolomango
+[00:08] The rich man arrives at the dance      // Rico chega na dança
+[00:11] {More like "locking arms"—same meaning effectively=Holding hands} // De braço dado
+[00:13] The devil fills his belly              // O diabo enche a pança
+[00:16] Holding hands                          // De braço dado
+[00:18] Envy and greed                         // O olho grande e a ganância
+[00:21] Holding hands                          // De braço dado
 [pause]
-[02:02] TODO // E a cárdio-filosoporria
-[02:03] TODO // É o tangolomango
-[02:04] TODO // E é nesse tangolomango
-[02:10] TODO // Que me voy pa pueblo
-[02:12] TODO // É nesse tangolomango
-[02:15] TODO // Que me voy pa pueblo
-[02:17] TODO // É nesse tangolomango
+[00:23] To the dollar, reverences              // Ao dólar reverências
+[00:26] All lifting their skirts               // Todo arriba-saiado
+[00:28] To the {In the financial sense=interests}, curses // Aos juros, esconjuros
+[00:30] All pants down                         // Todo calça-arriado
+[pause]
+[00:33] This is tangolomango                   // Isso é o tangolomango
+[pause]
+[00:34] The rich man today, poor soul          // O rico hoje, coitado
+[00:35] Is stuck, all surrounded               // É preso, todo cercado
+[00:36] Fenced in with bars                    // Arrodeado de grades
+[00:37] Doorman, guard and alarms              // Porteiro, guarda e alarme
+[pause]
+[00:39] Find, Lord, a port                     // Arranje, Senhor, um porto
+[00:41] To which he has not retreated          // Que ele não esteja acuado
+[00:42] With a little comfort                  // Com um pouco de conforto
+[00:43] So he can be in peace                  // Pra ele estar sossegado
+[pause]
+[00:44] But the verb-ah, verb-eh, verb-ih      // Mas a verbá, a verbé, a verbí
+[00:48] The verbiology of this politishitology // A verborrologia dessa politimerdia
+[00:49] It's the tangolomango                  // É o tangolomango
+[pause]
+[00:51] It's the cardio-philosofuckery         // E a cárdio-filosoporria
+[00:53] It's the tangolomango                  // É o tangolomango
+[pause]
+[00:55] And it's in this tangolomango          // E é nesse tangolomango
+[00:59] {Spanish: "That I'll go to town"=Que me voy pa'l pueblo} // Que me voy pa'l pueblo
+[01:00] It's in this tangolomango              // É nesse tangolomango
+[01:04] Que me voy pa'l pueblo                 // Que me voy pa'l pueblo
+[pause]
+[01:05] It's in this tangolomango              // É nesse tangolomango
+[01:09] Que me voy pa pue                      // Que me voy pa pue
+[01:12] Que me voy pa pue                      // Que me voy pa pue
+[01:14] Que me voy pa pue                      // Que me voy pa pue
+[01:15] Me voy, me voy, me voy, me voy         // Me voy, me voy, me voy, me voy
+[pause]
+[01:19] The rich man arrives at the dance      // Rico chega na dança
+[01:21] Holding hands                          // De braço dado
+[01:23] The devil fills his belly              // O diabo enche a pança
+[01:26] Holding hands                          // De braço dado
+[01:28] Envy and greed                         // O olho grande e a ganância
+[01:31] Holding hands                          // De braço dado
+[pause]
+[01:33] To the dollar, reverences              // Ao dólar reverências
+[01:36] All lifting their skirts               // Todo arriba-saiado
+[01:38] To the interests, curses               // Aos juros, esconjuros
+[01:41] All pants down                         // Todo calça-arriado
+[pause]
+[01:43] This is tangolomango                   // Isso é o tangolomango
+[pause]
+[01:44] The rich man today, poor soul          // O rico hoje, coitado
+[01:45] Is stuck, all surrounded               // É preso, todo cercado
+[01:47] Fenced in with bars                    // Arrodeado de grades
+[01:48] Doorman, guard and alarms              // Porteiro, guarda e alarme
+[pause]
+[01:50] Find, Lord, a port                     // Arranje, Senhor, um porto
+[01:51] To which he has not retreated          // Que ele não esteja acuado
+[01:52] With a little comfort                  // Com um pouco de conforto
+[01:53] So he can be in peace                  // Pra ele estar sossegado
+[pause]
+[01:54] But the verb-ah, verb-eh, verb-ih      // Mas a verbá, a verbé, a verbí
+[01:57] The verbiology of this politishitology // A verborrologia dessa politimerdia
+[02:00] It's the tangolomango                  // É o tangolomango
+[pause]
+[02:02] It's the cardio-philosofuckery         // E a cárdio-filosoporria
+[02:05] It's the tangolomango                  // É o tangolomango
+[pause]
+[02:08] And it's in this tangolomango          // E é nesse tangolomango
+[02:10] Que me voy pa'l pueblo                 // Que me voy pa'l pueblo
+[02:12] It's in this tangolomango              // É nesse tangolomango
+[02:15] Que me voy pa'l pueblo                 // Que me voy pa pueblo
+[02:17] It's in this tangolomango              // É nesse tangolomango
 
 .title = Valsar
 .en_title = To Waltz
-.artist = Tom Zé
+.artist = Marle Oliveira
 .composer = Tom Zé
 .end
 
-[00:00] TODO // TODO
+[00:00] Take me waltz             // Toma-me valsa
+[00:05] Nude and barefoot         // Nua e descalça
+[00:12] Be in my body             // Sê em meu corpo
+[00:17] God or Joseph             // Deus ou José
+[pause]
+[00:23] One, two, three, yes      // Um, dois, três, sim
+[00:25] Lord, oh no               // Senhor, oh não
+[00:29] Two, three, foot-forefoot // Dois, três, pé-ante-pé
+[pause]
+[00:34] One, two, I'll be         // Um, dois, serei
+[00:37] Of wine and bread         // De vinho e pão
+[00:40] Mary in Nazareth          // Maria em Nazaré
+[pause]
+[00:46] Take me, waltz            // Toma-me valsa
+[00:52] Nude and barefoot         // Nua e descalça
+[00:57] Be in my body             // Sê em meu corpo
+[01:03] God or Joseph             // Deus ou José
 
 .title = Burrice
 .en_title = Stupidity
@@ -448,7 +479,38 @@ On the back cover, Tom Zé wrote a small "essay" explaining the main composition
 .composer = Tom Zé
 .end
 
-[00:00] TODO // TODO
+[00:06] Look how great                                                           // Veja que beleza
+[00:12] In many colors                                                           // Em diversas cores
+[00:15] Look how great                                                           // Veja que beleza
+[00:19] In various flavours                                                      // Em vários sabores
+[00:22] Stupidity is on the table                                                // A burrice está na mesa
+[00:29] Look how great                                                           // Veja que beleza
+[pause]
+[00:29] Refined, polyglot                                                        // Refinada, poliglota
+[00:41] Walks on the left, walks on the right                                    // Anda na esquerda, anda na direita
+[00:43] But its consecration was the advent                                      // Mas a consagração foi o advento
+[00:46] (Of television)                                                          // (Da televisão)
+[pause]
+[00:58] Look how great                                                           // Veja que beleza
+[01:04] In many colors                                                           // Em diversas cores
+[01:08] Look how great                                                           // Veja que beleza
+[01:12] In various flavours                                                      // Em vários sabores
+[01:16] Stupidity is on the table                                                // A burrice está na mesa
+[01:23] Look how great                                                           // Veja que beleza
+[pause]
+[01:32] Taught in schools, universities                                          // Ensinada nas escolas, universidades
+[01:34] And mainly                                                               // E principalmente
+[01:36] In the Academy of Blondes and Letters                                    // Na academia de louros e letras
+[01:38] (It is present)                                                          // (Ela está presente)
+[pause]
+[01:55] — Ladies and gentlemen                                                   // — Senhoras e Senhores
+[01:57] — Ladies and gentlemen                                                   // — Senhoras e Senhores
+[02:00] — If in this solemn moment I don't propose to you                        // — Se nesse momento solene não lhes proponho 
+[02:03] — A commemorative holiday for the sacrosanct glory of national stupidity // — Um feriado comemorativo para a sacrossanta glória da burrice nacional
+[02:11] — It's because everyday, thank God                                       // — É porque todos os dias, graças a Deus
+[02:14] — {Literally: "From Oiapoque (northernmost city of Brazil) to Chuí (southernmost city of Brazil)"=From north to south} // — Do Oiapoque ao Chuí
+[02:16] — {Literally: "From the Pampas (grasslands in the south of Brazil) to the Seringais (rubber farms in the north of Brazil)"=From north to south // — Dos pampas aos seringais
+[02:18] — It is already gloriously celebrated!                                   // — Ela já é gloriosamente festejada!
 
 .title = Xiquexique
 .en_title = Xiquexique
@@ -467,7 +529,7 @@ On the back cover, Tom Zé wrote a small "essay" explaining the main composition
 [03:56] Saw the {Brazilian bass drum=zabumba} and the bagpipe {Not an actual verb in Portuguese either :-)=zabumbing} // Vi a zabumba e o fole a zabumbá
 [02:58] I saw the lightning that's there when the sky's alight // Eu vi o raio quando o céu todo corisca
 [03:00] And the triangle, swallowing, spark                    // E o triângulo engolindo faiscar
-[03:03] Saw the white {Fusion of "galáxia" (galaxy) with "via láctea" (milky way)=galactiway on the black galactiway // Vi a galáctea branca na galáctea preta
+[03:03] Saw the white {Fusion of "galáctica" (galactic) with "via láctea" (milky way)=galactiway} on the black galactiway // Vi a galáctea branca na galáctea preta
 [03:05] I saw day and night meet                               // Eu vi o dia e a noite se encontrá
 [pause]
 [03:07] I saw the father, I saw the mother, I saw the daughter // Eu vi o pai eu vi a mãe eu vi a filha
@@ -488,7 +550,7 @@ On the back cover, Tom Zé wrote a small "essay" explaining the main composition
 ---
 
 # Estethics of Plagiarism
-= Transcribed "as-is" from the liner notes, including translation note, except for added paragraph breaks and capitalization
+= Transcribed "as-is" from the back cover, including translation note, except for added paragraph breaks and capitalization
 
 The esthetic of the Fabrication Defect will re-utilize the sonorous civilized trash (everyday symphony,) be they conventional or unconventional instruments (for example: toys, cars, whistles, saws, Hertz orchestra, street noises, etc.)—all of this put into a rhythmic or dance music format, with choruses, and within the parameters of popular music.
 It will recycle an alphabet of emotions contained in songs and musical symbols of the first world, that sealed each marked step of our affective and emotional life. They will be put to use in small "cells" of "plagiarized" material. This deliberate practice unleashes an esthetic of plagiarism, an esthetic of arrastão* that ambushes the universe of the well-known and traditional music.
