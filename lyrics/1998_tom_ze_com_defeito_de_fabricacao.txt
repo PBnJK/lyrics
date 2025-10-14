@@ -10,6 +10,9 @@
 
 Published under David Byrne's Luaka Bop label, "Com Defeito de Fabricação" (Fabrication Defect) is a concept album about third worlders, their transformation into "androids" via economical exploitation, and, more importantly, the "defects"—thinking, dancing, dreaming—that make them dangerous in the eyes of their first world overlords.
 
+<img src="assets/band_members/tom_ze.jpg" width="256" alt="Tom Zé in an all-black retro-post-futuristic DJ costume. There's a mock turntable attached to his chest, complete with a dangling vinyl record and colorful cables and knobs, as well as red face paint. He's pontificating into a microphone held in his right hand, the other making a pointing gesture and captured mid-movement, as if delivering a particularly excited speech."
+= Tom Zé performing. Photo by Sergio Savarese
+
 On the back cover, Tom Zé wrote a small "essay" explaining the main compositional idea behind the record, which you may find transcribed at the bottom of this page.
 
 .title = Gene
@@ -293,28 +296,44 @@ On the back cover, Tom Zé wrote a small "essay" explaining the main composition
 
 .title = Juventude Javali
 .en_title = Wild Boar Youth
-.artist = Tom Zé
+.artist = Tom Zé feat. Marle Oliveira
 .composer = Tom Zé
 .end
 
-[00:00] Wine of open legs                                // Vinho das pernas abertas
-[00:00] Wets the altar of offerings                      // Molha o altar das ofertas
-[00:00] Screams, sperm and handcuff                      // Gritos, esperma e algema
-[00:00] Fury of pure lavender                            // Fúria de pura alfazema
-[00:00] Of pure lavender                                 // De pura alfazema
+[00:02] Wine of open legs                                // Vinho das pernas abertas
+[00:10] Wets the altar of offerings                      // Molha o altar das ofertas
+[00:18] Screams, sperm and handcuff                      // Gritos, esperma e algema
+[00:23] Fury of pure lavender                            // Fúria de pura alfazema
+[00:30] Of pure lavender                                 // De pura alfazema
 [pause]
-[00:00] Moon on the room in heat—oh                      // Lua no quarto do cio—oh
-[00:00] Timid fruit, nudity—shame                        // Tímida fruta, nudez—pudor
-[00:00] Sneakers and teats, liquor—color                 // Tênis e tetas, licor—cor
-[00:00] Fear, hard to get, desire—fright                 // Medo, cu doce, querer—pavor
+[00:38] Moon on the room in heat—oh                      // Lua no quarto do cio—oh
+[00:44] Timid fruit, nudity—shame                        // Tímida fruta, nudez—pudor
+[00:50] Sneakers and teats, liquor—color                 // Tênis e tetas, licor—cor
+[00:56] Fear, hard to get, desire—fright                 // Medo, cu doce, querer—pavor
 [pause]
-[00:00] In youth all come as wild boars                  // Se na juventude já vem tudo javali
-[00:00] The courage of this coitus is something I've already seen there // O afoito desse coito é coisa que já lá vi
-[00:00] Seen there, seen there                           // Lá vi, lá vi
+[01:01] In youth all come as wild boars                  // Se na juventude já vem tudo javali
+[01:05] The courage of this coitus is something I've already seen there // O afoito desse coito é coisa que já lá vi
+[01:09] Seen there, seen there                           // Lá vi, lá vi
 [pause]
-[00:00] Bacchus, hole, curve, grapes I've already picked // Baco, buraco, curva, uva que já colhi
-[00:00] Meta-mycosis itches, It's every man for himself  // Meta-micose coça, cada um cuide-se de si
-[00:00] For himself, for himself                         // De si, de si
+[01:17] Bacchus, hole, curve, grapes I've already picked // Baco, buraco, curva, uva que já colhi
+[01:21] Meta-mycosis itches, It's every man for himself  // Meta-micose coça, cada um cuide-se de si
+[01:24] For himself, for himself                         // De si, de si
+[pause]
+[01:36] Moon on the room in heat—oh                      // Lua no quarto do cio—oh
+[01:42] Timid fruit, nudity—shame                        // Tímida fruta, nudez—pudor
+[01:48] Sneakers and teats, liquor—color                 // Tênis e tetas, licor—cor
+[01:53] Fear, hard to get, desire—fright                 // Medo, cu doce, querer—pavor
+[pause]
+[01:59] In youth all come as wild boars                  // Se na juventude já vem tudo javali
+[02:03] The courage of this coitus is something I've already seen there // O afoito desse coito é coisa que já lá vi
+[02:07] Seen there, seen there                           // Lá vi, lá vi
+[pause]
+[02:15] Bacchus, hole, curve, grapes I've already picked // Baco, buraco, curva, uva que já colhi
+[02:18] Meta-mycosis itches, It's every man for himself  // Meta-micose coça, cada um cuide-se de si
+[02:22] For himself, for himself                         // De si, de si
+[pause]
+[02:35] Moon on the room in heat—oh                      // Lua no quarto do cio—oh
+[02:41] Timid fruit, nudity—shame                        // Tímida fruta, nudez—pudor
 
 .title = Cedotardar
 .en_title = Earlylate
@@ -368,7 +387,7 @@ On the back cover, Tom Zé wrote a small "essay" explaining the main composition
 .composer = Adoniran Barbosa, Tom Zé
 .end
 
-*Tangolomango: a mess, a party, a dance, a way of life, a disease—all valid interpretations I've read about.*
+*Tangolomango: a mess, a party, a dance, a way of life, a disease—all valid interpretations I've read*
 
 [00:08] The rich man arrives at the dance      // Rico chega na dança
 [00:11] {More like "locking arms"—same meaning effectively=Holding hands} // De braço dado

@@ -30,7 +30,7 @@ table {
   width: 100%;
 
   border-collapse: collapse;
-  border: 1px solid var(--text-secondary);
+  border: 2px solid var(--text-secondary);
 }
 
 thead {
@@ -42,8 +42,10 @@ td {
   overflow: clip;
   text-overflow: ellipsis;
 
+  border-bottom: 1px solid var(--text-disabled);
+
   max-width: 250px;
-  padding: 8px 12px;
+  padding: 8px 16px;
 }
 
 #th-album,

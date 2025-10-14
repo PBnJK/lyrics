@@ -1,0 +1,17 @@
+.album_name = 4
+.album_artist = Los Hermanos
+.album_genre = Alternative Rock, Indie Rock, MPB
+.album_year = 2005
+
+# 4 (2005)
+= Los Hermanos
+
+<img src="assets/covers/2005_los_hermanos_4.jpg" width="400" alt="4 cover art, an abstract painting with a blue background, grey and purple triangles, and a white star" />
+= The 4th LP
+
+.title = XXX
+.en_title = XXX
+.end
+
+[00:00] TODO // TODO
+

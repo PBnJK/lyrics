@@ -4,23 +4,7 @@ const checkAlbumMatches = (album, term) => {
   }
 
   const regex = new RegExp(term, "i");
-  if (regex.test(album.album)) {
-    return true;
-  }
-
-  for (const artist of album.artist) {
-    if (regex.test(artist)) {
-      return true;
-    }
-  }
-
-  for (const genre of album.genre) {
-    if (regex.test(genre)) {
-      return true;
-    }
-  }
-
-  return regex.test(album.year);
+  return regex.test(album.search);
 };
 
 const refreshTable = (term) => {
@@ -61,10 +45,13 @@ const refreshTable = (term) => {
   }
 };
 
-refreshTable("");
-
 const search = document.getElementById("search");
 search.addEventListener("input", () => {
-  console.log("hi");
   refreshTable(search.value);
 });
+
+const uniformize = (s) => {
+  return s.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+};
+
+refreshTable("");

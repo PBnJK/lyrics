@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env -S bash -c 'exec "`dirname $0`/.venv/bin/python" "$0" "$@"'
 # lyrics
 # Transforms an input lyrics file into HTML
 #
@@ -8,6 +8,7 @@
 from pathlib import Path
 
 import re
+from unidecode import unidecode
 
 HEADER_LINE_REGEX: re.Pattern = re.compile(r"^(#+)(.*)$")
 SUB_LINE_REGEX: re.Pattern = re.compile(r"^=(.*)$")
@@ -277,6 +278,23 @@ def generate_lyrics(filename: Path, infile) -> dict:
     return out
 
 
+def searchify(s: list[str]) -> str:
+    search: str = ""
+
+    for term in s:
+        search += term
+        if (l_term := term.lower()) != term:
+            search += l_term
+
+        if (u_term := unidecode(term)) != term:
+            search += u_term
+
+            if (lu_term := u_term.lower()) != u_term:
+                search += lu_term
+
+    return search
+
+
 def main() -> None:
     lyrics_folder: Path = Path("lyrics")
 
@@ -294,10 +312,17 @@ def main() -> None:
             album_genre: str = ", ".join(f'"{genre}"' for genre in out["genre"])
             album_year: str = out["year"]
 
+            album_search: str = ""
+            album_search += album_name + unidecode(album_name)
+            album_search += searchify(out["artist"])
+            album_search += searchify(out["genre"])
+            album_search += album_year
+
             db.write(f'\t\t"album": "{album_name}",\n')
             db.write(f'\t\t"artist": [{album_artist}],\n')
             db.write(f'\t\t"genre": [{album_genre}],\n')
             db.write(f'\t\t"year": "{album_year}",\n')
+            db.write(f'\t\t"search": "{album_search}",\n')
             db.write("\t},\n")
 
         db.write("\n}\n")
