@@ -41,6 +41,13 @@ const db = {
 		"year": "1972",
 		"search": "Clube da EsquinaClube da EsquinaMilton Nascimentomilton nascimentoLô Borgeslô borgesLo Borgeslo borgesMPBmpb1972",
 	},
+	"2005_los_hermanos_4": {
+		"album": "4",
+		"artist": ["Los Hermanos"],
+		"genre": ["Alternative Rock", "Indie Rock", "MPB"],
+		"year": "2005",
+		"search": "44Los Hermanoslos hermanosAlternative Rockalternative rockIndie Rockindie rockMPBmpb2005",
+	},
 	"1968_os_mutantes_os_mutantes": {
 		"album": "Os Mutantes",
 		"artist": ["Os Mutantes"],
