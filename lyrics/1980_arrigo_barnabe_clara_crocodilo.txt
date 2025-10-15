@@ -11,7 +11,7 @@
 
 Clara Crocodilo (Clara Crocodile) is the first and most well-known album by composer Arrigo Barnabé, together with his band, Sabor de Veneno (Taste of Poison.) It narrates the wild, neurotic way of living of the Brazilian metropolis, specifically São Paulo, framed by atonal, dodecaphonic, relentless instrumentals, layered chorales and oddball vocal deliveries.
 
-|This album is meant to shock you both instrumentally *and* lyrically. Lyrics contain themes of sex, abuse, gambling, drug use, etc. Reader discretion is advised!|
+|This album is meant to shock you both instrumentally *and* lyrically. Lyrics contain themes of sex, abuse, gambling, drug use, etc. Reader/listener discretion is advised!|
 
 .title = Acapulco Drive-In
 .en_title = Acapulco Drive-In
@@ -27,21 +27,21 @@ Clara Crocodilo (Clara Crocodile) is the first and most well-known album by comp
 [00:25] Acapulco Drive-In!                                   // Acapulco Drive-In!
 [pause]
 [00:34] Early night                                          // Boca da noite
-[00:36] A little cat mouth                                   // Boquinha de gata
+[00:36] A tiny cat mouth                                     // Boquinha de gata
 [00:38] Sucking, biting on                                   // Chupando, mordendo
 [00:39] Cognac candies                                       // Bala de conhaque
 [00:41] Colored                                              // Colored
 [00:42] Color in the drizzle                                 // Color na garoa
 [pause]
 [00:44] Early night                                          // Boca da noite
-[00:46] A little cat mouth                                   // Boquinha de gata
+[00:46] A tiny cat mouth                                     // Boquinha de gata
 [00:47] Sucking, biting on                                   // Chupando, mordendo
 [00:49] Cognac candies                                       // Bala de conhaque
 [00:51] Colored                                              // Colored
 [00:52] Color in the drizzle                                 // Color na garoa
 [pause]
 [00:54] Early night                                          // Boca da noite
-[00:56] A little cat mouth                                   // Boquinha de gata
+[00:56] A tiny cat mouth                                     // Boquinha de gata
 [00:58] Sucking, biting on                                   // Chupando, mordendo
 [00:59] Cognac candies                                       // Bala de conhaque
 [01:01] Color in the drizzle                                 // Color na garoa
@@ -148,7 +148,7 @@ Clara Crocodilo (Clara Crocodile) is the first and most well-known album by comp
 [03:39] You too can achieve your total orgasm                  // Você também pode conseguir seu orgasmo total
 [03:43] Order now through postal box 6969                      // Peça já pela caixa postal 6969
 [03:47] Your copy of {Joke about how "___ Within Anyone's Reach" used to be a very common book title format="Orgasm Within Anyone's Reach!"} // O seu exemplar de "O Orgasmo ao Alcance de Todos!"
-[03:52] TODO // E, um feliz orgasmo, ouvinte!
+[03:52] And a happy orgasm, listener!                          // E, um feliz orgasmo, ouvinte!
 [pause]
 [03:56] Cash on delivery                                       // Reembolso postal
 [03:58] Until we reach total orgasm                            // Até chegarmos ao orgasmo total
