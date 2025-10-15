@@ -1,10 +1,15 @@
-const checkAlbumMatches = (album, term) => {
-  if (term === "") {
+const checkAlbumMatches = (searched, terms) => {
+  if (terms === "") {
     return true;
   }
 
-  const regex = new RegExp(term, "i");
-  return regex.test(album.search);
+  for (const term of terms) {
+    if (searched.indexOf(term.toLowerCase()) !== -1) {
+      return true;
+    }
+  }
+
+  return false;
 };
 
 const refreshTable = (term) => {

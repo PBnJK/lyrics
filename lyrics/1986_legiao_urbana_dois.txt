@@ -1,0 +1,16 @@
+.album_name = Dois
+.album_artist = Legião Urbana
+.album_genre = Post-punk, Folk Rock, Jangle Pop, Punk Rock
+.album_year = 1986
+
+# Dois (1986)
+= Legião Urbana
+
+<img src="assets/covers/1986_legiao_urbana_dois.jpg" width="400" alt="Dois cover art, featuring the band name in red over a yellowish-beige background" />
+= Minimalism
+
+.title = Daniel na Cova dos Leões
+.en_title = Daniel in the Lions' Den
+.end
+
+[00:00] TODO // TODO

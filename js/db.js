@@ -41,12 +41,26 @@ const db = {
 		"year": "1972",
 		"search": "Clube da EsquinaClube da EsquinaMilton Nascimentomilton nascimentoLô Borgeslô borgesLo Borgeslo borgesMPBmpb1972",
 	},
+	"1980_arrigo_barnabe_clara_crocodilo": {
+		"album": "Clara Crocodilo",
+		"artist": ["Arrigo Barnabé"],
+		"genre": ["Avant-garde Jazz", "Experimental Rock"],
+		"year": "1980",
+		"search": "Clara CrocodiloClara CrocodiloArrigo Barnabéarrigo barnabéArrigo Barnabearrigo barnabeAvant-garde Jazzavant-garde jazzExperimental Rockexperimental rock1980",
+	},
 	"2005_los_hermanos_4": {
 		"album": "4",
 		"artist": ["Los Hermanos"],
 		"genre": ["Alternative Rock", "Indie Rock", "MPB"],
 		"year": "2005",
 		"search": "44Los Hermanoslos hermanosAlternative Rockalternative rockIndie Rockindie rockMPBmpb2005",
+	},
+	"1986_legiao_urbana_dois": {
+		"album": "Dois",
+		"artist": ["Legião Urbana"],
+		"genre": ["Post-punk", "Folk Rock", "Jangle Pop", "Punk Rock"],
+		"year": "1986",
+		"search": "DoisDoisLegião Urbanalegião urbanaLegiao Urbanalegiao urbanaPost-punkpost-punkFolk Rockfolk rockJangle Popjangle popPunk Rockpunk rock1986",
 	},
 	"1968_os_mutantes_os_mutantes": {
 		"album": "Os Mutantes",
