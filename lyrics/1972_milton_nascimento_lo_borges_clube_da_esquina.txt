@@ -9,11 +9,12 @@
 <img src="assets/covers/clube_da_esquina.jpg" width="400" alt="Clube da Esquina album cover, depicting two young boys sitting by the road" />
 = As iconic a cover art as they come
 
-Context and whatnot will go here.
+Clube da Esquina (Corner Club) is a result of the friendship between Milton Nascimento and the Borges brothers. Inspired by the Beatles and Chopin, they sought to integrate Brazilian rhythms and genres with the new sounds that were coming into the country, while also using music as a way of speaking out against the increasingly strict censorship imposed by the then-ruling military dictatorship.
 
-|These info boxes will contain information that I deem crucial to understanding the song, like cultural differences or something.|
+<img src="assets/band_members/clube_da_esquina.jpg" width="600" alt="The Clube da Esquina, sitting on a bench. Ex-president of Brazil Juscelino Kubitscheck is also there, looking very serious in a black suit and tie" />
+= The Clube da Esquina. Ex-president of Brazil Juscelino Kubitscheck is also there for some reason?
 
-*These will be some assorted translation notes and whining about translation being hard...*
+This album was a bit of a miracle—recorded on a two-track by relatively inexperienced musicians, the songs had to be played mostly live as to avoid the loss of quality associated with adding new tracks through down mixing, and were rife with improvisation and experimentation between the performers. Still, even under adverse conditions, these friends succeeded in creating what is considered by many to be one of, if not <i>the</i> best Brazilian album of all time.
 
 .title = Tudo Que Você Podia Ser
 .en_title = Everything That You Could Ever Be
@@ -295,7 +296,7 @@ Context and whatnot will go here.
 .composer = Fernando Brant, Milton Nascimento
 .end
 
-São Vicente was the first village founded in Brazil, and also where the first election on the entire American continent was run. For this reason, it is considered by some the "berth of American democracy."
+São Vicente was the first village founded in Brazil, and also where the first election on the entire American continent was run. For this reason, it is considered by some to be the "berth of American democracy."
 
 Its port also received one of the greatest influxes of slaves via the Transatlantic Slave Trade.
 
@@ -536,7 +537,7 @@ A short interlude. I recommend running this one straight into the next song.
 .composer = Milton Nascimento
 .end
 
-Lilia is Milton Nascimento's adoptive mother.
+|Lilia is the name of Milton Nascimento's adoptive mother.|
 
 [instrumental]
 
@@ -548,7 +549,7 @@ Lilia is Milton Nascimento's adoptive mother.
 
 *No relation. Perhaps a better translation is "Crazy People Train"*
 
-|The title of this song refers to the train that used to ferry people to the Barbacena Colonial Hospital, a psychiatric institution that became infamous due to its inhuman treatment of its patients. This incident is referred to by many as the "Brazilian Holocaust," due to the obvious parallels with the trains, but also for the fact that many of the "patients" of the hospital did not suffer from any mental disorders, but were instead simply alcoholics, beggars, unwanted children, political enemies, homosexuals, etc. It was thankfully shut down in the 80s and now functions as a museum.|
+|The title of this song refers to the train that used to ferry people to the Barbacena Colonial Hospital, a psychiatric institution that became infamous due to its inhuman treatment of its patients. This incident is referred to by many as the "Brazilian Holocaust," not only due to the obvious parallels and the use of trains, but also for the fact that many of the "patients" of the hospital did not suffer from any mental disorders, but were instead simply alcoholics, beggars, unwanted children, political enemies, homosexuals, etc. It was thankfully shut down in the 80s and now functions as a museum.|
 
 [00:20] Blue night, stone and ground                   // Noite azul, pedra e chão
 [00:24] Friends in a hotel                             // Amigos num hotel
@@ -638,8 +639,6 @@ Lilia is Milton Nascimento's adoptive mother.
 .artist = Milton Nascimento
 .composer = Fernando Brant, Milton Nascimento
 .end
-
-*Same as the Exits and Flags, this is very abstract. This is my best effort.*
 
 [00:02] Memories of so much waiting                               // Memória de tanta espera
 [00:07] Your body, growing, jumps off the ground                  // Teu corpo crescendo, salta do chão
