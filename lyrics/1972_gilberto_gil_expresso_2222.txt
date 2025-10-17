@@ -466,3 +466,12 @@ A Banda de Pífanos (Band of Fifes) welcomes us into the album with a style of t
 [05:35] By the rotation of the Earth around the sun    // Pela rotação da Terra em torno do Sol
 [05:40] With a smile, young man                        // Sorridente, rapaz
 [05:47] For the continuity of Adam's dream             // Pela continuidade do sonho de Adão
+
+---
+
+# Sources
+
+<ul>
+  <li>Song credits sourced from <a href="https://www.discogs.com/release/5346968-Gilberto-Gil-Expresso-2222">Discogs</a></li>
+  <li>Synced lyrics sourced from <a href="https://lrclib.net">LRCLIB</a></li>
+</ul>

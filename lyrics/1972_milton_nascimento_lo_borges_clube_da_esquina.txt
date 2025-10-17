@@ -684,5 +684,6 @@ A short interlude. I recommend running this one straight into the next song.
 
 <ul>
   <li>Song credits sourced from <a href="https://www.discogs.com/release/2422289-Milton-Nascimento-L%C3%B4-Borges-Clube-Da-Esquina">Discogs</a></li>
+  <li>Synced lyrics sourced from <a href="https://lrclib.net">LRCLIB</a></li>
   <li>Dos Cruces translation based on the work by <a href="https://www.lyricslayers.com/el-consorcio/1558603/english.html">LyricsLayers</a></li>
 </ul>

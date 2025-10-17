@@ -32,12 +32,12 @@ Os Mutantes are also notable for their innovation, at a time where the phonograp
 [00:41] Are too busy living and dying                     // São ocupadas em nascer e morrer
 [pause]
 [00:51] I had a dagger of pure shiny steel made           // Mandei fazer de puro aço luminoso um punhal
-[00:58] To kill my love and I did                         // Para matar o meu amor e matei
-[01:02] At five in the Central Avenue                     // Às cinco horas na Avenida Central
+[00:58] To kill my love and so I did                      // Para matar o meu amor e matei
+[01:02] At five o' clock on the Central Avenue            // Às cinco horas na Avenida Central
 [01:06] But all the people in the dining room             // Mas as pessoas na sala de jantar
 [01:10] Are too busy living and dying                     // São ocupadas em nascer e morrer
 [pause]
-[01:21] I had them plant dream leaves in the {Might refer to the "Solar da Fossa," an artist hangout spot=solar} garden // Mandei plantar folhas de sonho no jardim do solar
+[01:21] I had them plant dream leaves on the {Might refer to the "Solar da Fossa," an artist hangout spot=solar}'s garden // Mandei plantar folhas de sonho no jardim do solar
 [01:27] The leaves know how to search for the sun         // As folhas sabem procurar pelo Sol
 [01:31] And the roots to search, search                   // E as raízes procurar, procurar
 [01:35] But all the people in the dining room             // Mas as pessoas na sala de jantar
@@ -81,7 +81,7 @@ Os Mutantes are also notable for their innovation, at a time where the phonograp
 [00:47] The silver moon went away                     // A lua prateada se escondeu
 [00:52] And the golden sun appeared                   // E o sol dourado apareceu
 [00:58] A new day dawned, smelling of joy             // Amanheceu um lindo dia, cheirando alegria
-[01:05] Because I dreamed and woke thinking of her    // Pois eu sonhei e acordei pensando nela
+[01:05] Because I dreamed and woke up thinking of her // Pois eu sonhei e acordei pensando nela
 [pause]
 [01:12] Because she's my girl                         // Pois ela é minha menina
 [01:18] And I'm her boy                               // E eu sou o menino dela
@@ -102,7 +102,7 @@ Os Mutantes are also notable for their innovation, at a time where the phonograp
 [03:08] The silver moon went away                     // A lua prateada se escondeu
 [03:14] And the golden sun appeared                   // E o sol dourado apareceu
 [03:19] A new day dawned, smelling of joy             // Amanheceu um lindo dia, cheirando alegria
-[03:26] Because I dreamed and woke thinking of her    // Pois eu sonhei e acordei pensando nela
+[03:26] Because I dreamed and woke up thinking of her // Pois eu sonhei e acordei pensando nela
 [pause]
 [03:33] Because she's my girl                         // Pois ela é minha menina
 [03:39] And I'm her boy                               // E eu sou o menino dela
@@ -115,19 +115,19 @@ Os Mutantes are also notable for their innovation, at a time where the phonograp
 [04:20] My girl, my girl                              // Minha menina, minha menina
 
 .title = O Relógio
-.en_title = The Clock
+.en_title = The Watch
 .artist = Os Mutantes
 .composer = Arnaldo Baptista, Rita Lee, Sérgio Dias
 .arranger = Rogério Duprat
 .end
 
-[00:07] My clock stopped                // Meu relógio parou
-[00:18] Forever gave up being           // Desistiu pra sempre de ser
+[00:07] My watch stopped                // Meu relógio parou
+[00:18] It forever gave up being        // Desistiu pra sempre de ser
 [00:23] Anti-magnetic                   // Antimagnético
 [00:29] Twenty two jewels               // Vinte e dois rubis
 [pause]
-[00:39] Wound it up and thought         // Eu dei corda e pensei
-[00:46] That the clock would live       // Que o relógio iria viver
+[00:39] I wound it up and thought       // Eu dei corda e pensei
+[00:46] That the watch would live       // Que o relógio iria viver
 [00:52] To tell the time                // Pra dizer a hora
 [00:57] For you to arrive               // De você chegar
 [pause]
@@ -137,13 +137,13 @@ Os Mutantes are also notable for their innovation, at a time where the phonograp
 [01:23] Twenty two jewels               // Vinte e dois rubis
 [pause]
 [01:37] What great luck of mine         // Que vantagem eu levei
-[01:45] To have a clock                 // Em ter um relógio
+[01:45] To have a watch                 // Em ter um relógio
 [01:47] That is Swiss or English        // Que é suíço ou inglês
 [01:53] And doesn't run                 // Sem andar
 [01:56] What time will you arrive?      // A que horas você vai chegar?
 [pause]
 [02:40] And I threw myself into the sea // E no mar me atirei
-[02:47] Clock in hands, and thought     // Com o relógio nas mãos e pensei
+[02:47] Watch in hands, and thought     // Com o relógio nas mãos e pensei
 [02:52] It's waterproof                 // Ele é à prova d'água
 [02:56] Twenty two jewels               // Vinte dois rubis
 
@@ -159,7 +159,7 @@ Goodbye Maria Fulô—fulô being a corruption of "flor," meaning flower. Goodby
 [00:56] Goodbye, I'm going, my dear           // Adeus, vou-me embora, meu bem
 [00:59] Crying doesn't help anyone            // Chorar não ajuda ninguém
 [01:02] Wipe your tears of pain               // Enxugue o seu pranto de dor
-[01:04] For the {Droughts are a recurring motif in the music of the Brazilian Northeast, and is very commonly paired with the themes of migration and leaving behind loved ones. Sivuca, the composer, hails from the Northeast=drought} has only just started // Que a seca mal começou
+[01:04] For the {Droughts are a recurring motif in the music of the Brazilian Northeast, where they are an unfortunate reality, and is very commonly paired with the themes of migration and leaving behind loved ones. Sivuca, the composer, hails from the Northeast=drought} has only just started // Que a seca mal começou
 [pause]
 [01:13] Goodbye, I'm going, my dear           // Adeus, vou-me embora, meu bem
 [01:16] Crying doesn't help anyone            // Chorar não ajuda ninguém
@@ -174,7 +174,7 @@ Goodbye Maria Fulô—fulô being a corruption of "flor," meaning flower. Goodby
 [01:44] I count on my hand                    // Eu conto na minha mão
 [pause]
 [01:47] Goodbye Maria Fulô                    // Adeus, Maria Fulô
-[01:50] The quince dried out                  // Marmeleiro amarelou
+[01:50] The quince tree dried out             // Marmeleiro amarelou
 [01:53] Goodbye Maria Fulô                    // Adeus, Maria Fulô
 [01:56] The water spring ran dry              // Olho d'água esturricou
 [pause]
@@ -202,7 +202,7 @@ Goodbye Maria Fulô—fulô being a corruption of "flor," meaning flower. Goodby
 [pause]
 [00:40] Baby, baby                             // Baby, baby
 [00:45] I know that's how it is                // Eu sei que é assim
-[00:49] I know that's how it is                // Baby, baby
+[00:49] Baby, baby                             // Baby, baby
 [00:54] I know that's how it is                // Eu sei que é assim
 [pause]
 [00:58] You                                    // Você
@@ -256,7 +256,7 @@ Goodbye Maria Fulô—fulô being a corruption of "flor," meaning flower. Goodby
 [00:21] Mr. X                                         // O Senhor X
 [00:25] Is the hero (X)                               // É o herói (X)
 [00:28] That on TV (X)                                // Que na TV (X)
-[00:31] Never loses their hat                         // Nunca perde o seu chapéu
+[00:31] Never loses his hat                           // Nunca perde o seu chapéu
 [00:34] And makes Mr. F dream                         // E faz o Senhor F sonhar
 [pause]
 [00:38] Dream of having                               // Sonhar em ter
@@ -343,7 +343,7 @@ Bonus fact: there's a cool guitar effect here, and the pedal responsible for it 
 [00:53] On the branch of the fig tree         // Sur la branche du figuier
 [pause]
 [01:48] The first sorrow of the day           // La premier chagrin du jour
-[01:52] It's the door that clsoes             // C'est la porte qui se ferme
+[01:52] It's the door that closes             // C'est la porte qui se ferme
 [01:57] The car that goes away                // La voiture qui s'en va
 [02:02] The silence that settles              // Le silence qui s'installe
 [pause]
@@ -364,7 +364,7 @@ Bonus fact: there's a cool guitar effect here, and the pedal responsible for it 
 [00:31] From the ticket booth                                     // Da mão do bilheteiro
 [00:34] Admissions to the ghost train                             // As entradas do trem fantasma
 [pause]
-[00:39] Him and his girlfriend                                    // Ele e a namorada
+[00:39] He and his girlfriend                                     // Ele e a namorada
 [00:43] He doesn't think of anything                              // Ele não pensa em nada
 [00:46] She gets scared                                           // Ela fica assustada
 [pause]
@@ -375,9 +375,9 @@ Bonus fact: there's a cool guitar effect here, and the pedal responsible for it 
 [pause]
 [01:06] The giant mountain                                        // A montanha gigante
 [01:08] Of green generals                                         // De generais verdejantes
-[01:13] And it seems distant                                      // E aparece distante
+[01:13] And it appears in the distance                            // E aparece distante
 [pause]
-[01:16] The train in the shiny mirror                             // O trem no espelho brilhante
+[01:16] The train on the shiny mirror                             // O trem no espelho brilhante
 [01:20] The kiss, the first kiss                                  // O beijo, o primeiro beijo
 [01:24] Shatters the mirror                                       // Arrebenta o espelho
 [pause]
@@ -402,7 +402,7 @@ Bonus fact: there's a cool guitar effect here, and the pedal responsible for it 
 [02:33] The session's over                                        // Terminou a sessão
 [02:36] Four hundred cruzeiros                                    // Quatrocentos cruzeiros
 [02:39] Old men buy, frightened                                   // Velhos compram com medo
-[02:42] Him and his girlfriend                                    // Ele e a namorada
+[02:42] He and his girlfriend                                     // Ele e a namorada
 [02:46] She doesn't think of anything                             // Ela não pensa em nada
 [02:50] He secretly thinks                                        // Ele pensa em segredo
 [02:54] He secretly thinks                                        // Ele pensa em segredo
@@ -417,17 +417,19 @@ Bonus fact: there's a cool guitar effect here, and the pedal responsible for it 
 .arranger = Os Mutantes, Rogério Duprat
 .end
 
+*Cover of "Once Was a Time I Thought" by "The Mamas & The Papas."*
+
 [00:00] Hallelujah                                                                 // Aleluia
 [00:11] I want to be with my Lord                                                  // Eu quero estar com meu Senhor
 [pause]
 [00:28] There's always a time in time where the body of man rots                   // Há sempre um tempo no tempo em que o corpo do homem apodrece
 [00:32] And his tired, sorrowful soul sinks into the ground                        // E sua alma cansada, penada, se afunda no chão
 [pause]
-[00:35] {It's just some random stuff that rhyme, it doesn't make too much sense in Portuguese either=And the wizard of luxury like a friar crying in a shelf sycophant of trash} // E o bruxo do luxo baixado o capucho chorando num nicho capacho do lixo
+[00:35] {It's just some random stuff that rhyme, it doesn't make too much sense in Portuguese either=And the wizard of luxury, like a friar, crying on a shelf sycophant, of trash} // E o bruxo do luxo baixado o capucho chorando num nicho capacho do lixo
 [00:40] Whims will not be coming back                                              // Caprichos não mais voltarão
 [pause]
 [00:42] There once was time where time stopped passing by                          // Já houve um tempo em que o tempo parou de passar
-[00:47] And a so-called homo sapiens didn't know how to harness it                 // E um tal de homo sapiens não soube disso aproveitar
+[00:47] And the so-called homo sapiens didn't know how to harness it               // E um tal de homo sapiens não soube disso aproveitar
 [pause]
 [00:51] Crying, smiling, talking about shutting up                                 // Chorando, sorrindo, falando em calar
 [00:54] Thinking of thinking when time stops passing by                            // Pensando em pensar quando o tempo parar de passar
@@ -435,10 +437,10 @@ Bonus fact: there's a cool guitar effect here, and the pedal responsible for it 
 [00:58] There's always a time in time where the body of man rots                   // Há sempre um tempo no tempo em que o corpo do homem apodrece
 [01:01] And his tired, sorrowful soul sinks into the ground                        // E sua alma cansada, penada, se afunda no chão
 [pause]
-[01:05] And the wizard of luxury like a friar crying in a shelf sycophant of trash // E o bruxo do luxo baixado o capucho chorando num nicho capacho do lixo
+[01:05] And the wizard of luxury, like a friar, crying on a shelf, sycophant of trash // E o bruxo do luxo baixado o capucho chorando num nicho capacho do lixo
 [01:10] Whims will not be coming back                                              // Caprichos não mais voltarão
 [pause]
-[01:12] But if between tears you find yourself and think you're about to cry       // Mas se entre lágrimas você se achar e pensar que está a chorar
+[01:12] But if between tears you find yourself and you think you're crying         // Mas se entre lágrimas você se achar e pensar que está a chorar
 [01:19] This was the time in which time is                                         // Este era o tempo em que o tempo é
 
 .title = Ave Gengis Khan
@@ -461,4 +463,13 @@ Bonus fact: there's a cool guitar effect here, and the pedal responsible for it 
 <ul>
   <li>[1]: Nowadays, the group is a shell of its former self, with only Sérgio Dias left of the original formation (though not even in a cool way like King Crimson.) Rita Lee was kicked out of the band in 1972 and unfortunately passed away in 2023, while Arnaldo Baptista left in 1973 due to his rampant drug abuse (he is doing much better now.)</li>
   <li>[2]: <a href="https://www.youtube.com/watch?v=nsOoltvk0sk">Le Premier Bonheur du Jour Translation by frenchrescue</a></li>
+</ul>
+
+---
+
+# Sources
+
+<ul>
+  <li>Song credits sourced from <a href="https://www.discogs.com/release/3017386-Os-Mutantes-Os-Mutantes">Discogs</a></li>
+  <li>Synced lyrics sourced from <a href="https://lrclib.net">LRCLIB</a></li>
 </ul>

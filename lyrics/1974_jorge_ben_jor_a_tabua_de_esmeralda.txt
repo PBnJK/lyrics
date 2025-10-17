@@ -610,3 +610,11 @@ Alchemist Nicolas Flamel was married to a woman named Perenelle, who was twice-w
 [pause]
 [02:09] 'Cause you don’t know how much five minutes are worth, five minutes // Pois você não sabe quanto vale cinco minutos, cinco minutos
 [02:19] In a life                                                           // Na vida
+
+---
+
+# Sources
+
+<ul>
+  <li>Synced lyrics sourced from <a href="https://lrclib.net">LRCLIB</a></li>
+</ul>

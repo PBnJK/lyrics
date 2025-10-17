@@ -6,11 +6,595 @@
 # Dois (1986)
 = Legião Urbana
 
-<img src="assets/covers/1986_legiao_urbana_dois.jpg" width="400" alt="Dois cover art, featuring the band name in red over a yellowish-beige background" />
-= Minimalism
+<img src="assets/covers/1986_legiao_urbana_dois.jpg" width="400" alt="Dois cover art, depicting the band name in red and album name in black over a yellowish-beige background" />
+
+Dois (Two) is the second album by band Legião Urbana (Urban Legion.) With the enormous success of their first album, the band, and specifically its lead, Renato Russo, felt pressured to deliver an even better showing—"second record syndrome," as put by guitarist Dado Villa-Lobos. Still, Dois ended up being a hit, featuring some of the band's greatest hits and selling about one million copies.
+
+<img src="assets/band_members/legiao_urbana.jpg" width="600" alt="The band members" />
+= Left to right: Dado Villa-Lobos (guitar,) Marcelo Bonfá (drummer,) Renato Russo (vocalist) and Renato Rocha (bassist)
 
 .title = Daniel na Cova dos Leões
 .en_title = Daniel in the Lions' Den
+.artist = Legião Urbana
+.composer = Renato Rocha, Renato Russo
 .end
 
-[00:00] TODO // TODO
+[00:22] The bitter taste of your body                    // Aquele gosto amargo do teu corpo
+[00:29] Remained in my mouth for a while longer          // Ficou na minha boca por mais tempo
+[00:35] From bitter, then salty turned sweet             // De amargo, então salgado ficou doce
+[pause]
+[00:41] The moment your strong, slow scent               // Assim que o teu cheiro forte e lento
+[00:46] Nestled in my arms and, still light              // Fez casa nos meus braços e ainda leve
+[00:53] Strong, blind and tense, let me know             // Forte, cego e tenso, fez saber
+[01:01] That it was still so much and much too little    // Que ainda era muito e muito pouco
+[pause]
+[01:16] I make my most sincere secret ours               // Faço nosso o meu segredo mais sincero
+[01:24] And challenge the dissonant instinct             // E desafio o instinto dissonante
+[01:30] Insecurity doesn't harm me when I stumble        // A insegurança não me ataca quando erro
+[01:36] And your moment turns into my instant            // E o teu momento passa a ser o meu instante
+[pause]
+[01:41] And your fear of being afraid of being afraid    // E o teu medo de ter medo de ter medo
+[01:46] Doesn't make confusion out of my strength        // Não faz da minha força confusão
+[01:52] Your body is my mirror and I navigate in you     // Teu corpo é meu espelho e em ti navego
+[01:55] I know your current has no direction             // Eu sei que a tua correnteza não tem direção
+[pause]
+[02:24] But, as certain as the mistake of being a motor- // Mas, tão certo quanto o erro de ser barco
+[02:30] -boat and insisting on using the oars            // A motor e insistir em usar os remos
+[02:35] It's the harm the water does when you drown      // É o mal que a água faz quando se afoga
+[02:40] And the lifeguard isn't there for we don't see   // E o salva-vidas não está lá porque não vemos
+
+.title = Quase Sem Querer
+.en_title = Almost By Accident
+.artist = Legião Urbana
+.composer = Dado Villa-Lobos, Renato Rocha, Renato Russo
+.end
+
+[00:23] I've been distracted lately                                   // Tenho andado distraído
+[00:28] Impatient and indecisive                                      // Impaciente e indeciso
+[00:33] And I'm still confused but now it's different                 // E ainda estou confuso só que agora é diferente
+[00:38] I'm so tranquil and so content                                // Estou tão tranquilo e tão contente
+[pause]
+[00:44] How many chances have I wasted                                // Quantas chances desperdicei
+[00:48] When what I wanted most                                       // Quando o que eu mais queria
+[00:53] Was to prove to everybody                                     // Era provar pra todo o mundo
+[00:57] That I didn't need to prove anything to anyone                // Que eu não precisava provar nada pra ninguém
+[pause]
+[01:02] I broke myself into a thousand pieces for you to put together // Me fiz em mil pedaços pra você juntar
+[01:07] And I always wanted to find an explanation for what I felt    // E queria sempre achar explicação pro que eu sentia
+[01:13] Like a fallen angel, I made sure to forget                    // Como um anjo caído fiz questão de esquecer
+[01:18] That lying to yourself is always the worst lie                // Que mentir pra si mesmo é sempre a pior mentira
+[pause]
+[01:24] But I'm not such a child anymore                              // Mas não sou mais tão criança
+[01:34] To the point of knowing everything                            // A ponto de saber tudo
+[pause]
+[01:40] I don't worry anymore if I don't know why                     // Já não me preocupo se eu não sei por quê
+[01:47] Sometimes no one else can see what I see                      // Às vezes o que eu vejo quase ninguém vê
+[01:52] And I know that you know, almost by accident                  // E eu sei que você sabe, quase sem querer
+[01:57] That I see the same as you                                    // Que eu vejo o mesmo que você
+[pause]
+[02:04] So correct and so pretty                                      // Tão correto e tão bonito
+[02:08] Infinity really is one the most beautiful gods                // O infinito é realmente um dos deuses mais lindos
+[02:13] I know sometimes I repeat words                               // Sei que às vezes uso palavras repetidas
+[02:19] But which are the words that are never said?                  // Mas quais são as palavras que nunca são ditas?
+[pause]
+[02:25] They told me you were crying                                  // Me disseram que você estava chorando
+[02:34] And that's when I noticed                                     // E foi então que eu percebi
+[02:39] How much I want you                                           // Como lhe quero tanto
+[pause]
+[02:42] I don't worry anymore if I don't know why                     // Já não me preocupo se eu não sei por quê
+[02:48] Sometimes no one else can see what I see                      // Às vezes o que eu vejo quase ninguém vê
+[02:53] And I know that you know, almost by accident                  // E eu sei que você sabe quase sem querer
+[02:58] That I want the same as you                                   // Que eu quero o mesmo que você
+[pause]
+[03:03] Thanks                                                        // Brigado
+
+.title = Acrilic on Canvas
+.en_title = Acrilic [sic] on Canvas
+.artist = Legião Urbana
+.composer = Dado Villa-Lobos, Marcelo Bonfá, Renato Rocha, Renato Russo
+.end
+
+[00:17] It's longing, then                                        // É saudade, então
+[00:22] And once again                                            // E mais uma vez
+[00:25] Of you, I made a drawing                                  // De você fiz o desenho
+[00:29] The most perfect one there is                             // Mais perfeito que se fez
+[pause]
+[00:32] I copied the strokes                                      // Os traços copiei
+[00:35] From what didn't happen                                   // Do que não aconteceu
+[00:38] I chose the colors                                        // As cores que escolhi
+[00:42] From the paints I invented                                // Dentre as tintas que inventei
+[pause]
+[00:45] Mixed them with the promise                               // Misturei com a promessa
+[00:49] That neither of us made                                   // Que nós dois nunca fizemos
+[00:52] Of one day being three                                    // De um dia sermos três
+[pause]
+[00:58] I worked you                                              // Trabalhei você
+[01:02] In light and shade                                        // Em luz e sombra
+[pause]
+[01:07] And it was always                                         // E era sempre
+[01:10] "I didn't mean any harm                                   // "Não foi por mal
+[01:12] I swear I never meant to make you so sad"                 // Eu juro que nunca quis deixar você tão triste"
+[pause]
+[01:19] Always the same excuses                                   // Sempre as mesmas desculpas
+[01:22] And excuses are not always sincere                        // E desculpas nem sempre são sinceras
+[01:27] They almost never are                                     // Quase nunca são
+[pause]
+[01:32] I prepared my canvas                                      // Preparei a minha tela
+[01:37] With rags from sheets                                     // Com pedaços de lençóis
+[01:40] We never came to stain                                    // Que não chegamos a sujar
+[pause]
+[01:43] I made the frame with wood                                // A armação fiz com madeira
+[01:48] From your bedroom window                                  // Da janela do seu quarto
+[01:52] Out of your house's gate                                  // Do portão da sua casa
+[01:55] I made a palette and an easel                             // Fiz paleta e cavalete
+[pause]
+[01:58] And with the tears that didn't play with you              // E com as lágrimas que não brincaram com você
+[02:02] I distilled linseed oil                                   // Destilei óleo de linhaça
+[02:05] And I tore pieces from your bed                           // E da sua cama arranquei pedaços
+[02:08] That I carved into stilettos of many sizes                // Que talhei em estiletes de tamanhos diferentes
+[pause]
+[02:12] I made, then, brushes out of your hairs                   // E fiz então, pincéis com seus cabelos
+[02:19] Made coal out of the lipstick I stole from you            // Fiz carvão do batom que roubei de você
+[02:23] And with it I painted two vanishing points                // E com ele marquei dois pontos de fuga
+[02:29] And sketched my horizon                                   // E rabisquei meu horizonte
+[pause]
+[02:32] And it was always                                         // E era sempre
+[02:36] "I didn't mean any harm                                   // "Não foi por mal
+[02:39] I swear I didn't mean any harm, I didn't want to hurt you // Eu juro que não foi por mal, eu não queria machucar você
+[02:43] I promise this won't happen again"                        // Prometo que isso não vai acontecer mais uma vez"
+[pause]
+[02:48] And it was always, always the same again                  // E era sempre, sempre o mesmo novamente
+[02:54] The same {In Portuguese, "cheating" on someone and "betraying" someone use the same word=betrayal} // A mesma traição
+[pause]
+[02:59] Sometimes it's hard to forget                             // Às vezes é difícil esquecer
+[03:12] I'm sorry, she doesn't live here anymore                  // Sinto muito, ela não mora mais aqui
+[pause]
+[03:23] But then why do I pretend                                 // Mas então porque eu finjo
+[03:28] That I believe in what I invent?                          // Que acredito no que invento?
+[03:31] Nothing happened this way                                 // Nada disso aconteceu assim
+[03:35] It wasn't like this                                       // Não foi desse jeito
+[pause]
+[03:38] No one suffered                                           // Ninguém sofreu
+[03:41] And it's just you                                         // E é só você
+[03:44] That causes me this empty longing                         // Que provoca essa saudade vazia
+[03:48] Trying to paint these flowers with names                  // Tentando pintar essas flores com o nome
+[03:51] Like {Viola tricolor, Also known as "wild pansy." Known in Portuguese as "perfect-love"=heartsease} and forget-me-not // De amor-perfeito e não-te-esqueças-de-mim
+
+.title = Eduardo e Mônica
+.en_title = Eduardo and Mônica
+.artist = Legião Urbana
+.composer = Renato Russo
+.end
+
+[00:12] Who will one day say that there's no reason              // Quem um dia irá dizer que não existe razão
+[00:16] To the things done by the heart                          // Nas coisas feitas pelo coração
+[00:18] And who will tell me that there's no reason              // E quem me irá dizer que não existe razão
+[pause]
+[00:24] Eduardo opened his eyes, but didn't want to get up       // Eduardo abriu os olhos, mas não quis se levantar
+[00:27] He stayed lying doing and checked the time               // Ficou deitado e viu que horas eram
+[00:30] While Mônica drank some cognac                           // Enquanto Mônica tomava um conhaque
+[00:32] On the other side of the city, like they said            // No outro canto da cidade, como eles disseram
+[pause]
+[00:36] Eduardo and Mônica one day met by accident               // Eduardo e Mônica um dia se encontraram sem querer
+[00:40] And talked a lot to really get to know each other        // E conversaram muito mesmo pra tentar se conhecer
+[00:44] It was some guy from Eduardo's prep school that told him // Carinha do cursinho do Eduardo que disse
+[00:47] "There's a cool party and we want to have fun"           // "Tem uma festa legal e a gente quer se divertir"
+[pause]
+[00:50] Strange party with weird people                          // Festa estranha, com gente esquisita
+[00:52] "I'm not doing too hot, I can't have any more drinks"    // "Eu não tô legal, não aguento mais birita"
+[00:56] And Mônica laughed and wanted to know a little more      // E a Mônica riu e quis saber um pouco mais
+[00:58] About this boy that was trying to impress her            // Sobre o boyzinho que tentava impressionar
+[pause]
+[01:01] And Eduardo, kinda dizzy, just thought about going home  // E o Eduardo, meio tonto, só pensava em ir pra casa
+[01:04] "It's almost two, I'm screwed"                           // É quase duas e eu vou me ferrar
+[pause]
+[01:08] Eduardo and Mônica exchanged phone numbers               // Eduardo e Mônica trocaram telefone
+[01:11] Then later called and decided to meet                    // Depois telefonaram e decidiram se encontrar
+[01:15] Eduard suggested a diner                                 // O Eduardo sugeriu uma lanchonete
+[01:17] But Mônica wanted to watch a Godard movie                // Mas a Mônica queria ver um filme do Godard
+[pause]
+[01:21] They met, then, on the city park                         // Se encontraram então no Parque da Cidade
+[01:23] Mônica on her motorbike and Eduardo on his bicycle       // A Mônica de moto e o Eduardo de camelo
+[01:27] Eduardo thought it was weird and chose not to mention it // O Eduardo achou estranho e melhor não comentar
+[01:30] But the girl had ink on her hair                         // Mas a menina tinha tinta no cabelo
+[pause]
+[01:33] Eduardo and Mônica were nothing alike                    // Eduardo e Mônica era nada parecido
+[01:37] She was a Leo and he was sixteen                         // Ela era de Leão e ele tinha dezesseis
+[01:40] She studied medicine and spoke German                    // Ela fazia medicina e falava alemão
+[01:44] While he was still on his English classes                // E ele ainda nas aulinhas de inglês
+[pause]
+[01:47] She liked {Manuel Bandeira, Brazilian modernist poet=Bandeira} and Bauhaus // Ela gostava do Bandeira e do Bauhaus
+[01:49] Van Gogh and {Brazilian psychedelic rock band=Mutantes}  // De Van Gogh e dos Mutantes
+[01:51] {Caetano Veloso, Brazilian musician=Caetano} and Rimbaud // De Caetano e de Rimbaud
+[01:53] And Eduardo liked soap operas                            // E o Eduardo gostava de novela
+[01:55] And played {Popular tabletop football game=button football} with his grandpa // E jogava futebol de botão com seu avô
+[pause]
+[01:59] She said things about politics                           // Ela falava coisas sobre o Planalto Central
+[02:02] Also wizardry and meditation                             // Também magia e meditação
+[02:05] And Eduardo was still on the old routine                 // E o Eduardo ainda tava no esquema
+[02:07] School, movies, club, television                         // Escola, cinema, clube, televisão
+[pause]
+[02:11] And, even with all of these differences                  // E, mesmo com tudo diferente
+[02:13] All of a sudden there came                               // Veio meio de repente
+[02:15] An urge to see each other                                // Uma vontade de se ver
+[pause]
+[02:17] And the two met each day                                 // E os dois se encontravam todo dia
+[02:19] And the urge grew                                        // E a vontade crescia
+[02:21] As it was meant to do                                    // Como tinha de ser
+[pause]
+[02:24] Eduardo and Mônica did swim classes, photography         // Eduardo e Mônica fizeram natação, fotografia
+[02:28] Theatre, handicrafts and went travelling                 // Teatro e artesanato e foram viajar
+[02:31] And Mônica explained to Eduardo                          // A Mônica explicava pro Eduardo
+[02:33] Things about the sky, the earth, water and air           // Coisas sobre o céu, a terra, a água e o ar
+[pause]
+[02:37] He learned to drink, let his hair grow out               // Ele aprendeu a beber, deixou o cabelo crescer
+[02:40] And decided to get a job (no!)                           // E decidiu trabalhar (não!)
+[02:43] And she graduated on the same month                      // E ela se formou no mesmo mês
+[02:46] That he passed his entrance exams                        // Que ele passou no vestibular
+[pause]
+[02:49] And the two celebrated together                          // E os dois comemoraram juntos
+[02:51] And also fought together many times later                // E também brigaram juntos muitas vezes depois
+[02:55] And everyone says he completes her and vice-versa        // E todo mundo diz que ele completa ela e vice-versa
+[02:59] Like {In Brazil, rice and beans are an incredibly common combination and a staple of everyday lunch=rice and beans} // Que nem feijão com arroz
+[pause]
+[03:01] They built a house about two years ago                   // Construíram uma casa uns dois anos atrás
+[03:04] Around the same time the twins were born                 // Mais ou menos quando os gêmeos vieram
+[03:07] Battled for cash, held on strong                         // Batalharam grana, seguraram legal
+[03:10] Through the hardest time they ever had                   // A barra mais pesada que tiveram
+[pause]
+[03:13] Eduardo and Mônica came back to {Capital of Brazil, also where Legião Urbana was based=Brasília} // Eduardo e Mônica voltaram pra Brasília
+[03:17] And during the summers I miss our friendship             // E a nossa amizade dá saudade no verão
+[03:21] But this holiday they can't travel                       // Só que nessas férias não vão viajar
+[03:24] Because Eduardo's son                                    // Porque o filhinho do Eduardo
+[03:25] Is on {Lit. "recovery," as far as I can tell uncommon in anglophone countries, where students that fail the school year can take a final test during the holidays as a last-ditch effort to correct their grades=recuperação} // Tá de recuperação
+[pause]
+[03:39] And who will one day say that there's a reason           // E quem um dia irá dizer que existe razão
+[03:43] To the things done by the heart                          // Nas coisas feitas pelo coração
+[03:46] And who will tell me that there's no reason              // E quem me irá dizer que não existe razão
+
+.title = Central do Brasil
+.en_title = Brazil Central
+.artist = Legião Urbana
+.composer = Renato Russo
+.end
+
+[instrumental]
+
+.title = Tempo Perdido
+.en_title = Lost Time
+.artist = Legião Urbana
+.composer = Renato Russo
+.end
+
+[00:20] Every day when I wake up                        // Todos os dias quando acordo
+[00:26] I no longer have the time that's passed         // Não tenho mais o tempo que passou
+[00:30] But I have so much time                         // Mas tenho muito tempo
+[00:36] We have all the time in the world               // Temos todo o tempo do mundo
+[pause]
+[00:42] Every day before going to sleep                 // Todos os dias antes de dormir
+[00:47] I remember and forget how the day went          // Lembro e esqueço como foi o dia
+[00:52] Always going forwards                           // Sempre em frente
+[00:57] We have no time to lose                         // Não temos tempo a perder
+[pause]
+[01:01] Our sacred sweat                                // Nosso suor sagrado
+[01:06] It's much more beautiful than this bitter blood // É bem mais belo que esse sangue amargo
+[01:12] And so serious                                  // E tão sério
+[pause]
+[01:17] And wild                                        // E selvagem
+[01:22] Wild                                            // Selvagem
+[01:27] Wild                                            // Selvagem
+[instrumental]
+[01:43] Look at the sun on this grey morning            // Veja o sol dessa manhã tão cinza
+[01:50] The storm that arrives shares the color         // A tempestade que chega é da cor
+[01:54] Of your hazel eyes                              // Dos teus olhos castanhos
+[pause]
+[02:03] So hug me hard                                  // Então me abraça forte
+[02:09] And tell me once again                          // Me diz mais uma vez
+[02:11] That we're already far away from it all         // Que já estamos distantes de tudo
+[pause]
+[02:20] We have our own time                            // Temos nosso próprio tempo
+[02:24] We have our own time                            // Temos nosso próprio tempo
+[02:30] We have our own time                            // Temos nosso próprio tempo
+[pause]
+[02:34] I'm not afraid of the dark                      // Não tenho medo do escuro
+[02:41] But leave the lights on now                     // Mas deixe as luzes acesas agora
+[pause]
+[02:55] What was hidden                                 // O que foi escondido
+[02:58] Is what hid itself                              // É o que se escondeu
+[03:00] And what was promised                           // E o que foi prometido
+[03:03] No one promised it                              // Ninguém prometeu
+[03:05] Neither was it lost time                        // Nem foi tempo perdido
+[pause]
+[03:10] We're so young                                  // Somos tão jovens
+[03:16] So young                                        // Tão jovens
+[03:21] So young                                        // Tão jovens
+
+.title = Metrópole
+.en_title = Metropolis
+.artist = Legião Urbana
+.composer = Renato Russo
+.end
+
+[00:16] It's real blood, it's not Merthiolate                 // É sangue mesmo não é Merthiolate
+[00:23] And everyone wants to see                             // E todos querem ver
+[00:25] And comment on the new sight                          // E comentar a novidade
+[00:28] It's so exciting to see a real accident               // É tão emocionante um acidente de verdade
+[00:33] All are satisfied                                     // Tão todos satisfeitos
+[00:35] With the success of the disaster                      // Com o sucesso do desastre
+[pause]
+[00:37] It's gonna be on television                           // Vai passar na televisão
+[00:42] It's gonna be on television                           // Vai passar na televisão
+[pause]
+[00:47] If you would please wait a moment                     // Por gentileza aguarde um momento
+[00:52] No card, no service                                   // Sem carteirinha, não tem atendimento
+[00:56] A signed {The "Carteira de Trabalho e Previdência Social" (Work and Social Security Booklet) is a booklet that logs every job a worker has ever had to ensure their access to essential workers' rights and social security coverage, needing to be signed by their employer=employment record book}, yes sir! // Carteira de trabalho assinada, sim senhor!
+[01:00] What a mess, make an orderly line please!             // Olha o tumulto façam fila por favor!
+[pause]
+[01:05] Everyone with documents in hand                       // Todos com a documentação
+[01:10] Everyone with documents in hand                       // Todos com a documentação
+[pause]
+[01:15] Those without a ticket, don't have a spot             // Quem não tem senha, não tem lugar marcado
+[01:19] I'm so sorry, but it's already past the time          // Eu sinto muito, mas já passa do horário
+[01:24] I understand your problem, but I can't solve it       // Entendo seu problema, mas não posso resolver
+[01:28] It's against the rules, it's right here, take a look  // É contra o regulamento, está bem aqui, pode ver
+[pause]
+[01:33] Orders are orders                                     // Ordens são ordens
+[01:37] Orders are orders                                     // Ordens são ordens
+[01:42] Orders are orders                                     // Ordens são ordens
+[01:47] Orders are orders                                     // Ordens são ordens
+[01:51] Orders are orders                                     // Ordens são ordens
+[01:56] Orders are orders                                     // Ordens são ordens
+[pause]
+[02:01] In any case we already have your file                 // Em todo caso já temos sua ficha
+[02:05] We just need the receipt with your proof of residence // Só falta o recibo comprovando residência
+[02:10] I called the janitor to clean up all this blood       // Pra limpar todo esse sangue, chamei a faxineira
+[02:15] And now I'll be going, or I'll miss the soap opera    // E agora eu já vou indo, se não perco a novela
+[pause]
+[02:20] And I don't want to be left hanging                   // E eu não quero ficar na mão
+[02:24] And I don't want to be left hanging                   // E eu não quero ficar na mão
+[02:29] And I don't want to be left hanging                   // E eu não quero ficar na mão
+[02:34] And I don't want to be left hanging                   // E eu não quero ficar na mão
+
+.title = Plantas Embaixo do Aquário
+.en_title = Plants Underneath the Aquarium
+.artist = Legião Urbana
+.composer = Dado Villa-Lobos, Marcelo Bonfá, Renato Rocha, Renato Russo
+.end
+
+[00:08] Accept the challenge                            // Aceite o desafio
+[00:12] And break the tie                               // E provoque um desempate
+[00:15] Disarm the trap                                 // Desarme a armadilha
+[00:18] And dismantle the disguise                      // E desmonte o disfarce
+[00:21] Get away from the abyss                         // Se afaste do abismo
+[00:24] And turn common sense into the new order        // E faça do bom-senso a nova ordem
+[pause]
+[00:28] Don't let the war start                         // Não deixe a guerra começar
+[00:31] Don't let the war start                         // Não deixe a guerra começar
+[00:34] Don't let the war start                         // Não deixe a guerra começar
+[00:37] Don't let the war start                         // Não deixe a guerra começar
+[pause]
+[01:03] (Don't let the war start!)                      // (Não deixe a guerra começar!)
+[01:05] (Don't let the war start!)                      // (Não deixe a guerra começar!)
+[pause]
+[01:18] Don't let the war start                         // Não deixe a guerra começar
+[01:21] Don't let the war start                         // Não deixe a guerra começar
+[01:25] Don't let the war start                         // Não deixe a guerra começar
+[01:28] Don't let the war start                         // Não deixe a guerra começar
+[01:31] Don't let the war start                         // Não deixe a guerra começar
+[01:34] Don't let the war start                         // Não deixe a guerra começar
+[01:38] Don't let the war start                         // Não deixe a guerra começar
+[01:41] Don't let the war start                         // Não deixe a guerra começar
+[pause]
+[02:11] Think a little bit                              // Pense só um pouco
+[02:16] There's nothing new                             // Não há nada de novo
+[02:19] You live unsatisfied                            // Você vive insatisfeito
+[02:22] And don't trust anyone                          // E não confia em ninguém
+[02:25] And don't believe in anyone                     // E não acredita em nada
+[02:28] And now you're just exhaustion and lack of will // E agora é só cansaço e falta de vontade
+[02:35] But, turn common sense into the new order       // Mas, faça do bom-senso a nova ordem
+[pause]
+[02:38] Don't let the war start                         // Não deixe a guerra começar
+[02:41] Don't let the war start                         // Não deixe a guerra começar
+[02:44] Don't let the war start                         // Não deixe a guerra começar
+[02:48] Don't let the war start                         // Não deixe a guerra começar
+
+.title = Música Urbana 2
+.en_title = Urban Music 2
+.artist = Legião Urbana
+.composer = Renato Russo
+.end
+
+[00:08] On the rooftops, the TV antennas play urban music           // Em cima dos telhados, as antenas de TV tocam música urbana
+[00:19] On the streets the bums with rotten bandages                // Nas ruas os mendigos com esparadrapos podres
+[00:26] Sing urban music                                            // Cantam música urbana
+[00:30] Motorbikes wanting attention at three in the morning        // Motocicletas querendo atenção às três da manhã
+[00:36] It's just urban music                                       // É só música urbana
+[00:40] The armed military and riot policemen vomit urban music     // Os PMs armados e as tropas de choque vomitam música urbana
+[00:51] And on the schools the children learn to repeat urban music // E nas escolas as crianças aprendem a repetir a música urbana
+[01:01] In bars, the addicted are always trying to get urban music  // Nos bares os viciados sempre tentam conseguir a música urbana
+[01:11] The dry, strong, dirty wind on the concrete corners         // O vento forte, seco e sujo em cantos de concreto
+[01:18] Seems like urban music                                      // Parece música urbana
+[01:21] And the pack of dirty children on the middle of the street  // E a matilha de crianças sujas no meio da rua
+[01:29] Urban music                                                 // Música urbana
+[01:34] And they're all there on the bus stops                      // E nos pontos de ônibus estão todos ali
+[01:39] Urban music                                                 // Música urbana
+[01:42] The uniforms, the pamphlets                                 // Os uniformes, os cartazes
+[01:47] Movie theatres and homes                                    // Cinemas e os lares
+[01:49] Slums, penthouses                                           // Favelas, coberturas
+[01:51] Almost everywhere                                           // Quase todos os lugares
+[01:55] And one more child is born                                  // E mais uma criança nasceu
+[02:03] There's neither lies nor truths here anymore                // Não há mais mentiras nem verdades aqui
+[02:08] There's just urban music                                    // Só há música urbana
+[02:13] Yeah, urban music                                           // Yeah, música urbana
+[02:19] Oh, oh, urban music                                         // Oh oh, música urbana
+[02:24] Yeah, urban music                                           // Yeah, música urbana
+[02:30] Urban music, yeah                                           // Música urbana, yeah
+
+.title = Andrea Doria
+.en_title = Andrea Doria
+.artist = Legião Urbana
+.composer = Dado Villa-Lobos, Marcelo Bonfá, Renato Russo
+.end
+
+[00:50] Sometimes it seemed as if, out of sheer belief     // Às vezes parecia que de tanto acreditar
+[00:56] In everything we found right                       // Em tudo que achávamos tão certo
+[01:02] We would have the whole world and a little more    // Teríamos o mundo inteiro e até um pouco mais
+[01:08] We would make a forest out of the desert           // Faríamos floresta do deserto
+[01:15] And diamonds out of glass shards                   // E diamantes de pedaços de vidro
+[pause]
+[01:20] But now I notice                                   // Mas percebo agora
+[01:24] That your smile                                    // Que o teu sorriso
+[01:27] Comes on differently                               // Vem diferente
+[01:30] It almost seems to hurt you                        // Quase parecendo te ferir
+[pause]
+[01:37] I didn't want to see you like this                 // Não queria te ver assim
+[01:42] I want you with the strength you had before        // Quero a tua força como era antes
+[01:49] What you have is only yours                        // O que tens é só teu
+[01:52] And nothing's worth running away from              // E de nada vale fugir
+[01:56] And not feeling anymore                            // E não sentir mais nada
+[pause]
+[02:00] Sometimes it seemed as if we just had to improvise // Às vezes parecia que era só improvisar
+[02:06] And the world would be an open book                // E o mundo então seria um livro aberto
+[02:13] Until the day came that we tried having too much   // Até chegar o dia em que tentamos ter demais
+[02:19] Easily selling what was priceless                  // Vendendo fácil o que não tinha preço
+[02:26] I know, it's all pointless                         // Eu sei, é tudo sem sentido
+[pause]
+[02:32] I want to have someone to talk to                  // Quero ter alguém com quem conversar
+[02:37] Someone that, later, will not use what I said      // Alguém que depois não use o que eu disse
+[02:44] Against me                                         // Contra mim
+[pause]
+[02:47] Nothing else will hurt me                          // Nada mais vai me ferir
+[02:49] It's just that I've already gotten used to         // É que eu já me acostumei
+[02:52] The wrong path that I followed                     // Com a estrada errada que eu segui
+[02:55] And with my own law                                // E com a minha própria lei
+[pause]
+[02:58] I have what's remained                             // Tenho o que ficou
+[03:01] And way too much luck                              // E tenho sorte até demais
+[03:04] As I know you do too                               // Como sei que tens também
+
+.title = Fábrica
+.en_title = Factory
+.artist = Legião Urbana
+.composer = Renato Russo
+.end
+
+[00:40] Our day will come              // Nosso dia vai chegar
+[00:47] We'll have our time            // Teremos nossa vez
+[00:52] It's not asking for too much   // Não é pedir demais
+[00:57] I want justice                 // Quero justiça
+[pause]
+[01:01] I want to work in peace        // Quero trabalhar em paz
+[01:06] It's not a lot I'm asking for  // Não é muito o que lhe peço
+[01:12] I want an honest job           // Eu quero trabalho honesto
+[01:15] Instead of slavery             // Em vez de escravidão
+[pause]
+[01:21] There must be some place       // Deve haver algum lugar
+[01:28] Where the strong               // Onde o mais forte
+[01:31] Can't always enslave           // Não consegue escravizar
+[01:39] Those that don't have a chance // Quem não tem chance
+[pause]
+[01:42] Where does indifference come from? // De onde vem a indiferença
+[01:47] Tempered over iron and flame?      // Temperada a ferro e fogo?
+[01:53] Who guards the gates               // Quem guarda os portões
+[01:58] Of the factory?                    // Da fábrica?
+[pause]
+[02:02] The sky was once blue              // O céu já foi azul
+[02:08] Now it's grey                      // Mas agora é cinza
+[02:13] And what was once green here       // E o que era verde aqui
+[02:15] Doesn't exist anymore              // Já não existe mais
+[pause]
+[02:23] If only I could believe            // Quem me dera acreditar
+[02:28] That nothing ever happens          // Que não acontece nada
+[02:35] I played with fire so much         // De tanto brincar com fogo
+[02:38] Let the fire come, then            // Que venha o fogo então
+[instrumental]
+[03:10] This air's made my eyes tired      // Esse ar deixou minha vista cansada
+[03:18] Nothing much, nothing much         // Nada de mais, nada de mais
+[03:28] Nothing much, nothing much         // Nada de mais, nada de mais
+[03:39] Nothing much, nothing much         // Nada de mais, nada de mais
+[03:49] Nothing much, nothing much         // Nada de mais, nada de mais
+[pause]
+[04:19] Nothing much                       // Nada de mais
+[04:24] Nothing much                       // Nada de mais
+[04:29] Nothing much                       // Nada de mais
+
+.title = "Índios"
+.en_title = "Indians"
+.artist = Legião Urbana
+.composer = Renato Russo
+.end
+
+[00:04] If only, at least once                                        // Quem me dera, ao menos uma vez
+[00:08] I had back all the gold I gave away to those                  // Ter de volta todo o ouro que entreguei a quem
+[00:11] That were able to convince me that it was proof of friendship // Conseguiu me convencer que era prova de amizade
+[00:15] If someone took away even what I've never had                 // Se alguém levasse embora até o que eu não tinha
+[pause]
+[00:18] If only, at least once                                        // Quem me dera, ao menos uma vez
+[00:21] I could forget that I believed it was just a joke             // Esquecer que acreditei que era por brincadeira
+[00:24] That you always cut cleaning rags                             // Que se cortava sempre um pano de chão
+[00:28] Out of noble flax and pure silk                               // De linho nobre e pura seda
+[pause]
+[00:32] If only, at least once                                        // Quem me dera, ao menos uma vez
+[00:34] I could explain what no one can understand                    // Explicar o que ninguém consegue entender
+[00:37] That what happened is yet to come                             // Que o que aconteceu ainda está por vir
+[00:40] And that the future is no longer how it used to be            // E o futuro não é mais como era antigamente
+[pause]
+[00:44] If only, at least once                                        // Quem me dera, ao menos uma vez
+[00:47] I could prove that those that have more than they need        // Provar que quem tem mais do que precisa ter
+[00:49] Almost always convince themselves that they don't have enough // Quase sempre se convence que não tem o bastante
+[00:53] And speak too much out of a lack of things to say             // E fala demais por não ter nada a dizer
+[pause]
+[00:57] If only, at least once                                        // Quem me dera, ao menos uma vez
+[01:00] The simplest things could be seen                             // Que o mais simples fosse visto
+[01:02] As the most important                                         // Como o mais importante
+[01:03] But they gave us mirrors                                      // Mas nos deram espelhos
+[01:06] And we saw a sick world                                       // E vimos um mundo doente
+[pause]
+[01:10] If only, at least once                                        // Quem me dera, ao menos uma vez
+[01:13] I could understand how one God is at the same time three      // Entender como um só Deus ao mesmo tempo é três
+[01:16] And this same God was killed by you                           // E esse mesmo Deus foi morto por vocês
+[01:19] So it's just out of evil then, making God so sad              // É só maldade então, deixar um Deus tão triste
+[pause]
+[01:22] I wanted danger and even bled alone                           // Eu quis o perigo e até sangrei sozinho
+[01:29] Understand that, in this way, I could bring you back to me    // Entenda, assim pude trazer você de volta pra mim
+[01:35] When I found out that it's always just you                    // Quando descobri que é sempre só você
+[01:40] That understands me from beginning to end                     // Que me entende do início ao fim
+[pause]
+[01:45] And only you have cure for my vice                            // E é só você que tem a cura para o meu vício
+[01:51] Of insisting on this longing that I feel                      // De insistir nessa saudade que eu sinto
+[01:54] For everything that I've yet to see                           // De tudo que eu ainda não vi
+[pause]
+[02:03] If only, at least once                                        // Quem me dera, ao menos uma vez
+[02:12] I could believe for an instant in all that exists             // Acreditar por um instante em tudo que existe
+[02:15] And believe that the world is perfect                         // E acreditar que o mundo é perfeito
+[02:18] And that all people are happy                                 // E que todas as pessoas são felizes
+[pause]
+[02:22] If only, at least once                                        // Quem me dera, ao menos uma vez
+[02:24] I could make it so the entire world knew that your name       // Fazer com que o mundo saiba que seu nome
+[02:28] Is in everything and even so                                  // Está em tudo e mesmo assim
+[02:31] No one even gives you thanks                                  // Ninguém lhe diz ao menos obrigado
+[pause]
+[02:35] If only, at least once                                        // Quem me dera, ao menos uma vez
+[02:38] I could, like the most beautiful tribe, of the most beautiful Indians // Como a mais bela tribo, dos mais belos índios
+[02:44] Not be attacked for being innocent                            // Não ser atacado por ser inocente
+[pause]
+[02:49] I wanted danger and even bled alone                           // Eu quis o perigo e até sangrei sozinho
+[02:54] Understand that, in this way, I could bring you back to me    // Entenda, assim pude trazer você de volta pra mim
+[03:00] When I found out that it's always just you                    // Quando descobri que é sempre só você
+[03:05] That understands me from beginning to end                     // Que me entende do início ao fim
+[pause]
+[03:10] And only you have cure for my vice                            // E é só você que tem a cura para o meu vício
+[03:16] Of insisting on this longing that I feel                      // De insistir nessa saudade que eu sinto
+[03:19] For everything that I've yet to see                           // De tudo que eu ainda não vi
+[pause]
+[03:28] They gave us mirrors and we saw a sick world                  // Nos deram espelhos e vimos um mundo doente
+[03:34] I tried to cry but couldn't                                   // Tentei chorar e não consegui
+
+---
+
+# Sources
+
+<ul>
+  <li>Song credits sourced from <a href="https://www.discogs.com/release/10044550-Legi%C3%A3o-Urbana-Dois">Discogs</a></li>
+  <li>Synced lyrics sourced from <a href="https://lrclib.net">LRCLIB</a></li>
+</ul>

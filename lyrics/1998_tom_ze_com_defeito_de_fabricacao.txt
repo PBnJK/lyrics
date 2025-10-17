@@ -564,6 +564,7 @@ On the back cover, Tom Zé wrote a small "essay" explaining the main composition
 
 <ul>
   <li>Song credits sourced from <a href="https://www.discogs.com/release/5837973-Tom-Z%C3%A9-Com-Defeito-De-Fabrica%C3%A7%C3%A3o-Fabrication-Defect">Discogs</a></li>
+  <li>Synced lyrics sourced from <a href="https://lrclib.net">LRCLIB</a></li>
 </ul>
 
 ---
