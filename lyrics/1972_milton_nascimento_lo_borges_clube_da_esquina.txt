@@ -6,7 +6,7 @@
 # Clube da Esquina (1972)
 = Milton Nascimento & Lô Borges
 
-<img src="assets/covers/clube_da_esquina.jpg" width="400" alt="Clube da Esquina album cover, depicting two young boys sitting by the road" />
+<img src="assets/covers/1972_milton_nascimento_lo_borges_clube_da_esquina.jpg" width="400" alt="Clube da Esquina album cover, depicting two young boys sitting by the road" />
 = As iconic a cover art as they come
 
 Clube da Esquina (Corner Club) is a result of the friendship between Milton Nascimento and the Borges brothers. Inspired by the Beatles and Chopin, they sought to integrate Brazilian rhythms and genres with the new sounds that were coming into the country, while also using music as a way of speaking out against the increasingly strict censorship imposed by the then-ruling military dictatorship.

@@ -34,6 +34,13 @@ const db = {
 		"year": "1972",
 		"search": "Expresso 2222Expresso 2222Gilberto Gilgilberto gilMPBmpbTropicáliatropicáliaTropicaliatropicalia1972",
 	},
+	"1971_chico_buarque_construcao": {
+		"album": "Construção",
+		"artist": ["Chico Buarque"],
+		"genre": ["MPB", "Samba"],
+		"year": "1971",
+		"search": "ConstruçãoConstrucaoChico Buarquechico buarqueMPBmpbSambasamba1971",
+	},
 	"1972_milton_nascimento_lo_borges_clube_da_esquina": {
 		"album": "Clube da Esquina",
 		"artist": ["Milton Nascimento", "Lô Borges"],
