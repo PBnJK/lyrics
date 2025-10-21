@@ -1,5 +1,8 @@
 html {
   background-color: var(--bg-primary);
+
+  --spoiler-fade-time: 0.8s;
+  --spoiler-info-fade-time: calc(var(--spoiler-fade-time) / 4);
 }
 
 body {
@@ -106,6 +109,11 @@ main {
   text-align: center;
 }
 
+.spoiler-img {
+  position: relative;
+  text-align: center;
+}
+
 .spoiler-img img {
   vertical-align: bottom;
   filter: blur(16px);
@@ -117,7 +125,38 @@ main {
 .spoiler-img img:hover {
   cursor: pointer;
   filter: none;
-  transition: 0.8s;
+  transition: var(--spoiler-fade-time);
+}
+
+.spoiler-img img:hover ~ .spoiler-img-info {
+  visibility: hidden;
+  opacity: 0;
+  transition:
+    visibility 0s var(--spoiler-info-fade-time),
+    opacity var(--spoiler-info-fade-time) linear;
+}
+
+.spoiler-img-info {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  font-size: 14pt;
+  font-weight: bold;
+
+  color: var(--text-primary);
+  background-color: var(--bg-primary);
+
+  padding: 4px 16px;
+  border-radius: 8px;
+
+  visibility: visible;
+  opacity: 1;
+
+  transition:
+    visibility 0s,
+    opacity var(--spoiler-info-fade-time) linear;
 }
 
 .spoiler-span {
@@ -131,7 +170,7 @@ main {
 
   background-color: inherit;
   color: inherit;
-  transition: 0.8s;
+  transition: var(--spoiler-fade-time);
 }
 
 .meta {

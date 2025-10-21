@@ -19,7 +19,7 @@ Eventually, the dust sufficiently settled, the dynamic duo returned to Brazil in
 .composer = Sebastião C. Biano
 .end
 
-A Banda de Pífanos (Band of Fifes) welcomes us into the album with a style of tune traditional to Gil's home state.
+|A Banda de Pífanos (Band of Fifes) welcomes us into the album with a style of tune traditional to Gil's home state.|
 
 [instrumental]
 
@@ -31,7 +31,7 @@ A Banda de Pífanos (Band of Fifes) welcomes us into the album with a style of t
 
 [00:19] Back in London, now and then I felt I was too far from here                        // Lá em Londres, vez em quando me sentia longe daqui
 [00:26] Now and then, when I felt too far, I realized I was                                // Vez em quando, quando me sentia longe, dava por mim
-[00:33] Pulling out my hairs, nervous, itching to play some {A pioneer of Rock as a genre in Brazil. Also responsible for popularizing the twist dance in the country=Celly Campello} so I wouldn't fall // Puxando o cabelo nervoso, querendo ouvir Celly Campello pra não cair
+[00:33] Pulling out my hairs, nervous, itching to play some {A pioneer of Rock as a genre in Brazil. Also responsible for popularizing the "twist" dance in the country!=Celly Campello} so I wouldn't fall // Puxando o cabelo nervoso, querendo ouvir Celly Campello pra não cair
 [00:40] Into that ditch that I saw a buddy of mine                                         // Naquela fossa em que vi um camarada meu
 [00:44] From Portobello fall in                                                            // De Portobello cair
 [pause]
@@ -44,7 +44,7 @@ A Banda de Pífanos (Band of Fifes) welcomes us into the album with a style of t
 [01:07] I say a silver chest because silver is like the light of the moon                  // Digo num baú de prata porque prata é a luz do luar
 [01:14] Moonlight that I missed so much, just as much as the sea                           // Do luar que tanta falta me fazia junto do mar
 [01:21] Sea of Bahia whose green now and then made me remember again                       // Mar da Bahia cujo verde vez em quando me fazia bem relembrar
-[01:28] So different from the just as beautiful green of the grassy fields of there        // Tão diferente do verde também tão lindo dos gramados campos de lá
+[01:28] So different from the just as beautiful green of the grassy fields from there      // Tão diferente do verde também tão lindo dos gramados campos de lá
 [pause]
 [01:35] Northern island where, I don't know if out of luck or as punishment, I ended up in // Ilha do Norte onde não sei se por sorte ou por castigo dei de parar
 [01:42] For some time that, after all, passed by quickly, as all things must pass          // Por algum tempo que afinal passou depressa como tudo tem de passar
@@ -53,7 +53,7 @@ A Banda de Pífanos (Band of Fifes) welcomes us into the album with a style of t
 [instrumental]
 [02:45] Back in London, now and then I felt I was too far from here                        // Lá em Londres, vez em quando me sentia longe daqui
 [02:50] Now and then, when I felt too far, I realized I was                                // Vez em quando, quando me sentia longe, dava por mim
-[02:58] Pulling out my hairs, nervous, itching to play some so I wouldn't fall             // Puxando o cabelo nervoso, querendo ouvir Celly Campelo pra não cair
+[02:58] Pulling out my hairs, nervous, itching to play some Celly Campello so I wouldn't fall // Puxando o cabelo nervoso, querendo ouvir Celly Campelo pra não cair
 [03:03] Into that ditch that I saw a buddy of mine                                         // Naquela fossa em que vi um camarada meu
 [03:08] From Portobello fall in                                                            // De Portobello cair
 [pause]
@@ -66,7 +66,7 @@ A Banda de Pífanos (Band of Fifes) welcomes us into the album with a style of t
 [03:30] I say a silver chest because silver is like the light of the moon                  // Digo num baú de prata porque prata é a luz do luar
 [03:37] Moonlight that I missed so much, just as much as the sea                           // Do luar que tanta falta me fazia junto do mar
 [03:45] Sea of Bahia whose green now and then made me remember again                       // Mar da Bahia cujo verde vez em quando me fazia bem relembrar
-[03:51] So different from the just as beautiful green of the grassy fields of there        // Tão diferente do verde também tão lindo dos gramados campos de lá
+[03:51] So different from the just as beautiful green of the grassy fields from there      // Tão diferente do verde também tão lindo dos gramados campos de lá
 [pause]
 [03:57] Northern island where, I don't know if out of luck or as punishment, I ended up in // Ilha do Norte onde não sei se por sorte ou por castigo dei de parar
 [04:04] For some time that, after all, passed by quickly, as all things must pass          // Por algum tempo que afinal passou depressa como tudo tem de passar
@@ -207,7 +207,7 @@ A Banda de Pífanos (Band of Fifes) welcomes us into the album with a style of t
 [00:54] But to make it even                                                          // Mas em compensação
 [00:57] I want to see a boogie-woogie with pandeiro and guitar                       // Quero ver o boogie-woogie de pandeiro e violão
 [pause]
-[01:00] I want to see Uncle Sam with a {Meaning the percussion instrument shaped like a frying pan that you beat with a stick=frying pan} // Quero ver o tio Sam de frigideira
+[01:00] I want to see Uncle Sam with a {Meaning a percussion instrument shaped like a frying pan that you beat with a stick=frying pan} // Quero ver o tio Sam de frigideira
 [01:03] In a Brazilian {Samba percussion group=batucada}                             // Numa batucada brasileira
 [01:06] I want to see Uncle Sam with a frying pan                                    // Quero ver o tio Sam de frigideira
 [01:09] In a Brazilian batucada                                                      // Numa batucada brasileira
@@ -253,7 +253,7 @@ A Banda de Pífanos (Band of Fifes) welcomes us into the album with a style of t
 [00:58] On the anvil of destiny                               // Na bigorna do destino
 [01:01] And when it's time for Porto da Barra, he's firm      // E na hora do Porto da Barra fica firme
 [pause]
-[01:10] I live {Made-up=calmbitterlargely}, openly            // Eu vivo calmargalarga, abertamente
+[01:10] I live {It's a made-up term in Portuguese as well=calmbitterlargely}, openly            // Eu vivo calmargalarga, abertamente
 [01:17] Much crazier                                          // Bem mais louco
 [01:20] Because I await for the regretful kiss                // Porque espero pelo beijo arrependido
 [01:26] Of the serpent of beginning                           // Da serpente do começo
@@ -306,9 +306,9 @@ A Banda de Pífanos (Band of Fifes) welcomes us into the album with a style of t
 [00:56] Final station of the life-path                          // Estação final do percurso-vida
 [pause]
 [00:59] Conceived on the homeland                               // Na terra-mãe concebida
-[01:00] Of wind, of fire, of water and salt                     // De vento, de fogo, de água e sal
-[01:02] Of water and salt, of water and salt                    // De água e sal, de água e sal
-[01:07] Oh, girl, of water and salt                             // Ô, menina, de água e sal
+[01:00] From wind, from fire, from water and salt               // De vento, de fogo, de água e sal
+[01:02] From water and salt, from water and salt                // De água e sal, de água e sal
+[01:07] Oh, girl, from water and salt                           // Ô, menina, de água e sal
 [pause]
 [01:09] Express 2222 started to run                             // Começou a circular o Expresso 2222
 [01:13] Departing from Bonsucesso to straight beyond            // Que parte direto de Bonsucesso pra depois
@@ -388,7 +388,7 @@ A Banda de Pífanos (Band of Fifes) welcomes us into the album with a style of t
 [02:08] In the belly of Maria                                         // Na barriga de Maria
 [pause]
 [02:11] The dream ended up undoing                                    // O sonho acabou desmanchando
-[02:13] Dr. Silvana                                                   // A trama do doutor Silvana
+[02:13] Dr. Silvana's plot                                            // A trama do doutor Silvana
 [02:15] Dr. Strangelove's sex                                         // A transa do doutor Fantástico
 [02:17] And my sugarcane molasses                                     // E o meu melaço de cana
 [pause]

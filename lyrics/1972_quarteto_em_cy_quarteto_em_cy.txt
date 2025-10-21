@@ -28,7 +28,7 @@
 [00:35] And I can't have                                       // E não posso pegar
 [00:39] I'm just holding on until carnaval arrives             // Tô me guardando pra quando o carnaval chegar
 [pause]
-[00:47] For how long I've wanted your kiss                     // Há quanto tempo desejo seu beijo
+[00:47] For how long I've longed for your kiss                 // Há quanto tempo desejo seu beijo
 [00:50] Wet with passion fruit                                 // Molhado de maracujá
 [00:55] I'm just holding on until carnaval arrives             // Tô me guardando pra quando o carnaval chegar
 [pause]
@@ -97,9 +97,9 @@
 [00:37] In this old world                                                            // Deste velho mundo
 [pause]
 [00:40] Pulsing for a lethal second                                                  // Pulsando num segundo letal
-[00:42] In the {Huge plateau, also where the capital is located=Brazilian Highlands} // No Planalto Central
-[00:45] Where it's divided, it's divided                                             // Onde se divide, se divide
-[00:47] It's divided, good and evil (evil, evil, evil)                               // Se divide o bem e o mal (mal, mal, mal)
+[00:42] In the {Huge plateau; also where the capital is located and, as such, often used as a synonym for politics or political matters=Brazilian Highlands} // No Planalto Central
+[00:45] Where they're divided, they're divided                                       // Onde se divide, se divide
+[00:47] They're divided, good and evil (evil, evil, evil)                            // Se divide o bem e o mal (mal, mal, mal)
 [pause]
 [00:50] I'll find my way back                                                        // Vou achar o meu caminho de volta
 [00:52] It can be sure, it can be straight                                           // Pode ser certo, pode ser direto
@@ -118,8 +118,8 @@
 [pause]
 [01:37] Pulsing for a lethal second                                                  // Pulsando num segundo letal
 [01:39] In the Brazilian Highlands                                                   // No Planalto Central
-[01:42] Where it's divided, it's divided                                             // Onde se divide, se divide
-[01:43] It's divided, good and evil (evil, evil, evil)                               // Se divide o bem e o mal (mal, mal, mal)
+[01:42] Where they're divided, they're divided                                       // Onde se divide, se divide
+[01:43] They're divided, good and evil (evil, evil, evil)                            // Se divide o bem e o mal (mal, mal, mal)
 [pause]
 [01:47] I'll find my way back                                                        // Vou achar o meu caminho de volta
 [01:49] It can be sure, it can be straight                                           // Pode ser certo, pode ser direto
@@ -169,7 +169,7 @@
 .arranger = Edu Lobo
 .end
 
-*This song plays with letters slightly. This is a direct translation. At the bottom of the page you can find a version that translates the wordplay more faithfully*
+*This song plays with letters slightly. This is a direct translation. At the bottom of the page you can find a version that translates the wordplay more faithfully.*
 
 [00:41] I said an A, for our love            // Eu disse um A, por nosso amor
 [00:45] I said a B, gentle and beautiful     // Eu disse um B, brandosa e bela
@@ -211,12 +211,12 @@
 [00:16] Short step, soft shoe                                   // Passo curto, sapato mole
 [00:26] I walk around slowly, slowly                            // Vou por aí devagar, devagar
 [00:32] Those that don't know how to pray, curse at God         // Quem não sabe rezar, xinga Deus
-[00:38] Be them Christians, or be them atheists                 // Tanto faz, cristãos, ateus
+[00:38] It doesn't matter, Christians or atheists               // Tanto faz, cristãos, ateus
 [pause]
 [00:46] Dead arm                                                // Braço morto
 [00:53] And one more swig                                       // E mais um gole
-[00:57] I go around, pub to pub                                 // Vou por aí, bar em bar
-[01:00] Pub to pub                                              // Bar em bar
+[00:57] I go around, bar to bar                                 // Vou por aí, bar em bar
+[01:00] Bar to bar                                              // Bar em bar
 [pause]
 [01:03] Those that don't disconnect, have it rough              // Quem não se desligar, se dá mal
 [01:09] They won't play with a full deck                        // Vai aceitar pedra por pau
@@ -274,7 +274,7 @@
 [01:15] Pampered by the {"Donos da bola" (owners of the ball,) football-derived way to say the "bigwigs"=bigwigs} // Paparicados pelos donos da bola
 [pause]
 [01:19] Playing football under the earth                             // Jogando bola debaixo da terra
-[01:24] Like a {The Brazilian three-banded armadillo, or tatu-bola (ball armadillo,) can turn into a little ball! So that's three football puns in three verses=tatu-bola} under the earth // Igual tatu-bola debaixo da terra
+[01:24] Like a {The Brazilian three-banded armadillo, or tatu-bola ("ball armadillo,") can turn into a little ball! So that's three football puns in three verses=tatu-bola} under the earth // Igual tatu-bola debaixo da terra
 [01:29] Mouths shut                                                  // De bico calado
 [01:31] Because a good goat doesn't bleat                            // Que o bom cabrito não berra
 
@@ -349,7 +349,7 @@
 [00:17] I have nothing in the way of fears   // De medo eu não tenho nada
 [00:19] I carry the world in my hands        // Eu levo o mundo na mão
 [00:20] But this red skirt                   // Mas essa saia encarnada
-[00:22] Scares my heart                      // Assusta o meu coração
+[00:22] Puts fear in my heart                // Assusta o meu coração
 [pause]
 [00:24] On the colors of this fabric         // Nas cores desse tecido
 [00:26] My love landed                       // O meu amor foi cair
@@ -393,7 +393,7 @@
 .arranger = Magro
 .end
 
-I'd just like to make it clear that, as a Christian, I'm the least qualified person to be explaining a song that goes pretty in-depth into Afro-Brazilian religion. I gave my best shot and researched the topic the best I could, however 
+|I'd just like to make it clear that, as a Christian, I'm the least qualified person to be explaining a song that goes pretty in-depth into Afro-Brazilian religion. I researched the topic the best I could, however, so I hope this is still serviceable and respectful.|
 
 [00:03] My father {Spirit (Orisha) in Yoruba religion=Xangô}                                 // Meu pai Xangô
 [00:05] Xangô is my father, my father is                                                     // É meu pai Xangô, é meu pai
@@ -428,7 +428,7 @@ I'd just like to make it clear that, as a Christian, I'm the least qualified per
 [01:17] Protect your son                                                                     // Protege teu filho
 [01:20] Your som {One of the (enormously famous) composers of this song=Caymmi}              // Teu filho Caymmi
 [01:22] Dorival Obá, Onikoyi                                                                 // Dorival Obá, Onikoyi
-[01:27] And {His wife of 68 years, married from 1940 until his death in 2008!=Stella Caymmi} // E Stella Caymmi
+[01:27] And {His wife of 68 years—married from 1940 until his death in 2008!=Stella Caymmi}  // E Stella Caymmi
 [pause]
 [01:29] Mother of Dori                                                                       // A mãe de Dori
 [01:31] Of Nana and Danilo                                                                   // De Nana e Danilo

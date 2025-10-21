@@ -148,7 +148,7 @@ def parse_spoiler_line(line: re.Match) -> str:
 
     match spoiler_type:
         case "img":
-            return f'<div class="spoiler-img">{spoiler}</div>'
+            return f'<div class="spoiler-img">{spoiler}<p class="spoiler-img-info">Hover to reveal</p></div>'
         case "span":
             return f'<span class="spoiler-span">{spoiler}</span>'
 

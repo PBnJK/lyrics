@@ -9,12 +9,12 @@
 <img src="assets/covers/1972_milton_nascimento_lo_borges_clube_da_esquina.jpg" width="400" alt="Clube da Esquina album cover, depicting two young boys sitting by the road" />
 = As iconic a cover art as they come
 
-Clube da Esquina (Corner Club) is a result of the friendship between Milton Nascimento and the Borges brothers. Inspired by the Beatles and Chopin, they sought to integrate Brazilian rhythms and genres with the new sounds that were coming into the country, while also using music as a way of speaking out against the increasingly strict censorship imposed by the then-ruling military dictatorship.
+Clube da Esquina (Corner Club) is the name of an informal "club" formed by friends Milton Nascimento and the Borges brothers, which, alongside other musically-inclined friends, played and composed songs on a street corner, with this album being the culmination of their efforts. Inspired by the Beatles and Chopin, they sought to integrate Brazilian rhythms and genres with the fresh new sounds that were coming into the country, while also using music as a way of speaking out against the increasingly strict censorship imposed by the then-ruling military dictatorship.
 
 <img src="assets/band_members/clube_da_esquina.jpg" width="600" alt="The Clube da Esquina, sitting on a bench. Ex-president of Brazil Juscelino Kubitscheck is also there, looking very serious in a black suit and tie" />
 = The Clube da Esquina. Ex-president of Brazil Juscelino Kubitscheck is also there for some reason?
 
-This album was a bit of a miracle—recorded on a two-track by relatively inexperienced musicians, the songs had to be played mostly live as to avoid the loss of quality associated with adding new tracks through down mixing, and were rife with improvisation and experimentation between the performers. Still, even under adverse conditions, these friends succeeded in creating what is considered by many to be one of, if not <i>the</i> best Brazilian album of all time.
+This album was a bit of a miracle—recorded on a two-track by relatively inexperienced musicians, the songs had to be played mostly live as to avoid the loss of quality associated with adding new tracks through down mixing, with sessions being rife with improvisation, experimentation and spur-of-the-moment decisions by the performers. Still, even under adverse conditions, these friends succeeded in creating what is considered by many to be one of, if not <i>the</i> best Brazilian album of all time.
 
 .title = Tudo Que Você Podia Ser
 .en_title = Everything That You Could Ever Be
@@ -107,11 +107,9 @@ This album was a bit of a miracle—recorded on a two-track by relatively inexpe
 .composer = Fernando Brant, Milton Nascimento
 .end
 
-*Some pretty abstract poetry. I hope it's still understandable.*
-
 [00:04] What would you say of this thing your feet can no longer reach? // O que vocês diriam dessa coisa que não dá mais pé?
 [00:09] What would you do to escape the tide?                           // O que vocês fariam pra sair dessa maré?
-[00:12] What was a dream now turns to dirt                              // O que era sonho vira terra
+[00:12] What was dream turns to dirt                                    // O que era sonho vira terra
 [00:17] Who will be the first to answer me?                             // Quem vai ser o primeiro a me responder?
 [pause]
 [00:23] Leave this city, have life where it is                          // Sair dessa cidade, ter a vida onde ela é
@@ -135,7 +133,7 @@ This album was a bit of a miracle—recorded on a two-track by relatively inexpe
 [00:48] If you let the sun shine on your green hair               // Se você deixar o sol bater nos seus cabelos verdes
 [00:56] Sun, {Might also just be "serene," as in "serene sun." "Sereno" is a common way to refer to dew, however, So I went with that=dew}, gold and silver // Sol, sereno, ouro e prata
 [01:01] Come out and follow me                                    // Sai e vem comigo
-[01:04] Sun, seed, {Actually "madrugada;" the period between midnight and sunrise=midnight} // Sol, semente, madrugada
+[01:04] Sun, seed, past midnight                                  // Sol, semente, madrugada
 [01:08] I live in any part of your heart                          // Eu vivo em qualquer parte do seu coração
 [pause]
 [01:21] If you let your heart beat without fear                   // Se você deixar o coração bater sem medo
@@ -159,7 +157,7 @@ This album was a bit of a miracle—recorded on a two-track by relatively inexpe
 .composer = Milton Nascimento, Ronaldo Bastos
 .end
 
-"Gabriela Cravo e Canela" (Gabriela Clove and Cinnamon) is a famous novel by Brazilian writer Jorge Amado. This song makes reference to the themes and imagery of the novel, as well as Jorge Amado's body of work in general and the culture of his home state of Bahia. You don't need to read the book to understand the song (though I still recommend it; it's a good novel!)
+|"Gabriela Cravo e Canela" (Gabriela Clove and Cinnamon) is a famous novel by Brazilian writer Jorge Amado. This song makes reference to the themes and imagery of the book, as well as Jorge Amado's body of work in general and the culture of his home state of Bahia.|
 
 [00:31] Hey, {May refer to a brunette, a black-skinned woman, or both. Also a term of endearment=morena}, who seasoned it? // Ê, morena, quem temperou?
 [00:33] Gypsy, who seasoned it?        // Cigana, quem temperou?
@@ -175,7 +173,7 @@ This album was a bit of a miracle—recorded on a two-track by relatively inexpe
 [pause]
 [00:50] The gypsy rain                 // A chuva cigana
 [00:51] The dance of the rivers        // A dança dos rios
-[00:52] The {Byproduct of chocolate production. Jorge Amado has a whole novel set in a cocoa farm where he references it. Makes for a somewhat healthy sweetener!=cocoa honey} // O mel do cacau
+[00:52] The {Byproduct of chocolate production. Jorge Amado has a whole novel set in a cocoa farm where he references it=cocoa honey} // O mel do cacau
 [00:53] The morning sun                // O sol da manhã
 [pause]
 [00:56] Hey, morena, who seasoned it?  // Ê, morena, quem temperou?
@@ -209,7 +207,7 @@ This album was a bit of a miracle—recorded on a two-track by relatively inexpe
 .composer = Carmelo Larrea
 .end
 
-*This is a cover of a bolero composed by Carmelo Larrea, and so is sung in Spanish rather than Portuguese. Although both languages are somewhat similar, they're not similar enough for me to feel confident doing a full translation. As such, this is mostly based on some other translations I have found around the internet, which I've linked to at the bottom of the page.*
+*This is a cover of a bolero composed by Carmelo Larrea, being sung in Spanish rather than Portuguese. Although both languages are somewhat similar, they're not similar enough for me to feel confident doing a full translation. As such, this is adapted from another translation I found on the internet, which I've linked to at the bottom of this page.*
 
 [00:01] Sevilla had to be                // Sevilla tuvo que ser
 [00:11] With its little silver moon      // Con su lunita plateada
@@ -296,20 +294,18 @@ This album was a bit of a miracle—recorded on a two-track by relatively inexpe
 .composer = Fernando Brant, Milton Nascimento
 .end
 
-São Vicente was the first village founded in Brazil, and also where the first election on the entire American continent was run. For this reason, it is considered by some to be the "berth of American democracy."
-
-Its port also received one of the greatest influxes of slaves via the Transatlantic Slave Trade.
+|São Vicente was the first village founded in Brazil, and also where the first election on the entire American continent was run. For this reason, it is considered by some to be the "berth of American democracy."<br/><br/>Its port also received one of the greatest influxes of slaves via the Transatlantic Slave Trade.|
 
 [00:01] American heart                      // Coração americano
 [00:05] I woke up from a strange dream      // Acordei de um sonho estranho
 [00:11] A taste of glass and cut            // Um gosto de vidro e corte
 [00:15] A chocolate flavour                 // Um sabor de chocolate
-[00:20] On the body and on the city         // No corpo e na cidade
+[00:20] On my body and on the city          // No corpo e na cidade
 [00:24] A flavour of life and death         // Um sabor de vida e morte
 [00:30] American heart                      // Coração americano
 [00:34] A flavour of glass and cut          // Um sabor de vidro e corte
 [pause]
-[00:49] The wait on a great queue           // A espera na fila imensa
+[00:49] Waiting on a great queue            // A espera na fila imensa
 [00:53] And the black body forgot           // E o corpo negro se esqueceu
 [00:58] It was in San Vicente               // Estava em San Vicente
 [01:02] The city and its lights             // A cidade e suas luzes
@@ -333,8 +329,6 @@ Its port also received one of the greatest influxes of slaves via the Transatlan
 .composer = Lô Borges, Márcio Borges
 .arranger = Eumir Deodato
 .end
-
-A short interlude. I recommend running this one straight into the next song.
 
 [00:00] Dust on the night            // Poeira na noite
 [00:05] The celebration of night     // A festa da noite
@@ -438,7 +432,7 @@ A short interlude. I recommend running this one straight into the next song.
 [01:16] Bright house                                           // Casa iluminada
 [01:20] Iron gate, padlock, heart                              // Portão de ferro, cadeado, coração
 [01:33] And I, {As in, he has reconquered himself=reconquered} // E eu reconquistado
-[01:37] Go on strolling, strolling and dying                   // Vou passeando, passeando e morrer
+[01:37] Go on strolling, strolling and to die                  // Vou passeando, passeando e morrer
 [pause]
 [01:49] Close to your eyes                                     // Perto de seus olhos
 [01:53] Gold ring, birthday, my love                           // Anel de ouro, aniversário, meu amor
@@ -455,7 +449,7 @@ A short interlude. I recommend running this one straight into the next song.
 [03:09] Dead village, padlock, heart                           // Aldeia morta, cadeado, coração
 [pause]
 [03:19] And I, reconquered                                     // E eu reconquistado
-[03:23] Go on walking, walking and dying                       // Vou caminhando, caminhando e morrer
+[03:23] Go on walking, walking and to die                      // Vou caminhando, caminhando e morrer
 [03:34] In your arms                                           // Dentro de seus braços
 [03:38] We learn to die alone                                  // A gente aprende a morrer só
 [pause]
@@ -470,13 +464,13 @@ A short interlude. I recommend running this one straight into the next song.
 
 [00:05] What would you say of this thing your feet can no longer reach?     // O que vocês diriam dessa coisa que não dá mais pé?
 [00:10] What would you do to escape the tide?                               // O que vocês fariam pra sair dessa maré?
-[00:13] What was stone turns into body                                      // O que era pedra vira corpo
+[00:13] What was stone turns to body                                        // O que era pedra vira corpo
 [00:17] Who will be the second to answer me?                                // Quem vai ser o segundo a me responder?
 [pause]
 [00:20] Walk down avenues fighting what my feet can no longer reach         // Andar por avenidas enfrentando o que não dá mais pé
-[00:27] Gather all my strength to win against the tide                      //  Juntar todas as forças pra vencer essa maré
-[00:30] What was stone turns into man                                       // O que era pedra vira homem
-[00:33] A man is more solid than the tide                                   // E o homem é mais sólido que a maré
+[00:27] Gather all my strength to win against the tide                      // Juntar todas as forças pra vencer essa maré
+[00:30] What was stone turns to man                                         // O que era pedra vira homem
+[00:33] And man is more solid than the tide                                 // E o homem é mais sólido que a maré
 
 .title = Um Gosto de Sol
 .en_title = A Taste of the Sun
@@ -516,12 +510,12 @@ A short interlude. I recommend running this one straight into the next song.
 [pause]
 [00:23] Yesterday I read in an almanac                   // Ontem li num almanaque
 [00:28] The adventures of shepherds and lambs            // Aventuras de pastores e cordeiros
-[00:31] As I finished, I voice from the street           // Quando eu terminava, uma voz de rua
+[00:31] As I finished, a voice from the street           // Quando eu terminava, uma voz de rua
 [00:38] Said true things, for the love of God!           // Disse coisas certas, pelo amor de Deus
 [instrumental]
 [01:09] Refusing dessert                                 // Recusando a sobremesa
 [01:13] A gold plate and a glass of wine                 // Um prato de ouro e um copo de vinho
-[01:18] Like old Chaplin, I throw it on your face        // Como o velho Chaplin eu jogo na cara
+[01:18] Like old Chaplin, I rub on your face             // Como o velho Chaplin eu jogo na cara
 [01:22] So many poor things, for the love of God!        // Tantas coisas pobres, pelo amor de Deus
 [01:31] For the love of God!                             // Pelo amor de Deus
 [01:32] For the love of God!                             // Pelo amor de Deus
@@ -547,7 +541,7 @@ A short interlude. I recommend running this one straight into the next song.
 .composer = Lô Borges, Márcio Borges
 .end
 
-*No relation. Perhaps a better translation is "Crazy People Train"*
+*No relation to the Ozzy Osbourne classic. Perhaps a better translation is "Crazy People Train"*
 
 |The title of this song refers to the train that used to ferry people to the Barbacena Colonial Hospital, a psychiatric institution that became infamous due to its inhuman treatment of its patients. This incident is referred to by many as the "Brazilian Holocaust," not only due to the obvious parallels and the use of trains, but also for the fact that many of the "patients" of the hospital did not suffer from any mental disorders, but were instead simply alcoholics, beggars, unwanted children, political enemies, homosexuals, etc. It was thankfully shut down in the 80s and now functions as a museum.|
 

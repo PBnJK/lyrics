@@ -7,7 +7,7 @@
 = Gal Costa
 
 [?img=<img src="https://m.media-amazon.com/images/I/71mE9ZKaFaL.jpg" width="400" alt="Gal Costa album cover, depicting Gal Costa semi-nude with indigenous vests" />]
-= This cover art got the album censored at the time
+= This cover, featuring Gal Costa semi-nude in indigenous vests, got the album censored at the time
 
 |Thank you to <a target="_blank" href="https://wandscum.com/">Sylvan</a> for the opening context and for the notes on the songs!|
 
@@ -26,7 +26,7 @@ In spite of the dangerous political environment, Costa continued to court contro
 .arranger = Rogério Duprat
 .end
 
-Gal Costa never knew her father, but she had a recording of him singing this old sentimental song. It’s also the first of several tracks in which the bisexual Costa conspicuously does not change the gender of the (female) object of the song’s desire.
+|Gal Costa never knew her father, but she had a recording of him singing this old sentimental song. It’s also the first of several tracks in which the bisexual Costa conspicuously does not change the gender of the (female) object of the song’s desire.|
 
 [00:23] Índia, your hair on your low shoulders                                         // Índia, teus cabelos nos ombros caídos
 [00:31] Dark as the nights without moonlight                                           // Negros como as noites que não tem luar
@@ -35,16 +35,16 @@ Gal Costa never knew her father, but she had a recording of him singing this old
 [00:56] Índia with the dark skin                                                       // Índia da pele morena
 [00:59] Your tiny mouth I wish to kiss                                                 // Tua boca pequena eu quero beijar
 [pause]
-[01:11] Índia, {Indigenous group of Brazil=tupi} blood, you have the scent of a flower // Índia, sangue tupi, tens o cheiro da flor
+[01:11] Índia, {Indigenous group of Brazil=Tupi} blood, you have the scent of a flower // Índia, sangue tupi, tens o cheiro da flor
 [01:30] Come, I want to give you                                                       // Vem, que eu quero te dar
 [01:41] All of my great love                                                           // Todo o meu grande amor
 [pause]
-[01:56] When I depart to far away from here                                            // Quando eu for embora para bem distante
+[01:56] When I leave to far away from here                                             // Quando eu for embora para bem distante
 [02:04] And the time comes to say goodbye                                              // E chegar a hora de dizer-te adeus
 [02:12] Stay in my arms for a moment longer                                            // Fique nos meus braços só mais um instante
 [02:21] Let my lips lock with yours                                                    // Deixa os meus lábios se unirem aos teus
 [02:28] Índia, I'll carry with me a longing                                            // Índia, levarei saudade
-[02:31] Of the happiness that you gave me                                              // Da felicidade que você me deu
+[02:31] For the happiness you gave me                                                  // Da felicidade que você me deu
 [pause]
 [02:43] Índia, your image always goes with me                                          // Índia, tua imagem sempre comigo vai
 [03:03] Inside my heart                                                                // Dentro do meu coração
@@ -57,16 +57,16 @@ Gal Costa never knew her father, but she had a recording of him singing this old
 [03:58] Índia with the dark skin                                                       // Índia da pele morena
 [04:01] Your tiny mouth I wish to kiss                                                 // Tua boca pequena eu quero beijar
 [pause]
-[04:12] Índia, tupi blood, you have the scent of a flower                              // Índia, sangue tupi, tens o cheiro da flor
+[04:12] Índia, Tupi blood, you have the scent of a flower                              // Índia, sangue tupi, tens o cheiro da flor
 [04:31] Come, I want to give you                                                       // Vem, que quero te dar
 [04:40] All of my great love                                                           // Todo o meu grande amor
 [pause]
-[04:55] When I depart to far away from here                                            // Quando eu for embora para bem distante
+[04:55] When I leave to far away from here                                             // Quando eu for embora para bem distante
 [05:02] And the time comes to say goodbye                                              // E chegar a hora de dizer-te adeus
 [05:10] Stay in my arms for a moment longer                                            //Fique nos meus braços só mais um instante
 [05:18] Let my lips lock with yours                                                    // Deixa os meus lábios se unirem aos teus
 [05:24] Índia, I'll carry with me a longing                                            // Índia, levarei saudade
-[05:27] Of the happiness that you gave me                                              // Da felicidade que você me deu
+[05:27] For the happiness you gave me                                                  // Da felicidade que você me deu
 [pause]
 [05:38] Índia, your image always goes with me                                          // Índia, tua imagem sempre comigo vai
 [05:57] Inside my heart                                                                // Dentro do meu coração
@@ -130,7 +130,7 @@ A Portuguese folk song insinuating all manner of illicit sexuality.
 .arranger = Arthur Verocai
 .end
 
-Banned from Brazilian radio for poking fun at the dictatorship’s economic boasts.
+|Banned from Brazilian radio for poking fun at the dictatorship’s economic boasts.|
 
 [00:08] Everything's loose on the air platform           // Tá tudo solto na plataforma do ar
 [00:12] It's all there, It's all there                   // Tá tudo aí, tá tudo aí
@@ -237,7 +237,7 @@ Banned from Brazilian radio for poking fun at the dictatorship’s economic boas
 .arranger = Gilberto Gil
 .end
 
-Pay attention to the original lyrics on the right for this one, and you'll notice that there's a pattern to the way that they are constructed, in the manner of concrete poetry.
+|Pay attention to the original lyrics on the right for this one, and you'll notice that there's a pattern to the way that they are constructed, in the manner of concrete poetry.|
 
 [00:26] Stop, notice                         // Pare, repare
 [00:35] Cite, recite                         // Cite, recite
@@ -313,7 +313,7 @@ Pay attention to the original lyrics on the right for this one, and you'll notic
 [02:41] There must be some kind of way, some time                                  // Deve haver um jeito qualquer, uma hora
 [02:49] There's always a man for a woman                                           // Há sempre um homem, para uma mulher
 [02:59] There are ten women for each one                                           // Há dez mulheres para cada um
-[03:03] A woman is always a woman, so on, so forth                                 // Uma mulher é sempre uma mulher, etc. e tal
+[03:03] A woman is always a woman, etc., so on, so forth                           // Uma mulher é sempre uma mulher, etc. e tal
 [pause]
 [03:12] Just like how there exist flying saucers and the darkness of the future    // Assim como existe disco voador e o escuro do futuro
 [03:19] May exist in what depends                                                  // Pode haver no que está dependendo
@@ -418,7 +418,7 @@ Pay attention to the original lyrics on the right for this one, and you'll notic
 .arranger = Gilberto Gil
 .end
 
-A bossa nova standard, kind of the theme song for the whole genre. But in this context, given Costa’s position as a musical, political, and sexual dissident, ending with this defiant declaration to be one of the “out of tune ones” takes on some added dimensions.
+|A Bossa Nova standard, kind of the theme song for the whole genre. But in this context, given Costa’s position as a musical, political, and sexual dissident, ending with this defiant declaration to be one of the “out of tune ones” takes on some added dimensions.|
 
 [00:13] If you say that I detune, love                                                   // Se você disser que eu desafino, amor
 [00:20] Know that this causes me immense pain                                            // Saiba que isso em mim provoca imensa dor
@@ -433,7 +433,7 @@ A bossa nova standard, kind of the theme song for the whole genre. But in this c
 [01:13] What you don't know, and never suspected                                         // O que você não sabe, nem sequer pressente
 [01:21] Is that the out of tune also have a heart                                        // É que os desafinados também tem um coração
 [01:28] I photographed you with my Rolleiflex                                            // Fotografei você na minha Rolleiflex
-[01:35] And your great ingratitude was {To "develop" a photo in Portuguese is to "reveal it." It's a pun=revealed} // Revelou-se a sua enorme ingratidão
+[01:35] And your great ingratitude was {To "develop" a photo in Portuguese is to "reveal" it. It's a pun=revealed} // Revelou-se a sua enorme ingratidão
 [pause]
 [01:43] The only person you can't say these things about is my live                      // Só não poderá falar assim do meu amor
 [01:51] He's the greatest you can find, alright?                                         // Ele é o maior que você pode encontrar, viu?
