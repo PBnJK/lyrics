@@ -249,12 +249,10 @@ def generate_lyrics(filename: Path, infile) -> dict:
   </head>
   <body>
     <script src="js/script.js" defer></script>
-    <header>
-        <a class="button" id="back-button" href=".">To index</a>
-        <button class="button" id="theme-button">Dark</button>
-    </header>
     <div id="wrapper">
       <main id="main">
+        <button class="button" id="theme-button">Dark</button>
+        <a id="back-button" href=".">&#8592; To index</a>
 """
         raw_mode: bool = False
         for line in infile:

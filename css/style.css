@@ -97,7 +97,18 @@ main {
   cursor: pointer;
 }
 
+#theme-button {
+  position: sticky;
+  float: right;
+
+  top: 20px;
+  right: 20px;
+
+  z-index: 1;
+}
+
 #back-button {
+  margin-left: 20px;
   line-height: 32px;
   text-decoration: none;
 }
@@ -268,6 +279,10 @@ main {
 @media screen and (width < 600px) {
   main {
     width: 90%;
+  }
+
+  #back-button {
+    margin-left: 0;
   }
 
   .lyric-box {

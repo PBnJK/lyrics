@@ -9,12 +9,12 @@
 <img src="assets/covers/1968_os_mutantes_os_mutantes.jpg" width="400" alt="Os Mutantes cover art, depicting Arnaldo Baptista, Rita Lee, Sérgio Dias" />
 = Arnaldo Baptista, Rita Lee, and Sérgio Dias
 
-Os Mutantes (The Mutants) are (or were—see [1] footnote) a band started in 1966, during the height of the Tropicália movement, which sought to mix popular Brazilian musical tradition with more avant-garde, foreign styles. In this line, their 1968 self-titled debut album is a hodgepodge of influences, from The Beatles to Jimi Hendrix, Baião, and African percussion, all backed by a generous heap of unconventional instrumentation and abstract lyricism.
+Os Mutantes (The Mutants) is[1] a band started in 1966, during the height of the Tropicália movement, which sought to mix popular Brazilian musical tradition with more avant-garde, foreign styles. In this line, their 1968 self-titled debut album is a hodgepodge of influences, from The Beatles to Jimi Hendrix, Baião, and African percussion, all backed by a generous heap of unconventional instrumentation and abstract lyricism.
 
-<img src="assets/band_members/1969_os_mutantes.jpg" width="400" alt="Os Mutantes playing live, wearing frankly ridiculous clothes. Arnaldo Baptista plays the bass, wearing a suit dotted with shiny jewels, bow tie, top hat and canvas pants. Rita Lee holds cymbals and wears a long puff-sleeved wedding dress and tiara. Sérgio Dias plays his golden guitar and, appropriately, is dressed in some ridiculous shiny patterned coat, as well as a striped sweatband and zebra stripe pants." />
+<img src="assets/band_members/1969_os_mutantes.jpg" width="400" alt="Os Mutantes playing live, wearing frankly ridiculous clothes. Arnaldo Baptista plays the bass, wearing a suit dotted with shiny jewels, bow tie, top hat and canvas pants. Rita Lee holds cymbals and wears a long puff-sleeved wedding dress and tiara. Sérgio Dias plays his golden guitar and, appropriately, is dressed in a shiny patterned coat, as well as a striped sweatband and zebra stripe pants." />
 = By some definition "stylish"
 
-Os Mutantes are also notable for their innovation, at a time where the phonographic industry in Brazil was far behind that of countries like the United States or England. Cláudio César Dias Baptista, the older brother of Sérgio Baptista, built himself the guitar and bass used in most Mutantes records, as well as effects pedals, amplifiers, etc.
+Os Mutantes are also notable for their innovation, at a time where electric instruments were expensive and the phonographic industry in Brazil was far behind that of countries like the United States or England. Cláudio César Dias Baptista, the older brother of Sérgio Dias, built himself the guitar and bass used in most Mutantes records, as well as effects pedals, amplifiers, etc.
 
 .title = Panis et Circenses
 .en_title = Bread and Circuses, in Latin
@@ -461,7 +461,7 @@ Bonus fact: there's a cool guitar effect here, and the pedal responsible for it 
 # Footnotes
 
 <ul>
-  <li>[1]: Nowadays, the group is a shell of its former self, with only Sérgio Dias left of the original formation (though not even in a cool way like King Crimson.) Rita Lee was kicked out of the band in 1972 and unfortunately passed away in 2023, while Arnaldo Baptista left in 1973 due to his rampant drug abuse (he is doing much better now.)</li>
+  <li>[1]: Nowadays, only Sérgio Dias left of the original formation. Rita Lee was kicked out of the band in 1972 and unfortunately passed away in 2023, while Arnaldo Baptista left in 1973 due to issues with drug abuse (he is doing much better now.)</li>
   <li>[2]: <a href="https://www.youtube.com/watch?v=nsOoltvk0sk">Le Premier Bonheur du Jour Translation by frenchrescue</a></li>
 </ul>
 
