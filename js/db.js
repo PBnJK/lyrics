@@ -62,6 +62,13 @@ const db = {
 		"year": "2005",
 		"search": "44Los Hermanoslos hermanosAlternative Rockalternative rockIndie Rockindie rockMPBmpb2005",
 	},
+	"1973_secos_e_molhados_secos_e_molhados": {
+		"album": "Secos & Molhados",
+		"artist": ["Secos & Molhados"],
+		"genre": ["Folk", "Progressive Rock", "Glam Rock", "Psychedelic Pop"],
+		"year": "1973",
+		"search": "Secos & MolhadosSecos & MolhadosSecos & Molhadossecos & molhadosFolkfolkProgressive Rockprogressive rockGlam Rockglam rockPsychedelic Poppsychedelic pop1973",
+	},
 	"1986_legiao_urbana_dois": {
 		"album": "Dois",
 		"artist": ["Legião Urbana"],
