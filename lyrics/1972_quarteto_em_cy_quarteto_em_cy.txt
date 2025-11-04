@@ -169,6 +169,8 @@
 .arranger = Edu Lobo
 .end
 
+|An "Incelença" refers to a type of song sung in funerals in honor of the deceased.|
+
 *This song plays with letters slightly. This is a direct translation. At the bottom of the page you can find a version that translates the wordplay more faithfully.*
 
 [00:41] I said an A, for our love            // Eu disse um A, por nosso amor

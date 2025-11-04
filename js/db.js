@@ -20,6 +20,13 @@ const db = {
 		"year": "1973",
 		"search": "ÍndiaIndiaGal Costagal costaMPBmpb1973",
 	},
+	"1972_lo_borges_lo_borges": {
+		"album": "Lô Borges",
+		"artist": ["Lô Borges"],
+		"genre": ["MPB", "Jazz", "Psychedelic Rock"],
+		"year": "1972",
+		"search": "Lô BorgesLo BorgesLô Borgeslô borgesLo Borgeslo borgesMPBmpbJazzjazzPsychedelic Rockpsychedelic rock1972",
+	},
 	"1998_tom_ze_com_defeito_de_fabricacao": {
 		"album": "Com Defeito de Fabricação",
 		"artist": ["Tom Zé"],

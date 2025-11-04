@@ -1,4 +1,8 @@
 html {
+  min-height: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+
   background-color: var(--bg-primary);
 
   --spoiler-fade-time: 0.8s;
@@ -6,6 +10,10 @@ html {
 }
 
 body {
+  min-height: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+
   margin: 0 0 80px 0;
 }
 
@@ -67,6 +75,7 @@ header {
 }
 
 main {
+  margin-top: 64px;
   width: 920px;
 }
 
