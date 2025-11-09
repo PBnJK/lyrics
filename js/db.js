@@ -97,6 +97,13 @@ const db = {
 		"year": "2003",
 		"search": "VenturaVenturaLos Hermanoslos hermanosAlternative Rockalternative rockIndie Rockindie rockMPBmpbSambasamba2003",
 	},
+	"1975_milton_nascimento_minas": {
+		"album": "Minas",
+		"artist": ["Milton Nascimento"],
+		"genre": ["MPB", "Progressive Folk", "Jazz"],
+		"year": "1975",
+		"search": "MinasMinasMilton Nascimentomilton nascimentoMPBmpbProgressive Folkprogressive folkJazzjazz1975",
+	},
 	"1974_jorge_ben_jor_a_tabua_de_esmeralda": {
 		"album": "A Tábua de Esmeralda",
 		"artist": ["Jorge Ben Jor"],
