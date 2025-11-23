@@ -185,7 +185,7 @@
 [00:14] I'm limping but don't fall out of stubbornness                                          // Tô capengando mas não caio de pirraça
 [00:16] I'm limping but don't fall out of love                                                  // Tô capengando mas não caio por amor
 [00:18] Crooked like a {Dracaena fragans=pau d'água} resting on the {Ceiba glaziovii=barriguda} // Torto que nem pau d'água escorado na barriguda
-[00:20] {Reference to a fable, see bottom of page [1]=Leading the chicken coop}                 // Comandando o galinheiro
+[00:20] Leading the chicken coop[^1]                                                            // Comandando o galinheiro
 [00:22] Sugarcane farmer, pothead, cherub                                                       // Canavieiro, maconheiro, querubim
 [00:24] I'm not cattle but I'm full of this plate of grass                                      // Eu não sou gado mas tô cheio desse prato de capim
 [pause]
@@ -451,7 +451,7 @@ A "Moda de Viola" is a traditional Brazilian style of music, sung by two people 
 
 ---
 
-# [1] The Rooster and the Eagle
+<h1 id="foot-1">[1]: The Rooster and the Eagle</h2>
 Two roosters were fighting for the right of leading the chicken coop in a farm. Finally, one of the roosters emerged victorious.
 The defeated rooster retreated to a more peaceful corner of the farm. The winner jumped up to the top of a wall and, flapping its wings, sung with pride.
 An eagle that was flying by saw the celebration and, with a sharp dive, snatched the rooster away in its claws.

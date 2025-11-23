@@ -405,52 +405,52 @@ Although it’s not as clear as in the last song, this piece is also an ode to H
 [03:07] Quiloa, Rebolo                             // Quiloa, Rebolo
 
 .title = Brother
-.en_title = Irmão
+.en_title = Brother
 .end
 
-[00:06] Irmão (irmão)                                             // Brother (brother)
-[00:08] Irmão (irmão)                                             // Brother (brother)
-[00:10] Prepare mais um caminho alegre pro meu Senhor             // Prepare one more happy way for my Lord
-[00:16] Com muitos amores e flores, e música, e música            // With many love and flowers, and music, and music
+[00:06]  Brother (brother)                                  // Irmão (irmão)
+[00:08]  Brother (brother)                                  // Irmão (irmão)
+[00:10]  Prepare one more happy way for my Lord             // Prepare mais um caminho alegre pro meu Senhor
+[00:16]  With many love and flowers, and music, and music   // Com muitos amores e flores, e música, e música
 [pause]
-[00:22] Irmão (irmão)                                             // Brother (brother)
-[00:23] Irmão (irmão)                                             // Brother (brother)
-[00:25] Prepare mais um caminho alegre pro meu Senhor             // Prepare one more happy way for my Lord
-[00:30] Com muitos amores e flores, e música, e música            // With many love and flowers, and music, and music
+[00:22]  Brother (brother)                                  // Irmão (irmão)
+[00:23]  Brother (brother)                                  // Irmão (irmão)
+[00:25]  Prepare one more happy way for my Lord             // Prepare mais um caminho alegre pro meu Senhor
+[00:30]  With many love and flowers, and music, and music   // Com muitos amores e flores, e música, e música
 [pause]
-[00:35] Jesus Cristo é o meu Senhor, Jesus Cristo é o meu amigo   // Jesus Christ is my Lord, Jesus Christ is my friend
-[00:42] Jesus Cristo é o meu Senhor, Jesus Cristo é o meu amigo   // Jesus Christ is my Lord, Jesus Christ is my friend
+[00:35]  Jesus Christ is my Lord, Jesus Christ is my friend // Jesus Cristo é o meu Senhor, Jesus Cristo é o meu amigo
+[00:42]  Jesus Christ is my Lord, Jesus Christ is my friend // Jesus Cristo é o meu Senhor, Jesus Cristo é o meu amigo
 [pause]
-[00:50] Irmão (irmão)                                             // Brother (brother)
-[00:51] Irmão (irmão)                                             // Brother (brother)
-[00:52] Prepare mais um caminho alegre pro meu Senhor             // Prepare one more happy way for my Lord
-[00:58] Com muitos amores e flores, e música, e música            // With many love and flowers, and music, and music
+[00:50]  Brother (brother)                                  // Irmão (irmão)
+[00:51]  Brother (brother)                                  // Irmão (irmão)
+[00:52]  Prepare one more happy way for my Lord             // Prepare mais um caminho alegre pro meu Senhor
+[00:58]  With many love and flowers, and music, and music   // Com muitos amores e flores, e música, e música
 [pause]
-[01:05] Irmão (irmão)                                             // Brother (brother)
-[01:05] Irmão (irmão)                                             // Brother (brother)
-[01:07] Prepare mais um caminho alegre pro meu Senhor             // Prepare one more happy way for my Lord
-[01:13] Com muitos amores e flores, e música, e música            // With many love and flowers, and music, and music
+[01:05]  Brother (brother)                                  // Irmão (irmão)
+[01:05]  Brother (brother)                                  // Irmão (irmão)
+[01:07]  Prepare one more happy way for my Lord             // Prepare mais um caminho alegre pro meu Senhor
+[01:13]  With many love and flowers, and music, and music   // Com muitos amores e flores, e música, e música
 [pause]
-[01:19] Jesus Cristo é o meu Senhor, Jesus Cristo é o meu amigo   // Jesus Christ is my Lord, Jesus Christ is my friend
-[01:26] Jesus Cristo é o meu Senhor, Jesus Cristo é o meu amigo   // Jesus Christ is my Lord, Jesus Christ is my friend
+[01:19]  Jesus Christ is my Lord, Jesus Christ is my friend // Jesus Cristo é o meu Senhor, Jesus Cristo é o meu amigo
+[01:26]  Jesus Christ is my Lord, Jesus Christ is my friend // Jesus Cristo é o meu Senhor, Jesus Cristo é o meu amigo
 [pause]
-[01:33] Irmão (irmão)                                             // Brother (brother)
-[01:34] Irmão (irmão)                                             // Brother (brother)
-[01:36] Prepare mais um caminho alegre pro meu Senhor             // Prepare one more happy way for my Lord
-[01:42] Com muitos amores e flores, e música, e música            // With many love and flowers, and music, and music
+[01:33]  Brother (brother)                                  // Irmão (irmão)
+[01:34]  Brother (brother)                                  // Irmão (irmão)
+[01:36]  Prepare one more happy way for my Lord             // Prepare mais um caminho alegre pro meu Senhor
+[01:42]  With many love and flowers, and music, and music   // Com muitos amores e flores, e música, e música
 [instrumental]
-[02:02] Brother, prepare one more happy way for my Lord           // Irmão, prepare mais um caminho alegre pro meu Senhor
-[02:07] Sweet Jesus!                                              // Amado Jesus!
-[02:10] Brother, prepare one more happy way for my Lord           // Irmão, prepare mais um caminho alegre pro meu Senhor
-[02:15] Sweet Jesus!                                              // Amado Jesus!
-[02:17] Brother, prepare one more happy way for my Lord           // Irmão, prepare mais um caminho alegre pro meu Senhor
+[02:02]  Brother, prepare one more happy way for my Lord    //  Irmão, prepare mais um caminho alegre pro meu Senhor
+[02:07]  Sweet Jesus!                                       //  Amado Jesus!
+[02:10]  Brother, prepare one more happy way for my Lord    //  Irmão, prepare mais um caminho alegre pro meu Senhor
+[02:15]  Sweet Jesus!                                       //  Amado Jesus!
+[02:17]  Brother, prepare one more happy way for my Lord    //  Irmão, prepare mais um caminho alegre pro meu Senhor
 [pause]
-[02:24] Jesus Cristo é o meu Senhor, Jesus Cristo é o meu amigo   // Jesus Christ is my Lord, Jesus Christ is my friend
-[02:30] É meu amigo, Jesus salvador!                              // Is my friend, savior Jesus!
-[02:32] Jesus Cristo é o meu Senhor, Jesus Cristo é o meu amigo   // Jesus Christ is my Lord, Jesus Christ is my friend
-[02:38] Todo mundo, irmão!                                        // Everybody, brother!
-[02:40] Jesus Cristo é o meu Senhor, Jesus Cristo é o meu amigo   // Jesus Christ is my Lord, Jesus Christ is my friend
-[02:46] Jesus Cristo é o meu Senhor, Jesus Cristo é o meu amigo   // Jesus Christ is my Lord, Jesus Christ is my friend
+[02:24]  Jesus Christ is my Lord, Jesus Christ is my friend // Jesus Cristo é o meu Senhor, Jesus Cristo é o meu amigo
+[02:30]  Is my friend, savior Jesus!                        // É meu amigo, Jesus salvador!
+[02:32]  Jesus Christ is my Lord, Jesus Christ is my friend // Jesus Cristo é o meu Senhor, Jesus Cristo é o meu amigo
+[02:38]  Everybody, brother!                                // Todo mundo, irmão!
+[02:40]  Jesus Christ is my Lord, Jesus Christ is my friend // Jesus Cristo é o meu Senhor, Jesus Cristo é o meu amigo
+[02:46]  Jesus Christ is my Lord, Jesus Christ is my friend // Jesus Cristo é o meu Senhor, Jesus Cristo é o meu amigo
 
 .title = O Namorado da Viúva
 .en_title = The Widow's Lover

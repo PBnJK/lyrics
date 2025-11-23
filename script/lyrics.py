@@ -17,7 +17,10 @@ NOTE_LINE_REGEX: re.Pattern = re.compile(r"^\*(.*)\*$")
 META_LINE_REGEX: re.Pattern = re.compile(r"^\.(.*)=(.*)$")
 LYRIC_LINE_REGEX: re.Pattern = re.compile(r"^\[(\d\d:\d\d)\](.*)//(.*)$")
 REM_LINE_REGEX: re.Pattern = re.compile(r"^\[!(.*)//(.*)\]")
+FOOTNOTE_LINE_REGEX: re.Pattern = re.compile(r"\[\^(\d+)=(.*)\]")
+
 SPOILER_LINE_REGEX: re.Pattern = re.compile(r"\[\?(.*?)=(.*)\]")
+FOOTNOTE_REF_REGEX: re.Pattern = re.compile(r"\[\^(\d+)\]")
 
 
 def make_html_safe(line: str) -> str:
@@ -31,16 +34,22 @@ def parse_header_line(line: re.Match) -> str:
     header: str = line.group(2).strip()
 
     tag: str = f"h{len(size)}"
+    header = parse_inline(header)
+
     return f"<{tag}>{header}</{tag}>\n"
 
 
 def parse_sub_line(line: re.Match) -> str:
     subtitle: str = line.group(1).strip()
+    subtitle = parse_inline(subtitle)
+
     return f'<p class="subtitle"><i>{subtitle}</i></p>\n'
 
 
 def parse_info_line(line: re.Match) -> str:
     info: str = line.group(1).strip()
+    info = parse_inline(info)
+
     return f"""\
   <div class="info-box">
     <p class="info">{info}</p>
@@ -50,12 +59,17 @@ def parse_info_line(line: re.Match) -> str:
 
 def parse_note_line(line: re.Match) -> str:
     note: str = line.group(1).strip()
+    note = parse_inline(note)
+
     return f'<p class="note"><i>T/L Note: {note}</i></p>\n'
 
 
 def parse_meta_line(line: re.Match, out: dict) -> str:
     key: str = line.group(1).strip()
     value: str = line.group(2).strip()
+
+    value = parse_inline(value)
+
     match key:
         case "title":
             return f"""\
@@ -104,6 +118,9 @@ def parse_lyric_line(line: re.Match) -> str:
     lyric: str = make_html_safe(line.group(2).strip())
     og: str = line.group(3)
 
+    lyric = parse_inline(lyric)
+    og = parse_inline(og)
+
     output: str = f"""\
   <div class="lyric-box">
     <p class="lyric-time"><i>{timestamp}</i></p>
@@ -134,6 +151,9 @@ def parse_rem_line(line: re.Match) -> str:
     en_reminder: str = line.group(1).strip()
     pt_reminder: str = line.group(2).strip()
 
+    en_reminder = parse_inline(en_reminder)
+    pt_reminder = parse_inline(pt_reminder)
+
     return f"""\
   <div class="lyric-box">
     <p class="lyric-text lyric-command-left">({en_reminder})</p>
@@ -142,9 +162,20 @@ def parse_rem_line(line: re.Match) -> str:
 """
 
 
+def parse_footnote_line(line: re.Match) -> str:
+    number: str = line.group(1).strip()
+    footnote: str = line.group(2).strip()
+
+    footnote = parse_inline(footnote)
+
+    return f'<li id="foot-{number}">[{number}]: {footnote}</li>'
+
+
 def parse_spoiler_line(line: re.Match) -> str:
     spoiler_type: str = line.group(1).strip()
     spoiler: str = line.group(2).strip()
+
+    spoiler = parse_inline(spoiler)
 
     match spoiler_type:
         case "img":
@@ -153,6 +184,33 @@ def parse_spoiler_line(line: re.Match) -> str:
             return f'<span class="spoiler-span">{spoiler}</span>'
 
     return f'<p class="spoiler-span">{spoiler}</p>'
+
+
+def parse_footnote_ref(line: re.Match) -> str:
+    number: str = line.group(1).strip()
+    return f'<a class="footnote-span" href="#foot-{number}"><sup>[{number}]</sup></a>'
+
+
+def parse_inline(line: str) -> str:
+    inline_pos: int = 0
+    inline_str: str = ""
+
+    # Spoiler line? ([?SPOILER TYPE=SPOILER])
+    for m in SPOILER_LINE_REGEX.finditer(line):
+        inline_str += line[inline_pos : m.start(0)]
+        inline_str += parse_spoiler_line(m)
+        inline_pos = m.end(0)
+
+    # Footnote reference? ([^NUMBER])
+    for m in FOOTNOTE_REF_REGEX.finditer(line):
+        inline_str += line[inline_pos : m.start(0)]
+        inline_str += parse_footnote_ref(m)
+        inline_pos += m.end(0)
+
+    if inline_str:
+        return inline_str + line[inline_pos:]
+
+    return line
 
 
 def parse_line(line: str, out: dict) -> str:
@@ -215,17 +273,11 @@ def parse_line(line: str, out: dict) -> str:
     if reminder_line := REM_LINE_REGEX.search(line):
         return parse_rem_line(reminder_line)
 
-    inline_pos: int = 0
-    inline_str: str = ""
+    # Reference line? ([^NUMBER=FOOTNOTE])
+    if footnote_line := FOOTNOTE_LINE_REGEX.search(line):
+        return parse_footnote_line(footnote_line)
 
-    # Spoiler line? ([?SPOILER TYPE=SPOILER])
-    for m in SPOILER_LINE_REGEX.finditer(line):
-        inline_str += line[inline_pos : m.start(0)]
-        inline_str += parse_spoiler_line(m)
-        inline_pos = m.end(0)
-
-    if inline_str:
-        return inline_str + line[inline_pos:]
+    line = parse_inline(line)
 
     # Default to a generic paragraph
     return f'<p class="paragraph">{line}</p>'

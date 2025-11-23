@@ -411,7 +411,7 @@
 [pause]
 [00:33] Protect your son (your son)                                                          // Protege teu filho (teu filho)
 [00:35] {Honorific in the Candomblé religion=Obá of Xangô} (Obá of Xangô)                    // Obá de Xangô (Obá de Xangô)
-[00:37] Your {"Right-hand man" of the Obá of Xangô=Obá Otum} (Obá Otum), {A warrior from a Nigerian poem (see footnote [1])=Onikoyi} (Onikoyi) // Seu Obá Otum (Obá Otum), Onikoyi (Onikoyi)
+[00:37] Your {"Right-hand man" of the Obá of Xangô=Obá Otum} (Obá Otum), {A warrior from a Nigerian poem[^1]=Onikoyi} (Onikoyi) // Seu Obá Otum (Obá Otum), Onikoyi (Onikoyi)
 [00:42] That's in so much need (so much need)                                                // Que tanto precisa (tanto precisa)
 [00:45] Need of you (need of you)                                                            // Precisa de ti (precisa de ti)
 [pause]
@@ -463,7 +463,7 @@
 
 # Footnotes
 <ul>
-  <li>[1]: <a href="https://africanpoems.net/praise/onikoyi-the-warrior-king/">"Onikoyi, the Warrior King"</a></li>
+[^1=<a href="https://africanpoems.net/praise/onikoyi-the-warrior-king/">"Onikoyi, the Warrior King"</a>]
 </ul>
 
 ---

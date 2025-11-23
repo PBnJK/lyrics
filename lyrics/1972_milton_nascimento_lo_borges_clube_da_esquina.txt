@@ -9,12 +9,10 @@
 <img src="assets/covers/1972_milton_nascimento_lo_borges_clube_da_esquina.jpg" width="400" alt="Clube da Esquina album cover, depicting two young boys sitting by the road" />
 = As iconic a cover art as they come
 
-Clube da Esquina (Corner Club) is the name of an informal "club" formed by friends Milton Nascimento and the Borges brothers, which, alongside other musically-inclined friends, played and composed songs on a street corner, with this album being the culmination of their efforts. Inspired by the Beatles and Chopin, they sought to integrate Brazilian rhythms and genres with the fresh new sounds that were coming into the country, while also using music as a way of speaking out against the increasingly strict censorship imposed by the then-ruling military dictatorship.
+On a street corner in the city of Belo Horizonte, Milton Nascimento, the Borges Brothers and other local artists started a sort of informal "club," appropriately nicknamed the "Clube da Esquina" (Corner Club,) where they would talk, create and play music.
 
-<img src="assets/band_members/clube_da_esquina.jpg" width="600" alt="The Clube da Esquina, sitting on a bench. Ex-president of Brazil Juscelino Kubitscheck is also there, looking very serious in a black suit and tie" />
-= The Clube da Esquina. Ex-president of Brazil Juscelino Kubitscheck is also there for some reason?
-
-This album was a bit of a miracle—recorded on a two-track by relatively inexperienced musicians, the songs had to be played mostly live as to avoid the loss of quality associated with adding new tracks through down mixing, with sessions being rife with improvisation, experimentation and spur-of-the-moment decisions by the performers. Still, even under adverse conditions, these friends succeeded in creating what is considered by many to be one of, if not <i>the</i> best Brazilian album of all time.
+<img src="assets/band_members/clube_da_esquina.jpg" width="600" alt="The Clube da Esquina, sitting on a bench: Lô Borges, Fernando Brandt, Márcio Borges, and Milton Nascimento. Ex-president of Brazil Juscelino Kubitscheck is also there, looking very serious in a black suit and tie" />
+= The "Clube da Esquina." From left to right: Lô Borges, Fernando Brandt, Ex-president of Brazil Juscelino Kubitscheck (not part of the group,) Márcio Borges, and Milton Nascimento
 
 .title = Tudo Que Você Podia Ser
 .en_title = Everything That You Could Ever Be

@@ -9,7 +9,7 @@
 <img src="assets/covers/1968_os_mutantes_os_mutantes.jpg" width="400" alt="Os Mutantes cover art, depicting Arnaldo Baptista, Rita Lee, Sérgio Dias" />
 = Arnaldo Baptista, Rita Lee, and Sérgio Dias
 
-Os Mutantes (The Mutants) is[1] a band started in 1966, during the height of the Tropicália movement, which sought to mix popular Brazilian musical tradition with more avant-garde, foreign styles. In this line, their 1968 self-titled debut album is a hodgepodge of influences, from The Beatles to Jimi Hendrix, Baião, and African percussion, all backed by a generous heap of unconventional instrumentation and abstract lyricism.
+Os Mutantes (The Mutants) is[^1] a band started in 1966, during the height of the Tropicália movement, which sought to mix popular Brazilian musical tradition with more avant-garde, foreign styles. In this line, their 1968 self-titled debut album is a hodgepodge of influences, from The Beatles to Jimi Hendrix, Baião, and African percussion, all backed by a generous heap of unconventional instrumentation and abstract lyricism.
 
 <img src="assets/band_members/1969_os_mutantes.jpg" width="400" alt="Os Mutantes playing live, wearing frankly ridiculous clothes. Arnaldo Baptista plays the bass, wearing a suit dotted with shiny jewels, bow tie, top hat and canvas pants. Rita Lee holds cymbals and wears a long puff-sleeved wedding dress and tiara. Sérgio Dias plays his golden guitar and, appropriately, is dressed in a shiny patterned coat, as well as a striped sweatband and zebra stripe pants." />
 = By some definition "stylish"
@@ -88,8 +88,8 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [01:22] She's my love                                 // Ela é o meu amor
 [01:29] And I'm her love, entirely hers               // E eu sou o amor todinho dela
 [pause]
-[01:39] The rosebush already sprouted                 // A roseira já deu rosas
-[01:44] And the rose I got was her                    // E a rosa que eu ganhei foi ela
+[01:39] The rosebush's already bloomed                // A roseira já deu rosas
+[01:44] And the rose I earned was her                 // E a rosa que eu ganhei foi ela
 [01:50] For her I let my heart get in front of reason // Por ela eu ponho o meu coração na frente da razão
 [01:56] And I'll tell everyone how much I like her    // E vou dizer pra todo mundo como gosto dela
 [pause]
@@ -129,7 +129,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [00:39] I wound it up and thought       // Eu dei corda e pensei
 [00:46] That the watch would live       // Que o relógio iria viver
 [00:52] To tell the time                // Pra dizer a hora
-[00:57] For you to arrive               // De você chegar
+[00:57] Of your arrival                 // De você chegar
 [pause]
 [01:07] It didn't run and I cried       // Não andou e eu chorei
 [01:13] Two still hands laughing        // Dois ponteiros parados a rir
@@ -154,7 +154,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 .arranger = Rogério Duprat
 .end
 
-Goodbye Maria Fulô—fulô being a corruption of "flor," meaning flower. Goodbye Mary Flower!
+*Goodbye Maria Fulô—fulô being a corruption of "flor," meaning flower. Goodbye Mary Flower!*
 
 [00:56] Goodbye, I'm going, my dear           // Adeus, vou-me embora, meu bem
 [00:59] Crying doesn't help anyone            // Chorar não ajuda ninguém
@@ -193,7 +193,7 @@ Goodbye Maria Fulô—fulô being a corruption of "flor," meaning flower. Goodby
 .arranger = Rogério Duprat
 .end
 
-"Baby," incredibly famous in the voice of Gal Costa, parodies the sort of upper-class, westernized culture that was on the rise at the time—where everyone needed to have ice cream, go to diners, and learn English.
+"Baby," incredibly famous in the voice of Gal Costa, parodies the sort of upper-class, westernized culture that was on the rise at the time, where everyone needed to have ice cream, go to diners, and learn English.
 
 [00:16] You                                    // Você
 [00:20] Need to know of the pool               // Precisa saber da piscina
@@ -286,7 +286,7 @@ Goodbye Maria Fulô—fulô being a corruption of "flor," meaning flower. Goodby
 .arranger = Rogério Duprat
 .end
 
-Now, "Bat Macumba," Macumba being a blanket term for the wide umbrella of Afro-Brazilian religions—often pejorative, though that's not the case here. Notice the shape that the lyrics make, and see if you can relate it to a pun on the song title about a certain masked vigilante.
+Now, "Bat Macumba," Macumba being a blanket term for the wide umbrella of Afro-Brazilian religions (often pejorative, though that's not the case here.) Notice the shape that the lyrics make, and see if you can relate it to a pun on the song title about a certain masked vigilante.
 
 [00:23] Bat Macumba ê ê, Bat Macumba obá //
 [00:29] Bat Macumba ê ê, Bat Macumba obá //
@@ -328,7 +328,7 @@ Now, "Bat Macumba," Macumba being a blanket term for the wide umbrella of Afro-B
 .arranger = Rogério Duprat
 .end
 
-*This song is in french, which I do not speak. See footnote [2] for the source for this translation. Thank you to @frenchrescue on YouTube!*
+*This song is in french, which I do not speak. See footnote[^2] for the source for this translation. Thank you to @frenchrescue on YouTube!*
 
 [00:18] The first happiness of the day        // Le premier bonheur du jour
 [00:23] It's a ribbon of sunshine             // C'est un ruban de soleil
@@ -459,8 +459,8 @@ Now, "Bat Macumba," Macumba being a blanket term for the wide umbrella of Afro-B
 # Footnotes
 
 <ul>
-  <li>[1]: Nowadays, only Sérgio Dias left of the original formation. Rita Lee was kicked out of the band in 1972 and unfortunately passed away in 2023, while Arnaldo Baptista left in 1973 due to issues with drug abuse (he is doing much better now.)</li>
-  <li>[2]: <a href="https://www.youtube.com/watch?v=nsOoltvk0sk">Le Premier Bonheur du Jour Translation by frenchrescue</a></li>
+[^1=Nowadays, only Sérgio Dias left of the original formation. Rita Lee was kicked out of the band in 1972 and unfortunately passed away in 2023, while Arnaldo Baptista left in 1973 due to issues with drug abuse (he is doing much better now!) Both of them led majorly successful solo careers.]
+[^2=<a href="https://www.youtube.com/watch?v=nsOoltvk0sk">Le Premier Bonheur du Jour Translation by frenchrescue</a>]
 </ul>
 
 ---

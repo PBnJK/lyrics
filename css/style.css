@@ -193,6 +193,15 @@ main {
   transition: var(--spoiler-fade-time);
 }
 
+.footnote-span:link {
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.footnote-span:visited {
+  color: var(--text-primary);
+}
+
 .meta {
   background-color: var(--bg-secondary);
 
