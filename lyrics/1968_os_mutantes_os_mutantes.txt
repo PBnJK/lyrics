@@ -169,7 +169,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [01:30] Goodbye, I'm going, Maria             // Adeus, vou-me embora, Maria
 [01:33] Flower of my heart                    // Fulô do meu coração
 [01:36] I'll come back someday                // Eu voltarei qualquer dia
-[01:38] It need only rain in the badlands     // É só chover no sertão
+[01:38] It need only rain in the backlands    // É só chover no sertão
 [01:41] And the days until my return          // E os dias da minha volta
 [01:44] I count on my hand                    // Eu conto na minha mão
 [pause]

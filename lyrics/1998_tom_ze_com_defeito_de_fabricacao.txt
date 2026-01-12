@@ -538,7 +538,7 @@ On the back cover, Tom Zé wrote a small "essay" explaining the main composition
 .end
 
 [02:40] I saw a blind man reading the strings of the guitar    // Eu vi o cego lendo a corda da viola
-[02:42] Two blind men in a duel in the badlands                // Cego com cego no duelo do sertão
+[02:42] Two blind men in a duel in the backlands               // Cego com cego no duelo do sertão
 [02:44] I saw a blind man tying the snake up in a {A "tight knot" in Portuguese is also called a "blind knot"=tight knot} // Eu vi o cego dando nó cego na cobra
 [02:47] I saw a blind man stuck in the birdcage of vision      // Vi cego preso na gaiola da visão
 [02:49] Blackbird flying very far away                         // Pássaro preto voando pra muito longe

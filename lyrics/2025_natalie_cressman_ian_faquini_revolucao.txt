@@ -321,27 +321,27 @@ A "Moda de Viola" is a traditional Brazilian style of music, sung by two people 
 .en_title = Revolution
 .end
 
-[00:11] Dreamed of the breeze                     // Sonhava a viração
-[00:14] Turned into a sailor                      // Virava marinheiro
-[00:17] Of the soft tide                          // Da maré macia
-[00:20] Wind as his helmsman                      // Vento timoneiro
-[00:24] Invented dunes with his body aflame       // Inventava dunas com o corpo em brasa
+[00:11] Dreamed of the breeze                      // Sonhava a viração
+[00:14] Turned into a sailor                       // Virava marinheiro
+[00:17] Of the soft tide                           // Da maré macia
+[00:20] Wind as his helmsman                       // Vento timoneiro
+[00:24] Invented dunes with his body aflame        // Inventava dunas com o corpo em brasa
 [pause]
-[00:33] The sun was uncovered                     // Desencobria o sol
-[00:36] A washerwoman appeared                    // Surgia lavadeira
-[00:39] Of metal, basin                           // Do metal, bacia
-[00:42] Gold in the sieve                         // Ouro na peneira
-[00:45] A crystal in the eyes of Our Lady         // Um cristal nos olhos de Nossa Senhora
+[00:33] The sun was uncovered                      // Desencobria o sol
+[00:36] A washerwoman appeared                     // Surgia lavadeira
+[00:39] Of metal, basin                            // Do metal, bacia
+[00:42] Gold in the sieve                          // Ouro na peneira
+[00:45] A crystal in the eyes of Our Lady          // Um cristal nos olhos de Nossa Senhora
 [pause]
-[00:55] And fought to be                          // E se danava a ser
-[00:58] Even if he died, he wouldn't die          // Podia até morrer, que não morria
-[01:05] If a single grain was moved               // Se se movia um grão
-[01:08] Revolution smiled at him                  // Era a revolução que lhe sorria
+[00:55] And fought to be                           // E se danava a ser
+[00:58] Even if he died, he wouldn't die           // Podia até morrer, que não morria
+[01:05] If a single grain was moved                // Se se movia um grão
+[01:08] Revolution smiled at him                   // Era a revolução que lhe sorria
 [pause]
-[01:16] Every now and again then                  // De vez em quando então
-[01:19] It rained in the badlands because it felt // Chovia no sertão porque sentia
-[01:27] As if poetry was the flour                // Que a poesia era a farinha
-[01:34] The bread, word and prayer                // O pão, palavra e oração
+[01:16] Every now and again then                   // De vez em quando então
+[01:19] It rained in the backlands because it felt // Chovia no sertão porque sentia
+[01:27] As if poetry was the flour                 // Que a poesia era a farinha
+[01:34] The bread, word and prayer                 // O pão, palavra e oração
 [instrumental]
 [!whole thing repeats//música inteira repete]
 
