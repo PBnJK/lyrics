@@ -9,7 +9,7 @@
 <img src="assets/covers/1972_milton_nascimento_lo_borges_clube_da_esquina.jpg" width="400" alt="Clube da Esquina album cover, depicting two young boys sitting by the road" />
 = As iconic a cover art as they come
 
-On a street corner in the city of Belo Horizonte, Milton Nascimento, the Borges Brothers and other local artists started a sort of informal "club," appropriately nicknamed the "Clube da Esquina" (Corner Club,) where they would talk, create and play music.
+On a street corner in the Brazilian city of Belo Horizonte, Milton Nascimento, the Borges Brothers, and other local artist friends started a sort of informal "club," appropriately nicknamed the "Clube da Esquina" (Corner Club,) where they would talk, create, and play music, this record being the culmination of their efforts. The diverse cast of musicians meant the album would take from a wide range of influences,
 
 <img src="assets/band_members/clube_da_esquina.jpg" width="600" alt="The Clube da Esquina, sitting on a bench: Lô Borges, Fernando Brandt, Márcio Borges, and Milton Nascimento. Ex-president of Brazil Juscelino Kubitscheck is also there, looking very serious in a black suit and tie" />
 = The "Clube da Esquina." From left to right: Lô Borges, Fernando Brandt, Ex-president of Brazil Juscelino Kubitscheck (not part of the group,) Márcio Borges, and Milton Nascimento
@@ -129,7 +129,7 @@ On a street corner in the city of Belo Horizonte, Milton Nascimento, the Borges 
 [00:36] Whatever you dance, I'll dance with you                   // Eu danço com você o que você dançar
 [pause]
 [00:48] If you let the sun shine on your green hair               // Se você deixar o sol bater nos seus cabelos verdes
-[00:56] Sun, {Might also just be "serene," as in "serene sun." "Sereno" is a common way to refer to dew, however, So I went with that=dew}, gold and silver // Sol, sereno, ouro e prata
+[00:56] Sun, dew, gold and silver                                 // Sol, sereno, ouro e prata
 [01:01] Come out and follow me                                    // Sai e vem comigo
 [01:04] Sun, seed, past midnight                                  // Sol, semente, madrugada
 [01:08] I live in any part of your heart                          // Eu vivo em qualquer parte do seu coração

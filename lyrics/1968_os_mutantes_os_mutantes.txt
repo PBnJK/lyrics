@@ -9,7 +9,7 @@
 <img src="assets/covers/1968_os_mutantes_os_mutantes.jpg" width="400" alt="Os Mutantes cover art, depicting Arnaldo Baptista, Rita Lee, Sérgio Dias" />
 = Arnaldo Baptista, Rita Lee, and Sérgio Dias
 
-Os Mutantes (The Mutants) is[^1] a band started in 1966, during the height of the Tropicália movement, which sought to mix popular Brazilian musical tradition with more avant-garde, foreign styles. In this line, their 1968 self-titled debut album is a hodgepodge of influences, from The Beatles to Jimi Hendrix, Baião, and African percussion, all backed by a generous heap of unconventional instrumentation and abstract lyricism.
+Os Mutantes (The Mutants) is[^1] a band started in 1966, during the height of the Tropicália movement, which sought to mix popular Brazilian musical tradition with more avant-garde, foreign styles. In this line, their 1968 self-titled debut album is a hodgepodge of influences, from The Beatles to Jimi Hendrix, Baião, and African percussion, all backed by a generous heap of unconventional instrumentation and abstract lyricism, jumping between songs of love and critiques of the military dictatorship.
 
 <img src="assets/band_members/1969_os_mutantes.jpg" width="400" alt="Os Mutantes playing live, wearing frankly ridiculous clothes. Arnaldo Baptista plays the bass, wearing a suit dotted with shiny jewels, bow tie, top hat and canvas pants. Rita Lee holds cymbals and wears a long puff-sleeved wedding dress and tiara. Sérgio Dias plays his golden guitar and, appropriately, is dressed in a shiny patterned coat, as well as a striped sweatband and zebra stripe pants." />
 = By some definition "stylish"
@@ -23,7 +23,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 .arranger = Rogério Duprat
 .end
 
-*Based in part on the English version released on their "Tecnicolor" album*
+*Based in part on the English version released on their "Tecnicolor" album.*
 
 [00:22] I wanted to sing, my song lighted by the sun      // Que eu quis cantar minha canção iluminada de sol
 [00:28] I drew the flags over the sticks of the wind      // Soltei os panos sobre os mastros no ar
@@ -32,7 +32,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [00:41] Are too busy living and dying                     // São ocupadas em nascer e morrer
 [pause]
 [00:51] I had a dagger of pure shiny steel made           // Mandei fazer de puro aço luminoso um punhal
-[00:58] To kill my love and so I did                      // Para matar o meu amor e matei
+[00:58] To kill my love and I did                         // Para matar o meu amor e matei
 [01:02] At five o' clock on the Central Avenue            // Às cinco horas na Avenida Central
 [01:06] But all the people in the dining room             // Mas as pessoas na sala de jantar
 [01:10] Are too busy living and dying                     // São ocupadas em nascer e morrer
@@ -41,7 +41,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [01:27] The leaves know how to search for the sun         // As folhas sabem procurar pelo Sol
 [01:31] And the roots to search, search                   // E as raízes procurar, procurar
 [01:35] But all the people in the dining room             // Mas as pessoas na sala de jantar
-[01:39] Are busy living and dying                         // Essas pessoas da sala de jantar
+[01:39] These people in the dining room                   // Essas pessoas da sala de jantar
 [pause]
 [01:43] They're the people in the dining room             // São as pessoas da sala de jantar
 [01:47] But all the people in the dining room             // Mas as pessoas na sala de jantar
@@ -69,50 +69,50 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 .arranger = Rogério Duprat
 .end
 
-[00:00] — Cough, everybody coughing!                  // — Tosse, todo mundo tossindo!
-[00:01] — Ha ha ha ha!                                // — Ha ha ha ha!
+[00:00] — Cough, everybody coughing!                     // — Tosse, todo mundo tossindo!
+[00:01] — Ha ha ha ha!                                   // — Ha ha ha ha!
 [pause]
-[00:23] She's my girl                                 // Ela é minha menina
-[00:29] And I'm her boy                               // E eu sou o menino dela
-[00:34] She's my love                                 // Ela é o meu amor
-[00:40] And I'm her love, entirely hers               // E eu sou o amor todinho dela
+[00:23] She's my girl                                    // Ela é minha menina
+[00:29] And I'm her boy                                  // E eu sou o menino dela
+[00:34] She's my love                                    // Ela é o meu amor
+[00:40] And I'm her love, entirely hers                  // E eu sou o amor todinho dela
 [pause]
-[00:45] Come on, huh!                                 // Chama, hu!
-[00:47] The silver moon went away                     // A lua prateada se escondeu
-[00:52] And the golden sun appeared                   // E o sol dourado apareceu
-[00:58] A new day dawned, smelling of joy             // Amanheceu um lindo dia, cheirando alegria
-[01:05] Because I dreamed and woke up thinking of her // Pois eu sonhei e acordei pensando nela
+[00:45] Come on, huh!                                    // Chama, hu!
+[00:47] The silver moon hid away                         // A lua prateada se escondeu
+[00:52] And the golden sun appeared                      // E o sol dourado apareceu
+[00:58] A new day dawned, smelling of joy                // Amanheceu um lindo dia, cheirando alegria
+[01:05] Because I dreamed and woke up thinking about her // Pois eu sonhei e acordei pensando nela
 [pause]
-[01:12] Because she's my girl                         // Pois ela é minha menina
-[01:18] And I'm her boy                               // E eu sou o menino dela
-[01:22] She's my love                                 // Ela é o meu amor
-[01:29] And I'm her love, entirely hers               // E eu sou o amor todinho dela
+[01:12] Because she's my girl                            // Pois ela é minha menina
+[01:18] And I'm her boy                                  // E eu sou o menino dela
+[01:22] She's my love                                    // Ela é o meu amor
+[01:29] And I'm her love, entirely hers                  // E eu sou o amor todinho dela
 [pause]
-[01:39] The rosebush's already bloomed                // A roseira já deu rosas
-[01:44] And the rose I earned was her                 // E a rosa que eu ganhei foi ela
-[01:50] For her I let my heart get in front of reason // Por ela eu ponho o meu coração na frente da razão
-[01:56] And I'll tell everyone how much I like her    // E vou dizer pra todo mundo como gosto dela
+[01:39] The rosebush has already sprouted roses          // A roseira já deu rosas
+[01:44] And the rose I earned was her                    // E a rosa que eu ganhei foi ela
+[01:50] For her, I let my heart get in front of reason   // Por ela eu ponho o meu coração na frente da razão
+[01:56] And I'll tell everyone how much I like her       // E vou dizer pra todo mundo como gosto dela
 [pause]
-[02:04] Because she's my girl                         // Pois ela é minha menina
-[02:10] And I'm her boy                               // E eu sou o menino dela
-[02:15] She's my love                                 // Ela é o meu amor
-[02:21] And I'm her love, entirely hers               // E eu sou o amor todinho dela
+[02:04] Because she's my girl                            // Pois ela é minha menina
+[02:10] And I'm her boy                                  // E eu sou o menino dela
+[02:15] She's my love                                    // Ela é o meu amor
+[02:21] And I'm her love, entirely hers                  // E eu sou o amor todinho dela
 [pause]
-[02:26] Uh! (Go, Jorge!)                              // Uh! (Vai, Jorge!)
-[03:08] The silver moon went away                     // A lua prateada se escondeu
-[03:14] And the golden sun appeared                   // E o sol dourado apareceu
-[03:19] A new day dawned, smelling of joy             // Amanheceu um lindo dia, cheirando alegria
-[03:26] Because I dreamed and woke up thinking of her // Pois eu sonhei e acordei pensando nela
+[02:26] Uh! (Go, Jorge!)                                 // Uh! (Vai, Jorge!)
+[03:08] The silver moon hid away                         // A lua prateada se escondeu
+[03:14] And the golden sun appeared                      // E o sol dourado apareceu
+[03:19] A new day dawned, smelling of joy                // Amanheceu um lindo dia, cheirando alegria
+[03:26] Because I dreamed and woke up thinking about her // Pois eu sonhei e acordei pensando nela
 [pause]
-[03:33] Because she's my girl                         // Pois ela é minha menina
-[03:39] And I'm her boy                               // E eu sou o menino dela
-[03:44] She's my love                                 // Ela é o meu amor
-[03:50] And I'm her love, entirely hers               // E eu sou o amor todinho dela
+[03:33] Because she's my girl                            // Pois ela é minha menina
+[03:39] And I'm her boy                                  // E eu sou o menino dela
+[03:44] She's my love                                    // Ela é o meu amor
+[03:50] And I'm her love, entirely hers                  // E eu sou o amor todinho dela
 [pause]
-[03:56] My girl, my girl                              // Minha menina, minha menina
-[04:09] My girl, my girl                              // Minha menina, minha menina
-[04:13] My girl, my girl                              // Minha menina, minha menina
-[04:20] My girl, my girl                              // Minha menina, minha menina
+[03:56] My girl, my girl                                 // Minha menina, minha menina
+[04:09] My girl, my girl                                 // Minha menina, minha menina
+[04:13] My girl, my girl                                 // Minha menina, minha menina
+[04:20] My girl, my girl                                 // Minha menina, minha menina
 
 .title = O Relógio
 .en_title = The Watch
@@ -132,7 +132,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [00:57] Of your arrival                 // De você chegar
 [pause]
 [01:07] It didn't run and I cried       // Não andou e eu chorei
-[01:13] Two still hands laughing        // Dois ponteiros parados a rir
+[01:13] Two still hands, laughing       // Dois ponteiros parados a rir
 [01:19] They're waterproof              // São à prova d'água
 [01:23] Twenty two jewels               // Vinte e dois rubis
 [pause]
@@ -156,35 +156,35 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 
 *Goodbye Maria Fulô—fulô being a corruption of "flor," meaning flower. Goodbye Mary Flower!*
 
-[00:56] Goodbye, I'm going, my dear           // Adeus, vou-me embora, meu bem
-[00:59] Crying doesn't help anyone            // Chorar não ajuda ninguém
-[01:02] Wipe your tears of pain               // Enxugue o seu pranto de dor
+[00:56] Goodbye, I'm going, my dear            // Adeus, vou-me embora, meu bem
+[00:59] Crying doesn't help anyone             // Chorar não ajuda ninguém
+[01:02] Wipe your tears of pain                // Enxugue o seu pranto de dor
 [01:04] For the {Droughts are a recurring motif in the music of the Brazilian Northeast, where they are an unfortunate reality, and is very commonly paired with the themes of migration and leaving behind loved ones. Sivuca, the composer, hails from the Northeast=drought} has only just started // Que a seca mal começou
 [pause]
-[01:13] Goodbye, I'm going, my dear           // Adeus, vou-me embora, meu bem
-[01:16] Crying doesn't help anyone            // Chorar não ajuda ninguém
-[01:18] Wipe your tears of pain               // Enxugue o seu pranto de dor
-[01:21] For the drought has only just started // Que a seca mal começou
+[01:13] Goodbye, I'm going, my dear            // Adeus, vou-me embora, meu bem
+[01:16] Crying doesn't help anyone             // Chorar não ajuda ninguém
+[01:18] Wipe your tears of pain                // Enxugue o seu pranto de dor
+[01:21] For the drought has only just started  // Que a seca mal começou
 [pause]
-[01:30] Goodbye, I'm going, Maria             // Adeus, vou-me embora, Maria
-[01:33] Flower of my heart                    // Fulô do meu coração
-[01:36] I'll come back someday                // Eu voltarei qualquer dia
-[01:38] It need only rain in the backlands    // É só chover no sertão
-[01:41] And the days until my return          // E os dias da minha volta
-[01:44] I count on my hand                    // Eu conto na minha mão
+[01:30] Goodbye, I'm going, Maria              // Adeus, vou-me embora, Maria
+[01:33] Flower of my heart                     // Fulô do meu coração
+[01:36] I'll come back someday                 // Eu voltarei qualquer dia
+[01:38] It just needs to rain in the backlands // É só chover no sertão
+[01:41] And the days until my return           // E os dias da minha volta
+[01:44] I count on my hand                     // Eu conto na minha mão
 [pause]
-[01:47] Goodbye Maria Fulô                    // Adeus, Maria Fulô
-[01:50] The quince tree dried out             // Marmeleiro amarelou
-[01:53] Goodbye Maria Fulô                    // Adeus, Maria Fulô
-[01:56] The water spring ran dry              // Olho d'água esturricou
+[01:47] Goodbye Maria Fulô                     // Adeus, Maria Fulô
+[01:50] The quince tree dried out              // Marmeleiro amarelou
+[01:53] Goodbye Maria Fulô                     // Adeus, Maria Fulô
+[01:56] The water spring ran dry               // Olho d'água esturricou
 [pause]
-[02:04] Goodbye, I'm going, my dear           // Adeus, vou-me embora, meu bem
-[02:07] Crying doesn't help anyone            // Chorar não ajuda ninguém
-[02:10] Wipe your tears of pain               // Enxugue seu pranto de dor
-[02:12] For the drought has only just started // Que a seca mal começou
-[02:18] For the drought has only just started // Que a seca mal começou
-[02:23] For the drought has only just started // Que a seca mal começou
-[02:29] For the drought has only just started // Que a seca mal começou
+[02:04] Goodbye, I'm going, my dear            // Adeus, vou-me embora, meu bem
+[02:07] Crying doesn't help anyone             // Chorar não ajuda ninguém
+[02:10] Wipe your tears of pain                // Enxugue seu pranto de dor
+[02:12] For the drought has only just started  // Que a seca mal começou
+[02:18] For the drought has only just started  // Que a seca mal começou
+[02:23] For the drought has only just started  // Que a seca mal começou
+[02:29] For the drought has only just started  // Que a seca mal começou
 
 .title = Baby
 .en_title = Baby
@@ -193,11 +193,11 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 .arranger = Rogério Duprat
 .end
 
-"Baby," incredibly famous in the voice of Gal Costa, parodies the sort of upper-class, westernized culture that was on the rise at the time, where everyone needed to have ice cream, go to diners, and learn English.
+||"Baby," famous in the voice of Gal Costa, parodies the upper-class, westernized culture that was on the rise at the time of its writing, a consequence of the dictatorship's push for "modernization."||
 
 [00:16] You                                    // Você
 [00:20] Need to know of the pool               // Precisa saber da piscina
-[00:23] Of margarine, of {Reference to the song "Carolina," by Chico Buarque=Carolina}, of gasoline // Da margarina, da Carolina, da gasolina
+[00:23] Of margarine, of Carolina, of gasoline // Da margarina, da Carolina, da gasolina
 [00:30] You need to know about me              // Você precisa saber de mim
 [pause]
 [00:40] Baby, baby                             // Baby, baby
@@ -209,7 +209,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [01:01] Need to have an ice cream              // Precisa tomar um sorvete
 [01:04] In the diner                           // Na lanchonete
 [01:06] Walk with us, see me up close          // Andar com gente, me ver de perto
-[01:11] Listen to that {Roberto Carlos, highly influential heartthrob musician, dubbed "The King"—full stop.=Roberto} song // Ouvir aquela canção do Roberto
+[01:11] Listen to that {Roberto Carlos, highly influential heartthrob musician, dubbed "The King."=Roberto} song // Ouvir aquela canção do Roberto
 [pause]
 [01:21] Baby, baby                             // Baby, baby
 [01:26] How long has it been                   // Há quanto tempo
@@ -250,8 +250,8 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [00:05] Mr. F                                         // O Senhor F
 [00:08] Dreams of being                               // Vive a querer
 [00:11] Mr. X                                         // Ser Senhor X
-[00:14] But is afraid of never getting                // Mas tem medo de nunca voltar
-[00:17] To be Mr. F again                             // A ser o Senhor F outra vez
+[00:14] But is afraid of never going back             // Mas tem medo de nunca voltar
+[00:17] To being Mr. F again                          // A ser o Senhor F outra vez
 [pause]
 [00:21] Mr. X                                         // O Senhor X
 [00:25] Is the hero (X)                               // É o herói (X)
@@ -260,7 +260,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [00:34] And makes Mr. F dream                         // E faz o Senhor F sonhar
 [pause]
 [00:38] Dream of having                               // Sonhar em ter
-[00:41] So the others can see                         // Pros outros ver
+[00:41] For the others to see                         // Pros outros ver
 [00:45] Blue eyes                                     // Olhos azuis
 [00:48] A car just like Mr. X                         // Ter um carro igual ao de X
 [00:52] And winning over the boss' wife               // E conquistar a mulher do patrão
@@ -286,7 +286,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 .arranger = Rogério Duprat
 .end
 
-Now, "Bat Macumba," Macumba being a blanket term for the wide umbrella of Afro-Brazilian religions (often pejorative, though that's not the case here.) Notice the shape that the lyrics make, and see if you can relate it to a pun on the song title about a certain masked vigilante.
+||Now, for "Bat Macumba," Macumba being a blanket term for the wide umbrella of Afro-Brazilian religions (often pejorative, though that's not the case here.) Notice the shape that the lyrics make, and see if you can relate it to a pun on the song title about a certain masked vigilante.||
 
 [00:23] Bat Macumba ê ê, Bat Macumba obá //
 [00:29] Bat Macumba ê ê, Bat Macumba obá //
@@ -362,14 +362,14 @@ Now, "Bat Macumba," Macumba being a blanket term for the wide umbrella of Afro-B
 [00:31] From the ticket booth                                     // Da mão do bilheteiro
 [00:34] Admissions to the ghost train                             // As entradas do trem fantasma
 [pause]
-[00:39] He and his girlfriend                                     // Ele e a namorada
+[00:39] Him and his girlfriend                                    // Ele e a namorada
 [00:43] He doesn't think of anything                              // Ele não pensa em nada
 [00:46] She gets scared                                           // Ela fica assustada
 [pause]
-[00:51] Four hundred cruzeiros of {Like in "horse power"=power}   // Quatrocentos cruzeiros de força
+[00:51] Four hundred cruzeiros of {Like in "horsepower"=power}    // Quatrocentos cruzeiros de força
 [00:55] Drag the young man and the lady                           // Arrastam o rapaz e a moça
-[00:59] To their seat in                                          // Para o lugar em
-[01:01] Shiny Cinemascope                                         // Cinemascope brilhante
+[00:59] To the place in                                           // Para o lugar em
+[01:01] Shiny CinemaScope                                         // CinemaScope brilhante
 [pause]
 [01:06] The giant mountain                                        // A montanha gigante
 [01:08] Of green generals                                         // De generais verdejantes
@@ -381,7 +381,7 @@ Now, "Bat Macumba," Macumba being a blanket term for the wide umbrella of Afro-B
 [pause]
 [01:38] Four hundred cruzeiros                                    // Quatrocentos cruzeiros
 [01:42] Four hundred bats of power                                // Quatrocentos morcegos de força
-[01:47] The kiss, the young man and the lady                      // O beijo, o rapaz e a moça
+[01:47] The kiss, the young man, and the lady                     // O beijo, o rapaz e a moça
 [pause]
 [01:51] The underwater train                                      // O trem dentro d'água
 [01:53] The still pool                                            // A piscina parada
@@ -391,16 +391,16 @@ Now, "Bat Macumba," Macumba being a blanket term for the wide umbrella of Afro-B
 [pause]
 [02:09] The first kiss                                            // O primeiro beijo
 [02:12] Four hundred cruzeiros                                    // Quatrocentos cruzeiros
-[02:16] Joe forty {As in horse power=HP}s of thrills              // Zé quarenta HP's de emoção
+[02:16] Joe forty {As in horsepower=HP}s of thrills               // Zé quarenta HPs de emoção
 [pause]
-[02:20] {Famous movie character, an amoral undertaker=Coffin Joe} // O Zé do Caixão
+[02:20] {Famous movie character, an undertaker=Coffin Joe}        // O Zé do Caixão
 [02:23] Brings the creatures of creation                          // Traz os bichos da criação
 [02:29] To the gate and—                                          // Até o portão e—
 [pause]
 [02:33] The session's over                                        // Terminou a sessão
 [02:36] Four hundred cruzeiros                                    // Quatrocentos cruzeiros
 [02:39] Old men buy, frightened                                   // Velhos compram com medo
-[02:42] He and his girlfriend                                     // Ele e a namorada
+[02:42] Him and his girlfriend                                    // Ele e a namorada
 [02:46] She doesn't think of anything                             // Ela não pensa em nada
 [02:50] He secretly thinks                                        // Ele pensa em segredo
 [02:54] He secretly thinks                                        // Ele pensa em segredo
@@ -417,29 +417,29 @@ Now, "Bat Macumba," Macumba being a blanket term for the wide umbrella of Afro-B
 
 *Cover of "Once Was a Time I Thought" by "The Mamas & The Papas."*
 
-[00:00] Hallelujah                                                                 // Aleluia
-[00:11] I want to be with my Lord                                                  // Eu quero estar com meu Senhor
+[00:00] Hallelujah                                                                    // Aleluia
+[00:11] I want to be with my Lord                                                     // Eu quero estar com meu Senhor
 [pause]
-[00:28] There's always a time in time where the body of man rots                   // Há sempre um tempo no tempo em que o corpo do homem apodrece
-[00:32] And his tired, sorrowful soul sinks into the ground                        // E sua alma cansada, penada, se afunda no chão
+[00:28] There's always a time in time where the body of man rots                      // Há sempre um tempo no tempo em que o corpo do homem apodrece
+[00:32] And his tired, sorrowful soul sinks into the ground                           // E sua alma cansada, penada, se afunda no chão
 [pause]
-[00:35] {It's just some random stuff that rhyme, it doesn't make too much sense in Portuguese either=And the wizard of luxury, like a friar, crying on a shelf sycophant, of trash} // E o bruxo do luxo baixado o capucho chorando num nicho capacho do lixo
-[00:40] Whims will not be coming back                                              // Caprichos não mais voltarão
+[00:35] And the wizard of luxury, like a friar, crying on a shelf, sycophant of trash // E o bruxo do luxo baixado o capucho chorando num nicho capacho do lixo
+[00:40] Whims will not be coming back                                                 // Caprichos não mais voltarão
 [pause]
-[00:42] There once was time where time stopped passing by                          // Já houve um tempo em que o tempo parou de passar
-[00:47] And the so-called homo sapiens didn't know how to harness it               // E um tal de homo sapiens não soube disso aproveitar
+[00:42] There once was time where time stopped passing by                             // Já houve um tempo em que o tempo parou de passar
+[00:47] And the so-called homo sapiens didn't know how to harness it                  // E um tal de homo sapiens não soube disso aproveitar
 [pause]
-[00:51] Crying, smiling, talking about shutting up                                 // Chorando, sorrindo, falando em calar
-[00:54] Thinking of thinking when time stops passing by                            // Pensando em pensar quando o tempo parar de passar
+[00:51] Crying, smiling, talking about shutting up                                    // Chorando, sorrindo, falando em calar
+[00:54] Thinking of thinking once time stops passing by                               // Pensando em pensar quando o tempo parar de passar
 [pause]
-[00:58] There's always a time in time where the body of man rots                   // Há sempre um tempo no tempo em que o corpo do homem apodrece
-[01:01] And his tired, sorrowful soul sinks into the ground                        // E sua alma cansada, penada, se afunda no chão
+[00:58] There's always a time in time where the body of man rots                      // Há sempre um tempo no tempo em que o corpo do homem apodrece
+[01:01] And his tired, sorrowful soul sinks into the ground                           // E sua alma cansada, penada, se afunda no chão
 [pause]
 [01:05] And the wizard of luxury, like a friar, crying on a shelf, sycophant of trash // E o bruxo do luxo baixado o capucho chorando num nicho capacho do lixo
-[01:10] Whims will not be coming back                                              // Caprichos não mais voltarão
+[01:10] Whims will not be coming back                                                 // Caprichos não mais voltarão
 [pause]
-[01:12] But if between tears you find yourself and you think you're crying         // Mas se entre lágrimas você se achar e pensar que está a chorar
-[01:19] This was the time in which time is                                         // Este era o tempo em que o tempo é
+[01:12] But if between tears you find yourself and you think you're crying            // Mas se entre lágrimas você se achar e pensar que está a chorar
+[01:19] This was the time in which time is                                            // Este era o tempo em que o tempo é
 
 .title = Ave Gengis Khan
 .en_title = Hail Gengis Khan
@@ -459,7 +459,7 @@ Now, "Bat Macumba," Macumba being a blanket term for the wide umbrella of Afro-B
 # Footnotes
 
 <ul>
-[^1=Nowadays, only Sérgio Dias is left of the original formation. Rita Lee was kicked out of the band in 1972 and unfortunately passed away in 2023, while Arnaldo Baptista left in 1973 due to issues with drug abuse (he is doing much better now!) Both of them led successful solo careers.]
+[^1=Nowadays, only Sérgio Dias is left of the original formation. Rita Lee was kicked out of the band in 1972 and unfortunately passed away in 2023, while Arnaldo Baptista left in 1973 due to issues with drug abuse (he is doing much better now!) Both of them led successful solo careers, with Rita Lee often being called the Brazilian "Queen of Rock."]
 [^2=<a href="https://www.youtube.com/watch?v=nsOoltvk0sk">Le Premier Bonheur du Jour Translation by frenchrescue</a>]
 </ul>
 
