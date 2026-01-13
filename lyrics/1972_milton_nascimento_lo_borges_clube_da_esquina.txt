@@ -9,10 +9,12 @@
 <img src="assets/covers/1972_milton_nascimento_lo_borges_clube_da_esquina.jpg" width="400" alt="Clube da Esquina album cover, depicting two young boys sitting by the road" />
 = As iconic a cover art as they come
 
-On a street corner in the Brazilian city of Belo Horizonte, Milton Nascimento, the Borges Brothers, and other local artist friends started a sort of informal "club," appropriately nicknamed the "Clube da Esquina" (Corner Club,) where they would talk, create, and play music, this record being the culmination of their efforts. The diverse cast of musicians meant the album would take from a wide range of influences,
+On a street corner in the Brazilian city of Belo Horizonte, Milton Nascimento, the Borges Brothers, and other local artist friends started a sort of informal "club," appropriately nicknamed the "Clube da Esquina" (Corner Club,) where they would talk, create, and play music. This double album is the culmination of their musical efforts, being widely considered one of the greatest Brazilian albums of all time.
 
 <img src="assets/band_members/clube_da_esquina.jpg" width="600" alt="The Clube da Esquina, sitting on a bench: Lô Borges, Fernando Brandt, Márcio Borges, and Milton Nascimento. Ex-president of Brazil Juscelino Kubitscheck is also there, looking very serious in a black suit and tie" />
-= The "Clube da Esquina." From left to right: Lô Borges, Fernando Brandt, Ex-president of Brazil Juscelino Kubitscheck (not part of the group,) Márcio Borges, and Milton Nascimento
+= The "Clube da Esquina." From left to right: Lô Borges, Fernando Brandt, Ex-president of Brazil Juscelino Kubitscheck (not part of the club,) Márcio Borges, and Milton Nascimento
+
+Being released while Brazil was ruled by a military dictatorship and during the resulting westernization, the record borrows from a wide range of influences, from Chopin and the Beatles to samba and other Brazilian popular music, while also subtly using its lyrics to criticize the regime. The resulting sound is a beautiful, psychedelic, folk-infused pop trip.
 
 .title = Tudo Que Você Podia Ser
 .en_title = Everything That You Could Ever Be
@@ -54,7 +56,7 @@ On a street corner in the Brazilian city of Belo Horizonte, Milton Nascimento, t
 [00:09] I invent more than what loneliness gives me // Invento mais que a solidão me dá
 [00:17] I invent a shining new moon                 // Invento lua nova a clarear
 [00:24] I invent love                               // Invento o amor
-[00:27] And I know the pain of throwing myself off  // E sei a dor de me lançar
+[00:27] And I know the pain of launching off        // E sei a dor de me lançar
 [pause]
 [00:39] I wanted to be happy                        // Eu queria ser feliz
 [00:45] I invent the sea                            // Invento o mar
@@ -65,7 +67,7 @@ On a street corner in the Brazilian city of Belo Horizonte, Milton Nascimento, t
 [01:11] I have the path to what I've always wanted  // Tenho o caminho do que sempre quis
 [01:17] And a boat ready to set sail                // E um saveiro pronto pra partir
 [01:25] I invent the pier                           // Invento o cais
-[01:29] And know the time to throw myself off       // E sei a vez de me lançar
+[01:29] And know the time to launch off             // E sei a vez de me lançar
 
 .title = O Trem Azul
 .en_title = The Blue Train
@@ -124,7 +126,7 @@ On a street corner in the Brazilian city of Belo Horizonte, Milton Nascimento, t
 [00:16] If you want, I'll dance with you                          // Se você quiser, eu danço com você
 [00:21] On the dust of the road                                   // No pó da estrada
 [00:24] Powder, dust, wind                                        // Pó, poeira, ventania
-[00:28] If you put your foot on the road                          // Se você soltar o pé na estrada
+[00:28] If you let your feet loose on the road                    // Se você soltar o pé na estrada
 [00:34] Powder, dust                                              // Pó, poeira
 [00:36] Whatever you dance, I'll dance with you                   // Eu danço com você o que você dançar
 [pause]
@@ -205,7 +207,7 @@ On a street corner in the Brazilian city of Belo Horizonte, Milton Nascimento, t
 .composer = Carmelo Larrea
 .end
 
-*This is a cover of a bolero composed by Carmelo Larrea, being sung in Spanish rather than Portuguese. Although both languages are somewhat similar, they're not similar enough for me to feel confident doing a full translation. As such, this is adapted from another translation I found on the internet, which I've linked to at the bottom of this page.*
+*This is a cover of a bolero composed by Carmelo Larrea, being sung in Spanish rather than Portuguese. Although both languages are somewhat similar, they're not similar enough for me to feel confident doing a full translation. As such, this is adapted from another translation I found on the internet[^1].*
 
 [00:01] Sevilla had to be                // Sevilla tuvo que ser
 [00:11] With its little silver moon      // Con su lunita plateada
@@ -292,7 +294,7 @@ On a street corner in the Brazilian city of Belo Horizonte, Milton Nascimento, t
 .composer = Fernando Brant, Milton Nascimento
 .end
 
-|São Vicente was the first village founded in Brazil, and also where the first election on the entire American continent was run. For this reason, it is considered by some to be the "berth of American democracy."<br/><br/>Its port also received one of the greatest influxes of slaves via the Transatlantic Slave Trade.|
+|São Vicente was the first village founded in Brazil, and also where the first election on the entire American continent was run.<br/>Its port also received one of the greatest influxes of slaves via the Transatlantic Slave Trade.|
 
 [00:01] American heart                      // Coração americano
 [00:05] I woke up from a strange dream      // Acordei de um sonho estranho
@@ -331,7 +333,7 @@ On a street corner in the Brazilian city of Belo Horizonte, Milton Nascimento, t
 [00:00] Dust on the night            // Poeira na noite
 [00:05] The celebration of night     // A festa da noite
 [00:09] Warrior, death star          // Guerreira, estrela da morte
-[00:16] Black party, love            // Festa negra, amor
+[00:16] Dark party, love             // Festa negra, amor
 [00:20] But it's late                // Mas é tarde
 
 .title = Clube da Esquina nº 2
@@ -539,7 +541,7 @@ On a street corner in the Brazilian city of Belo Horizonte, Milton Nascimento, t
 .composer = Lô Borges, Márcio Borges
 .end
 
-*No relation to the Ozzy Osbourne classic. Perhaps a better translation is "Crazy People Train"*
+*No relation to the Ozzy Osbourne classic. Perhaps a better translation is "Crazy People Train."*
 
 |The title of this song refers to the train that used to ferry people to the Barbacena Colonial Hospital, a psychiatric institution that became infamous due to its inhuman treatment of its patients. This incident is referred to by many as the "Brazilian Holocaust," not only due to the obvious parallels and the use of trains, but also for the fact that many of the "patients" of the hospital did not suffer from any mental disorders, but were instead simply alcoholics, beggars, unwanted children, political enemies, homosexuals, etc. It was thankfully shut down in the 80s and now functions as a museum.|
 
@@ -672,10 +674,17 @@ On a street corner in the Brazilian city of Belo Horizonte, Milton Nascimento, t
 
 ---
 
+# Footnotes
+
+<ul>
+[^1=<a href="https://www.lyricslayers.com/el-consorcio/1558603/english.html">"Dos Cruces" translation by LyricsLayers</a>]
+</ul>
+
+---
+
 # Sources
 
 <ul>
   <li>Song credits sourced from <a href="https://www.discogs.com/release/2422289-Milton-Nascimento-L%C3%B4-Borges-Clube-Da-Esquina">Discogs</a></li>
   <li>Synced lyrics sourced from <a href="https://lrclib.net">LRCLIB</a></li>
-  <li>Dos Cruces translation based on the work by <a href="https://www.lyricslayers.com/el-consorcio/1558603/english.html">LyricsLayers</a></li>
 </ul>
