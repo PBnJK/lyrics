@@ -83,6 +83,13 @@ const db = {
 		"year": "1986",
 		"search": "DoisDoisLegião Urbanalegião urbanaLegiao Urbanalegiao urbanaPost-punkpost-punkFolk Rockfolk rockJangle Popjangle popPunk Rockpunk rock1986",
 	},
+	"1964_stan_getz_joao_gilberto_getz_gilberto": {
+		"album": "Getz/Gilberto",
+		"artist": ["Stan Getz & João Gilberto"],
+		"genre": ["Bossa Nova", "Jazz"],
+		"year": "1964",
+		"search": "Getz/GilbertoGetz/GilbertoStan Getz & João Gilbertostan getz & joão gilbertoStan Getz & Joao Gilbertostan getz & joao gilbertoBossa Novabossa novaJazzjazz1964",
+	},
 	"1968_os_mutantes_os_mutantes": {
 		"album": "Os Mutantes",
 		"artist": ["Os Mutantes"],

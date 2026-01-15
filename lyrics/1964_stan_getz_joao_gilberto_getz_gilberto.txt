@@ -1,0 +1,250 @@
+.album_name = Getz/Gilberto
+.album_artist = Stan Getz & João Gilberto
+.album_genre = Bossa Nova, Jazz
+.album_year = 1964
+
+# Getz/Gilberto
+= Stan Getz & João Gilberto (1964)
+
+<img src="assets/covers/1964_stan_getz_joao_gilberto_getz_gilberto.jpg" width="400" alt="Cover for Getz/Gilberto, featuring an abstract painting, mostly in oranges, with yellow and black highlights." />
+= Featured in the cover art: <b>Alla Africa,</b> by Puerto Rican artist Olga Albizu
+
+.title = The Girl from Ipanema
+.artist = Stan Getz & João Gilberto, featuring Astrud Gilberto
+.composer = Antônio Carlos Jobim, Norman Gimbel & Vinicius de Moraes
+.end
+
+*Ipanema beach is a famous beach in the city of Rio de Janeiro.*
+
+
+[00:07] Look what a beautiful thing, so full of grace        // Olha que coisa mais linda, mais cheia de graça
+[00:12] She's the girl that comes and passes by              // É ela a menina que vem e que passa
+[00:16] With a sweet sway, on her way to the sea             // Num doce balanço a caminho do mar
+[pause]
+[00:22] Girl with her body golden from Ipanema's sun         // Moça do corpo dourado do sol de Ipanema
+[00:27] Her sway is more than a poem                         // O seu balançado é mais que um poema
+[00:31] It's the prettiest thing that I've ever seen pass by // É a coisa mais linda que eu já vi passar
+[pause]
+[00:37] Ah, why am I so alone?                               // Ah, por que estou tão sozinho?
+[00:44] Ah, why is everything so sad?                        // Ah, por que tudo é tão triste?
+[00:52] Ah, the beauty that exists                           // Ah, a beleza que existe
+[pause]
+[00:59] Beauty that is not just mine                         // A beleza que não é só minha
+[01:03] That also passes by alone                            // Que também passa sozinha
+[pause]
+[01:07] Ah, if she knew                                      // Ah, se ela soubesse
+[01:09] That when she passes by                              // Que quando ela passa
+[01:12] The world, smiling, is filled with grace             // O mundo sorrindo se enche de graça
+[01:15] And becomes prettier because of love                 // E fica mais lindo por causa do amor
+[pause]
+[01:21] Tall and tan and young and lovely                    // Tall and tan and young and lovely
+[01:25] The girl from Ipanema goes walking                   // The girl from Ipanema goes walking
+[01:29] And when she passes, each one she passes goes ah!    // And when she passes, each one she passes goes ah!
+[pause]
+[01:36] When she walks she's like a samba                    // When she walks she's like a samba
+[01:39] That swings so cool and sways so gently              // That swings so cool and sways so gently
+[01:43] That when she passes, each one she passes goes ah!   // That when she passes, each one she passes goes ah!
+[pause]
+[01:51] Oh, but he watches so sadly                          // Oh, but he watches so sadly
+[01:58] How can he tell her he loves her?                    // How can he tell her he loves her?
+[pause]
+[02:06] Yes, he would give his heart gladly                  // Yes, he would give his heart gladly
+[02:13] But each day when she walks to the sea               // But each day when she walks to the sea
+[02:16] She looks straight ahead not at him                  // She looks straight ahead not at him
+[pause]
+[02:20] Tall and tan and young and lovely                    // Tall and tan and young and lovely
+[02:24] The girl from Ipanema goes walking                   // The girl from Ipanema goes walking
+[02:28] And when she passes he smiles                        // And when she passes he smiles
+[02:31] But she doesn't see                                  // But she doesn't see
+[instrumental]
+[04:17] Oh, but he sees her so sadly                         // Oh, but he sees her so sadly
+[04:25] How can he tell her he loves her?                    // How can he tell her he loves her?
+[pause]
+[04:33] Yes, he would give his heart gladly                  // Yes, he would give his heart gladly
+[04:40] But each day when she walks to the sea               // But each day when she walks to the sea
+[04:43] She looks straight ahead not at him                  // She looks straight ahead not at him
+[pause]
+[04:47] Tall and tan and young and lovely                    // Tall and tan and young and lovely
+[04:51] The girl from Ipanema goes walking                   // The girl from Ipanema goes walking
+[04:55] And when she passes he smiles                        // And when she passes he smiles
+[04:58] But she doesn't see                                  // But she doesn't see
+[05:01] She just doesn't see                                 // She just doesn't see
+[05:05] No, she doesn't see                                  // No, she doesn't see
+[05:08] But she doesn't see                                  // But she doesn't see
+[05:12] She doesn't see                                      // She doesn't see
+[05:16] No, she doesn't see                                  // No, she doesn't see
+
+.title = Doralice
+.composer = Antônio Almeida, Dorival Caymmi
+.end
+
+[00:11] Doralice, I well told you                   // Doralice eu bem que te disse
+[00:13] Loving is foolish, it's silly, an illusion  // Amar é tolice, é bobagem, ilusão
+[00:16] I prefer to live alone                      // Eu prefiro viver tão sozinho
+[00:19] To the sound of my guitar's lament          // Ao som do lamento do meu violão
+[pause]
+[00:24] Doralice, I well told you                   // Doralice eu bem que te disse
+[00:25] Look at this mess I'll get myself into      // Olha essa embrulhada em que vou me meter
+[00:29] Now, my love, Doralice, my dear             // Agora amor, Doralice meu bem
+[00:32] What are we going to do?                    // Como é que nós vamos fazer?
+[pause]
+[00:35] One beautiful day you appeared to me        // Um belo dia você me surgiu
+[00:39] I wanted to flee but you insisted           // Eu quis fugir mas você insistiu
+[00:42] Something had been warning me               // Alguma coisa bem que andava me avisando
+[00:45] It was almost like I could guess it         // Até parece que eu estava adivinhando
+[00:51] I didn't want to marry you                  // Eu bem que não queria me casar contigo
+[00:52] I didn't want to face this danger, Doralice // Bem que não queria enfrentar esse perigo Doralice
+[01:01] Now you must to tell me                     // Agora você tem que me dizer
+[01:09] What are we going to do?                    // Como é que nós vamos fazer?
+
+.title = Para Machucar Meu Coração
+.en_title = To Wound My Heart
+.composer = Ary Barroso
+.end
+
+[00:11] It's almost been a year and a half, love    // Tá fazendo um ano e meio, amor
+[00:18] Since our home fell apart                   // Que o nosso lar desmoronou
+[00:26] My bird, my guitar                          // Meu sabiá, meu violão
+[00:33] And a cruel delusion were all that remained // E uma cruel desilusão foi tudo que ficou
+[00:43] Remained to wound my heart                  // Ficou pra machucar meu coração
+[pause]
+[00:55] It's almost been a year and a half, love    // Tá fazendo um ano e meio, amor
+[01:01] Since our home fell apart                   // Que o nosso lar desmoronou
+[01:09] My bird, my guitar                          // Meu sabiá, meu violão
+[01:17] And a cruel delusion were all that remained // E uma cruel desilusão foi tudo que ficou
+[01:27] Remained to wound my heart                  // Ficou pra machucar meu coração
+[pause]
+[01:39] Who knows, maybe it was better this way     // Quem sabe, não foi bem melhor assim
+[01:46] Better for you and better for me            // Melhor pra você e melhor pra mim
+[01:52] Life is a school were we must learn         // A vida é uma escola que a gente precisa aprender
+[02:01] The science of living so as not to suffer   // A ciência de viver pra não sofrer
+
+.title = Desafinado
+.en_title = Out of Tune
+.composer = Antônio Carlos Jobim & Newton Mendonça
+.end
+
+[00:04] If you tell me I go out of tune, love          // Se você disser que eu desafino amor
+[00:10] Know that this causes me immense pain          // Saiba que isto em mim provoca imensa dor
+[00:16] Only the privileged have ears like yours       // Só privilegiados tem o ouvido igual ao seu
+[00:23] I have only what God gave to me                // Eu possuo apenas o que deus me deu
+[pause]
+[00:30] If you insist on categorizing                  // Se você insiste em classificar
+[00:36] My behaviour as anti-musical                   // Meu comportamento de anti-musical
+[00:43] Even if lying, I must argue                    // Eu mesmo mentindo devo argumentar
+[00:50] That this is Bossa Nova, this is very natural  // Que isto é Bossa Nova, que isto é muito natural
+[pause]
+[00:56] What you don't know, and never suspected       // O que você não sabe nem sequer pressente
+[01:03] Is that the out of tune ones also have a heart // É que os desafinados também tem um coração
+[01:09] I photographed you with a Rolleiflex           // Fotografei você na minha Rolleiflex
+[01:15] And your great ingratitude was {To "develop" a photo in Portuguese is to "reveal" it—a pun=revealed} // Revelou-se a sua enorme ingratidão
+[pause]
+[01:23] The only person you can't talk like this about is my love // Só não poderá falar assim do meu amor
+[01:30] He's the greatest you can find                            // Ele é o maior que você pode encontrar
+[01:35] You, with your music, forgot the main thing               // Você com a sua música esqueceu o principal
+[01:42] That in the chest of the out of tune ones                 // Que no peito dos desafinados
+[01:45] The bottom of the chest                                   // Do fundo do peito
+[01:49] It beats silently, that in the chest of the out of tunes  // Bate calado, que no peito dos desafinados
+[01:52] Also beats a heart                                        // Também bate um coração
+
+.title = Corcovado (Quite Nights of Quiet Stars)
+.composer = Antônio Carlos Jobim & Gene Lees
+.end
+
+*The Corcovado is a hill in the city of Rio de Janeiro, famous for the statue located at its peak, Christ the Redeemer.*
+
+[00:01] Quiet nights of quiet stars               // Quiet nights of quiet stars
+[00:05] Quiet chords from my guitar               // Quiet chords from my guitar
+[00:08] Floating on the silence that surrounds us // Floating on the silence that surrounds us
+[00:14] Quiet thoughts and quiet dreams           // Quiet thoughts and quiet dreams
+[00:18] Quiet walks by quiet streams              // Quiet walks by quiet streams
+[00:22] And a window that looks out on Corcovado  // And a window that looks out on Corcovado
+[00:28] Oh, how lovely                            // Oh, how lovely
+[instrumental]
+[01:33] I want life to be always like this        // Quero a vida sempre assim
+[01:37] With you close to me                      // Com você perto de mim
+[01:41] Until the smothering of the old flame     // Até o apagar da velha chama
+[pause]
+[01:47] And I, that used to be sad                // E eu que era triste
+[01:52] And did not believe in the world          // Descrente desse mundo
+[01:55] Upon meeting you I understood             // Ao encontrar você eu conheci
+[02:02] What happiness was, my love               // O que é felicidade, meu amor
+
+.title = Só Danço Samba
+.en_title = I Only Dance Samba
+.composer = Antônio Carlos Jobim & Vinicius de Moraes
+.end
+
+[00:05] I only dance Samba                          // Só danço samba
+[00:07] I only dance Samba                          // Só danço samba
+[00:09] Go, go, go, go, go                         // Vai, vai, vai, vai, vai
+[00:11] I only dance Samba                          // Só danço samba
+[00:13] I only dance Samba                          // Só danço samba
+[00:14] Go                                         // Vai
+[paused]
+[00:17] I only dance Samba                         // Só danço samba
+[00:18] I only dance Samba                         // Só danço samba
+[00:20] Go, go, go, go, go                         // Vai, vai, vai, vai, vai
+[00:23] I only dance Samba                         // Só danço samba
+[00:24] I only dance Samba                         // Só danço samba
+[00:26] Go                                         // Vai
+[paused]
+[00:28] I've danced the twist too much             // Já dancei o twist até demais
+[00:35] But I don't know, I got tired              // Mas não sei, me cansei
+[00:37] Of everything, from calypso to cha-cha-cha // Do calipso ao chá-chá-chá
+[paused]
+[00:40] I only dance Samba                         // Só danço samba
+[00:41] I only dance Samba                         // Só danço samba
+[00:43] Go, go, go, go, go                         // Vai, vai, vai, vai, vai
+[00:46] I only dance Samba                         // Só danço samba
+[00:48] I only dance Samba                         // Só danço samba
+[00:49] Go                                         // Vai
+
+.title = O Grande Amor
+.en_title = The Great Love
+.composer = Antônio Carlos Jobim & Vinicius de Moraes
+.end
+
+[01:10] Whatever happens                           // Haja o que houver
+[01:16] There's always a man for a woman           // Há sempre um homem para uma mulher
+[01:24] And there will always be, so we can forget // E há de sempre haver para esquecer
+[01:30] A false love and a wish for death          // Um falso amor e uma vontade de morrer
+[pause]
+[01:37] However it is, the great love shall win    // Seja como for, há de vencer o grande amor
+[02:01] Which shall appear in the heart            // Que há de ser no coração
+[02:04] As forgiveness to those that cried         // Como perdão pra quem chorou
+
+.title = Vivo Sonhando
+.en_title = I'm Always Dreaming
+.composer = Antônio Carlos Jobim
+.end
+
+[00:00] I'm always dreaming, dreaming     // Vivo sonhando, sonhando
+[00:02] For a thousand hours at an end    // Mil horas sem fim
+[00:06] Time in which I ask myself        // Tempo em que vou perguntando
+[00:09] If you like me                    // Se gostas de mim
+[pause]
+[00:13] Time to speak of the stars        // Tempo de falar em estrelas
+[00:16] Speak of the sea, a sky like this // Falar de um mar, de um céu assim
+[00:20] Speak of the good you have        // Falar do bem que se tem
+[00:22] But you don't come, don't come    // Mas você não vem, não vem
+[pause]
+[00:27] If you don't come, don't come     // Você não vindo, não vindo
+[00:29] Life will have an end             // A vida tem fim
+[00:33] People laughing, talking          // Gente se rindo, falando
+[00:35] Making fun of me                  // Zombando de mim
+[pause]
+[00:39] And me, talking about stars       // E eu a falar em estrelas
+[00:44] Sea, love, moonlight              // Mar, amor, luar
+[00:46] Poor me                           // Pobre de mim
+[00:48] That only knows to love you       // Que só sei te amar
+
+---
+
+# Sources
+
+<ul>
+  <li>Song credits sourced from <a href="https://www.discogs.com/release/170884-Stan-Getz-Joao-Gilberto-Getz-Gilberto">Discogs</a></li>
+  <li>Synced lyrics sourced from <a href="https://lrclib.net">LRCLIB</a></li>
+</ul>
+

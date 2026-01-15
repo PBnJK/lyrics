@@ -395,9 +395,9 @@
 .arranger = Magro
 .end
 
-|I'd just like to make it clear that, as a Christian, I'm the least qualified person to be explaining a song that goes pretty in-depth into Afro-Brazilian religion. I researched the topic the best I could, however, so I hope this is still serviceable and respectful.|
+|Obá is a spirit in Yoruba religion. I'd just like to make it clear that I'm the least qualified person to be explaining a song that goes pretty in-depth into Afro-Brazilian religion. I researched the topic the best I could, so I hope this translation is still serviceable and respectful.|
 
-[00:03] My father {Spirit (Orisha) in Yoruba religion=Xangô}                                 // Meu pai Xangô
+[00:03] My father {Also a spirit (Orisha) in Yoruba religion, the husband of Obá=Xangô}      // Meu pai Xangô
 [00:05] Xangô is my father, my father is                                                     // É meu pai Xangô, é meu pai
 [00:07] Xangô is my father, my father is                                                     // É meu pai Xangô, é meu pai
 [00:10] Xangô is my father, my father is                                                     // É meu pai Xangô, é meu pai
@@ -428,9 +428,9 @@
 [01:11] Xangô is my father, my father is                                                     // É meu pai Xangô, é meu pai
 [pause]
 [01:17] Protect your son                                                                     // Protege teu filho
-[01:20] Your som {One of the (enormously famous) composers of this song=Caymmi}              // Teu filho Caymmi
+[01:20] Your son {One of the (enormously famous) composers of this song=Caymmi}              // Teu filho Caymmi
 [01:22] Dorival Obá, Onikoyi                                                                 // Dorival Obá, Onikoyi
-[01:27] And {His wife of 68 years—married from 1940 until his death in 2008!=Stella Caymmi}  // E Stella Caymmi
+[01:27] And {Dorival Caymmi's wife of 68 years—married from 1940 until his death in 2008=Stella Caymmi} // E Stella Caymmi
 [pause]
 [01:29] Mother of Dori                                                                       // A mãe de Dori
 [01:31] Of Nana and Danilo                                                                   // De Nana e Danilo
@@ -438,7 +438,7 @@
 [01:36] That is my love and my friend                                                        // Que é amor e amiga
 [pause]
 [01:39] Star Stella                                                                          // Stella estrela
-[01:41] With my love song I had you, ay                                                      // Da minha cantiga amor recebi, ai
+[01:41] With my love song I had you, ay                                                      // Da minha cantiga de amor recebi, ai
 [01:47] For being your Obá Onikoyi                                                           // Por ser teu Obá Onikoyi
 [01:50] For not deserving to deserve                                                         // Por não merecer ser merecedor
 [01:52] So much Stella, love star, ay                                                        // De tanta Stella, estrela de amor, ai
@@ -475,7 +475,7 @@
   <li>Synced lyrics sourced from <a href="https://lrclib.net">LRCLIB</a></li>
 </ul>
 
-.title = Incelensa (Tradução Alternativa)
+.title = Incelensa (Alternative Translation)
 .en_title = Incelensa (Alternative Translation)
 .artist = Quarteto em Cy
 .composer = Edu Lobo, Ruy Guerra
