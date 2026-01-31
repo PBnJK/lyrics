@@ -20,16 +20,16 @@
 [pause]
 [00:34] For the pleasure of crying and for the "we're here for you" // Pelo prazer de chorar e pelo "estamos aí"
 [00:40] For the bar jokes and for the football to cheer to          // Pela piada no bar e o futebol pra aplaudir
-[00:47] A crime to talk about and a samba to get distracted         // Um crime pra comentar e um samba pra distrair
+[00:47] A crime to comment on and a samba to distract               // Um crime pra comentar e um samba pra distrair
 [00:51] May God pay you back                                        // Deus lhe pague
 [pause]
 [00:59] For this beach, this skirt, the women from here             // Por essa praia, essa saia, pelas mulheres daqui
-[01:06] Shoddily made love, shave your beard and go                 // O amor malfeito depressa, fazer a barba e partir
+[01:06] Love made shoddily, quickly, shave your beard and go        // O amor malfeito depressa, fazer a barba e partir
 [01:12] For the beautiful Sunday, soap opera, mass and comic books  // Pelo domingo que é lindo, novela, missa e gibi
 [01:18] May God pay you back                                        // Deus lhe pague
 [pause]
 [01:26] For the free {Liquor made from fermented sugarcane juice=cachaça} we have to swallow // Pela cachaça de graça que a gente tem que engolir
-[01:33] For the smoke and disgrace we have to cough down            // Pela fumaça, desgraça, que a gente tem que tossir
+[01:33] For the smoke and disgrace we have to cough up              // Pela fumaça, desgraça, que a gente tem que tossir
 [01:39] For the hanging scaffoldings we have to fall from           // Pelos andaimes pingentes que a gente tem que cair
 [01:44] May God pay you back                                        // Deus lhe pague
 [pause]
@@ -111,35 +111,37 @@
 .composer = Chico Buarque, Vinícius de Moraes
 .end
 
-[00:14] Yes, go and tell, tell this          // Sim, vai e diz, diz assim
-[00:23] That I cried, that I died            // Que eu chorei, que eu morri
-[00:31] Of regret                            // De arrependimento
-[00:34] That my dismay                       // Que o meu desalento
-[00:38] Is endless                           // Já não tem mais fim
+[00:14] Yes, go and tell, tell this               // Sim, vai e diz, diz assim
+[00:23] That I cried, that I died                 // Que eu chorei, que eu morri
+[00:31] Of regret                                 // De arrependimento
+[00:34] That my dismay                            // Que o meu desalento
+[00:38] Is endless                                // Já não tem mais fim
 [pause]
-[00:43] Go and tell, tell this               // Vai e diz, diz assim
-[00:49] How unhappy I am                     // Como sou infeliz
-[00:57] With my mistake                      // No meu descaminho
-[00:59] Say that I'm alone                   // Diz que estou sozinho
-[01:04] And don't know myself                // E sem saber de mim
+[00:43] Go and tell, tell this                    // Vai e diz, diz assim
+[00:49] How unhappy I am                          // Como sou infeliz
+[00:57] With my mistake                           // No meu descaminho
+[00:59] Say that I'm alone                        // Diz que estou sozinho
+[01:04] And don't know myself                     // E sem saber de mim
 [pause]
-[01:09] Tell that I was close                // Diz que eu estive por pouco
-[01:15] Tell her I'm dying to forgive her    // Diz a ela que eu estou louco pra perdoar
-[01:24] That however it is, be it by love    // Que seja lá como for, por amor
-[01:31] Or as a favour, she should come back // Por favor, é pra ela voltar, sim
+[01:09] Tell that I was close                     // Diz que eu estive por pouco
+[01:15] Tell her I'm dying to forgive her         // Diz a ela que eu estou louco pra perdoar
+[01:24] That however it is, be it by love         // Que seja lá como for, por amor
+[01:31] Or as a favour, she should come back, yes // Por favor, é pra ela voltar, sim
 [pause]
-[01:39] Yes, go and tell, tell this          // Sim, vai e diz, diga assim
-[01:46] That I screwed up, that I drank      // Que eu rodei, que eu bebi
-[01:49] That I fell, that I don't know       // Que eu caí, que eu não sei
-[01:52] That all I know is I'm tired         // Que eu só sei que cansei, enfim
-[01:55] Of my misfortunes                    // Dos meus desencontros
-[01:58] Run and go tell her                  // Corre e diz a ela
-[02:01] That I surrender                     // Que eu entrego os pontos
+[01:39] Yes, go and tell, tell this               // Sim, vai e diz, diga assim
+[01:46] That I screwed up, that I drank           // Que eu rodei, que eu bebi
+[01:49] That I fell, that I don't know            // Que eu caí, que eu não sei
+[01:52] That all I know is I'm tired, after all   // Que eu só sei que cansei, enfim
+[01:55] Of my misfortunes                         // Dos meus desencontros
+[01:58] Run and go tell her                       // Corre e diz a ela
+[02:01] That I surrender                          // Que eu entrego os pontos
 
 .title = Construção
 .en_title = Construction Site
 .artist = Chico Buarque
 .end
+
+*The lyrics to this song are written in a very unique, untranslatably cool way. Every verse ends in a proparoxytone word, that is, a word where the stress/accents lands on the third-to-last syllable. As the song goes on, these ending words are rearranged to form new verses with different meaning.*
 
 [00:04] Loved that time as if it were the last one               // Amou daquela vez como se fosse a última
 [00:12] Kissed his wife as if she were the last one              // Beijou sua mulher como se fosse a última

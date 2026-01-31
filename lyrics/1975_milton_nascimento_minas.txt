@@ -23,26 +23,26 @@
 .composer = Milton Nascimento, Ronaldo Bastos
 .end
 
-[00:15] Now I don't ask where the road goes anymore                         // Agora não pergunto mais aonde vai a estrada
-[00:22] Now I don't wait for that early morning anymore                     // Agora não espero mais aquela madrugada
-[00:30] It'll be, It'll be, It'll have to be, It'll be, sharp knife         // Vai ser, vai ser, vai ter de ser, vai ser faca amolada
+[00:15] I no longer ask where the road goes                                 // Agora não pergunto mais aonde vai a estrada
+[00:22] I no longer wait for that {Period between midnight and sunrise=madrugada} // Agora não espero mais aquela madrugada
+[00:30] It'll be, It'll be, It'll have to be, It'll be a sharp knife        // Vai ser, vai ser, vai ter de ser, vai ser faca amolada
 [00:37] The blind glow of passion and faith, sharp knife                    // O brilho cego de paixão e fé, faca amolada
 [pause]
-[00:45] Let your light glow and be very peaceful                            // Deixar a sua luz brilhar e ser muito tranquilo
-[00:52] Let your love grow and be very peaceful                             // Deixar o seu amor crescer e ser muito tranquilo
+[00:45] To let your light glow and be very peaceful                         // Deixar a sua luz brilhar e ser muito tranquilo
+[00:52] To let your love grow and be very peaceful                          // Deixar o seu amor crescer e ser muito tranquilo
 [01:00] Glow, glow, happen, glow, sharp knife                               // Brilhar, brilhar, acontecer, brilhar, faca amolada
 [01:07] Brother, sister, sister, brother in faith, sharp knife              // Irmão, irmã, irmã, irmão de fé, faca amolada
 [instrumental]
-[01:47] Plant the wheat and redo the daily bread                            // Plantar o trigo e refazer o pão de cada dia
-[01:51] (Plant the wheat and redo the daily bread)                          // (Plantar o trigo e refazer o pão de todo dia)
-[01:54] Drink the wine and be reborn in the daily light                     // Beber o vinho e renascer na luz de todo dia
-[01:58] (Drink the wine and be reborn in the daily light)                   // (Beber o vinho e renascer na luz de cada dia)
+[01:47] To plant the wheat and redo the daily bread                         // Plantar o trigo e refazer o pão de cada dia
+[01:51] (To plant the wheat and redo the daily bread)                       // (Plantar o trigo e refazer o pão de todo dia)
+[01:54] To drink the wine and be reborn in the daily light                  // Beber o vinho e renascer na luz de todo dia
+[01:58] (To drink the wine and be reborn in the daily light)                // (Beber o vinho e renascer na luz de cada dia)
 [02:02] The faith, the faith, passion and faith, the faith, sharp knife     // A fé, a fé, paixão e fé, a fé, faca amolada
 [02:09] The floor, the floor, the salt of the earth, the floor, sharp knife // O chão, o chão, o sal da terra, o chão, faca amolada
 [pause]
-[02:16] Let your light glow in the daily bread                              // Deixar a sua luz brilhar no pão de todo dia
-[02:24] Let your love grow in the daily light                               // Deixar o seu amor crescer na luz de cada dia
-[02:31] It'll be, it'll be, it'll have to be, it'll be very peaceful        // Vai ser, vai ser, vai ter de ser, vai ter de ser muito tranquilo
+[02:16] To let your light glow in the daily bread                           // Deixar a sua luz brilhar no pão de todo dia
+[02:24] To let your love grow in the daily light                            // Deixar o seu amor crescer na luz de cada dia
+[02:31] It'll be, it'll be, it'll have to be, it'll be very peaceful        // Vai ser, vai ser, vai ter de ser, vai ser muito tranquilo
 [02:39] The blind glow of passion and faith, sharp knife                    // O brilho cego de paixão e fé, faca amolada
 
 .title = Beijo Partido

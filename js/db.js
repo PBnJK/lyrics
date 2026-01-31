@@ -76,6 +76,13 @@ const db = {
 		"year": "1973",
 		"search": "Secos & MolhadosSecos & MolhadosSecos & Molhadossecos & molhadosFolkfolkProgressive Rockprogressive rockGlam Rockglam rockPsychedelic Poppsychedelic pop1973",
 	},
+	"1976_tom_ze_estudando_o_samba": {
+		"album": "Estudando o Samba",
+		"artist": ["Tom Zé"],
+		"genre": ["Samba", "MPB", "Avant-folk"],
+		"year": "1976",
+		"search": "Estudando o SambaEstudando o SambaTom Zétom zéTom Zetom zeSambasambaMPBmpbAvant-folkavant-folk1976",
+	},
 	"1986_legiao_urbana_dois": {
 		"album": "Dois",
 		"artist": ["Legião Urbana"],

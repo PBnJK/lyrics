@@ -19,7 +19,7 @@
 [00:27] {A kind of light, transparent cloth=Organdy} has been going for cheap lately                           // O organdi anda barato pra cachorro,
 [00:31] And a {The previous line uses the idiom "cheap as a dog," setting up this cat line=cat} up on the hill // E um gato lá no morro,
 [00:33] Doesn't cost that much at all                                                                          // Não é tão caro assim.
-[!repeat once//repetir uma vez]
+[!repeats//repete]
 [pause]
 [00:52] It doesn't cost a thing                                                                                // Não custa nada
 [00:54] To comply with formalities                                                                             // Preencher formalidade

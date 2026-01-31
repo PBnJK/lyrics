@@ -1,0 +1,302 @@
+.album_name = Estudando o Samba
+.album_artist = Tom Zé
+.album_genre = Samba, MPB, Avant-folk
+.album_year = 1976
+
+# Estudando o Samba (1976)
+= Tom Zé
+
+<img src="assets/covers/1976_tom_ze_estudando_o_samba.jpg" width="400" alt="Cover for Estudando o Samba, depicting the title over a white background, with barbed wire and steel rope running along the bottom" />
+= "Studying Samba"
+
+.title = Mã
+.en_title = Mother
+.composer = Tom Zé
+.end
+
+*The title, "Mã," is one letter short of "Mãe," meaning mother.*
+
+[00:14] Baptize this baby                               // Batiza esse neném
+[00:18] Baptize this baby                               // Batiza esse neném
+[00:22] Baptize this baby                               // Batiza esse neném
+[00:25] Baptize this baby                               // Batiza esse neném
+[pause]
+[01:01] Good baptism                                    // Batizado bom
+[01:08] Good baptism                                    // Batizado bom
+[01:16] Good baptism                                    // Batizado bom
+[01:24] Good baptism                                    // Batizado bom
+[pause]
+[01:27] Eh, the sambas and archangels (good baptism)    // Ê, os sambas e arcanjos (batizado bom)
+[01:37] Oh, the street and the chaos (good baptism)     // Ô, a rua a arruaça (batizado bom)
+[01:46] Eh, the midnight hand (good baptism)            // Ê, a mão da madrugada (batizado bom)
+[01:56] Oh, the moonlit moon (good baptism)             // Ô, a lua enluarada (batizado bom)
+[02:05] Eh, the breast, your thirst (good baptism)      // Ê, o seio, sua sede (batizado bom)
+[pause]
+[02:15] Eh, mã mã mã mã mã mã (good baptism)            // Ê, mã mã mã mã mã mã (batizado bom)
+[02:24] Eh, mã mã mã mã mã mã (good baptism)            // Ê, mã mã mã mã mã mã (batizado bom)
+[02:32] Eh, mã mã mã mã mã mã (good baptism)            // Ê, mã mã mã mã mã mã (batizado bom)
+[02:43] Eh, mã mã mã mã mã mã (good baptism)            // Ê, mã mã mã mã mã mã (batizado bom)
+[pause]
+[02:53] Eh, the sambas and archangels (good baptism)    // Ê, os sambas e arcanjos (batizado bom)
+[03:02] Oh, the street and the chaos (good baptism)     // Ô, a rua a arruaça (batizado bom)
+[03:11] Eh, the midnight hand (good baptism)            // Ê, a mão da madrugada (batizado bom)
+[03:21] Oh, the moonlit moon (good baptism)             // Ô, a lua enluarada (batizado bom)
+[03:31] Eh, the breast, your thirst (good baptism)      // Ê, o seio, sua sede (batizado bom)
+[03:39] Eh, mã mã mã mã mã mã (good baptism)            // Ê, mã mã mã mã mã mã (batizado bom)
+
+.title = A Felicidade
+.en_title = Happiness
+.composer = Antônio Carlos Jobim, Vinicius de Moraes
+.end
+
+[00:06] Sadness has no end                      // Tristeza não tem fim
+[00:11] Happiness does                          // Felicidade sim
+[00:31] Happiness is like the plume             // A felicidade é como a pluma
+[00:36] That the wind carries through the air   // Que o vento vai levando pelo ar
+[00:43] It flies so softly                      // Voa tão leve
+[00:46] But it is short-lived                   // Mas tem a vida breve
+[00:49] It needs endless winds                  // Precisa que haja vento sem parar
+[pause]
+[00:56] The happiness of the poor seems like    // A felicidade do pobre parece
+[01:02] The great illusion of carnaval          // A grande ilusão do carnaval
+[01:08] We work all year                        // A gente trabalha o ano inteiro
+[01:13] For a moment of dream                   // Por um momento de sonho
+[01:15] To craft a costume                      // Pra fazer a fantasia
+[01:18] Of a king or pirate or gardener         // De rei ou de pirata ou jardineira
+[01:25] For it all to end on Wednesday          // Pra tudo se acabar na quarta-feira
+[pause]
+[01:31] Sadness has no end                      // Tristeza não tem fim
+[01:37] Happiness does                          // Felicidade sim
+[01:42] Sadness has no end                      // Tristeza não tem fim
+[01:49] Happiness does                          // Felicidade sim
+[pause]
+[01:56] Happiness is like the drop              // A felicidade é como a gota
+[02:01] Of dew on a flower petal                // De orvalho numa pétala de flor
+[02:08] Sparkles peacefully                     // Brilha tranquila
+[02:11] Then oscillates lightly                 // Depois de leve oscila
+[02:15] And falls like a teardrop of love       // E cai como uma lágrima de amor
+[pause]
+[02:21] My happiness is dreaming                // A minha felicidade está sonhando
+[02:28] In the eyes of my girlfriend            // Nos olhos da minha namorada
+[02:33] It's like this night                    // É como esta noite
+[02:35] Passing, passing                        // Passando, passando
+[02:38] In search of midnight                   // Em busca da madrugada
+[pause]
+[02:40] Speak quietly, please                   // Falem baixo, por favor
+[02:44] So that she awakes as joyful as daytime // Pra que ela acorde alegre como o dia
+[02:51] Offering kisses of love                 // Oferecendo beijos de amor
+[02:56] Sadness has no end                      // Tristeza não tem fim
+
+.title = Toc
+.en_title = Tock
+.composer = Tom Zé
+.end
+
+[instrumental]
+
+.title = Tô
+.en_title = I Am
+.composer = Elton Medeiros, Tom Zé
+.end
+
+[00:05] I'm way low, so that I can go up              // Tô bem de baixo pra poder subir
+[00:07] I'm way high, so that I can fall              // Tô bem de cima pra poder cair
+[00:12] I'm dividing so that there's things left      // Tô dividindo pra poder sobrar
+[00:15] I'm wasting so that there's not enough        // Desperdiçando pra poder faltar
+[pause]
+[00:18] Slowly so that it can fit                     // Devagarinho pra poder caber
+[00:21] Very lightly so that I'm not forgiven         // Bem de leve pra não perdoar
+[00:24] I'm studying so that I can know how to ignore // Tô estudando pra saber ignorar
+[00:26] I'm here eating so that I can throw up        // Eu tô aqui comendo para vomitar
+[pause]
+[00:30] I'm explaining it to you                      // Eu tô te explicando
+[00:32] To confuse you                                // Pra te confundir
+[00:33] I'm confusing you                             // Eu tô te confundindo
+[00:35] To make it clearer                            // Pra te esclarecer
+[00:37] I'm illuminated                               // Tô iluminado
+[00:38] So that I can blind                           // Pra poder cegar
+[00:40] I'm turning blind                             // Tô ficando cego
+[00:42] So that I can guide                           // Pra poder guiar
+[!repeats//repete]
+[pause]
+[00:56] Softly so that it can tear                    // Suavemente pra poder rasgar
+[01:01] Eyes close so that I can see you better       // Olho fechado pra te ver melhor
+[01:04] Joyfully so that I can cry                    // Com alegria pra poder chorar
+[01:08] Desperate to be patient                       // Desesperado pra ter paciência
+[pause]
+[01:10] Carefully so that it can wound                // Carinhoso pra poder ferir
+[01:13] Slowly so that it's not late                  // Lentamente pra não atrasar
+[01:17] Running behind life so that I can die         // Atrás da vida pra poder morrer
+[01:19] I'm bidding farewell so that I can come back  // Eu tô me despedindo pra poder voltar
+[pause]
+[01:23] I'm explaining it to you                      // Eu tô te explicando
+[01:25] To confuse you                                // Pra te confundir
+[01:26] I'm confusing you                             // Eu tô te confundindo
+[01:28] To make it clearer                            // Pra te esclarecer
+[01:30] I'm illuminated                               // Tô iluminado
+[01:31] So that I can blind                           // Pra poder cegar
+[01:33] I'm turning blind                             // Tô ficando cego
+[01:34] So that I can guide                           // Pra poder guiar
+[repeat]
+
+.title = Vai (Menina Amanhã de Manhã)
+.en_title = Go (Girl Tomorrow Morning)
+.composer = Antônio Perna, Tom Zé
+.end
+
+[00:04] Girl, tomorrow morning                 // Menina, amanhã de manhã
+[00:05] When we wake up                        // Quando a gente acordar
+[00:06] I want to tell you that happiness will // Quero te dizer que a felicidade vai
+[00:09] Collapse over man, it will             // Desabar sobre os homens, vai
+[00:11] Collapse over man, it will             // Desabar sobre os homens, vai
+[00:13] Collapse over man                      // Desabar sobre os homens
+[pause]
+[00:15] Then no one will escape                // Na hora ninguém escapa
+[00:17] No one can hide under the bed          // Debaixo da cama ninguém se esconde
+[00:19] And happiness will                     // E a felicidade vai
+[00:21] Collapse over man, it will             // Desabar sobre os homens, vai
+[00:23] Collapse over man, it will             // Desabar sobre os homens vai
+[00:25] Collapse over man                      // Desabar sobre os homens
+[pause]
+[00:27] Girl, it inspires fear                 // Menina, ela mete medo
+[00:29] Girl, it closes the ring               // Menina, ela fecha a roda
+[00:31] Girl, there's no escape                // Menina, não tem saída
+[00:33] From the top, the bottom or the side   // De cima, de banda ou de lado
+[00:35] Girl, look forwards                    // Menina, olhe pra frente
+[00:37] Girl, be careful                       // Menina, todo cuidado
+[00:39] You don't want to miss it              // Não queira dormir no ponto
+[00:40] Hold on tight                          // Segure o jogo
+[00:42] Pay attention                          // Atenção
+[!repeats//repete]
+[pause]
+[01:25] Girl, happiness                        // Menina, a felicidade
+[01:27] Is full of mirth                       // É cheia de graça
+[01:28] Is full of cans                        // É cheia de lata
+[01:29] Is full of parks                       // É cheia de praça
+[01:30] Is full of weevils                     // É cheia de traça
+[pause]
+[00:32] Girl, happiness                        // Menina, a felicidade
+[01:33] Is full of cloths                      // É cheia de pano
+[01:34] Is full of feathers                    // É cheia de pena
+[01:35] Is full of bells                       // É cheia de sino
+[01:36] Is full of sleep                       // É cheia de sono
+[pause]
+[01:38] Girl, happiness                        // Menina, a felicidade
+[01:39] Is full of years                       // É cheia de ano
+[01:40] Is full of Eno                         // É cheia de Eno
+[01:41] Is full of anthems                     // É cheia de hino
+[01:42] Is full of {Alternatively, ONU meaning the Brazilian Portuguese acronym for NATO=Onu} // É cheia de ONU
+[pause]
+[01:44] Girl, happiness                        // Menina, a felicidade
+[01:45] Is full of an                          // É cheia de an
+[01:46] Is full of en                          // É cheia de en
+[01:47] Is full of in                          // É cheia de in
+[01:48] Is full of on                          // É cheia de on
+[pause]
+[01:49] Girl, happiness                        // Menina, a felicidade
+[01:50] Is full of A                           // É cheia de A
+[01:51] Is full of E                           // É cheia de E
+[01:52] Is full of I                           // É cheia de I
+[01:53] Is full of O                           // É cheia de O
+[repeat]
+
+.title = Ui! (Você Inventa)
+.en_title = Ui! (You Invent)
+.composer = Odair Cabeça de Poeta, Tom Zé
+.end
+
+[00:06] You invent, yell    // Você inventa, grite
+[00:09] I invent, ouch      // Eu invento, ai
+[00:12] You invent, cry     // Você inventa, chore
+[00:14] I invent, ui        // Eu invento, ui
+[00:17] You invent riches   // Você inventa o luxo
+[00:20] I invent rags       // Eu invento o lixo
+[00:24] You invent love     // Você inventa o amor
+[00:26] I invent loneliness // Eu invento a solidão
+[00:29] You invent love     // Você inventa o amor
+[00:32] I invent loneliness // Eu invento a solidão
+[!repeats//repete]
+[pause]
+[01:03] You invent the law      // Você inventa a lei
+[01:06] I invent obedience      // Eu invento a obediência
+[01:09] You invent God          // Você inventa a Deus
+[01:12] I invent faith          // Eu invento a fé
+[01:15] You invent work         // Você inventa o trabalho
+[01:18] I invent my hands       // Eu invento as mãos
+[01:21] You invent weight       // Você inventa o peso
+[01:24] I invent my back        // Eu invento as costas
+[01:27] You invent another life // Você inventa a outra vida
+[01:29] I invent resignation    // Eu invento a resignação
+[01:32] You invent sin          // Você inventa o pecado
+[01:34] I stay in hell          // Eu fico aqui no inferno
+[01:39] My God, in hell         // Meu Deus, no inferno
+[01:45] God forbid              // Valha-me Deus
+[pause]
+[!repeat starting verse//repetir primeiro verso]
+
+.title = Dói
+.en_title = It Hurts
+.composer = Tom Zé
+.end
+
+[00:05] I treated it poorly, yes, I did (it hurts) // Maltratei, sim, maltratei demais (dói)
+[00:11] And wounded-ded-ded-ded-ded                // E machuquei-quei-quei-quei-quei
+[00:15] My heart that beats                        // Meu coração que bate
+[00:18] That beats silently, that beats silently   // Que bate calado, que bate calado
+[00:20] That beats, beats (it hurts, hurts, hurts) // Que bate, bate (dói, dói, dói)
+[00:30] Beats and hurts, hurts                     // Bate e dói, dói
+[00:32] That beats and hurts, hurts                // Que bate e dói, dói
+[00:35] That beats and hurts, hurts                // Que bate e dói, dói
+[00:37] That beats and hurts, hurts                // Que bate e dói, dói
+[00:40] That beats and hurts, hurts                // Que bate e dói
+[pause]
+[00:43] Eh, eh, your look                          // Êh, êh, teu olhar
+[00:46] Eh, eh, the light of day                   // Êh, êh, luz do dia
+[00:48] Eh, eh,  // Êh, êh, me dengou
+[00:51] TODO // Êh, êh, derretia correnteza
+[00:57] TODO // Êh, êh, ventania
+[01:02] TODO // Êh, êh, teu olhar
+[01:04] TODO // Êh, êh, luz do dia
+[01:07] TODO // Êh, êh, me dengou
+[01:10] TODO // Êh, êh, derretia correnteza
+[01:15] TODO // Êh, êh, dói, dói, dói
+[pause]
+[01:25] TODO // Dói
+[01:28] TODO // Maltratei, sim, maltratei demais (dói)
+[01:34] TODO // E machuquei-quei-quei-quei-quei
+[01:38] TODO // Meu coração que bate
+[01:41] TODO // Que bate calado, que bate calado
+[01:43] TODO // Que bate, bate (dói, dói, dói)
+[01:53] TODO // Bate e dói, dói
+[01:55] TODO // Que bate e dói, dói
+[01:57] TODO // Que bate e dói, dói
+[02:00] TODO // Que bate e dói, dói
+[02:03] TODO // Que bate e dói, dói
+[02:05] TODO // Que bate e dói, dói (dói, amor)
+[02:08] TODO // Que bate e dói, dói (dói com D)
+[02:11] TODO // Ô dói, ê dói amor ô dói e dói
+[02:16] TODO // Dói, amor, dói com D
+[02:20] TODO // Ô dói, ê dói amor ô dói e dói
+[02:26] TODO // Dói, amor, dói com D
+[02:30] TODO // Ô dói, ê dói amor ô dói e dói
+[02:35] TODO // Dói, amor, dói com D
+[02:42] TODO // Ô dói, ê dói amor ô dói e dói
+[02:45] TODO // Dói, amor, dói com D
+[02:52] TODO // Ô dói, ê dói amor ô dói e dói
+[02:55] TODO // Dói, amor, dói com D
+[03:00] TODO // Ô dói, ê dói amor ô dói e dói
+[03:05] TODO // Dói, amor, dói com D
+[03:09] TODO // Ô dói, ê dói amor ô dói e dói
+[03:15] TODO // Dói, amor, dói com D
+[03:19] TODO // Ô dói, ê dói amor ô dói e dói
+[03:24] TODO // Dói, amor, dói com D
+
+---
+
+# Sources
+
+<ul>
+  <li>Song credits sourced from <a href="">Discogs</a></li>
+  <li>Synced lyrics sourced from <a href="https://lrclib.net">LRCLIB</a></li>
+</ul>
+
