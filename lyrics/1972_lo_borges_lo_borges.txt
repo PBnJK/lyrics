@@ -99,27 +99,28 @@ R.I.P Lô Borges
 .en_title = Man from the Streets
 .end
 
-[00:08] Dream on the floor              // Sonho no chão
+[00:08] Dream on the floor                         // Sonho no chão
 [pause]
-[00:17] And one day, a road             // E um dia uma estrada
-[00:20] A strange silence on the street // Um estranho silêncio na rua
+[00:17] And one day, a road                        // E um dia uma estrada
+[00:20] A strange silence on the street            // Um estranho silêncio na rua
 [00:25] A silent fire in the man that passes by me // Um incêndio calado no homem que passa por mim
+[pause]
 [00:35] Every morning I believe in the stories     // Toda manhã acredito nas histórias
 [00:38] In all the stories in the world            // Em todas as histórias do mundo
 [00:43] And every time the old sun goes out        // E toda vez que o velho Sol se apaga
-[00:45] I need to go so that every thing doesn't erase me // Preciso ir pra tudo não me apagar
-[00:51] And when I get to my bed                          // E quando chego na minha cama
-[00:55] I imagine you better                              // Eu te imagino melhor
+[00:45] I need to go so it all doesn't erase me    // Preciso ir pra tudo não me apagar
+[00:51] And when I get to my bed                   // E quando chego na minha cama
+[00:55] I imagine you better                       // Eu te imagino melhor
 [pause]
-[01:07] Dream on the floor                                // Sonho no chão
-[01:15] A party doesn't go out                            // Uma festa não apaga
-[01:20] The strange silence on the street                 // O estranho silêncio na rua
-[01:24] The strange silence on the street                 // O estranho silêncio na rua
-[01:28] The strange silence on the street                 // O estranho silêncio na rua
-[01:32] The strange silence on the street                 // O estranho silêncio na rua
-[01:35] The strange silence on the street                 // O estranho silêncio na rua
-[01:40] The strange silence on the street                 // O estranho silêncio na rua
-[01:44] The strange silence on the street                 // O estranho silêncio na rua
+[01:07] Dream on the floor                         // Sonho no chão
+[01:15] A party doesn't go out                     // Uma festa não apaga
+[01:20] The strange silence on the street          // O estranho silêncio na rua
+[01:24] The strange silence on the street          // O estranho silêncio na rua
+[01:28] The strange silence on the street          // O estranho silêncio na rua
+[01:32] The strange silence on the street          // O estranho silêncio na rua
+[01:35] The strange silence on the street          // O estranho silêncio na rua
+[01:40] The strange silence on the street          // O estranho silêncio na rua
+[01:44] The strange silence on the street          // O estranho silêncio na rua
 
 .title = Não Foi Nada
 .en_title = It Was Nothing
@@ -143,8 +144,6 @@ R.I.P Lô Borges
 .title = Pensa Você
 .en_title = Think
 .end
-
-*The pronoun used throughout this song is "ele," and I have translated it as "he/him," which is correct. However, as the "it" pronoun doesn't exist in Portuguese, the equivalents to "he" and "she" are also used to describe inanimate objects/feelings/etc. This is all to say, the "he" here may be an "it."*
 
 [00:02] He appears on top and on the background // Ele surge em cima e no fundo
 [00:07] Passes through you                      // Passa em você
@@ -210,7 +209,7 @@ R.I.P Lô Borges
 [01:28] Like someone who's opened up their heart             // Como quem abriu o seu coração
 
 .title = Não Se Apague Esta Noite
-.en_title = XXX
+.en_title = Don't Be Snuffed Out this Night
 .artist = Lô Borges
 .composer = Lô Borges, Márcio Borges
 .end
@@ -257,32 +256,33 @@ R.I.P Lô Borges
 .en_title = Like the Axe
 .end
 
-[00:12] I know why I've been so sad               // Por que ando triste eu sei
+[00:12] Why I've been so sad, I know              // Por que ando triste eu sei
 [00:18] It's that I live on the street            // É que eu vivo na rua
 [00:23] I expect something more from this cold    // Espero algo mais deste frio
-[00:29] I expect something more and learned       // Espero um pouco mais e aprendi
+[00:29] I expect something more and I learned     // Espero um pouco mais e aprendi
 [00:35] To be like the axe                        // A ser como o machado
 [00:39] That despises the smell of the sandalwood // Que despreza o perfume do sândalo
 [pause]
 [00:55] The truth is dark, I know                 // A verdade é negra, eu sei
 [01:01] And man is evil                           // E o homem é mau
 [01:05] I expect something more from this hate    // Espero algo mais desse ódio
-[01:12] I expect something more and learned       // Espero um pouco mais e aprendi
+[01:12] I expect something more and I learned     // Espero um pouco mais e aprendi
 [01:18] To be like my cat                         // A ser como o meu gato
 [01:21] That rests with his eyes open             // Que descansa com os olhos abertos
 
 .title = Eu Sou Como Você É
-.en_title = I'm the Same as You
+.en_title = I Am as You Are
 .end
 
-[00:36] Brother, I'm the same as you                                // Meu irmão, eu sou como você é
+[00:36] Brother, I am as you are                                    // Meu irmão, eu sou como você é
 [00:42] I went out in the same darkness and walk about              // Saí do mesmo escuro e ando por aí
 [00:48] Every night I know that tomorrow holds more                 // Toda noite eu sei que amanhã tem mais
-[00:54] That we change and keep dreaming, learning                  // Que a gente muda e continua a sonhar, aprendendo
+[00:54] That we change and continue dreaming, learning              // Que a gente muda e continua a sonhar, aprendendo
 [pause]
 [01:21] In the morning, I don't know how to start                   // De manhã não sei como começar
 [01:27] So many old feelings in the same place                      // Tantas emoções antigas no mesmo lugar
-[01:33] I walk slowly so I don't fall, more than a thousand abysses // Ando devagar para não cair, mais de mil abismos
+[01:33] I walk slowly so I don't fall                               // Ando devagar para não cair
+[01:37] More than a thousand abysses                                // Mais de mil abismos
 [01:41] Wait for me at dinner, learning                             // Me esperam no jantar, aprendendo
 
 .title = Toda Essa Água
