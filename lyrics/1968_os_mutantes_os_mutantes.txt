@@ -28,23 +28,23 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [00:22] I wanted to sing, my song lighted by the sun      // Que eu quis cantar minha canção iluminada de sol
 [00:28] I drew the flags over the sticks of the wind      // Soltei os panos sobre os mastros no ar
 [00:32] I let loose tigers and lions on the backyards     // Soltei os tigres e os leões nos quintais
-[00:37] But all the people in the dining room             // Mas as pessoas na sala de jantar
-[00:41] Are too busy living and dying                     // São ocupadas em nascer e morrer
+[00:37] But the people in the dining room                 // Mas as pessoas na sala de jantar
+[00:41] Are busy living and dying                         // São ocupadas em nascer e morrer
 [pause]
 [00:51] I had a dagger of pure shiny steel made           // Mandei fazer de puro aço luminoso um punhal
 [00:58] To kill my love and I did                         // Para matar o meu amor e matei
 [01:02] At five o' clock on the Central Avenue            // Às cinco horas na Avenida Central
-[01:06] But all the people in the dining room             // Mas as pessoas na sala de jantar
-[01:10] Are too busy living and dying                     // São ocupadas em nascer e morrer
+[01:06] But the people in the dining room                 // Mas as pessoas na sala de jantar
+[01:10] Are busy living and dying                         // São ocupadas em nascer e morrer
 [pause]
 [01:21] I had them plant dream leaves on the {Might refer to the "Solar da Fossa," an artist hangout spot=solar}'s garden // Mandei plantar folhas de sonho no jardim do solar
 [01:27] The leaves know how to search for the sun         // As folhas sabem procurar pelo Sol
 [01:31] And the roots to search, search                   // E as raízes procurar, procurar
-[01:35] But all the people in the dining room             // Mas as pessoas na sala de jantar
+[01:35] But the people in the dining room                 // Mas as pessoas na sala de jantar
 [01:39] These people in the dining room                   // Essas pessoas da sala de jantar
 [pause]
 [01:43] They're the people in the dining room             // São as pessoas da sala de jantar
-[01:47] But all the people in the dining room             // Mas as pessoas na sala de jantar
+[01:47] But the people in the dining room                 // Mas as pessoas na sala de jantar
 [01:51] Are busy living and dying                         // São ocupadas em nascer e morrer
 [pause]
 [02:29] These people in the dining room                   // Essas pessoas na sala de jantar
@@ -77,7 +77,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [00:34] She's my love                                    // Ela é o meu amor
 [00:40] And I'm her love, entirely hers                  // E eu sou o amor todinho dela
 [pause]
-[00:45] Come on, huh!                                    // Chama, hu!
+[00:45] (Come on, huh!)                                  // (Chama, hu!)
 [00:47] The silver moon hid away                         // A lua prateada se escondeu
 [00:52] And the golden sun appeared                      // E o sol dourado apareceu
 [00:58] A new day dawned, smelling of joy                // Amanheceu um lindo dia, cheirando alegria
@@ -98,7 +98,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [02:15] She's my love                                    // Ela é o meu amor
 [02:21] And I'm her love, entirely hers                  // E eu sou o amor todinho dela
 [pause]
-[02:26] Uh! (Go, Jorge!)                                 // Uh! (Vai, Jorge!)
+[02:26] (Uh!)                                            // (Uh!)
 [03:08] The silver moon hid away                         // A lua prateada se escondeu
 [03:14] And the golden sun appeared                      // E o sol dourado apareceu
 [03:19] A new day dawned, smelling of joy                // Amanheceu um lindo dia, cheirando alegria
@@ -124,7 +124,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [00:07] My watch stopped                // Meu relógio parou
 [00:18] It forever gave up being        // Desistiu pra sempre de ser
 [00:23] Anti-magnetic                   // Antimagnético
-[00:29] Twenty two jewels               // Vinte e dois rubis
+[00:29] Twenty two {As in the jewel bearings in a watch=jewels} // Vinte e dois rubis
 [pause]
 [00:39] I wound it up and thought       // Eu dei corda e pensei
 [00:46] That the watch would live       // Que o relógio iria viver
@@ -141,7 +141,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [01:47] That is Swiss or English        // Que é suíço ou inglês
 [01:53] And doesn't run                 // Sem andar
 [01:56] What time will you arrive?      // A que horas você vai chegar?
-[pause]
+[instrumental]
 [02:40] And I threw myself into the sea // E no mar me atirei
 [02:47] Watch in hands, and thought     // Com o relógio nas mãos e pensei
 [02:52] It's waterproof                 // Ele é à prova d'água
@@ -193,7 +193,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 .arranger = Rogério Duprat
 .end
 
-||"Baby," famous in the voice of Gal Costa, parodies the upper-class, westernized culture that was on the rise at the time of its writing, a consequence of the dictatorship's push for "modernization."||
+|"Baby," famous in the voice of Gal Costa, parodies the upper-class, westernized culture that was on the rise at the time of its writing, a consequence of the dictatorship's push for "modernization."|
 
 [00:16] You                                    // Você
 [00:20] Need to know of the pool               // Precisa saber da piscina
@@ -286,7 +286,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 .arranger = Rogério Duprat
 .end
 
-||Now, for "Bat Macumba," Macumba being a blanket term for the wide umbrella of Afro-Brazilian religions (often pejorative, though that's not the case here.) Notice the shape that the lyrics make, and see if you can relate it to a pun on the song title about a certain masked vigilante.||
+|Now, "Bat Macumba," Macumba being a blanket term for the wide umbrella of Afro-Brazilian religions (sometimes pejorative, though that's not the case here.) Notice the shape that the lyrics make, and see if you can relate it to a pun on the song title about a certain masked vigilante.|
 
 [00:23] Bat Macumba ê ê, Bat Macumba obá //
 [00:29] Bat Macumba ê ê, Bat Macumba obá //
@@ -374,7 +374,6 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [01:06] The giant mountain                                        // A montanha gigante
 [01:08] Of green generals                                         // De generais verdejantes
 [01:13] And it appears in the distance                            // E aparece distante
-[pause]
 [01:16] The train on the shiny mirror                             // O trem no espelho brilhante
 [01:20] The kiss, the first kiss                                  // O beijo, o primeiro beijo
 [01:24] Shatters the mirror                                       // Arrebenta o espelho
@@ -391,7 +390,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [pause]
 [02:09] The first kiss                                            // O primeiro beijo
 [02:12] Four hundred cruzeiros                                    // Quatrocentos cruzeiros
-[02:16] Joe forty {As in horsepower=HP}s of thrills               // Zé quarenta HPs de emoção
+[02:16] Joe {"HPs" as in horsepower. Also, this is a reference to an old ad for the Renault Gordini (see footnote 3)=fourty HPs of thrills} // Zé quarenta HPs de emoção
 [pause]
 [02:20] {Famous movie character, an undertaker=Coffin Joe}        // O Zé do Caixão
 [02:23] Brings the creatures of creation                          // Traz os bichos da criação
@@ -420,22 +419,22 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [00:00] Hallelujah                                                                    // Aleluia
 [00:11] I want to be with my Lord                                                     // Eu quero estar com meu Senhor
 [pause]
-[00:28] There's always a time in time where the body of man rots                      // Há sempre um tempo no tempo em que o corpo do homem apodrece
+[00:28] There's always a time in time when the body of man rots                       // Há sempre um tempo no tempo em que o corpo do homem apodrece
 [00:32] And his tired, sorrowful soul sinks into the ground                           // E sua alma cansada, penada, se afunda no chão
 [pause]
-[00:35] And the wizard of luxury, like a friar, crying on a shelf, sycophant of trash // E o bruxo do luxo baixado o capucho chorando num nicho capacho do lixo
+[00:35] And the wizard of luxury, his hood lowered, crying on a niche, sycophant of trash // E o bruxo do luxo baixado o capucho chorando num nicho capacho do lixo
 [00:40] Whims will not be coming back                                                 // Caprichos não mais voltarão
 [pause]
-[00:42] There once was time where time stopped passing by                             // Já houve um tempo em que o tempo parou de passar
-[00:47] And the so-called homo sapiens didn't know how to harness it                  // E um tal de homo sapiens não soube disso aproveitar
+[00:42] There once was time when time stopped passing by                              // Já houve um tempo em que o tempo parou de passar
+[00:47] And a so-called homo sapiens didn't know how to harness it                    // E um tal de homo sapiens não soube disso aproveitar
 [pause]
 [00:51] Crying, smiling, talking about shutting up                                    // Chorando, sorrindo, falando em calar
-[00:54] Thinking of thinking once time stops passing by                               // Pensando em pensar quando o tempo parar de passar
+[00:54] Thinking about thinking once time stops passing by                            // Pensando em pensar quando o tempo parar de passar
 [pause]
-[00:58] There's always a time in time where the body of man rots                      // Há sempre um tempo no tempo em que o corpo do homem apodrece
+[00:58] There's always a time in time when the body of man rots                       // Há sempre um tempo no tempo em que o corpo do homem apodrece
 [01:01] And his tired, sorrowful soul sinks into the ground                           // E sua alma cansada, penada, se afunda no chão
 [pause]
-[01:05] And the wizard of luxury, like a friar, crying on a shelf, sycophant of trash // E o bruxo do luxo baixado o capucho chorando num nicho capacho do lixo
+[01:05] And the wizard of luxury, his hood lowered, crying on a niche, sycophant of trash // E o bruxo do luxo baixado o capucho chorando num nicho capacho do lixo
 [01:10] Whims will not be coming back                                                 // Caprichos não mais voltarão
 [pause]
 [01:12] But if between tears you find yourself and you think you're crying            // Mas se entre lágrimas você se achar e pensar que está a chorar
@@ -461,6 +460,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 <ul>
 [^1=Nowadays, only Sérgio Dias is left of the original formation. Rita Lee was kicked out of the band in 1972 and unfortunately passed away in 2023, while Arnaldo Baptista left in 1973 due to issues with drug abuse (he is doing much better now!) Both of them led successful solo careers, with Rita Lee often being called the Brazilian "Queen of Rock."]
 [^2=<a href="https://www.youtube.com/watch?v=nsOoltvk0sk">Le Premier Bonheur du Jour Translation by frenchrescue</a>]
+[^3="Renault Gordini: <a href="https://www.youtube.com/watch?v=UXgjuQAEUKs">fourty HPs of thrills!</a>"]
 </ul>
 
 ---
