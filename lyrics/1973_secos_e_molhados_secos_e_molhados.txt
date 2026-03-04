@@ -14,23 +14,23 @@
 .composer = João Ricardo, Paulinho Mendonça
 .end
 
-[00:23] I swore lies and go on alone               // Jurei mentiras e sigo sozinho
-[00:30] I own up to my sins                        // Assumo os pecados
-[00:37] The northern winds don't move windmills    // Os ventos do norte não movem moinhos
-[00:44] And only a moan is left for me             // E o que me resta é só um gemido
+[00:23] I swore lies and go on alone                 // Jurei mentiras e sigo sozinho
+[00:30] I own up to my sins                          // Assumo os pecados
+[00:37] The northern winds don't move windmills      // Os ventos do norte não movem moinhos
+[00:44] And all I have left is a moan                // E o que me resta é só um gemido
 [pause]
-[00:51] My life, my dead, my crooked ways          // Minha vida, meus mortos, meus caminhos tortos
-[00:58] My Latin blood                             // Meu sangue latino
-[01:05] My captive soul                            // Minh'alma cativa
+[00:51] My life, my dead, my crooked ways            // Minha vida, meus mortos, meus caminhos tortos
+[00:58] My Latin blood                               // Meu sangue latino
+[01:05] {Slight play on words. Might also mean "My soul captivates"=My captive soul} // Minh'alma cativa
 [pause]
-[01:13] I broke treaties, betrayed rites           // Rompi tratados, traí os ritos
-[01:20] I broke the spear, threw it out to space   // Quebrei a lança, lancei no espaço
-[01:27] A yell, a confession                       // Um grito, um desabafo
-[01:35] And what matters to me is not being beaten // E o que me importa é não estar vencido
+[01:13] I broke treaties, betrayed the rites         // Rompi tratados, traí os ritos
+[01:20] I broke the spear, threw it out to space     // Quebrei a lança, lancei no espaço
+[01:27] A yell, a confession                         // Um grito, um desabafo
+[01:35] And what matters to me is not being defeated // E o que me importa é não estar vencido
 [pause]
-[01:42] My life, my dead, my crooked ways          // Minha vida, meus mortos, meus caminhos tortos
-[01:49] My Latin blood                             // Meu sangue latino
-[01:56] My captive soul                            // Minh'alma cativa
+[01:42] My life, my dead, my crooked ways            // Minha vida, meus mortos, meus caminhos tortos
+[01:49] My Latin blood                               // Meu sangue latino
+[01:56] My captive soul                              // Minh'alma cativa
 
 .title = O Vira
 .en_title = The Turn
@@ -38,44 +38,46 @@
 .composer = João Ricardo, Luli
 .end
 
-[00:05] The black cat crossed the road                 // O gato preto cruzou a estrada
-[00:10] Passed under the stairs                        // Passou por debaixo da escada
-[00:15] And on the blue background of the forest night // E lá no fundo azul, na noite da floresta
-[00:20] The moon lit the dance, the circle, the party  // A lua iluminou a dança, a roda, a festa
+[00:05] The black cat crossed the road                // O gato preto cruzou a estrada
+[00:10] Passed under the stairs                       // Passou por debaixo da escada
+[00:15] And on the blue backdrop, on the forest night // E lá no fundo azul, na noite da floresta
+[00:20] The moon lit the dance, the circle, the party // A lua iluminou a dança, a roda, a festa
 [pause]
-[00:24] Turn, turn, turn                               // Vira, vira, vira
-[00:25] Turn, turn, turn into a man, turn, turn        // Vira, vira, vira homem, vira, vira
-[00:28] Turn, turn into a werewolf                     // Vira, vira, lobisomen
-[00:29] Turn, turn, turn                               // Vira, vira, vira
-[00:31] Turn, turn, turn into a man, turn, turn        // Vira, vira, vira homem, vira, vira
+[00:24] Turn, turn, turn                              // Vira, vira, vira
+[00:25] Turn, turn, turn into a man, turn, turn       // Vira, vira, vira homem, vira, vira
+[00:28] Turn, turn into a werewolf                    // Vira, vira, lobisomen
+[00:29] Turn, turn, turn                              // Vira, vira, vira
+[00:31] Turn, turn, turn into a man, turn, turn       // Vira, vira, vira homem, vira, vira
 [pause]
-[00:34] Owls and fireflies dance                       // Bailam corujas e pirilampos
+[00:34] Owls and fireflies dance                      // Bailam corujas e pirilampos
 [00:40] Between the {Figure from Brazilian indigenous folklore; a one-legged black boy, generally portrayed as a prankster or troublemaker=sacis} and fairies // Entre os sacis e as fadas
-[00:44] And on the blue background of the forest night // E lá no fundo azul, na noite da floresta
-[00:49] The moon lit the dance, the circle, the party  // A lua iluminou a dança, a roda, a festa
+[00:44] And on the blue backdrop, on the forest night // E lá no fundo azul, na noite da floresta
+[00:49] The moon lit the dance, the circle, the party // A lua iluminou a dança, a roda, a festa
 [pause]
-[00:53] Turn, turn, turn                               // Vira, vira, vira
-[00:54] Turn, turn, turn into a man, turn, turn        // Vira, vira, vira homem, vira, vira
-[00:57] Turn, turn into a werewolf                     // Vira, vira, lobisomen
-[00:58] Turn, turn, turn                               // Vira, vira, vira
-[01:00] Turn, turn, turn into a man, turn, turn        // Vira, vira, vira homem, vira, vira
+[00:53] Turn, turn, turn                              // Vira, vira, vira
+[00:54] Turn, turn, turn into a man, turn, turn       // Vira, vira, vira homem, vira, vira
+[00:57] Turn, turn into a werewolf                    // Vira, vira, lobisomen
+[00:58] Turn, turn, turn                              // Vira, vira, vira
+[01:00] Turn, turn, turn into a man, turn, turn       // Vira, vira, vira homem, vira, vira
 [instrumental]
-[01:33] Owls and fireflies dance                       // Bailam corujas e pirilampos
-[01:39] Between the sacis and fairies                  // Entre os sacis e as fadas
-[01:43] And on the blue background of the forest night // E lá no fundo azul, na noite da floresta
-[01:49] The moon lit the dance, the circle, the party  // A lua iluminou a dança, a roda, a festa
+[01:33] Owls and fireflies dance                      // Bailam corujas e pirilampos
+[01:39] Between the sacis and fairies                 // Entre os sacis e as fadas
+[01:43] And on the blue backdrop, on the forest night // E lá no fundo azul, na noite da floresta
+[01:49] The moon lit the dance, the circle, the party // A lua iluminou a dança, a roda, a festa
 [pause]
-[01:53] Turn, turn, turn                               // Vira, vira, vira
-[01:54] Turn, turn, turn into a man, turn, turn        // Vira, vira, vira homem, vira, vira
-[01:57] Turn, turn into a werewolf                     // Vira, vira, lobisomen
-[01:58] Turn, turn, turn                               // Vira, vira, vira
-[02:00] Turn, turn, turn into a man, turn, turn        // Vira, vira, vira homem, vira, vira
+[01:53] Turn, turn, turn                              // Vira, vira, vira
+[01:54] Turn, turn, turn into a man, turn, turn       // Vira, vira, vira homem, vira, vira
+[01:57] Turn, turn into a werewolf                    // Vira, vira, lobisomen
+[01:58] Turn, turn, turn                              // Vira, vira, vira
+[02:00] Turn, turn, turn into a man, turn, turn       // Vira, vira, vira homem, vira, vira
 
 .title = O Patrão Nosso de Cada Dia
 .en_title = Our Daily Boss
 .artist = Secos & Molhados
 .composer = João Ricardo
 .end
+
+*The title is a play on the Lord's Prayer. "Our daily bread" → "our daily boss"*
 
 [00:23] I want the love                  // Eu quero o amor
 [00:28] Of the cactus flower             // Da flor de cactus
@@ -102,20 +104,17 @@
 [01:34] Now, I don't even know if I know // Eu já não sei se sei
 [01:38] Nothing or almost nothing        // De nada ou quase nada
 [01:41] I just know about me             // Eu só sei de mim
-[01:45] I just know about me             // Só sei de mim
-[01:47] I just know about me             // Só sei de mim
+[01:45] Just know about me               // Só sei de mim
+[01:47] Just know about me               // Só sei de mim
 [pause]
-[02:06] Our daily boss // Patrão nosso
-[02:09] Of each day    // De cada dia
-[02:11] Day after day  // Dia após dia
+[02:06] Our daily boss                   // Patrão nosso de cada dia
+[02:11] Day after day                    // Dia após dia
 [pause]
-[02:15] Our daily boss // Patrão nosso
-[02:18] Of each day    // De cada dia
-[02:20] Day after day  // Dia após dia
+[02:15] Our daily boss                   // Patrão nosso de cada dia
+[02:20] Day after day                    // Dia após dia
 [pause]
-[02:24] Our daily boss // O patrão nosso
-[02:26] Of each day    // De cada dia
-[02:28] Day after day  // Dia após dia
+[02:24] Our daily boss                   // O patrão nosso de cada dia
+[02:28] Day after day                    // Dia após dia
 
 .title = Amor
 .en_title = Love
@@ -128,7 +127,7 @@
 [00:27] Very light, lightly lands    // Muito leve, leve pousa
 [pause]
 [00:40] On the soft and simple thing // Na simples e suave coisa
-[00:44] Not soft at all              // Suave, coisa nenhuma
+[00:44] {Play on words? "Suave, coisa nenhuma" is naturally interpreted as "not soft at all," but can also be understood as a "soft no-thing," referring to the aforementioned "soft and simple thing." Is that too oblique even for a record like this with so many weird poetic lyrics?=Not soft at all} // Suave, coisa nenhuma
 [00:47] Not soft at all              // Suave, coisa nenhuma
 [pause]
 [00:59] Shadow, silence or foam      // Sombra, silêncio ou espuma
@@ -151,40 +150,40 @@
 [02:52] Those that have the conscience to be brave      // Quem tem consciência para ter coragem
 [03:00] Those that have the strength to know they exist // Quem tem a força de saber que existe
 [03:09] And in the center of their own gear             // E no centro da própria engrenagem
-[03:16] Invent the spring of resistance                 // Inventa contra a mola que resiste
+[03:16] Invent the counter spring of resistance         // Inventa contra a mola que resiste
 [pause]
 [03:24] Those that don't waver even when defeated       // Quem não vacila mesmo derrotado
 [03:32] Those that don't despair even when lost         // Quem já perdido nunca desespera
 [03:40] And surrounded by storm, chopped into pieces    // E envolto em tempestade, decepado
-[03:48] Hold springtime between their teeth             // Entre os dentes segura a primavera
+[03:48] Hold {Note that the "spring of resistance"/"springtime" connection is purely coincidental and does not exist in the original version=springtime} between their teeth // Entre os dentes segura a primavera
 
 .title = Assim Assado
-.en_title = One Way Or Another
+.en_title = This Way
 .artist = Secos & Molhados
 .composer = João Ricardo
 .end
 
-|"Assim assado," or "Assim ou assado," meaning "like this or baked," is an idiomatic expression meaning something like "one way or another," or "this way or the hard way"|
+*"Assim" means "this way/like this," and "assim assado," literally meaning "this baked," is a funny, aliterative expression used to stress the importance of the "this."*
 
-[00:43] It's two in the morning of a day like this             // São duas horas da madrugada de um dia assim
-[00:48] An old man walks in an old suit, like this, like this  // Um velho anda de terno velho assim assim
-[00:52] When a beautiful guard appears                         // Quando aparece o guarda belo
-[00:58] When a beautiful guard appears                         // Quando aparece o guarda belo
+[00:43] It's two in the morning of a day like this                  // São duas horas da madrugada de um dia assim
+[00:48] An old man walks in an old suit, like this, like this       // Um velho anda de terno velho assim assim
+[00:52] When the beautiful guard appears                            // Quando aparece o guarda belo
+[00:58] When the beautiful guard appears                            // Quando aparece o guarda belo
 [pause]
-[01:05] He's placed into scene doing something like this       // É posto em cena fazendo cena um treco assim
-[01:10] Very pointy, flat nose, like this, like this           // Bem apontado nariz chato assim assim
-[01:16] When the old man's colors appear                       // Quando aparece a cor do velho
-[01:21] When the old man's colors appear                       // Quando aparece a cor do velho
+[01:05] He's placed into scene doing something like this            // É posto em cena fazendo cena um treco assim
+[01:10] Very pointy, flat nose, like this, like this                // Bem apontado nariz chato assim assim
+[01:16] When the old man's colors appear                            // Quando aparece a cor do velho
+[01:21] When the old man's colors appear                            // Quando aparece a cor do velho
 [pause]
-[01:47] But beautiful guards don't believe in colors like this // Mas guarda belo não acredita na cor assim
-[01:51] He decides on the old suit, like this, like this       // Ele decide no terno velho assim assim
-[01:57] Because he wants to see the old man baked              // Porque ele quer o velho assado
-[02:02] Because he wants to see the old man baked              // Porque ele quer o velho assado
+[01:47] But the beautiful guard doesn't believe in colors like this // Mas guarda belo não acredita na cor assim
+[01:51] He decides on the old suit, like this, like this            // Ele decide no terno velho assim assim
+[01:57] Because he wants to see the old man baked                   // Porque ele quer o velho assado
+[02:02] Because he wants to see the old man baked                   // Porque ele quer o velho assado
 [pause]
-[02:08] But even then, the old man dies, like this, like this  // Mas mesmo assim o velho morre assim assim
-[02:14] And the beautiful guard is the hero on way or another  // E o guarda belo é o heroi assim assado
-[02:19] Because you need to be one way or another              // Por que é preciso ser assim assado
-[02:24] Because you need to be one way or another              // Por que é preciso ser assim assado
+[02:08] But even then, the old man dies, like this, like this       // Mas mesmo assim o velho morre assim assim
+[02:14] And the beautiful guard is the hero this way                // E o guarda belo é o heroi assim assado
+[02:19] Because you need to be this way                             // Por que é preciso ser assim assado
+[02:24] Because you need to be this way                             // Por que é preciso ser assim assado
 
 .title = Mulher Barriguda
 .en_title = Paunchy Woman
@@ -207,7 +206,7 @@
 [01:57] I hope not                            // Tomara que não
 
 .title = El Rey
-.en_title = The King (Spanish)
+.en_title = The King [in Spanish]
 .artist = Secos & Molhados
 .composer = Gerson Conrad, João Ricardo
 .end
@@ -250,16 +249,16 @@
 .end
 
 [00:14] May the four, like in a theater play      // Que os quatro como num teatro
-[00:20] Hold back their hands with not gesture    // Conservem a mão sem nenhum gesto
+[00:20] Stay their hands without a gesture        // Conservem a mão sem nenhum gesto
 [00:26] May the hot wine of the heart             // Que o vinho quente do coração
 [00:33] Rise to their thick heads                 // Lhes suba à cabeça espessa
 [pause]
 [00:40] May, from the pockets of each of the four // Que do bolso de cada um dos quatro
-[00:45] Like in a theater play, fly doves         // Como num teatro, voem pombas
-[00:49] White doves and may dawn break            // Pombas brancas e amanheça
+[00:45] Like in a theater play, fly away doves    // Como num teatro, voem pombas
+[00:49] White doves, and dawn break               // Pombas brancas e amanheça
 [pause]
 [01:33] May the four, like in a theater play      // Que os quatro como num teatro
-[01:38] Hold back their hands with not a gesture  // Conservem a mão sem nenhum gesto
+[01:38] Stay their hands without a gesture        // Conservem a mão sem nenhum gesto
 [01:44] May the hot wine of the heart             // Que o vinho quente do coração
 [01:51] Rise to their thick heads                 // Lhes suba à cabeça espessa
 
@@ -274,13 +273,16 @@
 [00:11] Captain, sir         // Senhor capitão
 [00:13] Take off this weight // Tirai este peso
 [00:15] From my heart        // Do meu coração
+[pause]
 [00:23] It's not sadness     // Não é de tristeza
 [00:25] It's not anxiety     // Não é de aflição
 [00:27] It's just hope       // É só de esperança
 [00:29] Captain, sir!        // Senhor capitão!
+[pause]
 [00:40] The light hope       // A leve esperança
 [00:42] The aerial hope      // A aérea esperança
 [00:44] Aerial, why, yes!    // Aérea, pois não!
+[pause]
 [00:49] A heavier weight     // Peso mais pesado
 [00:51] Doesn't exist        // Não existe não
 [00:53] Ah, rid me of it     // Ah, livrai-me dele
@@ -295,7 +297,7 @@
 [00:21] On the tense wires        // Nos fios tensos
 [00:30] Of the metal stave        // Da pauta de metal
 [00:37] The swallows yell         // As andorinhas gritam
-[00:43] For lack of a treble clef // Por falta de uma clave de sol
+[00:43] From a lack of a {Play on words. "Sol" (the G note in fixed-do solfège) also means "sun" in Portuguese=G clef} // Por falta de uma clave de sol
 
 .title = Fala
 .en_title = Speak
@@ -305,7 +307,7 @@
 .end
 
 [00:02] I don't know how to say things // Eu não sei dizer
-[00:06] Just for the sake of it        // Nada por dizer
+[00:06] Just to say them               // Nada por dizer
 [00:11] So instead I listen            // Então eu escuto
 [pause]
 [00:18] If you tell me                 // Se você disser
