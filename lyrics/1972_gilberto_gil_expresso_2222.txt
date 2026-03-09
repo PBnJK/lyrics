@@ -272,12 +272,12 @@ Eventually, the dust sufficiently settled, the dynamic duo returned to Brazil in
 [00:29] Get out, get out of the rain, girl // Sai, sai do sereno, menina
 [00:32] Rain can make you sick             // Sereno pode lhe fazer mal
 [00:35] Come on inside, girl               // Vem logo pra dentro, menina
-[00:38] Because this {Musical genre and dance=forró} is good as hell // Que esse forró tá gostoso pra danar
+[00:38] Because this {Musical genre and dance=forró} is damn good // Que esse forró tá gostoso pra danar
 [instrumental]
 [02:17] Get out, get out of the rain, girl // Sai, sai do sereno, menina
 [02:20] Rain can make you sick             // Sereno pode lhe fazer mal
 [02:23] Come on inside, girl               // Vem logo pra dentro, menina
-[02:26] Because this forró is good as hell // Que esse forró tá gostoso pra danar
+[02:26] Because this forró is damn good    // Que esse forró tá gostoso pra danar
 
 .title = Expresso 2222
 .en_title = Express 2222
