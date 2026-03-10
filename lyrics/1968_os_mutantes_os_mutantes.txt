@@ -12,12 +12,12 @@
 Os Mutantes (The Mutants) is[^1] a band started in 1966 by brothers Arnaldo Baptista and Sérgio Dias along with singer Rita Lee, during the height of the Tropicália movement in Brazil, which sought to mix popular Brazilian musical tradition with foreign styles. In this line, their 1968 self-titled debut album is a hodgepodge of influences, from The Beatles to Jimi Hendrix, Baião to African music—all backed by a generous heap of unconventional instrumentation and abstract lyricism, jumping between songs of love and critiques of the military dictatorship.
 
 <img src="assets/band_members/1969_os_mutantes.jpg" width="400" alt="Os Mutantes playing live, wearing frankly ridiculous clothes. Arnaldo Baptista plays the bass, wearing a suit dotted with shiny jewels, bow tie, top hat and canvas pants. Rita Lee holds cymbals and wears a long puff-sleeved wedding dress and tiara. Sérgio Dias plays his golden guitar and, appropriately, is dressed in a shiny patterned coat, as well as a striped sweatband and zebra stripe pants." />
-= This is what peak performance looks like
+= Fabulous
 
 Os Mutantes are also notable for their innovation, at a time where electric instruments were expensive and the phonographic industry in Brazil was far behind that of countries like the United States or England. Cláudio César Dias Baptista, brother of Arnaldo and Sérgio, built himself the guitar and bass used in most Mutantes records, as well as their effects pedals, amplifiers, etc.
 
 .title = Panis et Circenses
-.en_title = Bread and Circuses, in Latin
+.en_title = Bread and Circuses [in Latin]
 .artist = Os Mutantes
 .composer = Caetano Veloso, Gilberto Gil
 .arranger = Rogério Duprat
@@ -382,18 +382,18 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [01:42] Four hundred bats of power                                // Quatrocentos morcegos de força
 [01:47] The kiss, the young man, and the lady                     // O beijo, o rapaz e a moça
 [pause]
-[01:51] The underwater train                                      // O trem dentro d'água
+[01:51] The train in the water                                    // O trem dentro d'água
 [01:53] The still pool                                            // A piscina parada
 [01:57] She doesn't think of anything                             // Ela não pensa em nada
 [02:01] He thinks but doesn't say                                 // Ele pensa e não diz
-[02:04] Where there's much water everything's happy               // Onde tem muita água tudo é feliz
+[02:04] Where there's a lot of water, everything's happy          // Onde tem muita água tudo é feliz
 [pause]
 [02:09] The first kiss                                            // O primeiro beijo
 [02:12] Four hundred cruzeiros                                    // Quatrocentos cruzeiros
-[02:16] Joe {"HPs" as in horsepower. Also, this is a reference to an old car ad (see footnote 3)=fourty HPs of thrills} // Zé quarenta HPs de emoção
+[02:16] Joe {"HPs" as in horsepower. Also, this is a reference to an old car ad (see footnote 3)=40HPs of thrills} // Zé quarenta HPs de emoção
 [pause]
-[02:20] {Famous movie character, an undertaker=Coffin Joe}        // O Zé do Caixão
-[02:23] Brings the creatures of creation                          // Traz os bichos da criação
+[02:20] {Classic Brazilian horror movie character, an undertaker, to round out the "dark ride" theme of the song=Coffin Joe} // O Zé do Caixão
+[02:23] Brings forth the creatures of creation                    // Traz os bichos da criação
 [02:29] To the gate and—                                          // Até o portão e—
 [pause]
 [02:33] The session's over                                        // Terminou a sessão
@@ -405,7 +405,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 [02:54] He secretly thinks                                        // Ele pensa em segredo
 [02:58] He secretly thinks                                        // Ele pensa em segredo
 [03:02] He secretly thinks                                        // Ele pensa em segredo
-[03:05] He secretly thinks                                        // Ele pensa em segredo...
+[03:05] He secretly thinks...                                     // Ele pensa em segredo...
 
 .title = Tempo no Tempo (Once Was a Time I Thought)
 .en_title = Time in Time (Once Was a Time I Thought)
@@ -460,7 +460,7 @@ Os Mutantes are also notable for their innovation, at a time where electric inst
 <ul>
 [^1=Nowadays, only Sérgio Dias is left of the original formation. Rita Lee was kicked out of the band in 1972 and unfortunately passed away in 2023, while Arnaldo Baptista left in 1973 due to issues with drug abuse (he is doing much better now!) Both of them led successful solo careers, with Rita Lee often being called the Brazilian "Queen of Rock."]
 [^2=<a href="https://www.youtube.com/watch?v=nsOoltvk0sk">Le Premier Bonheur du Jour Translation by frenchrescue</a>]
-[^3="Renault Gordini: <a href="https://www.youtube.com/watch?v=UXgjuQAEUKs">fourty HPs of thrills!</a>"]
+[^3="Renault Gordini: <a href="https://www.youtube.com/watch?v=UXgjuQAEUKs">40HPs of thrills!</a>." From a time when 40HP was enough to thrill ya]
 </ul>
 
 ---
