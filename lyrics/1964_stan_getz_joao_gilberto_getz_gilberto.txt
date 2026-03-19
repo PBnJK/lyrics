@@ -3,8 +3,8 @@
 .album_genre = Bossa Nova, Jazz
 .album_year = 1964
 
-# Getz/Gilberto
-= Stan Getz & João Gilberto (1964)
+# Getz/Gilberto (1964)
+= Stan Getz & João Gilberto
 
 <img src="assets/covers/1964_stan_getz_joao_gilberto_getz_gilberto.jpg" width="400" alt="Cover for Getz/Gilberto, featuring an abstract painting, mostly in oranges, with yellow and black highlights." />
 = Featured in the cover art: <b>Alla Africa,</b> by Puerto Rican artist Olga Albizu

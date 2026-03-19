@@ -41,6 +41,13 @@ const db = {
 		"year": "1972",
 		"search": "Expresso 2222Expresso 2222Gilberto Gilgilberto gilMPBmpbTropicáliatropicáliaTropicaliatropicalia1972",
 	},
+	"1977_beto_guedes_a_pagina_do_relampago_eletrico": {
+		"album": "A Página do Relâmpago Elétrico",
+		"artist": ["Beto Guedes"],
+		"genre": ["MPB", "Psychedelic Folk", "Progressive Rock", "Choro"],
+		"year": "1977",
+		"search": "A Página do Relâmpago ElétricoA Pagina do Relampago EletricoBeto Guedesbeto guedesMPBmpbPsychedelic Folkpsychedelic folkProgressive Rockprogressive rockChorochoro1977",
+	},
 	"1971_chico_buarque_construcao": {
 		"album": "Construção",
 		"artist": ["Chico Buarque"],

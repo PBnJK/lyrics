@@ -1,0 +1,67 @@
+.album_name = A Página do Relâmpago Elétrico
+.album_artist = Beto Guedes
+.album_genre = MPB, Psychedelic Folk, Progressive Rock, Choro
+.album_year = 1977
+
+# A Página do Relâmpago Elétrico (1977)
+= Beto Guedes
+
+<img src="assets/covers/1977_beto_guedes_a_pagina_do_relampago_eletrico.jpg" width="400" alt="A Página do Relâmpago Elétrico cover, depicting an old, weathered, black & white photograph of a young boy" />
+= A photo of young Beto Guedes
+
+.title = A Página do Relâmpago Elétrico
+.en_title = The Electric Thunder Page
+.artist = Beto Guedes
+.composer = Beto Guedes, Ronaldo Bastos
+.end
+
+[00:10] Open the page of the book             // Abre a folha do livro
+[00:17] That I give you to keep               // Que eu lhe dou para guardar
+[00:21] And untie the knot of the five senses               // E desata o nó dos cinco sentidos
+[00:27] To release yourself                                 // Para se soltar
+[00:31] Like sound brightens the sky, it's not even morning // Que nem o som clareia o céu nem é de manhã
+[00:37] TODO // E anda debaixo do chão
+[00:45] TODO // Mas avoa que nem asa de avião
+[00:56] TODO // Pra rolar e viver levando jeito
+[00:57] TODO // De seguir rolando
+[01:01] TODO // Que nem canção de amor no firmamento
+[01:09] TODO // Que alguém pegou no ar
+[01:14] TODO // E depois jogou no mar
+[pause]
+[01:21] TODO // Pra viver do outro lado da vida
+[01:27] TODO // E saber atravessar
+[01:31] TODO // Prosseguir viagem numa garrafa
+[01:37] TODO // Onde o mar levar
+[01:42] TODO // Que é a luz que vai tecer o motor da lenda
+[01:48] TODO // Cruzando o céu do sertão
+[01:56] TODO // E um cego canta até arrebentar
+[02:18] TODO // O sertão vai virar mar
+[02:22] TODO // O mar vai virar sertão
+[02:32] TODO // Não ter medo de nenhuma careta
+[02:36] TODO // Que pretende assustar
+[02:41] TODO // Encontrar o coração do planeta
+[02:46] TODO // E mandar parar
+[02:50] TODO // Pra dar um tempo de prestar atenção nas coisas
+[02:57] TODO // Fazer um minuto de paz
+[03:04] TODO // Um silêncio que ninguém esquece mais
+[03:26] TODO // Que nem ronco do trovão
+[03:30] TODO // Que eu lhe dou para guardar
+[pause]
+[03:40] TODO // A paixão é que nem cobra de vidro
+[03:44] TODO // E também pode quebrar
+[03:49] TODO // Faz o jogo e abre a folha do livro
+[03:53] TODO // Apresente o ás
+[03:58] TODO // Pra renascer em cada pedaço que ficou
+[04:04] TODO // E o grande amor vai juntar
+[04:11] TODO // E é coisa que ninguém separa mais
+[04:18] TODO // Que nem ronco do trovão
+[04:22] TODO // Que eu lhe dou para guardar
+
+---
+
+# Sources
+
+<ul>
+  <li>Song credits sourced from <a href="https://www.discogs.com/release/9895794-Beto-Guedes-A-P%C3%A1gina-Do-Rel%C3%A2mpago-El%C3%A9trico">Discogs</a></li>
+  <li>Synced lyrics sourced from <a href="https://lrclib.net">LRCLIB</a></li>
+</ul>

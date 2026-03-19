@@ -341,21 +341,21 @@ Eventually, the dust sufficiently settled, the dynamic duo returned to Brazil in
 [02:15] To beyond the year 2000                                 // Pra depois do ano 2000
 
 .title = O Sonho Acabou
-.en_title = The Dream Ended
+.en_title = The Dream Is Over
 .artist = Gilberto Gil
 .composer = Gilberto Gil
 .end
 
-[00:08] The dream ended                                               // O sonho acabou
+[00:08] The dream is over                                             // O sonho acabou
 [00:12] Those that didn't sleep in a sleeping bag barely even dreamed // Quem não dormiu no sleeping bag nem sequer sonhou
-[00:16] The dream ended                                               // O sonho acabou
+[00:16] The dream is over                                             // O sonho acabou
 [00:21] Those that didn't sleep in a sleeping bag barely even dreamed // Quem não dormiu no sleeping bag nem sequer sonhou
 [pause]
 [00:24] The dream ended today when the sky                            // O sonho acabou hoje quando o céu
 [00:27] {These are made-up in Portuguese too=Morning-ed, de-sun-ved}, coming, coming // Foi demanhando, dessolvindo, vindo, vindo
 [00:30] Dissolving the night on the mouth of the day                  // Dissolvendo a noite na boca do dia
 [pause]
-[00:33] The dream ended                                               // O sonho acabou
+[00:33] The dream ended up                                            // O sonho acabou
 [00:34] Dissolving {Old brand of pills for constipation=Dr. Ross' Pills of Life} // Dissolvendo a pílula de vida do doutor Ross
 [00:37] In the belly of {Might be related to the fact that magazine ads for the pill featured the Virgin Mary, but Maria is also just a very common name=Maria} // Na barriga de Maria
 [pause]
@@ -369,21 +369,21 @@ Eventually, the dust sufficiently settled, the dynamic duo returned to Brazil in
 [00:52] Melting my worries away                                       // Derretendo a minha mágoa
 [00:54] Toppling over my bed                                          // Derrubando a minha cama
 [pause]
-[00:55] The dream ended... Ih!                                        // O sonho acabou... Ih!
+[00:55] The dream is over... Ih!                                      // O sonho acabou... Ih!
 [01:00] Heavy was the sleep of those that didn't dream                // Foi pesado o sono pra quem não sonhou
-[01:03] The dream ended... Ih!                                        // O sonho acabou... Ih!
+[01:03] The dream is over... Ih!                                      // O sonho acabou... Ih!
 [01:08] Heavy was the sleep of those that didn't dream                // Foi pesado o sono pra quem não sonhou
 [pause]
-[01:40] The dream ended                                               // O sonho acabou
+[01:40] The dream is over                                             // O sonho acabou
 [01:44] Those that didn't sleep in a sleeping bag barely even dreamed // Ah, quem não dormiu no sleeping bag nem sequer sonhou
-[01:48] The dream ended                                               // O sonho acabou
+[01:48] The dream is over                                             // O sonho acabou
 [01:52] Those that didn't sleep in a sleeping bag barely even dreamed // Ah, quem não dormiu no sleeping bag nem sequer sonhou
 [pause]
 [01:56] The dream ended today when the sky                            // O sonho acabou hoje quando o céu
 [01:58] Morning-ed, de-sun-ved, coming, coming                        // Foi de-manhando, dessolvindo, vindo, vindo
 [02:01] Dissolving the night on the mouth of the day                  // Dissolvendo a noite na boca do dia
 [pause]
-[02:04] The dream ended                                               // O sonho acabou
+[02:04] The dream ended up                                            // O sonho acabou
 [02:05] Dissolving Dr. Ross' Pills of Life                            // Dissolvendo a pílula de vida do doutor Ross
 [02:08] In the belly of Maria                                         // Na barriga de Maria
 [pause]
@@ -397,9 +397,9 @@ Eventually, the dust sufficiently settled, the dynamic duo returned to Brazil in
 [02:23] Melting my worries away                                       // Derretendo a minha mágoa
 [02:25] Toppling over my bed                                          // Derrubando a minha cama
 [pause]
-[02:26] The dream ended... Ih!                                        // O sonho acabou... Ih!
+[02:26] The dream is over... Ih!                                      // O sonho acabou... Ih!
 [02:31] Heavy was the sleep of those that didn't dream                // Foi pesado o sono pra quem não sonhou
-[02:34] The dream ended... Ih!                                        // O sonho acabou... Ih!
+[02:34] The dream is over... Ih!                                      // O sonho acabou... Ih!
 [02:39] Heavy was the sleep of those that didn't dream                // Foi pesado o sono pra quem não sonhou
 
 .title = Oriente
