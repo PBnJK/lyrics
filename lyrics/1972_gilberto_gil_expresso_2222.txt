@@ -189,17 +189,17 @@ Eventually, the dust sufficiently settled, the dynamic duo returned to Brazil in
 [05:56] For this fear (to go away)                             // Pra esse medo se acabar
 
 .title = Chiclete com Banana
-.en_title = Bubblegum with Banana
+.en_title = Chewing Gum with Banana
 .artist = Gilberto Gil
 .composer = Almira Castilho, Gordurinha
 .end
 
 [00:08] I'll put bebop in my samba                                                   // Só ponho bebop no meu samba
 [00:13] Only when Uncle Sam picks up a {Brazilian frame drum=tamborim}               // Quando o tio Sam pegar no tamborim
-[00:15] When he picks up a {A type of tambourine=pandeiro} and {Bass drum=zabumba} // Quando ele pegar no pandeiro e no zabumba
+[00:15] When he picks up a {A type of tambourine=pandeiro} and {Bass drum=zabumba}   // Quando ele pegar no pandeiro e no zabumba
 [00:19] When he understands that samba isn't {Cuban dance=rumba}                     // Quando ele entender que o samba não é rumba
 [00:22] Then I'll mix Miami with {Rio de Janeiro beachside neighbourhood and beach=Copacabana} // Aí eu vou misturar Miami com Copacabana
-[00:28] I'll mix bubblegum with bananas                                              // Chicletes eu misturo com banana
+[00:28] I'll mix chewing gum with bananas                                            // Chicletes eu misturo com banana
 [00:31] And that's how my samba is going to be                                       // E o meu samba vai ficar assim
 [pause]
 [00:42] I want to see this big jumble                                                // Quero ver a grande confusão
@@ -220,7 +220,7 @@ Eventually, the dust sufficiently settled, the dynamic duo returned to Brazil in
 [01:49] When he picks up a pandeiro and zabumba                                      // Quando ele pegar no pandeiro e no zabumba
 [01:52] When he understands that samba isn't rumba                                   // Quando ele entender que o samba não e rumba
 [01:55] Then I'll mix Miami with Copacabana                                          // Aí eu vou misturar Miami com Copacabana
-[02:01] I'll mix bubblegum with bananas                                              // Chicletes eu misturo com banana
+[02:01] I'll mix chewing gum with bananas                                            // Chicletes eu misturo com banana
 [02:03] And that's how my samba is going to be                                       // E o meu samba vai ficar assim
 [pause]
 [02:14] I want to see this big jumble                                                // Quero ver a grande confusão
