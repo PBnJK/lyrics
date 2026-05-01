@@ -132,5 +132,12 @@ const db = {
 		"year": "1974",
 		"search": "A Tábua de EsmeraldaA Tabua de EsmeraldaJorge Ben Jorjorge ben jorMPBmpbSambasamba1974",
 	},
+	"2023_tangolo_mangos_garatujas": {
+		"album": "Garatujas",
+		"artist": ["Tangolo Mangos"],
+		"genre": ["Psychedelic Rock", "MPB", "Progressive Rock", "Samba", "Baião"],
+		"year": "2023",
+		"search": "GaratujasGaratujasTangolo Mangostangolo mangosPsychedelic Rockpsychedelic rockMPBmpbProgressive Rockprogressive rockSambasambaBaiãobaiãoBaiaobaiao2023",
+	},
 
 }

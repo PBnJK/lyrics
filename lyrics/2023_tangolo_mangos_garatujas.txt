@@ -1,0 +1,113 @@
+.album_name = Garatujas
+.album_artist = Tangolo Mangos
+.album_genre = Psychedelic Rock, MPB, Progressive Rock, Samba, Baião
+.album_year = 2023
+
+# Garatujas (2023)
+= Tangolo Mangos
+
+<img src="assets/covers/2023_tangolo_mangos_garatujas.jpg" width="400" alt="Cover art for Garatujas, depicting a wave or leaf-like doodle in orange, white, red and black" />
+= One beautiful garatuja
+
+Garatujas (doodle) is the debut album by band Tangolo Mangos.
+
+.title = Canaã
+.en_title = Canaan
+.artist = Tangolo Mangos & Joca Lobo
+.arranger = Felipe Vaqueiro & Joca Lobo
+.end
+
+[00:00] The sun arrives, cracking the floor             // O Sol chega rachando o chão inteiro
+[00:00] And exhaustion comes to torment me              // E o cansaço já vem me atormentar
+[00:00] It's noon and my head already wants out         // Meio dia a cabeça pede arrego
+[00:00] And I start to doubt                            // E eu até já começo a duvidar
+[pause]
+[00:00] There's no way out of this road                 // Dessa estrada não dá pra sair
+[00:00] Until you get to a better place                 // Até chegar num lugar melhor
+[00:00] I no longer think about giving up               // Já não penso em desistir
+[00:00] My friends are already around me                // Meus amigos já estão ao redor
+[00:00] I don't feel too lonely to live anymore         // Já não me sinto tão só pra viver
+[pause]
+[00:00] And when {June festivities celebrating the nativity of John the Baptist=São João} in {A city in the northeastern Brazil, the capital of the state of Bahia=Salvador} // E quando chega o São João em Salvador
+[00:00] No one can tell the gunshots from firecrackers  // Ninguém sabe dizer se é tiro ou bomba de 1000
+[00:00] Kids playing or kids killing, in the city       // São crianças brincando ou crianças matando, na cidade
+[00:00] No one can tell                                 // Ninguém sabe dizer
+[00:00] No one can tell                                 // Ninguém sabe dizer
+[pause]
+[00:00] And sometimes things go wrong                   // E às vezes as coisas dão errado
+[00:00] You can only light a cigarette inside a tornado // Você só pode acender um cigarro dentro de um tornado
+[00:00] Patience, It was all you could be               // Paciência, foi o que deu pra ser
+[00:00] It was all you could be                         // Foi o que deu pra ser
+[00:00] Life has a better place in store for you        // A vida reserva um lugar melhor pra você
+[instrumental]
+[00:00] There's no way out of this road                 // Dessa estrada não dá pra sair
+[00:00] Until you get to a better place                 // Até chegar num lugar melhor
+[00:00] I no longer think about giving up               // Já não penso em desistir
+[00:00] My friends are already around me                // Meus amigos já estão ao redor
+[00:00] I don't feel too lonely to live anymore         // Já não me sinto tão só pra viver
+
+.title = Animais Noturnos
+.en_title = Nocturnal Animals
+.artist = Tangolo Mangos, André Becker & Cidade Dormitório
+.arranger = João Denovaro
+.end
+
+[00:00] Nocturnal animals                                                   // Animais noturnos
+[00:00] Nocturnal animals                                                   // Animais noturnos
+[00:00] Nocturnal animals                                                   // Animais noturnos
+[pause]
+[00:00] It's like a soap ball                                               // É como se fosse uma bola de sabão
+[00:00] Plenty of surface but empty                                         // Muita superfície mas vazia
+[00:00] I'm 20 and don't know what's best for me                            // Tenho 20 anos e não sei o que é melhor pra mim
+[00:00] There's a purple and green parasite in my hand                      // Tem um parasita roxo e verde na minha mão
+[00:00] There's soda on my pocket                                           // No meu bolso tem refrigerante
+[00:00] I cover my ears when I see the crowds pass by                       // Tapo os meus ouvidos quando vejo a multidão passar
+[pause]
+[00:00] Nocturnal animals                                                   // Animais noturnos
+[00:00] Sleep on the ground                                                 // Dormem no chão
+[00:00] Nocturnal animals                                                   // Animais noturnos
+[00:00] Strain coffee                                                       // Passam café
+[00:00] Nocturnal animals                                                   // Animais noturnos
+[00:00] Sunbathing                                                          // Tomando sol
+[00:00] Animals and plants                                                  // Animais e plantas
+[pause]
+[00:00] Nocturnal animals                                                   // Animais noturnos
+[00:00] Sleep on the ground                                                 // Dormem no chão
+[00:00] Nocturnal animals                                                   // Animais noturnos
+[00:00] Strain coffee                                                       // Passam café
+[00:00] Nocturnal animals                                                   // Animais noturnos
+[00:00] Sunbathing                                                          // Tomando sol
+[00:00] Animals and plants too                                              // Animais e plantas também
+[pause]
+[00:00] My dear nocturnal animals (and plants too)                          // Meus queridos animais noturnos (e plantas também)
+[00:00] This program is made for you                                        // Esse programa é feito pra você
+[00:00] To you that has no chance when the Age of Enlightenment arrives     // Pra você que não tem vez quando o iluminismo chega
+[00:00] The Century of Enlightenments has long been covering up the obscure // O século das luzes resguarda há muito tempo o obscuro
+[00:00] When we're up to no good, isn't it true?                            // Quando estamos aprontando, não é mesmo?
+[00:00] (It's when the demons seduce souls to fill up hell)                 // (É quando os demônios aliciam almas para povoar o inferno)
+[pause]
+[00:00] Nocturnal animals                                                   // Animais noturnos
+[00:00] Diurnal animals                                                     // Animais diurnos
+[00:00] Animals on the road on a Monday                                     // Animais segunda-feira na estrada
+[00:00] In silence, selling their bodies                                    // No silêncio, vendendo o corpo
+[00:00] Animals in black suits                                              // Animais de terno preto
+[00:00] Animals writing lyrics                                              // Animais escrevendo letras
+[00:00] Taking drugs                                                        // Usando drogas
+[00:00] Eating garbage                                                      // Comendo lixo
+[00:00] Listening to music on the internet                                  // Ouvindo música na internet
+
+.title = O Gato Gateia
+.en_title = Nocturnal Animals
+.artist = Tangolo Mangos, André Becker & Cidade Dormitório
+.arranger = João Denovaro
+.end
+
+---
+
+# Sources
+
+<ul>
+  <li>Song credits sourced from <a href="https://www.discogs.com/release/33102945-Tangolo-Mangos-Garatujas">Discogs</a></li>
+  <li>Synced lyrics sourced from <a href="https://lrclib.net">LRCLIB</a></li>
+</ul>
+

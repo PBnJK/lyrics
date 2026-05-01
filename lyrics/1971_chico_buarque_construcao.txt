@@ -51,7 +51,7 @@
 .end
 
 [00:14] Everyday she does everything just the same      // Todo dia ela faz tudo sempre igual
-[00:17] Shakes me up at six in the morning              // Me sacode às seis horas da manhã
+[00:17] Shakes me awake at six in the morning           // Me sacode às seis horas da manhã
 [00:20] Smiles me a punctual smile                      // Me sorri um sorriso pontual
 [00:22] And kisses me with her minty mouth              // E me beija com a boca de hortelã
 [pause]
@@ -76,7 +76,7 @@
 [01:13] And bites me with a mouth of fear               // E me morde com a boca de pavor
 [pause]
 [01:16] Everyday she does everything just the same      // Todo dia ela faz tudo sempre igual
-[01:18] Shakes me up at six in the morning              // Me sacode às seis horas da manhã
+[01:18] Shakes me awake at six in the morning           // Me sacode às seis horas da manhã
 [01:21] Smiles me a punctual smile                      // Me sorri um sorriso pontual
 [01:24] And kisses me with her minty mouth              // E me beija com a boca de hortelã
 [pause]
@@ -101,7 +101,7 @@
 [02:15] And bites me with a mouth of fear               // E me morde com a boca de pavor
 [pause]
 [02:17] Everyday she does everything just the same      // Todo dia ela faz tudo sempre igual
-[02:20] Shakes me up at six in the morning              // Me sacode às seis horas da manhã
+[02:20] Shakes me awake at six in the morning           // Me sacode às seis horas da manhã
 [02:22] Smiles me a punctual smile                      // Me sorri um sorriso pontual
 [02:25] And kisses me with her minty mouth              // E me beija com a boca de hortelã
 
@@ -420,15 +420,15 @@
 .arranger = Chico Buarque
 .end
 
-[00:00] He came without much talk, without much explanation            // Ele vinha sem muita conversa, sem muito explicar
-[00:07] I just now that he spoke off and smelled off and liked the sea // Eu só sei que falava e cheirava e gostava de mar
-[00:14] I know he had tattoos on his arms and gold on his teeth        // Sei que tinha tatuagem no braço e dourado no dente
-[00:22] And that my mom madly gave herself to him                      // E minha mãe se entregou a esse homem perdidamente
+[00:00] He came without much talk, without much explanation             // Ele vinha sem muita conversa, sem muito explicar
+[00:07] I just know that he spoke of, and smelled of, and liked the sea // Eu só sei que falava e cheirava e gostava de mar
+[00:14] I know that he had tattoos on his arms, and gold on his teeth   // Sei que tinha tatuagem no braço e dourado no dente
+[00:22] And that my mom madly surrendered herself to him                // E minha mãe se entregou a esse homem perdidamente
 [pause]
-[00:33] And the same way he came, he left, we don't know where to      // Ele assim como veio partiu não se sabe pra onde
-[00:39] Leaving my mom with her gaze growing more distant by the day   // E deixou minha mãe com o olhar cada dia mais longe
-[00:46] Waiting, frozen, glued to the pier by the sea                  // Esperando, parada, pregada na pedra do porto
-[00:54] With her only old dress growing shorter by the day             // Com seu único velho vestido cada dia mais curto
+[00:33] And the same way he came, he left, no one knows where to        // Ele assim como veio partiu não se sabe pra onde
+[00:39] Leaving my mom with a gaze growing more distant by the day      // E deixou minha mãe com o olhar cada dia mais longe
+[00:46] Waiting, frozen, glued to the pier by the sea                   // Esperando, parada, pregada na pedra do porto
+[00:54] With her single old dress growing shorter by the day            // Com seu único velho vestido cada dia mais curto
 [pause]
 [01:04] When at last I was born, my mom wrapped me in a mantle         // Quando enfim eu nasci minha mãe embrulhou-me num manto
 [01:11] Dressed me as if I were some kind of saint                     // Me vestiu como se eu fosse assim uma espécie de santo
@@ -436,9 +436,9 @@
 [01:25] Lulled me to sleep by singing cabaret shanties                 // Me ninava cantando cantigas de cabaré
 [pause]
 [01:36] My mom didn't delay in alerting the whole neighbourhood        // Minha mãe não tardou a alertar toda a vizinhança
-[01:44] Showing that in me there was much more than a simple child     // A mostrar que ali estava bem mais que uma simples criança
-[01:51] And I don't really know if by irony, or by love                // E não sei bem se por ironia ou se por amor
-[01:57] She decided to give me the name of our Lord                    // Resolveu me chamar com o nome do Nosso Senhor
+[01:44] Showing that I was much more than a simple child               // A mostrar que ali estava bem mais que uma simples criança
+[01:51] And I don't really know if by irony, or if by love             // E não sei bem se por ironia ou se por amor
+[01:57] She decided to name me after the name of our Lord              // Resolveu me chamar com o nome do nosso Senhor
 [pause]
 [02:08] My story is this name that to this day I still carry with me   // Minha história é esse nome que ainda hoje carrego comigo
 [02:15] When I go bar to bar, I turn the tables, yell, drink, fight    // Quando vou bar em bar, viro a mesa, berro, bebo e brigo
@@ -453,20 +453,20 @@
 .artist = Chico Buarque
 .end
 
-[00:12] Sleep, little one        // Dorme minha pequena
+[00:12] Sleep, my little one     // Dorme minha pequena
 [00:17] It's not worth waking up // Não vale a pena despertar
-[00:26] Sleep, little one        // Dorme minha pequena
+[00:26] Sleep, my little one     // Dorme minha pequena
 [00:31] It's not worth waking up // Não vale a pena despertar
 [pause]
 [00:38] I'll leave               // Eu vou sair
 [00:42] Go out and about         // Por aí afora
-[00:46] Behind an aurora         // Atrás da aurora
+[00:46] After the aurora         // Atrás da aurora
 [00:51] Most serene              // Mais serena
 [pause]
-[00:54] Sleep, little one        // Dorme minha pequena
+[00:54] Sleep, my little one     // Dorme minha pequena
 [00:58] It's not worth waking up // Não vale a pena despertar
 [pause]
-[01:22] Sleep, little one        // Dorme minha pequena
+[01:22] Sleep, my little one     // Dorme minha pequena
 [01:27] It's not worth waking up // Não vale a pena despertar
 
 ---

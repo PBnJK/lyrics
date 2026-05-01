@@ -1,0 +1,7 @@
+CravoECanelaSingle.mp3:
+  Radio Batuta - Instituto Moreira Salles
+  https://api.radiobatuta.com.br/wp-content/uploads/2022/08/9-Milton-Nascimento-Som-Imaginario-Lo-e-Beto-Cravo-e-Canela.mp3
+
+NadaSeraComoAntesSingle.mp3
+  Radio Batuta - Instituto Moreira Salles
+  https://api.radiobatuta.com.br/wp-content/uploads/2022/08/10-Milton-Nascimento-Som-Imaginario-Lo-e-Beto-Nada-sera-Como-Antes-1971.mp3
