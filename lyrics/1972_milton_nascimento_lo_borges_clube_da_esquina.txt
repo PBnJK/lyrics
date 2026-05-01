@@ -107,7 +107,7 @@ Being released while Brazil was ruled by a military dictatorship and during the 
 .composer = Fernando Brant, Milton Nascimento
 .end
 
-[00:04] What would you say of this thing your feet can no longer reach? // O que vocês diriam dessa coisa que não dá mais pé?
+[00:04] What would you say of this thing {As in touching the bottom of a river, pool, etc.=you can no longer touch the bottom of?} // O que vocês diriam dessa coisa que não dá mais pé?
 [00:09] What would you do to escape the tide?                           // O que vocês fariam pra sair dessa maré?
 [00:12] What was dream turns to dirt                                    // O que era sonho vira terra
 [00:17] Who will be the first to answer me?                             // Quem vai ser o primeiro a me responder?
@@ -207,7 +207,7 @@ Being released while Brazil was ruled by a military dictatorship and during the 
 .composer = Carmelo Larrea
 .end
 
-*This is a cover of a bolero composed by Carmelo Larrea, being sung in Spanish rather than Portuguese. Although both languages are somewhat similar, they're not similar enough for me to feel confident doing a full translation. As such, this is adapted from another translation I found on the internet[^1].*
+*This is a cover of a bolero composed by Carmelo Larrea, being sung in Spanish rather than Portuguese. I don't speak Spanish, so this is adapted from another translation I found on the internet[^1].*
 
 [00:01] Sevilla had to be                // Sevilla tuvo que ser
 [00:11] With its little silver moon      // Con su lunita plateada
@@ -276,16 +276,16 @@ Being released while Brazil was ruled by a military dictatorship and during the 
 [pause]
 [01:35] And if I die, don't cry                              // E seu morrer, não chore não
 [01:39] It's just the moon                                   // É só a lua
-[01:42] It's you dress the color of a naked wonder           // É seu vestido cor de maravilha nua
+[01:42] It's your dress the color of a naked wonder          // É seu vestido cor de maravilha nua
 [01:48] I still live on this same street                     // Ainda moro nesta mesma rua
 [01:54] How are you?                                         // Como vai você?
 [01:58] Are you coming?                                      // Você vem?
 [02:01] Or is it too late?                                   // Ou será que é tarde demais?
 [instrumental]
-[03:06] Does my thought have the color of your dress        // O meu pensamento tem a cor de seu vestido
-[03:12] Or a sunflower the color of your hair?              // Ou um girassol que tem a cor de seu cabelo?
-[03:18] Does my thought have the color of your dress        // O meu pensamento tem a cor de seu vestido
-[03:25] Or a sunflower the color of your hair?              // Ou um girassol que tem a cor de seu cabelo?
+[03:06] Do my thoughts have the color of your dress          // O meu pensamento tem a cor de seu vestido
+[03:12] Or a sunflower the color of your hair?               // Ou um girassol que tem a cor de seu cabelo?
+[03:18] Do my thoughts have the color of your dress          // O meu pensamento tem a cor de seu vestido
+[03:25] Or a sunflower the color of your hair?               // Ou um girassol que tem a cor de seu cabelo?
 [repeat]
 
 .title = San Vicente
@@ -294,7 +294,7 @@ Being released while Brazil was ruled by a military dictatorship and during the 
 .composer = Fernando Brant, Milton Nascimento
 .end
 
-|São Vicente was the first village founded in Brazil, and also where the first election on the entire American continent was run.<br/>Its port also received one of the greatest influxes of slaves via the Transatlantic Slave Trade.|
+|São Vicente was the first village founded in Brazil by Portuguese colonizers, and also where the first election on the entire American continent was run.<br/>Its port also received one of the greatest influxes of slaves via the Transatlantic Slave Trade.|
 
 [00:01] American heart                      // Coração americano
 [00:05] I woke up from a strange dream      // Acordei de um sonho estranho
@@ -336,12 +336,14 @@ Being released while Brazil was ruled by a military dictatorship and during the 
 [00:16] Dark party, love             // Festa negra, amor
 [00:20] But it's late                // Mas é tarde
 
-.title = Clube da Esquina nº 2
-.en_title = Corner Club nº 2
+.title = Clube da Esquina №2
+.en_title = Corner Club №2
 .artist = Milton Nascimento & Lô Borges
 .composer = Lô Borges, Márcio Borges, Milton Nascimento
 .arranger = Eumir Deodato
 .end
+
+*Corner Club №1 was released on an earlier Milton Nascimento album, "Milton" (1970.)*
 
 [instrumental]
 
@@ -414,47 +416,47 @@ Being released while Brazil was ruled by a military dictatorship and during the 
 [02:33] Or let me fall in love           // Nem deixar eu me apaixonar
 
 .title = Os Povos
-.en_title = The People
+.en_title = The Peoples
 .artist = Milton Nascimento
 .composer = Márcio Borges, Milton Nascimento
 .end
 
-[00:08] At the edge of the world                               // Na beira do mundo
-[00:13] Iron gate, dead village, a crowd                       // Portão de ferro, aldeia morta, multidão
-[00:27] My people, my people                                   // Meu povo, meu povo
-[00:32] Didn't want to know of new things ever again           // Não quis saber do que é novo, nunca mais
+[00:08] At the edge of the world                     // Na beira do mundo
+[00:13] Iron gate, dead village, a crowd             // Portão de ferro, aldeia morta, multidão
+[00:27] My people, my people                         // Meu povo, meu povo
+[00:32] Didn't want to know of new things ever again // Não quis saber do que é novo, nunca mais
 [pause]
-[00:43] Eh! My city                                            // Ê! minha cidade
-[00:48] Dead village, gold ring, my love                       // Aldeia morta, anel de ouro, meu amor
-[01:00] At the edge of life                                    // Na beira da vida
-[01:05] We meet again, alone                                   // A gente torna a se encontrar só
+[00:43] Eh! My city                                  // Ê! minha cidade
+[00:48] Dead village, gold ring, my love             // Aldeia morta, anel de ouro, meu amor
+[01:00] At the edge of life                          // Na beira da vida
+[01:05] We meet again, alone                         // A gente torna a se encontrar só
 [pause]
-[01:16] Bright house                                           // Casa iluminada
-[01:20] Iron gate, padlock, heart                              // Portão de ferro, cadeado, coração
-[01:33] And I, {As in, he has reconquered himself=reconquered} // E eu reconquistado
-[01:37] Go on strolling, strolling and to die                  // Vou passeando, passeando e morrer
+[01:16] Bright house                                 // Casa iluminada
+[01:20] Iron gate, padlock, heart                    // Portão de ferro, cadeado, coração
+[01:33] And I, reconquered                           // E eu reconquistado
+[01:37] Go on strolling, strolling and to die        // Vou passeando, passeando e morrer
 [pause]
-[01:49] Close to your eyes                                     // Perto de seus olhos
-[01:53] Gold ring, birthday, my love                           // Anel de ouro, aniversário, meu amor
-[02:04] In my city                                             // Em minha cidade
-[02:08] We learn to live alone                                 // A gente aprende a viver só
+[01:49] Close to your eyes                           // Perto de seus olhos
+[01:53] Gold ring, birthday, my love                 // Anel de ouro, aniversário, meu amor
+[02:04] In my city                                   // Em minha cidade
+[02:08] We learn to live alone                       // A gente aprende a viver só
 [pause]
-[02:20] Ah, a day, any warm day                                // Ah um dia, qualquer dia de calor
-[02:31] Is always another day to remember                      // É sempre mais um dia de lembrar
-[02:37] The chain of dreams that night snuffed out             // A cordilheira de sonhos que a noite apagou
+[02:20] Ah, a day, any warm day                      // Ah um dia, qualquer dia de calor
+[02:31] Is always another day to remember            // É sempre mais um dia de lembrar
+[02:37] The chain of dreams that night snuffed out   // A cordilheira de sonhos que a noite apagou
 [pause]
-[02:48] Eh! My city                                            // Ê! minha cidade
-[02:52] Gold gate, dead village, solitude                      // Portão de ouro, aldeia morta, solidão
-[03:04] My people, my people                                   // Meu povo, meu povo
-[03:09] Dead village, padlock, heart                           // Aldeia morta, cadeado, coração
+[02:48] Eh! My city                                  // Ê! minha cidade
+[02:52] Gold gate, dead village, solitude            // Portão de ouro, aldeia morta, solidão
+[03:04] My people, my people                         // Meu povo, meu povo
+[03:09] Dead village, padlock, heart                 // Aldeia morta, cadeado, coração
 [pause]
-[03:19] And I, reconquered                                     // E eu reconquistado
-[03:23] Go on walking, walking and to die                      // Vou caminhando, caminhando e morrer
-[03:34] In your arms                                           // Dentro de seus braços
-[03:38] We learn to die alone                                  // A gente aprende a morrer só
+[03:19] And I, reconquered                           // E eu reconquistado
+[03:23] Go on walking, walking and to die            // Vou caminhando, caminhando e morrer
+[03:34] In your arms                                 // Dentro de seus braços
+[03:38] We learn to die alone                        // A gente aprende a morrer só
 [pause]
-[03:49] My people, my people                                   // Meu povo, meu povo
-[03:54] Around the city, living alone                          // Pela cidade a viver só
+[03:49] My people, my people                         // Meu povo, meu povo
+[03:54] All around the city, living alone            // Pela cidade a viver só
 
 .title = Saídas e Bandeiras nº 2
 .en_title = Exits and Flags nº 2
@@ -462,12 +464,12 @@ Being released while Brazil was ruled by a military dictatorship and during the 
 .composer = Fernando Brant, Milton Nascimento
 .end
 
-[00:05] What would you say of this thing your feet can no longer reach?     // O que vocês diriam dessa coisa que não dá mais pé?
+[00:05] What would you say of this thing {As in touching the bottom of a river, pool, etc.=you can no longer touch the bottom of?} // O que vocês diriam dessa coisa que não dá mais pé?
 [00:10] What would you do to escape the tide?                               // O que vocês fariam pra sair dessa maré?
 [00:13] What was stone turns to body                                        // O que era pedra vira corpo
 [00:17] Who will be the second to answer me?                                // Quem vai ser o segundo a me responder?
 [pause]
-[00:20] Walk down avenues fighting what my feet can no longer reach         // Andar por avenidas enfrentando o que não dá mais pé
+[00:20] Walk down avenues fighting what I can no longer touch the bottom of // Andar por avenidas enfrentando o que não dá mais pé
 [00:27] Gather all my strength to win against the tide                      // Juntar todas as forças pra vencer essa maré
 [00:30] What was stone turns to man                                         // O que era pedra vira homem
 [00:33] And man is more solid than the tide                                 // E o homem é mais sólido que a maré
@@ -497,33 +499,33 @@ Being released while Brazil was ruled by a military dictatorship and during the 
 [01:55] Like a pear forgets                  // Como uma pera se esquece
 [02:02] Dreaming in a fruit basket           // Sonhando numa fruteira
 
-.title = Pelo Amor De Deus
+.title = Pelo Amor de Deus
 .en_title = For the Love of God
 .artist = Milton Nascimento & Lô Borges
 .composer = Fernando Brant, Milton Nascimento
 .end
 
-[00:01] Photos of an old party                           // Fotos de uma velha festa
-[00:04] Bones so ancient, facts so outdated              // Ossos tão antigos, fatos tão passados
-[00:09] And in the middle of the photos, a gnawing rat   // No meio das fotos vai roendo um rato
-[00:18] Run, a rat, catch it! For the love of God!       // Corre um rato, pega, pelo amor de Deus
+[00:01] Photos of an old party                          // Fotos de uma velha festa
+[00:04] Bones so ancient, facts so outdated             // Ossos tão antigos, fatos tão passados
+[00:09] And in the middle of the photos, a gnawing rat  // No meio das fotos vai roendo um rato
+[00:18] Run, a rat, catch it! For the love of God!      // Corre um rato, pega, pelo amor de Deus!
 [pause]
-[00:23] Yesterday I read in an almanac                   // Ontem li num almanaque
-[00:28] The adventures of shepherds and lambs            // Aventuras de pastores e cordeiros
-[00:31] As I finished, a voice from the street           // Quando eu terminava, uma voz de rua
-[00:38] Said true things, for the love of God!           // Disse coisas certas, pelo amor de Deus
+[00:23] Yesterday I read in an almanac                  // Ontem li num almanaque
+[00:28] The adventures of shepherds and lambs           // Aventuras de pastores e cordeiros
+[00:31] As I finished, a voice from the street          // Quando eu terminava, uma voz de rua
+[00:38] Said true things, for the love of God!          // Disse coisas certas, pelo amor de Deus!
 [instrumental]
-[01:09] Refusing dessert                                 // Recusando a sobremesa
-[01:13] A gold plate and a glass of wine                 // Um prato de ouro e um copo de vinho
-[01:18] Like old Chaplin, I rub on your face             // Como o velho Chaplin eu jogo na cara
-[01:22] So many poor things, for the love of God!        // Tantas coisas pobres, pelo amor de Deus
-[01:31] For the love of God!                             // Pelo amor de Deus
-[01:32] For the love of God!                             // Pelo amor de Deus
+[01:09] Refusing dessert                                // Recusando a sobremesa
+[01:13] A gold plate and a glass of wine                // Um prato de ouro e um copo de vinho
+[01:18] Like old Chaplin, I throw them on your face     // Como o velho Chaplin eu jogo na cara
+[01:22] So many poor things, for the love of God!       // Tantas coisas pobres, pelo amor de Deus!
+[01:31] For the love of God!                            // Pelo amor de Deus!
+[01:32] For the love of God!                            // Pelo amor de Deus!
 [pause]
-[01:36] Bordering a window                               // Beira-mar de uma janela
-[01:40] {As in a camera pan=Panning} a nude partner      // Panoramizando nua companheira
-[01:45] Body to body, skin to skin                       // Corpo contra corpo, pele contra pele
-[01:51] And your body is beautiful, for the love of God! // E seu corpo é belo, pelo amor de Deus
+[01:36] Bordering a window                              // Beira-mar de uma janela
+[01:40] Framing my nude partner                         // Panoramizando nua companheira
+[01:45] Body on body, skin on skin                      // Corpo contra corpo, pele contra pele
+[01:51] And her body is beautiful, for the love of God! // E seu corpo é belo, pelo amor de Deus!
 
 .title = Lilia
 .en_title = Lilia
@@ -671,8 +673,6 @@ Being released while Brazil was ruled by a military dictatorship and during the 
 [02:55] I run to meet with you                                    // Corro a te encontrar
 [03:00] I run to meet with you                                    // Corro a te encontrar
 [03:07] I run to meet with you...                                 // Corro a te encontrar...
-
----
 
 # Footnotes
 
